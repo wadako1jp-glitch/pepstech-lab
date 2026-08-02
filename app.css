@@ -79,7 +79,8 @@
     border-radius:3px;
     transform:rotate(-13deg);
     opacity:.82;
-    mix-blend-mode:multiply;
+    /* 明るい紙は乗算で沈める。暗い紙（夜刷り）では乗算だと消えるので反転させる */
+    mix-blend-mode:var(--stamp-blend,multiply);
     pointer-events:none;
     font-family:var(--f-mono);
     line-height:1;

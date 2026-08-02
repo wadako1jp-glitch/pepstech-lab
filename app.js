@@ -429,6 +429,7 @@
     s.setProperty("--fg-soft",run.soft);
     s.setProperty("--ink1",run.ink1);
     s.setProperty("--ink2",run.ink2);
+    s.setProperty("--stamp-blend",run.dark?"screen":"multiply");
 
     document.getElementById("sw1").style.background=run.ink1;
     document.getElementById("sw2").style.background=run.ink2;
