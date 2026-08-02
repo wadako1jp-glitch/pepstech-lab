@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>永久に工事中 — lab.pepstech.pw</title>
+<meta name="description" content="集めた断片を毎回ちがう版で刷り直す、生成コラージュの実験場。">
+<link rel="stylesheet" href="app.css">
+</head>
+<body>
+
+<div class="wrap">
+
+  <header>
+    <h1>永久に<br>工事中</h1>
+
+    <!-- 刷り番号はゴム印として題字に重ね刷りする -->
+    <div class="stamp" aria-hidden="true">
+      <span class="stamp-top">PEPSTECH LAB</span>
+      <span class="stamp-no" id="runNo">000000</span>
+      <span class="stamp-bottom">刷</span>
+    </div>
+
+    <button class="press" id="reprint" type="button">刷り直す</button>
+  </header>
+
+  <section>
+    <h2 class="sec-title">拾ってきた断片</h2>
+    <p class="sec-note">
+      1時間おきに集めたものを並べている。画像とミームはブラウザ側でその場で作るので、同じ紙面は二度出ない。
+    </p>
+    <div class="board" id="board" aria-live="polite"></div>
+  </section>
+
+  <section>
+    <h2 class="sec-title">刷りログ</h2>
+    <div class="log"><ul id="log"></ul></div>
+  </section>
+
+  <section class="colophon">
+    <h2 class="sec-title">奥付</h2>
+    <dl>
+      <div><dt>版</dt><dd>第<span id="runNo2">000000</span>刷</dd></div>
+      <div><dt>インク</dt><dd>
+        <i class="swatch" id="sw1"></i><span id="inkName1">―</span>
+        ／
+        <i class="swatch" id="sw2"></i><span id="inkName2">―</span>
+        の2版
+      </dd></div>
+      <div><dt>用紙</dt><dd id="paperName">―</dd></div>
+      <div><dt>断片</dt><dd id="feed">―</dd></div>
+      <div><dt>発行</dt><dd>PEPSTECH LAB</dd></div>
+    </dl>
+  </section>
+
+  <footer>
+    <span>まともな方は me.pepstech.pw へ</span>
+  </footer>
+
+</div>
+
+<script type="module" src="vendor/model-viewer.min.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
