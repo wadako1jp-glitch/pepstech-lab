@@ -1,0 +1,41 @@
+name: collect fragments
+
+on:
+  schedule:
+    # 1時間おき（UTC）。GitHub 側の混雑を避けるため 00 分ちょうどは外す。
+    - cron: "17 * * * *"
+  workflow_dispatch: {}
+
+# 同時に走らせない。collect が重なると commit が競合するため。
+concurrency:
+  group: collect
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # 標準ライブラリだけで動くので依存のインストールは無い
+      - name: Collect
+        run: python3 scripts/collect.py
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet -- fragments.json; then
+            echo "変化なし。コミットしない。"
+            exit 0
+          fi
+          git config user.name  "pepstech-lab bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add fragments.json
+          git commit -m "collect: $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
