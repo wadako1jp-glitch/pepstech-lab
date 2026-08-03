@@ -21,6 +21,7 @@ vendor/model-viewer.min.js     3D表示（自己完結ビルド。CDNは参照�
 assets/mascot-rabbit.glb       マスコット
 fragments.json                 収集結果。cron が書き換える
 scripts/collect.py             収集スクリプト
+scripts/api_put.sh             deploy key で push できないファイルを API 経由で置く
 .github/workflows/collect.yml  1時間おきに collect.py を回す
 CNAME                          lab.pepstech.pw
 ```
@@ -62,3 +63,22 @@ python3 -m http.server 8899    # http://localhost:8899/
 
 `fragments.json` が読めないときはサンプルデータに落ちる。
 画面右上の `FEED:` がどちらの状態か示す。
+
+## workflow ファイルを更新するとき
+
+このリポジトリは deploy key で push する。deploy key では `.github/workflows/`
+を含む push が拒否され、`gh` のトークンに `workflow` スコープを足しても迂回できない。
+Contents API はトークンを使う別経路なので、こちらから置く。
+
+```sh
+gh auth refresh -h github.com -s workflow   # 初回だけ
+scripts/api_put.sh .github/workflows/collect.yml "変更内容"
+git pull --ff-only                          # ローカルが1つ遅れるので取り込む
+```
+
+API 経由のコミットは **ローカルの git config を見ない**。既定ではトークン所有者の
+実アドレスが公開ログに残るため、スクリプト側で `Pepstech` 名義を明示している。
+
+Termux などで HTTPS クローン + `gh auth setup-git` にしている環境なら、
+`workflow` スコープさえあれば普通に `git push` できる。その場合これは要らない。
+なお `base64` のフラグは BSD と GNU で違う（`-i` / `-w0`）ので両対応にしてある。
