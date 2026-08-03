@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-04T06:31:34+09:00",
+ "generated_at": "2026-08-04T08:28:12+09:00",
  "items": [
   {
    "tag": "HN",
-   "title": "The Dunning-Kruger effect may just be a data artefact (2020)",
-   "body": "69ポイント / コメント73件。",
+   "title": "Prevent cognitive debt by manually retyping LLM-generated code",
+   "body": "358ポイント / コメント295件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49160437"
+   "url": "https://news.ycombinator.com/item?id=49153374"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高28.2℃ / 最低21.6℃。いまは22.1℃。",
+   "body": "薄曇り。最高28.5℃ / 最低21.6℃。いまは24.2℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "WIKI",
-   "title": "ナローニック",
-   "body": "ナローニック(SS Naronic)は、ホワイト・スター・ラインが所有していた貨客船である。1893年2月11日、大西洋上で消息を絶った。",
+   "title": "羅漢寺 (重慶市)",
+   "body": "羅漢寺（らかんじ）は、中華人民共和国重慶市渝中区にある仏教寺院。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%AD%E3%83%BC%E3%83%8B%E3%83%83%E3%82%AF"
+   "url": "https://ja.wikipedia.org/wiki/%E7%BE%85%E6%BC%A2%E5%AF%BA_(%E9%87%8D%E6%85%B6%E5%B8%82)"
   },
   {
    "tag": "HN",
-   "title": "Kelly Criterion Simulator",
-   "body": "36ポイント / コメント15件。",
+   "title": "Windows XP 2002 for the Itanium: Unbridled rage",
+   "body": "31ポイント / コメント1件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49123105"
+   "url": "https://news.ycombinator.com/item?id=49162086"
+  },
+  {
+   "tag": "HN",
+   "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents",
+   "body": "49ポイント / コメント48件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49157997"
   },
   {
    "tag": "WIKI",
-   "title": "コロンビア料理",
-   "body": "コロンビア料理（コロンビアりょうり）は、コロンビアの6つの主要な地域（太平洋、アマゾン、アンデス、オリノコ川、カリブ海、島嶼部）の伝統的な料理の総称である。コロンビア料理は地域によっ…",
+   "title": "天然橋",
+   "body": "天然橋（てんねんきょう）は、累層の一種であり、岩石がアーチの形状をして下部が開いているものを指す。多くの場合、柔らかい地層の上に固い地層が重なっているような場所で形成され、橋としては…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%93%E3%82%A2%E6%96%99%E7%90%86"
-  },
-  {
-   "tag": "HN",
-   "title": "Massively Parallel Postgres Backups",
-   "body": "67ポイント / コメント6件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49124213"
+   "url": "https://ja.wikipedia.org/wiki/%E5%A4%A9%E7%84%B6%E6%A9%8B"
   }
  ]
 }
