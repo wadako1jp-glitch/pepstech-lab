@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-04T05:00:25+09:00",
+ "generated_at": "2026-08-04T06:31:34+09:00",
  "items": [
   {
    "tag": "HN",
-   "title": "Devtools must be open source",
-   "body": "368ポイント / コメント134件。",
+   "title": "The Dunning-Kruger effect may just be a data artefact (2020)",
+   "body": "69ポイント / コメント73件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49156111"
-  },
-  {
-   "tag": "HN",
-   "title": "Show HN: Nightcrawler – A local AI pentesting agent running on a smar…",
-   "body": "91ポイント / コメント29件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49154127"
+   "url": "https://news.ycombinator.com/item?id=49160437"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高28.2℃ / 最低21.6℃。いまは21.6℃。",
+   "body": "霧雨。最高28.2℃ / 最低21.6℃。いまは22.1℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "WIKI",
-   "title": "ホクエツ",
-   "body": "株式会社ホクエツ は、新潟県燕市に本社を置く小型農業機械のメーカー。",
+   "title": "ナローニック",
+   "body": "ナローニック(SS Naronic)は、ホワイト・スター・ラインが所有していた貨客船である。1893年2月11日、大西洋上で消息を絶った。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%82%AF%E3%82%A8%E3%83%84"
-  },
-  {
-   "tag": "WIKI",
-   "title": "ローザンヌ",
-   "body": "ローザンヌ は、スイスのヴォー州に属する基礎自治体（コミューン） で、同州の州都。フランス語圏に属する。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%82%B6%E3%83%B3%E3%83%8C"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%AD%E3%83%BC%E3%83%8B%E3%83%83%E3%82%AF"
   },
   {
    "tag": "HN",
-   "title": "Smaller, faster, safer: running Kimi and GLM at scale",
-   "body": "44ポイント / コメント9件。",
+   "title": "Kelly Criterion Simulator",
+   "body": "36ポイント / コメント15件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49158581"
+   "url": "https://news.ycombinator.com/item?id=49123105"
+  },
+  {
+   "tag": "WIKI",
+   "title": "コロンビア料理",
+   "body": "コロンビア料理（コロンビアりょうり）は、コロンビアの6つの主要な地域（太平洋、アマゾン、アンデス、オリノコ川、カリブ海、島嶼部）の伝統的な料理の総称である。コロンビア料理は地域によっ…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%93%E3%82%A2%E6%96%99%E7%90%86"
+  },
+  {
+   "tag": "HN",
+   "title": "Massively Parallel Postgres Backups",
+   "body": "67ポイント / コメント6件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49124213"
   }
  ]
 }
