@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-04T00:40:04+09:00",
+ "generated_at": "2026-08-04T03:08:49+09:00",
  "items": [
   {
-   "tag": "HN",
-   "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
-   "body": "871ポイント / コメント449件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49150470"
-  },
-  {
    "tag": "WIKI",
-   "title": "和水町立神尾小学校",
-   "body": "和水町立神尾小学校（なごみちょうりつかみおしょうがっこう）は、かつて熊本県玉名郡和水町大田黒にあった公立の小学校。",
+   "title": "懐古神社",
+   "body": "懐古神社（かいこじんじゃ）は、長野県小諸市にある神社。小諸城址公園・懐古園の主要部の地主でもある。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%92%8C%E6%B0%B4%E7%94%BA%E7%AB%8B%E7%A5%9E%E5%B0%BE%E5%B0%8F%E5%AD%A6%E6%A0%A1"
-  },
-  {
-   "tag": "WIKI",
-   "title": "茨城県道338号常陸小川停車場線",
-   "body": "茨城県道338号常陸小川停車場線 は、茨城県小美玉市田木谷から同市小川に至る鹿島鉄道線常陸小川駅と接続するかつて存在した県道である。鹿島鉄道線の廃止に伴い、2008年4月17日にこの…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E8%8C%A8%E5%9F%8E%E7%9C%8C%E9%81%93338%E5%8F%B7%E5%B8%B8%E9%99%B8%E5%B0%8F%E5%B7%9D%E5%81%9C%E8%BB%8A%E5%A0%B4%E7%B7%9A"
+   "url": "https://ja.wikipedia.org/wiki/%E6%87%90%E5%8F%A4%E7%A5%9E%E7%A4%BE"
   },
   {
    "tag": "HN",
-   "title": "Utah produced more power from solar than any other source in May, a n…",
-   "body": "20ポイント / コメント4件。",
+   "title": "Show HN: Nightcrawler – A local AI pentesting agent running on a smar…",
+   "body": "88ポイント / コメント24件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49156071"
+   "url": "https://news.ycombinator.com/item?id=49154127"
+  },
+  {
+   "tag": "WIKI",
+   "title": "ハリケーン・ブレット",
+   "body": "ハリケーン・ブレットは、1999年の大西洋ハリケーンシーズンに発生したカテゴリー4の強さの5つハリケーンのうち、最初に発生したハリケーンであり、1989年のハリケーン・ジェリー以来、…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%AA%E3%82%B1%E3%83%BC%E3%83%B3%E3%83%BB%E3%83%96%E3%83%AC%E3%83%83%E3%83%88"
+  },
+  {
+   "tag": "HN",
+   "title": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in…",
+   "body": "27ポイント / コメント4件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49158474"
+  },
+  {
+   "tag": "HN",
+   "title": "Train Simulator Controller",
+   "body": "83ポイント / コメント5件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49115935"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "薄曇り。最高29.1℃ / 最低21.4℃。いまは22.8℃。",
+   "body": "薄曇り。最高28.7℃ / 最低21.4℃。いまは21.9℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
-  },
-  {
-   "tag": "HN",
-   "title": "Don't be a meat proxy",
-   "body": "1276ポイント / コメント531件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49151933"
   }
  ]
 }
