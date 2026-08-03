@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-04T03:08:49+09:00",
+ "generated_at": "2026-08-04T05:00:25+09:00",
  "items": [
   {
-   "tag": "WIKI",
-   "title": "懐古神社",
-   "body": "懐古神社（かいこじんじゃ）は、長野県小諸市にある神社。小諸城址公園・懐古園の主要部の地主でもある。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%87%90%E5%8F%A4%E7%A5%9E%E7%A4%BE"
+   "tag": "HN",
+   "title": "Devtools must be open source",
+   "body": "368ポイント / コメント134件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49156111"
   },
   {
    "tag": "HN",
    "title": "Show HN: Nightcrawler – A local AI pentesting agent running on a smar…",
-   "body": "88ポイント / コメント24件。",
+   "body": "91ポイント / コメント29件。",
    "src": "news.ycombinator.com",
    "url": "https://news.ycombinator.com/item?id=49154127"
   },
   {
-   "tag": "WIKI",
-   "title": "ハリケーン・ブレット",
-   "body": "ハリケーン・ブレットは、1999年の大西洋ハリケーンシーズンに発生したカテゴリー4の強さの5つハリケーンのうち、最初に発生したハリケーンであり、1989年のハリケーン・ジェリー以来、…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%AA%E3%82%B1%E3%83%BC%E3%83%B3%E3%83%BB%E3%83%96%E3%83%AC%E3%83%83%E3%83%88"
-  },
-  {
-   "tag": "HN",
-   "title": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in…",
-   "body": "27ポイント / コメント4件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49158474"
-  },
-  {
-   "tag": "HN",
-   "title": "Train Simulator Controller",
-   "body": "83ポイント / コメント5件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49115935"
-  },
-  {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "薄曇り。最高28.7℃ / 最低21.4℃。いまは21.9℃。",
+   "body": "霧雨。最高28.2℃ / 最低21.6℃。いまは21.6℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
+  },
+  {
+   "tag": "WIKI",
+   "title": "ホクエツ",
+   "body": "株式会社ホクエツ は、新潟県燕市に本社を置く小型農業機械のメーカー。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%82%AF%E3%82%A8%E3%83%84"
+  },
+  {
+   "tag": "WIKI",
+   "title": "ローザンヌ",
+   "body": "ローザンヌ は、スイスのヴォー州に属する基礎自治体（コミューン） で、同州の州都。フランス語圏に属する。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%82%B6%E3%83%B3%E3%83%8C"
+  },
+  {
+   "tag": "HN",
+   "title": "Smaller, faster, safer: running Kimi and GLM at scale",
+   "body": "44ポイント / コメント9件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49158581"
   }
  ]
 }
