@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-04T18:59:54+09:00",
+ "generated_at": "2026-08-04T21:20:41+09:00",
  "items": [
   {
    "tag": "WIKI",
-   "title": "カハ",
-   "body": "カハ（ヘブライ語:כ\"ך）とは、かつてイスラエルに存在した極右政党。創設者はメイル・カハネ。1970年代初期に創設された。「カハ」とはヘブライ語で「従って」「それゆえに」を意味し、イ…",
+   "title": "アグレッシブ烈子",
+   "body": "アグレッシブ烈子 は、日本のサンリオによるキャラクター。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%8F"
-  },
-  {
-   "tag": "WIKI",
-   "title": "村井知至",
-   "body": "村井 知至 は、日本の牧師、社会主義者、英語学者である。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%9D%91%E4%BA%95%E7%9F%A5%E8%87%B3"
-  },
-  {
-   "tag": "HN",
-   "title": "Ten advances in mathematics and theoretical computer science",
-   "body": "539ポイント / コメント828件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49157930"
-  },
-  {
-   "tag": "HN",
-   "title": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an i…",
-   "body": "181ポイント / コメント79件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49158333"
-  },
-  {
-   "tag": "HN",
-   "title": "LLMs reward expertise",
-   "body": "947ポイント / コメント401件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49161518"
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B0%E3%83%AC%E3%83%83%E3%82%B7%E3%83%96%E7%83%88%E5%AD%90"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高28.8℃ / 最低21.6℃。いまは25.0℃。",
+   "body": "薄曇り。最高28.8℃ / 最低21.6℃。いまは23.5℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
+  },
+  {
+   "tag": "HN",
+   "title": "Roame (YC S23) Is Hiring Lead Engineer",
+   "body": "1ポイント / コメント0件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49167444"
+  },
+  {
+   "tag": "WIKI",
+   "title": "板橋区立赤塚植物園",
+   "body": "板橋区立赤塚植物園 は、 東京都板橋区赤塚にある植物園である。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E6%9D%BF%E6%A9%8B%E5%8C%BA%E7%AB%8B%E8%B5%A4%E5%A1%9A%E6%A4%8D%E7%89%A9%E5%9C%92"
+  },
+  {
+   "tag": "HN",
+   "title": "Buckminster Fuller: everything I know",
+   "body": "12ポイント / コメント6件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49167147"
+  },
+  {
+   "tag": "HN",
+   "title": "Xbox goes down. You can't play games you own on disc",
+   "body": "37ポイント / コメント17件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49167448"
   }
  ]
 }
