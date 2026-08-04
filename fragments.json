@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-04T12:40:26+09:00",
+ "generated_at": "2026-08-04T15:42:35+09:00",
  "items": [
+  {
+   "tag": "WIKI",
+   "title": "ミディ＝ピレネー連続銃撃事件",
+   "body": "ミディ＝ピレネー連続銃撃事件（ミディ＝ピレネーれんぞくじゅうげきじけん）は、2012年3月11日から22日にかけてフランス南西部ミディ＝ピレネー地域圏（現在のオクシタニー地域圏）で発…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%87%E3%82%A3%EF%BC%9D%E3%83%94%E3%83%AC%E3%83%8D%E3%83%BC%E9%80%A3%E7%B6%9A%E9%8A%83%E6%92%83%E4%BA%8B%E4%BB%B6"
+  },
+  {
+   "tag": "HN",
+   "title": "Devtools must be open source",
+   "body": "568ポイント / コメント197件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49156111"
+  },
+  {
+   "tag": "HN",
+   "title": "How Hollywood stopped making movies in Hollywood",
+   "body": "187ポイント / コメント228件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49082937"
+  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高28.9℃ / 最低21.6℃。いまは28.7℃。",
+   "body": "霧雨。最高28.8℃ / 最低21.6℃。いまは28.7℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Decades-old fish sauce at abandoned factory in Canada finally being r…",
-   "body": "207ポイント / コメント227件。",
+   "title": "LLMs reward expertise",
+   "body": "745ポイント / コメント311件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49125168"
+   "url": "https://news.ycombinator.com/item?id=49161518"
   },
   {
    "tag": "WIKI",
-   "title": "SUGIZO",
-   "body": "SUGIZO は、日本のロックミュージシャン、音楽プロデューサー。LUNA SEA、X JAPAN及びTHE LAST ROCKSTARSのギタリスト・ヴァイオリニスト。愛称は「スギ…",
+   "title": "MONKEY MAJIK",
+   "body": "MONKEY MAJIK（モンキーマジック）は、日本の4人組ロックバンド。所属レーベルはエイベックス・エンタテインメント内のA.S.A.B。略称は「モマジ」または「モンマジ」「モンキ…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/SUGIZO"
-  },
-  {
-   "tag": "HN",
-   "title": "AirLLM 70B inference with single 4GB GPU",
-   "body": "196ポイント / コメント75件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49154228"
-  },
-  {
-   "tag": "HN",
-   "title": "Battle of the Beams",
-   "body": "40ポイント / コメント11件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49131250"
-  },
-  {
-   "tag": "WIKI",
-   "title": "デビットバローズ",
-   "body": "デビットバローズ は、日本の競走馬。主な勝ち鞍に2025年の鳴尾記念。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%93%E3%83%83%E3%83%88%E3%83%90%E3%83%AD%E3%83%BC%E3%82%BA"
+   "url": "https://ja.wikipedia.org/wiki/MONKEY_MAJIK"
   }
  ]
 }
