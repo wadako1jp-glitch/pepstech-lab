@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-04T15:42:35+09:00",
+ "generated_at": "2026-08-04T18:59:54+09:00",
  "items": [
   {
    "tag": "WIKI",
-   "title": "ミディ＝ピレネー連続銃撃事件",
-   "body": "ミディ＝ピレネー連続銃撃事件（ミディ＝ピレネーれんぞくじゅうげきじけん）は、2012年3月11日から22日にかけてフランス南西部ミディ＝ピレネー地域圏（現在のオクシタニー地域圏）で発…",
+   "title": "カハ",
+   "body": "カハ（ヘブライ語:כ\"ך）とは、かつてイスラエルに存在した極右政党。創設者はメイル・カハネ。1970年代初期に創設された。「カハ」とはヘブライ語で「従って」「それゆえに」を意味し、イ…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%87%E3%82%A3%EF%BC%9D%E3%83%94%E3%83%AC%E3%83%8D%E3%83%BC%E9%80%A3%E7%B6%9A%E9%8A%83%E6%92%83%E4%BA%8B%E4%BB%B6"
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%8F"
+  },
+  {
+   "tag": "WIKI",
+   "title": "村井知至",
+   "body": "村井 知至 は、日本の牧師、社会主義者、英語学者である。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E6%9D%91%E4%BA%95%E7%9F%A5%E8%87%B3"
   },
   {
    "tag": "HN",
-   "title": "Devtools must be open source",
-   "body": "568ポイント / コメント197件。",
+   "title": "Ten advances in mathematics and theoretical computer science",
+   "body": "539ポイント / コメント828件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49156111"
+   "url": "https://news.ycombinator.com/item?id=49157930"
   },
   {
    "tag": "HN",
-   "title": "How Hollywood stopped making movies in Hollywood",
-   "body": "187ポイント / コメント228件。",
+   "title": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an i…",
+   "body": "181ポイント / コメント79件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49082937"
-  },
-  {
-   "tag": "天気",
-   "title": "東京 きょう",
-   "body": "霧雨。最高28.8℃ / 最低21.6℃。いまは28.7℃。",
-   "src": "open-meteo.com",
-   "url": "https://open-meteo.com/"
+   "url": "https://news.ycombinator.com/item?id=49158333"
   },
   {
    "tag": "HN",
    "title": "LLMs reward expertise",
-   "body": "745ポイント / コメント311件。",
+   "body": "947ポイント / コメント401件。",
    "src": "news.ycombinator.com",
    "url": "https://news.ycombinator.com/item?id=49161518"
   },
   {
-   "tag": "WIKI",
-   "title": "MONKEY MAJIK",
-   "body": "MONKEY MAJIK（モンキーマジック）は、日本の4人組ロックバンド。所属レーベルはエイベックス・エンタテインメント内のA.S.A.B。略称は「モマジ」または「モンマジ」「モンキ…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/MONKEY_MAJIK"
+   "tag": "天気",
+   "title": "東京 きょう",
+   "body": "霧雨。最高28.8℃ / 最低21.6℃。いまは25.0℃。",
+   "src": "open-meteo.com",
+   "url": "https://open-meteo.com/"
   }
  ]
 }
