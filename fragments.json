@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-04T21:20:41+09:00",
+ "generated_at": "2026-08-05T00:37:13+09:00",
  "items": [
   {
    "tag": "WIKI",
-   "title": "アグレッシブ烈子",
-   "body": "アグレッシブ烈子 は、日本のサンリオによるキャラクター。",
+   "title": "大垣市守屋多々志美術館",
+   "body": "大垣市守屋多々志美術館（おおがきしもりやただしびじゅつかん）は、かつて岐阜県大垣市にあった大垣市立の美術館。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B0%E3%83%AC%E3%83%83%E3%82%B7%E3%83%96%E7%83%88%E5%AD%90"
-  },
-  {
-   "tag": "天気",
-   "title": "東京 きょう",
-   "body": "薄曇り。最高28.8℃ / 最低21.6℃。いまは23.5℃。",
-   "src": "open-meteo.com",
-   "url": "https://open-meteo.com/"
-  },
-  {
-   "tag": "HN",
-   "title": "Roame (YC S23) Is Hiring Lead Engineer",
-   "body": "1ポイント / コメント0件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49167444"
+   "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%9E%A3%E5%B8%82%E5%AE%88%E5%B1%8B%E5%A4%9A%E3%80%85%E5%BF%97%E7%BE%8E%E8%A1%93%E9%A4%A8"
   },
   {
    "tag": "WIKI",
-   "title": "板橋区立赤塚植物園",
-   "body": "板橋区立赤塚植物園 は、 東京都板橋区赤塚にある植物園である。",
+   "title": "保土ケ谷警察署",
+   "body": "保土ケ谷警察署（ほどがやけいさつしょ）は、神奈川県警察が管轄する警察署の一つである。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%9D%BF%E6%A9%8B%E5%8C%BA%E7%AB%8B%E8%B5%A4%E5%A1%9A%E6%A4%8D%E7%89%A9%E5%9C%92"
+   "url": "https://ja.wikipedia.org/wiki/%E4%BF%9D%E5%9C%9F%E3%82%B1%E8%B0%B7%E8%AD%A6%E5%AF%9F%E7%BD%B2"
   },
   {
    "tag": "HN",
-   "title": "Buckminster Fuller: everything I know",
-   "body": "12ポイント / コメント6件。",
+   "title": "Agent skills that bring team coding standards to Claude Code and Codex",
+   "body": "38ポイント / コメント14件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49167147"
+   "url": "https://news.ycombinator.com/item?id=49169640"
+  },
+  {
+   "tag": "HN",
+   "title": "AI-Generated Images Discourage Me from Reading Your Blog",
+   "body": "553ポイント / コメント321件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49167113"
   },
   {
    "tag": "HN",
    "title": "Xbox goes down. You can't play games you own on disc",
-   "body": "37ポイント / コメント17件。",
+   "body": "312ポイント / コメント332件。",
    "src": "news.ycombinator.com",
    "url": "https://news.ycombinator.com/item?id=49167448"
+  },
+  {
+   "tag": "天気",
+   "title": "東京 きょう",
+   "body": "霧雨。最高28.4℃ / 最低21.4℃。いまは22.3℃。",
+   "src": "open-meteo.com",
+   "url": "https://open-meteo.com/"
   }
  ]
 }
