@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-04T08:28:12+09:00",
+ "generated_at": "2026-08-04T12:40:26+09:00",
  "items": [
-  {
-   "tag": "HN",
-   "title": "Prevent cognitive debt by manually retyping LLM-generated code",
-   "body": "358ポイント / コメント295件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49153374"
-  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "薄曇り。最高28.5℃ / 最低21.6℃。いまは24.2℃。",
+   "body": "霧雨。最高28.9℃ / 最低21.6℃。いまは28.7℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "WIKI",
-   "title": "羅漢寺 (重慶市)",
-   "body": "羅漢寺（らかんじ）は、中華人民共和国重慶市渝中区にある仏教寺院。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E7%BE%85%E6%BC%A2%E5%AF%BA_(%E9%87%8D%E6%85%B6%E5%B8%82)"
-  },
-  {
    "tag": "HN",
-   "title": "Windows XP 2002 for the Itanium: Unbridled rage",
-   "body": "31ポイント / コメント1件。",
+   "title": "Decades-old fish sauce at abandoned factory in Canada finally being r…",
+   "body": "207ポイント / コメント227件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49162086"
-  },
-  {
-   "tag": "HN",
-   "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents",
-   "body": "49ポイント / コメント48件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49157997"
+   "url": "https://news.ycombinator.com/item?id=49125168"
   },
   {
    "tag": "WIKI",
-   "title": "天然橋",
-   "body": "天然橋（てんねんきょう）は、累層の一種であり、岩石がアーチの形状をして下部が開いているものを指す。多くの場合、柔らかい地層の上に固い地層が重なっているような場所で形成され、橋としては…",
+   "title": "SUGIZO",
+   "body": "SUGIZO は、日本のロックミュージシャン、音楽プロデューサー。LUNA SEA、X JAPAN及びTHE LAST ROCKSTARSのギタリスト・ヴァイオリニスト。愛称は「スギ…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%A4%A9%E7%84%B6%E6%A9%8B"
+   "url": "https://ja.wikipedia.org/wiki/SUGIZO"
+  },
+  {
+   "tag": "HN",
+   "title": "AirLLM 70B inference with single 4GB GPU",
+   "body": "196ポイント / コメント75件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49154228"
+  },
+  {
+   "tag": "HN",
+   "title": "Battle of the Beams",
+   "body": "40ポイント / コメント11件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49131250"
+  },
+  {
+   "tag": "WIKI",
+   "title": "デビットバローズ",
+   "body": "デビットバローズ は、日本の競走馬。主な勝ち鞍に2025年の鳴尾記念。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%93%E3%83%83%E3%83%88%E3%83%90%E3%83%AD%E3%83%BC%E3%82%BA"
   }
  ]
 }
