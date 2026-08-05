@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-05T21:18:41+09:00",
+ "generated_at": "2026-08-06T00:29:28+09:00",
  "items": [
   {
+   "tag": "HN",
+   "title": "“Gravity is worth asking about”",
+   "body": "171ポイント / コメント104件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49105978"
+  },
+  {
    "tag": "WIKI",
-   "title": "国界橋",
-   "body": "国界橋（こっかいばし）は 新潟県糸魚川市、長野県北安曇郡小谷村の蒲原沢に架かる橋である。",
+   "title": "化粧",
+   "body": "化粧 とは、広辞苑によると、主として顔に、白粉（おしろい）や紅（べに）をつけて装い飾ること。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E7%95%8C%E6%A9%8B"
+   "url": "https://ja.wikipedia.org/wiki/%E5%8C%96%E7%B2%A7"
+  },
+  {
+   "tag": "HN",
+   "title": "Google's HTTP/2 codec slows Envoy",
+   "body": "27ポイント / コメント0件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49182586"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "曇り。最高29.8℃ / 最低21.3℃。いまは25.6℃。",
+   "body": "霧雨。最高31.2℃ / 最低23.2℃。いまは24.1℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "HN",
-   "title": "Show HN: Maple-Preview – Ternary 20B MoE running at 120 tok/s on a iP…",
-   "body": "145ポイント / コメント43件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49173984"
-  },
-  {
    "tag": "WIKI",
-   "title": "西坂元町",
-   "body": "西坂元町（にしさかもとちょう）は、鹿児島県鹿児島市の町。郵便番号は892-0863。人口は1,842人、世帯数は858世帯（2020年10月1日現在）。西坂元町の全域で住居表示を実施…",
+   "title": "アンドレア・グアルディーニ",
+   "body": "アンドレア・グアルディーニ は、イタリア、トレニャーゴ出身の自転車競技（ロードレース）選手。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E5%9D%82%E5%85%83%E7%94%BA"
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AC%E3%82%A2%E3%83%BB%E3%82%B0%E3%82%A2%E3%83%AB%E3%83%87%E3%82%A3%E3%83%BC%E3%83%8B"
   },
   {
    "tag": "HN",
-   "title": "Bugtraq is back",
-   "body": "57ポイント / コメント18件。",
+   "title": "Bubble Memory",
+   "body": "56ポイント / コメント20件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49176947"
-  },
-  {
-   "tag": "HN",
-   "title": "An SLM trained on $8 ESP32-S3",
-   "body": "43ポイント / コメント15件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49178464"
+   "url": "https://news.ycombinator.com/item?id=49148176"
   }
  ]
 }
