@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-05T18:58:26+09:00",
+ "generated_at": "2026-08-05T21:18:41+09:00",
  "items": [
   {
    "tag": "WIKI",
-   "title": "久我長通",
-   "body": "久我 長通 は、鎌倉時代後期から南北朝時代の公卿。後中院太政大臣と号す。従一位太政大臣。父は太政大臣久我通雄、母は源仲基の娘。子は太政大臣に至った久我通相。久我家10代。長通の和歌は…",
+   "title": "国界橋",
+   "body": "国界橋（こっかいばし）は 新潟県糸魚川市、長野県北安曇郡小谷村の蒲原沢に架かる橋である。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E4%B9%85%E6%88%91%E9%95%B7%E9%80%9A"
-  },
-  {
-   "tag": "WIKI",
-   "title": "興禅寺 (台東区)",
-   "body": "興禅寺（こうぜんじ）は、東京都台東区にある臨済宗興聖寺派の寺院。山号は清徳山。かつて東京大学名誉教授の山崎正一が住職を務めていた。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E8%88%88%E7%A6%85%E5%AF%BA_(%E5%8F%B0%E6%9D%B1%E5%8C%BA)"
-  },
-  {
-   "tag": "HN",
-   "title": "Stateless MCP has recaptured my interest",
-   "body": "206ポイント / コメント105件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49131438"
+   "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E7%95%8C%E6%A9%8B"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "曇り。最高29.4℃ / 最低21.3℃。いまは26.9℃。",
+   "body": "曇り。最高29.8℃ / 最低21.3℃。いまは25.6℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
-   "body": "419ポイント / コメント109件。",
+   "title": "Show HN: Maple-Preview – Ternary 20B MoE running at 120 tok/s on a iP…",
+   "body": "145ポイント / コメント43件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49171268"
+   "url": "https://news.ycombinator.com/item?id=49173984"
+  },
+  {
+   "tag": "WIKI",
+   "title": "西坂元町",
+   "body": "西坂元町（にしさかもとちょう）は、鹿児島県鹿児島市の町。郵便番号は892-0863。人口は1,842人、世帯数は858世帯（2020年10月1日現在）。西坂元町の全域で住居表示を実施…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E5%9D%82%E5%85%83%E7%94%BA"
   },
   {
    "tag": "HN",
-   "title": "Colorimeter 3nh CR4501 RAL Hack",
-   "body": "7ポイント / コメント2件。",
+   "title": "Bugtraq is back",
+   "body": "57ポイント / コメント18件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49125608"
+   "url": "https://news.ycombinator.com/item?id=49176947"
+  },
+  {
+   "tag": "HN",
+   "title": "An SLM trained on $8 ESP32-S3",
+   "body": "43ポイント / コメント15件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49178464"
   }
  ]
 }
