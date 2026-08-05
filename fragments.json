@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-05T15:43:47+09:00",
+ "generated_at": "2026-08-05T18:58:26+09:00",
  "items": [
+  {
+   "tag": "WIKI",
+   "title": "久我長通",
+   "body": "久我 長通 は、鎌倉時代後期から南北朝時代の公卿。後中院太政大臣と号す。従一位太政大臣。父は太政大臣久我通雄、母は源仲基の娘。子は太政大臣に至った久我通相。久我家10代。長通の和歌は…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E4%B9%85%E6%88%91%E9%95%B7%E9%80%9A"
+  },
+  {
+   "tag": "WIKI",
+   "title": "興禅寺 (台東区)",
+   "body": "興禅寺（こうぜんじ）は、東京都台東区にある臨済宗興聖寺派の寺院。山号は清徳山。かつて東京大学名誉教授の山崎正一が住職を務めていた。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E8%88%88%E7%A6%85%E5%AF%BA_(%E5%8F%B0%E6%9D%B1%E5%8C%BA)"
+  },
   {
    "tag": "HN",
    "title": "Stateless MCP has recaptured my interest",
-   "body": "90ポイント / コメント44件。",
+   "body": "206ポイント / コメント105件。",
    "src": "news.ycombinator.com",
    "url": "https://news.ycombinator.com/item?id=49131438"
   },
   {
-   "tag": "HN",
-   "title": "There Will Come Soft Rains (1950) [pdf]",
-   "body": "374ポイント / コメント392件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49162653"
-  },
-  {
-   "tag": "HN",
-   "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
-   "body": "370ポイント / コメント90件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49171268"
-  },
-  {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "曇り。最高29.4℃ / 最低21.3℃。いまは29.1℃。",
+   "body": "曇り。最高29.4℃ / 最低21.3℃。いまは26.9℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "WIKI",
-   "title": "井戸木",
-   "body": "井戸木（いどぎ）は、埼玉県上尾市にある町名。または、同市にかつて存在した大字。現行行政地名は井戸木一丁目から四丁目。住居表示未実施地区。郵便番号は362-0071。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E4%BA%95%E6%88%B8%E6%9C%A8"
+   "tag": "HN",
+   "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+   "body": "419ポイント / コメント109件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49171268"
   },
   {
-   "tag": "WIKI",
-   "title": "春日神社 (伊東市)",
-   "body": "春日神社（かすがじんじゃ）は、静岡県伊東市宇佐美にある神社。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%98%A5%E6%97%A5%E7%A5%9E%E7%A4%BE_(%E4%BC%8A%E6%9D%B1%E5%B8%82)"
+   "tag": "HN",
+   "title": "Colorimeter 3nh CR4501 RAL Hack",
+   "body": "7ポイント / コメント2件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49125608"
   }
  ]
 }
