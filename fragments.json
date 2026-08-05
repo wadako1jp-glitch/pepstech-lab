@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-06T02:54:46+09:00",
+ "generated_at": "2026-08-06T04:57:19+09:00",
  "items": [
+  {
+   "tag": "WIKI",
+   "title": "ミダゾラム",
+   "body": "ミダゾラム はベンゾジアゼピン（BZP）系の麻酔導入薬・鎮静薬の一つである。日本での商品名はドルミカム（丸石製薬製造販売。アステラス製薬より販売移管）およびミダフレッサ静注0.1%（…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%80%E3%82%BE%E3%83%A9%E3%83%A0"
+  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高31.3℃ / 最低22.7℃。いまは23.0℃。",
+   "body": "霧雨。最高31.5℃ / 最低22.6℃。いまは22.6℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Building an Advanced Agentic Harness",
-   "body": "58ポイント / コメント28件。",
+   "title": "Aristotle quotes on virtue, knowledge, and happiness",
+   "body": "129ポイント / コメント53件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49182946"
-  },
-  {
-   "tag": "WIKI",
-   "title": "茨城県道258号波崎港線",
-   "body": "茨城県道258号波崎港線 は、茨城県神栖市内の波崎漁港と連絡する一般県道である。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E8%8C%A8%E5%9F%8E%E7%9C%8C%E9%81%93258%E5%8F%B7%E6%B3%A2%E5%B4%8E%E6%B8%AF%E7%B7%9A"
+   "url": "https://news.ycombinator.com/item?id=49183115"
   },
   {
    "tag": "HN",
-   "title": "TSON – A JSON superset with immutable, hash-pinned schemas",
-   "body": "45ポイント / コメント39件。",
+   "title": "GNU Hurd News 2026-Q2",
+   "body": "45ポイント / コメント22件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49183069"
+   "url": "https://news.ycombinator.com/item?id=49146183"
   },
   {
    "tag": "WIKI",
-   "title": "沖縄県立首里東高等学校",
-   "body": "沖縄県立首里東高等学校 は、沖縄県那覇市首里石嶺町にある公立高等学校。",
+   "title": "国民議会 (セルビア)",
+   "body": "国民議会 は、セルビア共和国の議会。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%B2%96%E7%B8%84%E7%9C%8C%E7%AB%8B%E9%A6%96%E9%87%8C%E6%9D%B1%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1"
+   "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E6%B0%91%E8%AD%B0%E4%BC%9A_(%E3%82%BB%E3%83%AB%E3%83%93%E3%82%A2)"
   },
   {
    "tag": "HN",
-   "title": "Faster Than Ninja",
-   "body": "52ポイント / コメント18件。",
+   "title": "Cloudflare OS: an open platform for agents, apps, and work",
+   "body": "368ポイント / コメント202件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49182685"
+   "url": "https://news.ycombinator.com/item?id=49182996"
   }
  ]
 }
