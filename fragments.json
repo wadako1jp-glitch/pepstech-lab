@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-06T12:41:52+09:00",
+ "generated_at": "2026-08-06T15:48:07+09:00",
  "items": [
   {
-   "tag": "HN",
-   "title": "Goodhart's Law Comes for Every Benchmark You Trust",
-   "body": "71ポイント / コメント31件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49126716"
-  },
-  {
-   "tag": "HN",
-   "title": "Muse Code and Muse Spark 1.2",
-   "body": "203ポイント / コメント118件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49187575"
+   "tag": "WIKI",
+   "title": "全日本学生馬術連盟",
+   "body": "一般社団法人全日本学生馬術連盟（いっぱんしゃだんほうじんぜんにほんがくせいばじゅつれんめい）は、日本の大学馬術の国内競技連盟である。略称学馬連（がくばれん）。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%85%A8%E6%97%A5%E6%9C%AC%E5%AD%A6%E7%94%9F%E9%A6%AC%E8%A1%93%E9%80%A3%E7%9B%9F"
   },
   {
    "tag": "WIKI",
-   "title": "松原智恵子",
-   "body": "松原 智恵子 は、日本の女優、タレント。所属事務所はグランパパプロダクション。",
+   "title": "更屋敷 (一宮市)",
+   "body": "更屋敷（さらやしき）は、愛知県一宮市の地名。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E5%8E%9F%E6%99%BA%E6%81%B5%E5%AD%90"
-  },
-  {
-   "tag": "WIKI",
-   "title": "740年の日本",
-   "body": "740年の日本では、740年の日本の出来事・流行・世相などについてまとめる。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/740%E5%B9%B4%E3%81%AE%E6%97%A5%E6%9C%AC"
-  },
-  {
-   "tag": "HN",
-   "title": "I'll be stepping back from leading product for X",
-   "body": "83ポイント / コメント128件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49189113"
+   "url": "https://ja.wikipedia.org/wiki/%E6%9B%B4%E5%B1%8B%E6%95%B7_(%E4%B8%80%E5%AE%AE%E5%B8%82)"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高31.5℃ / 最低22.6℃。いまは29.5℃。",
+   "body": "霧雨。最高31.2℃ / 最低22.6℃。いまは31.0℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
+  },
+  {
+   "tag": "HN",
+   "title": "Exact, parallel 2D Delaunay triangulation for int32 coordinates",
+   "body": "51ポイント / コメント9件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49125532"
+  },
+  {
+   "tag": "HN",
+   "title": "Show HN: Wallfacer – A terminal session manager for Claude Code, and …",
+   "body": "13ポイント / コメント8件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49192219"
+  },
+  {
+   "tag": "HN",
+   "title": "Ship Safe, an open source security scanner for coding agents",
+   "body": "5ポイント / コメント3件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49192277"
   }
  ]
 }
