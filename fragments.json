@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-08T06:57:15+09:00",
+ "generated_at": "2026-08-08T07:56:54+09:00",
  "items": [
-  {
-   "tag": "WIKI",
-   "title": "鹿児島市立桜丘東小学校",
-   "body": "鹿児島市立桜丘東小学校 は、鹿児島県鹿児島市桜ケ丘六丁目にある公立小学校である。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E9%B9%BF%E5%85%90%E5%B3%B6%E5%B8%82%E7%AB%8B%E6%A1%9C%E4%B8%98%E6%9D%B1%E5%B0%8F%E5%AD%A6%E6%A0%A1"
-  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "晴れ。最高32.3℃ / 最低25.0℃。いまは26.1℃。",
+   "body": "晴れ。最高32.3℃ / 最低25.0℃。いまは27.3℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "2027 memory capacity is reportedly sold out",
-   "body": "162ポイント / コメント142件。",
+   "title": "A year of fighting scrapers on my 1.5 million-page website",
+   "body": "349ポイント / コメント329件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49207236"
+   "url": "https://news.ycombinator.com/item?id=49211386"
   },
   {
    "tag": "HN",
-   "title": "Making Postgres 300x faster for analytics: batching, operator fusion,…",
-   "body": "214ポイント / コメント95件。",
+   "title": "An all-sky map of half a million supermassive black holes",
+   "body": "126ポイント / コメント33件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49208535"
+   "url": "https://news.ycombinator.com/item?id=49211921"
+  },
+  {
+   "tag": "HN",
+   "title": "DeepSeek V4 Flash 0731",
+   "body": "361ポイント / コメント221件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49214008"
   },
   {
    "tag": "WIKI",
-   "title": "JOYSOUND",
-   "body": "JOYSOUND（ジョイサウンド）はブラザー工業が開発し、かつてブラザー工業の子会社で、現在はU-NEXT HOLDINGS傘下のエクシングが運用する業務用通信カラオケのシリーズの総…",
+   "title": "朝鮮民主主義人民共和国国務委員会",
+   "body": "朝鮮民主主義人民共和国国務委員会（ちょうせんみんしゅしゅぎじんみんきょうわこくこくむいいんかい）は、2016年6月29日に設立された朝鮮民主主義人民共和国（北朝鮮）における国家主権の…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/JOYSOUND"
+   "url": "https://ja.wikipedia.org/wiki/%E6%9C%9D%E9%AE%AE%E6%B0%91%E4%B8%BB%E4%B8%BB%E7%BE%A9%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%9B%BD%E5%8B%99%E5%A7%94%E5%93%A1%E4%BC%9A"
   },
   {
-   "tag": "HN",
-   "title": "App Store Rejection of the Week: Dark Hours",
-   "body": "182ポイント / コメント82件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49214863"
+   "tag": "WIKI",
+   "title": "タチアナ・マリニナ",
+   "body": "タチアナ・マリニナ はウズベキスタン出身の女性元フィギュアスケート選手。ロシアのノヴォシビルスク生まれ。身長160センチメートル。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%81%E3%82%A2%E3%83%8A%E3%83%BB%E3%83%9E%E3%83%AA%E3%83%8B%E3%83%8A"
   }
  ]
 }
