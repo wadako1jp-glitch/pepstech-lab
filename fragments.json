@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-07T13:04:31+09:00",
+ "generated_at": "2026-08-07T14:52:10+09:00",
  "items": [
+  {
+   "tag": "WIKI",
+   "title": "ジャレッド・バートン",
+   "body": "レヴィ・ジャレッド・バートン は、アメリカ合衆国・サウスカロライナ州ウェストミンスター出身の元プロ野球選手（投手）。右投右打。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%AC%E3%83%83%E3%83%89%E3%83%BB%E3%83%90%E3%83%BC%E3%83%88%E3%83%B3"
+  },
+  {
+   "tag": "HN",
+   "title": "Learn how chips are made with this Rollercoaster Tycoon-inspired anim…",
+   "body": "128ポイント / コメント26件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49120149"
+  },
+  {
+   "tag": "WIKI",
+   "title": "小出満二",
+   "body": "小出 満二 は、農政学者。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%87%BA%E6%BA%80%E4%BA%8C"
+  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高30.9℃ / 最低24.3℃。いまは30.7℃。",
+   "body": "霧雨。最高31.4℃ / 最低24.3℃。いまは31.0℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Welcoming the Nepalese Government to Have I Been Pwned",
-   "body": "110ポイント / コメント19件。",
+   "title": "Retired man plants trees on forgotten land, now it's Sao Paulo's larg…",
+   "body": "73ポイント / コメント22件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49203105"
-  },
-  {
-   "tag": "WIKI",
-   "title": "五木村",
-   "body": "五木村（いつきむら）は、熊本県の南部にある村。球磨郡に属す。「五木の子守唄」の発祥の地でもある。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E4%BA%94%E6%9C%A8%E6%9D%91"
+   "url": "https://news.ycombinator.com/item?id=49138446"
   },
   {
    "tag": "HN",
-   "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
-   "body": "76ポイント / コメント4件。",
+   "title": "GitHub Actions and Pages are experiencing degraded availability",
+   "body": "370ポイント / コメント297件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49202852"
-  },
-  {
-   "tag": "HN",
-   "title": "Hackers Stalked Me by Hijacking a Smartwatch for Kids",
-   "body": "27ポイント / コメント8件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49204060"
-  },
-  {
-   "tag": "WIKI",
-   "title": "内腹斜筋",
-   "body": "内腹斜筋 は、腹部の筋肉のうち腹壁外側部を走る側腹筋の一つ。外腹斜筋の深層に存在し、鼠径靱帯、腸骨稜、胸腰筋膜を起始とし、斜め前上方に扇状に走り、第10～12肋骨下縁および腹直筋鞘、…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%86%85%E8%85%B9%E6%96%9C%E7%AD%8B"
+   "url": "https://news.ycombinator.com/item?id=49198302"
   }
  ]
 }
