@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-07T19:15:32+09:00",
+ "generated_at": "2026-08-07T20:11:25+09:00",
  "items": [
   {
-   "tag": "HN",
-   "title": "GitHub Actions and Pages are experiencing degraded availability",
-   "body": "408ポイント / コメント334件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49198302"
-  },
-  {
    "tag": "WIKI",
-   "title": "一番町 (八戸市)",
-   "body": "一番町（いちばんちょう）は青森県八戸市の町丁。郵便番号は039-1102。人口は893人、世帯数は462世帯（2020年4月30日現在）。現行行政地名は一番町一丁目から一番町三丁目。…",
+   "title": "稲西町",
+   "body": "稲西町（いなにしちょう）は、愛知県名古屋市中村区の地名。丁目の設定はない。住居表示未実施。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E4%B8%80%E7%95%AA%E7%94%BA_(%E5%85%AB%E6%88%B8%E5%B8%82)"
+   "url": "https://ja.wikipedia.org/wiki/%E7%A8%B2%E8%A5%BF%E7%94%BA"
   },
   {
    "tag": "HN",
    "title": "Framework discloses data breach via Metabase 0-day",
-   "body": "81ポイント / コメント30件。",
+   "body": "93ポイント / コメント31件。",
    "src": "news.ycombinator.com",
    "url": "https://news.ycombinator.com/item?id=49206130"
   },
   {
    "tag": "WIKI",
-   "title": "テストーネ",
-   "body": "テストーネ、テストーニ 、テストン はかつてヨーロッパで使われていた銀貨の一種。15世紀後半にミラノで生まれた貨幣のタイプで、発行者の頭部像を図柄として採用している。フランス、イング…",
+   "title": "三笘薫",
+   "body": "三笘 薫 は、大分県日田市生まれ、神奈川県川崎市出身のプロサッカー選手。プレミアリーグ・ブライトン・アンド・ホーヴ・アルビオンFC所属。ポジションはミッドフィールダー。日本代表。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%B9%E3%83%88%E3%83%BC%E3%83%8D"
+   "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E7%AC%98%E8%96%AB"
   },
   {
    "tag": "HN",
-   "title": "A quine in Piet – a GIF image that prints itself [video]",
-   "body": "8ポイント / コメント1件。",
+   "title": "Taste Is All That's Left",
+   "body": "454ポイント / コメント330件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49156157"
+   "url": "https://news.ycombinator.com/item?id=49199346"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高31.7℃ / 最低24.3℃。いまは27.6℃。",
+   "body": "霧雨。最高31.7℃ / 最低24.3℃。いまは27.1℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
+  },
+  {
+   "tag": "HN",
+   "title": "Bioengineered chewing gum may offer a way to fight HPV and other micr…",
+   "body": "138ポイント / コメント41件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49202716"
   }
  ]
 }
