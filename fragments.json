@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-07T14:52:10+09:00",
+ "generated_at": "2026-08-07T16:44:03+09:00",
  "items": [
-  {
-   "tag": "WIKI",
-   "title": "ジャレッド・バートン",
-   "body": "レヴィ・ジャレッド・バートン は、アメリカ合衆国・サウスカロライナ州ウェストミンスター出身の元プロ野球選手（投手）。右投右打。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%AC%E3%83%83%E3%83%89%E3%83%BB%E3%83%90%E3%83%BC%E3%83%88%E3%83%B3"
-  },
-  {
-   "tag": "HN",
-   "title": "Learn how chips are made with this Rollercoaster Tycoon-inspired anim…",
-   "body": "128ポイント / コメント26件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49120149"
-  },
-  {
-   "tag": "WIKI",
-   "title": "小出満二",
-   "body": "小出 満二 は、農政学者。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%87%BA%E6%BA%80%E4%BA%8C"
-  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高31.4℃ / 最低24.3℃。いまは31.0℃。",
+   "body": "霧雨。最高31.7℃ / 最低24.3℃。いまは30.0℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Retired man plants trees on forgotten land, now it's Sao Paulo's larg…",
-   "body": "73ポイント / コメント22件。",
+   "title": "Taste Is All That's Left",
+   "body": "370ポイント / コメント275件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49138446"
+   "url": "https://news.ycombinator.com/item?id=49199346"
   },
   {
    "tag": "HN",
-   "title": "GitHub Actions and Pages are experiencing degraded availability",
-   "body": "370ポイント / コメント297件。",
+   "title": "Scientists discover Kelvin-Helmholtz Instability on the surface of th…",
+   "body": "211ポイント / コメント42件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49198302"
+   "url": "https://news.ycombinator.com/item?id=49184355"
+  },
+  {
+   "tag": "WIKI",
+   "title": "歴代カリフ一覧",
+   "body": "カリフの一覧（カリフのいちらん）では、歴代のイスラム教のカリフを挙げる。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E6%AD%B4%E4%BB%A3%E3%82%AB%E3%83%AA%E3%83%95%E4%B8%80%E8%A6%A7"
+  },
+  {
+   "tag": "HN",
+   "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
+   "body": "92ポイント / コメント5件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49202852"
+  },
+  {
+   "tag": "WIKI",
+   "title": "ミハイル・ミシュスチン",
+   "body": "ミハイル・ウラジーミロヴィチ・ミシュスチン は、ロシア連邦の政治家、経済学者、一等ロシア連邦経済勤務国家顧問、経済学博士。2020年1月より連邦政府議長・ロシア・ベラルーシ連盟国（正…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%8F%E3%82%A4%E3%83%AB%E3%83%BB%E3%83%9F%E3%82%B7%E3%83%A5%E3%82%B9%E3%83%81%E3%83%B3"
   }
  ]
 }
