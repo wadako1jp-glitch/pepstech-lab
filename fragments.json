@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-08T06:01:17+09:00",
+ "generated_at": "2026-08-08T06:57:15+09:00",
  "items": [
+  {
+   "tag": "WIKI",
+   "title": "鹿児島市立桜丘東小学校",
+   "body": "鹿児島市立桜丘東小学校 は、鹿児島県鹿児島市桜ケ丘六丁目にある公立小学校である。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E9%B9%BF%E5%85%90%E5%B3%B6%E5%B8%82%E7%AB%8B%E6%A1%9C%E4%B8%98%E6%9D%B1%E5%B0%8F%E5%AD%A6%E6%A0%A1"
+  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "晴れ。最高32.3℃ / 最低25.0℃。いまは25.4℃。",
+   "body": "晴れ。最高32.3℃ / 最低25.0℃。いまは26.1℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "WIKI",
-   "title": "モーリーの定理",
-   "body": "モーリーの定理 とは、初等幾何学における三角形についての定理である。1899年にアメリカの数学者フランク・モーリーによって証明された。シンプルで美しい結論が導き出せることから、モーリ…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%BC%E3%83%AA%E3%83%BC%E3%81%AE%E5%AE%9A%E7%90%86"
+   "tag": "HN",
+   "title": "2027 memory capacity is reportedly sold out",
+   "body": "162ポイント / コメント142件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49207236"
   },
   {
    "tag": "HN",
-   "title": "Why Are There Statues of Beavers on Top of This Oxford Street Shop?",
-   "body": "45ポイント / コメント20件。",
+   "title": "Making Postgres 300x faster for analytics: batching, operator fusion,…",
+   "body": "214ポイント / コメント95件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49158302"
-  },
-  {
-   "tag": "HN",
-   "title": "Guarded Methods in OCaml",
-   "body": "14ポイント / コメント0件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49157770"
-  },
-  {
-   "tag": "HN",
-   "title": "Petri Nets as a Music Sequencer",
-   "body": "53ポイント / コメント19件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49158934"
+   "url": "https://news.ycombinator.com/item?id=49208535"
   },
   {
    "tag": "WIKI",
-   "title": "ディープラーニング",
-   "body": "ディープラーニング または深層学習（しんそうがくしゅう）とは、対象の全体像から細部までの各々の粒度の概念を階層構造として関連させて学習する手法のことである。深層学習は複数の独立した機…",
+   "title": "JOYSOUND",
+   "body": "JOYSOUND（ジョイサウンド）はブラザー工業が開発し、かつてブラザー工業の子会社で、現在はU-NEXT HOLDINGS傘下のエクシングが運用する業務用通信カラオケのシリーズの総…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97%E3%83%A9%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0"
+   "url": "https://ja.wikipedia.org/wiki/JOYSOUND"
+  },
+  {
+   "tag": "HN",
+   "title": "App Store Rejection of the Week: Dark Hours",
+   "body": "182ポイント / コメント82件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49214863"
   }
  ]
 }
