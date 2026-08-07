@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-08T04:17:54+09:00",
+ "generated_at": "2026-08-08T06:01:17+09:00",
  "items": [
-  {
-   "tag": "WIKI",
-   "title": "大阪国際見本市会場",
-   "body": "大阪国際見本市会場（おおさかこくさいみほんいちかいじょう）は、大阪市住之江区南港北一丁目にある国際展示場。一般財団法人大阪国際経済振興センターが運営する。1985年（昭和60年）に同…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%98%AA%E5%9B%BD%E9%9A%9B%E8%A6%8B%E6%9C%AC%E5%B8%82%E4%BC%9A%E5%A0%B4"
-  },
-  {
-   "tag": "HN",
-   "title": "TypeStax: A type scale generator with vintage audio hardware interface",
-   "body": "44ポイント / コメント12件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49112511"
-  },
-  {
-   "tag": "WIKI",
-   "title": "タカヘ",
-   "body": "タカヘ は、ツル目クイナ科に分類される鳥類の一種。ニュージーランドに生息する飛べない鳥である。かつては独立したノトルニス(Notornis)属に分類されていたが、後に、同じクイナ科の…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%AB%E3%83%98"
-  },
-  {
-   "tag": "HN",
-   "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
-   "body": "11ポイント / コメント1件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49214770"
-  },
-  {
-   "tag": "HN",
-   "title": "New Mexico court orders Meta to pay $567m over harms to children’s me…",
-   "body": "648ポイント / コメント356件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49204352"
-  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "晴れ。最高32.3℃ / 最低25.0℃。いまは25.2℃。",
+   "body": "晴れ。最高32.3℃ / 最低25.0℃。いまは25.4℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
+  },
+  {
+   "tag": "WIKI",
+   "title": "モーリーの定理",
+   "body": "モーリーの定理 とは、初等幾何学における三角形についての定理である。1899年にアメリカの数学者フランク・モーリーによって証明された。シンプルで美しい結論が導き出せることから、モーリ…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%BC%E3%83%AA%E3%83%BC%E3%81%AE%E5%AE%9A%E7%90%86"
+  },
+  {
+   "tag": "HN",
+   "title": "Why Are There Statues of Beavers on Top of This Oxford Street Shop?",
+   "body": "45ポイント / コメント20件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49158302"
+  },
+  {
+   "tag": "HN",
+   "title": "Guarded Methods in OCaml",
+   "body": "14ポイント / コメント0件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49157770"
+  },
+  {
+   "tag": "HN",
+   "title": "Petri Nets as a Music Sequencer",
+   "body": "53ポイント / コメント19件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49158934"
+  },
+  {
+   "tag": "WIKI",
+   "title": "ディープラーニング",
+   "body": "ディープラーニング または深層学習（しんそうがくしゅう）とは、対象の全体像から細部までの各々の粒度の概念を階層構造として関連させて学習する手法のことである。深層学習は複数の独立した機…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97%E3%83%A9%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0"
   }
  ]
 }
