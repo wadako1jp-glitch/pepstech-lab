@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-08T01:10:09+09:00",
+ "generated_at": "2026-08-08T02:10:25+09:00",
  "items": [
   {
    "tag": "WIKI",
-   "title": "木村弥生",
-   "body": "木村 弥生 は、日本の政治家、看護師。",
+   "title": "日本とガイアナの関係",
+   "body": "日本とガイアナの関係 では、日本とガイアナの関係について概説する。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%9C%A8%E6%9D%91%E5%BC%A5%E7%94%9F"
+   "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%A8%E3%82%AC%E3%82%A4%E3%82%A2%E3%83%8A%E3%81%AE%E9%96%A2%E4%BF%82"
+  },
+  {
+   "tag": "WIKI",
+   "title": "狛江ラジオ放送",
+   "body": "狛江ラジオ放送株式会社（こまえラジオほうそう）は、東京都狛江市の一部地域を放送対象地域として超短波放送（FM放送）を営む特定地上基幹放送事業者である。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E7%8B%9B%E6%B1%9F%E3%83%A9%E3%82%B8%E3%82%AA%E6%94%BE%E9%80%81"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "晴れ。最高32.3℃ / 最低25.4℃。いまは26.0℃。",
+   "body": "晴れ。最高32.2℃ / 最低25.4℃。いまは25.8℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Petri Nets as a Music Sequencer",
-   "body": "11ポイント / コメント0件。",
+   "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days inste…",
+   "body": "218ポイント / コメント152件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49158934"
+   "url": "https://news.ycombinator.com/item?id=49198464"
   },
   {
    "tag": "HN",
-   "title": "Mario Meets Pareto",
-   "body": "1110ポイント / コメント163件。",
+   "title": "The AI Billboards Are Killing SF",
+   "body": "20ポイント / コメント30件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49195231"
-  },
-  {
-   "tag": "WIKI",
-   "title": "東区 (蔚山広域市)",
-   "body": "東区（トンく）は、大韓民国蔚山広域市の区。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%8C%BA_(%E8%94%9A%E5%B1%B1%E5%BA%83%E5%9F%9F%E5%B8%82)"
+   "url": "https://news.ycombinator.com/item?id=49212928"
   },
   {
    "tag": "HN",
-   "title": "AMD acquires Taalas to boost inference performance by etching models …",
-   "body": "786ポイント / コメント599件。",
+   "title": "TypeStax: A type scale generator with vintage audio hardware interface",
+   "body": "34ポイント / コメント9件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49201970"
+   "url": "https://news.ycombinator.com/item?id=49112511"
   }
  ]
 }
