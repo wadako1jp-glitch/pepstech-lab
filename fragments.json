@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-07T00:33:11+09:00",
+ "generated_at": "2026-08-07T09:17:31+09:00",
  "items": [
   {
+   "tag": "WIKI",
+   "title": "調川インターチェンジ",
+   "body": "調川インターチェンジ（つきのかわインターチェンジ）は、長崎県松浦市調川町下免にある西九州自動車道（伊万里松浦道路）のインターチェンジである。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E8%AA%BF%E5%B7%9D%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%81%E3%82%A7%E3%83%B3%E3%82%B8"
+  },
+  {
    "tag": "HN",
-   "title": "Tiny Black Holes May Be Exploding Stars Across the Milky Way",
-   "body": "37ポイント / コメント35件。",
+   "title": "Show HN: Pokémon Emerald Ported to Raspberry Pi Pico 2",
+   "body": "35ポイント / コメント16件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49184656"
+   "url": "https://news.ycombinator.com/item?id=49203059"
   },
   {
    "tag": "WIKI",
-   "title": "ドウダンツツジ",
-   "body": "ドウダンツツジ は、ツツジ科ドウダンツツジ属の落葉低木。庭木や公園樹にされる。",
+   "title": "ウェストパームビーチ",
+   "body": "ウェストパームビーチ は、アメリカ合衆国フロリダ州南東部に位置する都市。マイアミの北約100kmに位置している。また、同市はパームビーチ郡の郡庁所在地である。人口は11万7415人（…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%82%A6%E3%83%80%E3%83%B3%E3%83%84%E3%83%84%E3%82%B8"
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A7%E3%82%B9%E3%83%88%E3%83%91%E3%83%BC%E3%83%A0%E3%83%93%E3%83%BC%E3%83%81"
+  },
+  {
+   "tag": "HN",
+   "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k g…",
+   "body": "244ポイント / コメント187件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49195468"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "強い霧雨。最高30.3℃ / 最低24.8℃。いまは25.6℃。",
+   "body": "霧雨。最高30.5℃ / 最低24.3℃。いまは27.8℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Muse Code and Muse Spark 1.2",
-   "body": "293ポイント / コメント193件。",
+   "title": "Mario Meets Pareto",
+   "body": "849ポイント / コメント147件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49187575"
-  },
-  {
-   "tag": "WIKI",
-   "title": "日露関係史",
-   "body": "日露関係史 では、日本とロシア連邦の両国関係の歴史を述べる。かつてこれらの地域にあった国家・王朝を含める。両国はロシア人の極東進出と日本人の北方開拓の結果、隣国として基本的には敵対し…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E9%9C%B2%E9%96%A2%E4%BF%82%E5%8F%B2"
-  },
-  {
-   "tag": "HN",
-   "title": "Crime Pays but Botany Doesn't",
-   "body": "434ポイント / コメント133件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49192566"
+   "url": "https://news.ycombinator.com/item?id=49195231"
   }
  ]
 }
