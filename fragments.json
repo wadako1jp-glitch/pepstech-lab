@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-08T07:56:54+09:00",
+ "generated_at": "2026-08-08T08:49:44+09:00",
  "items": [
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "晴れ。最高32.3℃ / 最低25.0℃。いまは27.3℃。",
+   "body": "晴れ。最高32.4℃ / 最低25.3℃。いまは28.4℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "A year of fighting scrapers on my 1.5 million-page website",
-   "body": "349ポイント / コメント329件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49211386"
-  },
-  {
-   "tag": "HN",
-   "title": "An all-sky map of half a million supermassive black holes",
-   "body": "126ポイント / コメント33件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49211921"
-  },
-  {
-   "tag": "HN",
    "title": "DeepSeek V4 Flash 0731",
-   "body": "361ポイント / コメント221件。",
+   "body": "394ポイント / コメント241件。",
    "src": "news.ycombinator.com",
    "url": "https://news.ycombinator.com/item?id=49214008"
   },
   {
-   "tag": "WIKI",
-   "title": "朝鮮民主主義人民共和国国務委員会",
-   "body": "朝鮮民主主義人民共和国国務委員会（ちょうせんみんしゅしゅぎじんみんきょうわこくこくむいいんかい）は、2016年6月29日に設立された朝鮮民主主義人民共和国（北朝鮮）における国家主権の…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%9C%9D%E9%AE%AE%E6%B0%91%E4%B8%BB%E4%B8%BB%E7%BE%A9%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%9B%BD%E5%8B%99%E5%A7%94%E5%93%A1%E4%BC%9A"
+   "tag": "HN",
+   "title": "Energizing a vacuum-tube flip-flop module from a 1948 IBM system",
+   "body": "18ポイント / コメント3件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49147721"
   },
   {
    "tag": "WIKI",
-   "title": "タチアナ・マリニナ",
-   "body": "タチアナ・マリニナ はウズベキスタン出身の女性元フィギュアスケート選手。ロシアのノヴォシビルスク生まれ。身長160センチメートル。",
+   "title": "東山北駅",
+   "body": "東山北駅（ひがしやまきたえき）は、神奈川県足柄上郡山北町向原にある、東海旅客鉄道（JR東海）御殿場線の駅である。駅番号はCB05。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%81%E3%82%A2%E3%83%8A%E3%83%BB%E3%83%9E%E3%83%AA%E3%83%8B%E3%83%8A"
+   "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%B1%B1%E5%8C%97%E9%A7%85"
+  },
+  {
+   "tag": "HN",
+   "title": "AMD acquires Taalas to boost inference performance by etching models …",
+   "body": "879ポイント / コメント659件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49201970"
+  },
+  {
+   "tag": "WIKI",
+   "title": "コンスタンチン・バリモント",
+   "body": "コンスタンチン・ドミートリエヴィチ・バリモント は、ロシアの象徴主義詩人、訳詞者。ロシア「銀の時代」 における主要な人物の一人。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%81%E3%83%B3%E3%83%BB%E3%83%90%E3%83%AA%E3%83%A2%E3%83%B3%E3%83%88"
   }
  ]
 }
