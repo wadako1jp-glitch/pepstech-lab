@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-07T09:17:31+09:00",
+ "generated_at": "2026-08-07T13:04:31+09:00",
  "items": [
-  {
-   "tag": "WIKI",
-   "title": "調川インターチェンジ",
-   "body": "調川インターチェンジ（つきのかわインターチェンジ）は、長崎県松浦市調川町下免にある西九州自動車道（伊万里松浦道路）のインターチェンジである。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E8%AA%BF%E5%B7%9D%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%81%E3%82%A7%E3%83%B3%E3%82%B8"
-  },
-  {
-   "tag": "HN",
-   "title": "Show HN: Pokémon Emerald Ported to Raspberry Pi Pico 2",
-   "body": "35ポイント / コメント16件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49203059"
-  },
-  {
-   "tag": "WIKI",
-   "title": "ウェストパームビーチ",
-   "body": "ウェストパームビーチ は、アメリカ合衆国フロリダ州南東部に位置する都市。マイアミの北約100kmに位置している。また、同市はパームビーチ郡の郡庁所在地である。人口は11万7415人（…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A7%E3%82%B9%E3%83%88%E3%83%91%E3%83%BC%E3%83%A0%E3%83%93%E3%83%BC%E3%83%81"
-  },
-  {
-   "tag": "HN",
-   "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k g…",
-   "body": "244ポイント / コメント187件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49195468"
-  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高30.5℃ / 最低24.3℃。いまは27.8℃。",
+   "body": "霧雨。最高30.9℃ / 最低24.3℃。いまは30.7℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Mario Meets Pareto",
-   "body": "849ポイント / コメント147件。",
+   "title": "Welcoming the Nepalese Government to Have I Been Pwned",
+   "body": "110ポイント / コメント19件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49195231"
+   "url": "https://news.ycombinator.com/item?id=49203105"
+  },
+  {
+   "tag": "WIKI",
+   "title": "五木村",
+   "body": "五木村（いつきむら）は、熊本県の南部にある村。球磨郡に属す。「五木の子守唄」の発祥の地でもある。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E4%BA%94%E6%9C%A8%E6%9D%91"
+  },
+  {
+   "tag": "HN",
+   "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
+   "body": "76ポイント / コメント4件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49202852"
+  },
+  {
+   "tag": "HN",
+   "title": "Hackers Stalked Me by Hijacking a Smartwatch for Kids",
+   "body": "27ポイント / コメント8件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49204060"
+  },
+  {
+   "tag": "WIKI",
+   "title": "内腹斜筋",
+   "body": "内腹斜筋 は、腹部の筋肉のうち腹壁外側部を走る側腹筋の一つ。外腹斜筋の深層に存在し、鼠径靱帯、腸骨稜、胸腰筋膜を起始とし、斜め前上方に扇状に走り、第10～12肋骨下縁および腹直筋鞘、…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%86%85%E8%85%B9%E6%96%9C%E7%AD%8B"
   }
  ]
 }
