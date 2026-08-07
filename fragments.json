@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-07T16:44:03+09:00",
+ "generated_at": "2026-08-07T18:17:08+09:00",
  "items": [
+  {
+   "tag": "WIKI",
+   "title": "バトン",
+   "body": "バトン とは、陸上競技やバトントワリング等で使用される道具であり、いずれのバトンも形状は円柱状である。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%88%E3%83%B3"
+  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高31.7℃ / 最低24.3℃。いまは30.0℃。",
+   "body": "霧雨。最高31.7℃ / 最低24.3℃。いまは28.3℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Taste Is All That's Left",
-   "body": "370ポイント / コメント275件。",
+   "title": "Framework discloses data breach via Metabase 0-day",
+   "body": "73ポイント / コメント27件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49199346"
+   "url": "https://news.ycombinator.com/item?id=49206130"
   },
   {
    "tag": "HN",
-   "title": "Scientists discover Kelvin-Helmholtz Instability on the surface of th…",
-   "body": "211ポイント / コメント42件。",
+   "title": "Quake – 30th Anniversary Update",
+   "body": "307ポイント / コメント153件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49184355"
-  },
-  {
-   "tag": "WIKI",
-   "title": "歴代カリフ一覧",
-   "body": "カリフの一覧（カリフのいちらん）では、歴代のイスラム教のカリフを挙げる。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%AD%B4%E4%BB%A3%E3%82%AB%E3%83%AA%E3%83%95%E4%B8%80%E8%A6%A7"
+   "url": "https://news.ycombinator.com/item?id=49201930"
   },
   {
    "tag": "HN",
-   "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
-   "body": "92ポイント / コメント5件。",
+   "title": "AMD acquires Taalas to boost inference performance by etching models …",
+   "body": "641ポイント / コメント498件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49202852"
+   "url": "https://news.ycombinator.com/item?id=49201970"
   },
   {
    "tag": "WIKI",
-   "title": "ミハイル・ミシュスチン",
-   "body": "ミハイル・ウラジーミロヴィチ・ミシュスチン は、ロシア連邦の政治家、経済学者、一等ロシア連邦経済勤務国家顧問、経済学博士。2020年1月より連邦政府議長・ロシア・ベラルーシ連盟国（正…",
+   "title": "ノイシュヴァンシュタイン城",
+   "body": "ノイシュヴァンシュタイン城 は、ドイツ連邦共和国南部のバイエルン州バイエルン・シュヴァーベン地方オストアルゴイ郡シュヴァンガウ町ホーエンシュヴァンガウ地区にある城である。ノイシュバン…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%8F%E3%82%A4%E3%83%AB%E3%83%BB%E3%83%9F%E3%82%B7%E3%83%A5%E3%82%B9%E3%83%81%E3%83%B3"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%82%A4%E3%82%B7%E3%83%A5%E3%83%B4%E3%82%A1%E3%83%B3%E3%82%B7%E3%83%A5%E3%82%BF%E3%82%A4%E3%83%B3%E5%9F%8E"
   }
  ]
 }
