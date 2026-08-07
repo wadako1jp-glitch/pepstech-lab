@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-08T00:10:41+09:00",
+ "generated_at": "2026-08-08T01:10:09+09:00",
  "items": [
   {
-   "tag": "HN",
-   "title": "Scientists discover Kelvin-Helmholtz Instability on the surface of th…",
-   "body": "277ポイント / コメント53件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49184355"
-  },
-  {
-   "tag": "HN",
-   "title": "Taste Is All That's Left",
-   "body": "557ポイント / コメント420件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49199346"
+   "tag": "WIKI",
+   "title": "木村弥生",
+   "body": "木村 弥生 は、日本の政治家、看護師。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E6%9C%A8%E6%9D%91%E5%BC%A5%E7%94%9F"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "晴れ。最高32.3℃ / 最低25.4℃。いまは26.2℃。",
+   "body": "晴れ。最高32.3℃ / 最低25.4℃。いまは26.0℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "WIKI",
-   "title": "カラタビアーノ",
-   "body": "カラタビアーノ は、イタリア共和国シチリア州カターニア県にある、人口約5,200人の基礎自治体（コムーネ）。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A9%E3%82%BF%E3%83%93%E3%82%A2%E3%83%BC%E3%83%8E"
-  },
-  {
-   "tag": "WIKI",
-   "title": "クリストファー・ストリート-ストーンウォール駅",
-   "body": "クリストファー・ストリート-ストーンウォール駅 はマンハッタン区グリニッジ・ヴィレッジのクリストファー・ストリートと7番街南の交差点に位置するニューヨーク市地下鉄IRTブロードウェイ…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%88%E3%83%95%E3%82%A1%E3%83%BC%E3%83%BB%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E3%83%88-%E3%82%B9%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB%E9%A7%85"
+   "tag": "HN",
+   "title": "Petri Nets as a Music Sequencer",
+   "body": "11ポイント / コメント0件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49158934"
   },
   {
    "tag": "HN",
-   "title": "The BBC Tetris Companion",
-   "body": "43ポイント / コメント4件。",
+   "title": "Mario Meets Pareto",
+   "body": "1110ポイント / コメント163件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49092746"
+   "url": "https://news.ycombinator.com/item?id=49195231"
+  },
+  {
+   "tag": "WIKI",
+   "title": "東区 (蔚山広域市)",
+   "body": "東区（トンく）は、大韓民国蔚山広域市の区。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%8C%BA_(%E8%94%9A%E5%B1%B1%E5%BA%83%E5%9F%9F%E5%B8%82)"
+  },
+  {
+   "tag": "HN",
+   "title": "AMD acquires Taalas to boost inference performance by etching models …",
+   "body": "786ポイント / コメント599件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49201970"
   }
  ]
 }
