@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-07T18:17:08+09:00",
+ "generated_at": "2026-08-07T19:15:32+09:00",
  "items": [
   {
-   "tag": "WIKI",
-   "title": "バトン",
-   "body": "バトン とは、陸上競技やバトントワリング等で使用される道具であり、いずれのバトンも形状は円柱状である。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%88%E3%83%B3"
+   "tag": "HN",
+   "title": "GitHub Actions and Pages are experiencing degraded availability",
+   "body": "408ポイント / コメント334件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49198302"
   },
   {
-   "tag": "天気",
-   "title": "東京 きょう",
-   "body": "霧雨。最高31.7℃ / 最低24.3℃。いまは28.3℃。",
-   "src": "open-meteo.com",
-   "url": "https://open-meteo.com/"
+   "tag": "WIKI",
+   "title": "一番町 (八戸市)",
+   "body": "一番町（いちばんちょう）は青森県八戸市の町丁。郵便番号は039-1102。人口は893人、世帯数は462世帯（2020年4月30日現在）。現行行政地名は一番町一丁目から一番町三丁目。…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E4%B8%80%E7%95%AA%E7%94%BA_(%E5%85%AB%E6%88%B8%E5%B8%82)"
   },
   {
    "tag": "HN",
    "title": "Framework discloses data breach via Metabase 0-day",
-   "body": "73ポイント / コメント27件。",
+   "body": "81ポイント / コメント30件。",
    "src": "news.ycombinator.com",
    "url": "https://news.ycombinator.com/item?id=49206130"
   },
   {
-   "tag": "HN",
-   "title": "Quake – 30th Anniversary Update",
-   "body": "307ポイント / コメント153件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49201930"
-  },
-  {
-   "tag": "HN",
-   "title": "AMD acquires Taalas to boost inference performance by etching models …",
-   "body": "641ポイント / コメント498件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49201970"
-  },
-  {
    "tag": "WIKI",
-   "title": "ノイシュヴァンシュタイン城",
-   "body": "ノイシュヴァンシュタイン城 は、ドイツ連邦共和国南部のバイエルン州バイエルン・シュヴァーベン地方オストアルゴイ郡シュヴァンガウ町ホーエンシュヴァンガウ地区にある城である。ノイシュバン…",
+   "title": "テストーネ",
+   "body": "テストーネ、テストーニ 、テストン はかつてヨーロッパで使われていた銀貨の一種。15世紀後半にミラノで生まれた貨幣のタイプで、発行者の頭部像を図柄として採用している。フランス、イング…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%82%A4%E3%82%B7%E3%83%A5%E3%83%B4%E3%82%A1%E3%83%B3%E3%82%B7%E3%83%A5%E3%82%BF%E3%82%A4%E3%83%B3%E5%9F%8E"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%B9%E3%83%88%E3%83%BC%E3%83%8D"
+  },
+  {
+   "tag": "HN",
+   "title": "A quine in Piet – a GIF image that prints itself [video]",
+   "body": "8ポイント / コメント1件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49156157"
+  },
+  {
+   "tag": "天気",
+   "title": "東京 きょう",
+   "body": "霧雨。最高31.7℃ / 最低24.3℃。いまは27.6℃。",
+   "src": "open-meteo.com",
+   "url": "https://open-meteo.com/"
   }
  ]
 }
