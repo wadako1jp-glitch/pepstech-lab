@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-09T01:54:12+09:00",
+ "generated_at": "2026-08-09T02:47:29+09:00",
  "items": [
+  {
+   "tag": "WIKI",
+   "title": "勝川町西",
+   "body": "勝川町西（かちがわちょうにし）は、愛知県春日井市にある地名。現行行政地名は勝川町西1丁目から勝川町西4丁目。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%8B%9D%E5%B7%9D%E7%94%BA%E8%A5%BF"
+  },
+  {
+   "tag": "HN",
+   "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
+   "body": "242ポイント / コメント76件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49214770"
+  },
+  {
+   "tag": "HN",
+   "title": "LinkedIn Feed Blocker",
+   "body": "22ポイント / コメント15件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49223475"
+  },
+  {
+   "tag": "WIKI",
+   "title": "泉大津市立穴師小学校",
+   "body": "泉大津市立穴師小学校 は、大阪府泉大津市我孫子にある公立小学校。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E6%B3%89%E5%A4%A7%E6%B4%A5%E5%B8%82%E7%AB%8B%E7%A9%B4%E5%B8%AB%E5%B0%8F%E5%AD%A6%E6%A0%A1"
+  },
+  {
+   "tag": "HN",
+   "title": "Hardware backdoors in some x86 CPUs",
+   "body": "268ポイント / コメント84件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49219508"
+  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "晴れ。最高31.5℃ / 最低23.7℃。いまは24.4℃。",
+   "body": "霧雨。最高31.3℃ / 最低23.1℃。いまは23.9℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
-  },
-  {
-   "tag": "WIKI",
-   "title": "チェルヴィナーラ",
-   "body": "チェルヴィナーラ は、イタリア共和国カンパニア州アヴェッリーノ県にある、人口約9,500人の基礎自治体（コムーネ）。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%A7%E3%83%AB%E3%83%B4%E3%82%A3%E3%83%8A%E3%83%BC%E3%83%A9"
-  },
-  {
-   "tag": "HN",
-   "title": "SupererDuperer",
-   "body": "147ポイント / コメント29件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49135261"
-  },
-  {
-   "tag": "WIKI",
-   "title": "樹幹",
-   "body": "樹幹（じゅかん、Trunk）は、樹木の地上部のうち枝や葉を除いた部分（幹）のこと。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%A8%B9%E5%B9%B9"
-  },
-  {
-   "tag": "HN",
-   "title": "BYOC Is Not Just 'Deploy into Their Cloud'",
-   "body": "38ポイント / コメント7件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49163466"
-  },
-  {
-   "tag": "HN",
-   "title": "A physicist rigged his pet hamster’s wheel to upload to Strava",
-   "body": "351ポイント / コメント86件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49189457"
   }
  ]
 }
