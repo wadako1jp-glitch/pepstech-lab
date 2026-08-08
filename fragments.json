@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-08T19:53:02+09:00",
+ "generated_at": "2026-08-08T20:45:56+09:00",
  "items": [
+  {
+   "tag": "HN",
+   "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
+   "body": "197ポイント / コメント52件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49208393"
+  },
+  {
+   "tag": "HN",
+   "title": "NASA figured out how to keep its Voyager 2 probe running for another …",
+   "body": "260ポイント / コメント47件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49218179"
+  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "晴れ。最高33.0℃ / 最低25.3℃。いまは27.5℃。",
+   "body": "晴れ。最高32.9℃ / 最低25.3℃。いまは26.6℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "WIKI",
-   "title": "ルイージ・フェデルツォーニ",
-   "body": "ルイージ・フェデルツォーニ は、イタリアの文学者、政治家である。",
+   "title": "FKゼムン",
+   "body": "フドバルスキ・クルブ・ゼムン は、セルビアのベオグラード・ゼムンをホームタウンとするサッカークラブである。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%82%A4%E3%83%BC%E3%82%B8%E3%83%BB%E3%83%95%E3%82%A7%E3%83%87%E3%83%AB%E3%83%84%E3%82%A9%E3%83%BC%E3%83%8B"
+   "url": "https://ja.wikipedia.org/wiki/FK%E3%82%BC%E3%83%A0%E3%83%B3"
   },
   {
    "tag": "WIKI",
-   "title": "有馬大五郎",
-   "body": "有馬 大五郎 は、日本の音楽教育家、音楽学者、声楽家。NHK交響楽団副理事長、国立音楽大学学長などを歴任。",
+   "title": "水戸東武館",
+   "body": "一般財団法人水戸東武館 は、茨城県水戸市において剣道、居合道、なぎなた及び北辰一刀流剣術、新田宮流抜刀術を修練する道場「水戸東武館」を運営し、これらの伝統文化を伝承するために活動する…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%9C%89%E9%A6%AC%E5%A4%A7%E4%BA%94%E9%83%8E"
+   "url": "https://ja.wikipedia.org/wiki/%E6%B0%B4%E6%88%B8%E6%9D%B1%E6%AD%A6%E9%A4%A8"
   },
   {
    "tag": "HN",
-   "title": "Responding to the next frontier of critical cyber capabilities",
-   "body": "188ポイント / コメント177件。",
+   "title": "Managing AI Coding Costs at Scale",
+   "body": "252ポイント / コメント212件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49213029"
-  },
-  {
-   "tag": "HN",
-   "title": "Hardware backdoors in some x86 CPUs",
-   "body": "116ポイント / コメント32件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49219508"
-  },
-  {
-   "tag": "HN",
-   "title": "Tell Abu Hureyra (prehistoric archaeological site)",
-   "body": "7ポイント / コメント0件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49158626"
+   "url": "https://news.ycombinator.com/item?id=49214468"
   }
  ]
 }
