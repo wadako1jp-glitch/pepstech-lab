@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-08T16:17:33+09:00",
+ "generated_at": "2026-08-08T18:03:09+09:00",
  "items": [
-  {
-   "tag": "WIKI",
-   "title": "戸田公園",
-   "body": "戸田公園（とだこうえん）は、埼玉県戸田市に位置する埼玉県営の都市公園（総合公園）である。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%88%B8%E7%94%B0%E5%85%AC%E5%9C%92"
-  },
   {
    "tag": "HN",
    "title": "Making Postgres 300x faster for analytics: batching, operator fusion,…",
-   "body": "271ポイント / コメント136件。",
+   "body": "285ポイント / コメント136件。",
    "src": "news.ycombinator.com",
    "url": "https://news.ycombinator.com/item?id=49208535"
   },
   {
    "tag": "WIKI",
-   "title": "黒須春次",
-   "body": "黒須 春次 は、日本の柔術家、柔道家（講道館9段・大日本武徳会教士）、政治家。",
+   "title": "ドメニコ・チリッロ",
+   "body": "ドメニコ・マリア・レオーネ・チリッロ は、イタリアの医師、植物学者、昆虫学者、政治家である。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E9%BB%92%E9%A0%88%E6%98%A5%E6%AC%A1"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%A1%E3%83%8B%E3%82%B3%E3%83%BB%E3%83%81%E3%83%AA%E3%83%83%E3%83%AD"
+  },
+  {
+   "tag": "HN",
+   "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
+   "body": "204ポイント / コメント63件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49214770"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "晴れ。最高33.0℃ / 最低25.3℃。いまは32.0℃。",
+   "body": "晴れ。最高33.0℃ / 最低25.3℃。いまは29.6℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "HN",
-   "title": "Water system controllers don't belong on the internet, says ex-NSA ch…",
-   "body": "175ポイント / コメント115件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49216362"
+   "tag": "WIKI",
+   "title": "兵庫県立伊川谷北高等学校",
+   "body": "兵庫県立伊川谷北高等学校 は、兵庫県神戸市西区に所在する県立高等学校。新第1学区では1番新しく設置された。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%AB%8B%E4%BC%8A%E5%B7%9D%E8%B0%B7%E5%8C%97%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1"
   },
   {
    "tag": "HN",
-   "title": "Guarded Methods in OCaml (2025)",
-   "body": "63ポイント / コメント5件。",
+   "title": "ao486: x86-compatible Verilog core implementing all features of a 486…",
+   "body": "8ポイント / コメント1件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49157770"
+   "url": "https://news.ycombinator.com/item?id=49141236"
   }
  ]
 }
