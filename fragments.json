@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-08T18:03:09+09:00",
+ "generated_at": "2026-08-08T18:56:06+09:00",
  "items": [
   {
    "tag": "HN",
-   "title": "Making Postgres 300x faster for analytics: batching, operator fusion,…",
-   "body": "285ポイント / コメント136件。",
+   "title": "From One Seed to a Thousand Leaves – Merkle's Authentication Tree",
+   "body": "15ポイント / コメント0件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49208535"
+   "url": "https://news.ycombinator.com/item?id=49169417"
   },
   {
    "tag": "WIKI",
-   "title": "ドメニコ・チリッロ",
-   "body": "ドメニコ・マリア・レオーネ・チリッロ は、イタリアの医師、植物学者、昆虫学者、政治家である。",
+   "title": "昌福寺 (韮崎市)",
+   "body": "昌福寺（しょうふくじ）は、山梨県韮崎市中田町中条にある曹洞宗の寺院。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%A1%E3%83%8B%E3%82%B3%E3%83%BB%E3%83%81%E3%83%AA%E3%83%83%E3%83%AD"
-  },
-  {
-   "tag": "HN",
-   "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
-   "body": "204ポイント / コメント63件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49214770"
+   "url": "https://ja.wikipedia.org/wiki/%E6%98%8C%E7%A6%8F%E5%AF%BA_(%E9%9F%AE%E5%B4%8E%E5%B8%82)"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "晴れ。最高33.0℃ / 最低25.3℃。いまは29.6℃。",
+   "body": "晴れ。最高33.0℃ / 最低25.3℃。いまは28.5℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
+   "tag": "HN",
+   "title": "Psychological Warfare in Reverse Engineering (2015)",
+   "body": "70ポイント / コメント4件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49214775"
+  },
+  {
    "tag": "WIKI",
-   "title": "兵庫県立伊川谷北高等学校",
-   "body": "兵庫県立伊川谷北高等学校 は、兵庫県神戸市西区に所在する県立高等学校。新第1学区では1番新しく設置された。",
+   "title": "キンミノフウチョウ",
+   "body": "キンミノフウチョウ は、スズメ目フウチョウ科に分類される鳥類の一種。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%AB%8B%E4%BC%8A%E5%B7%9D%E8%B0%B7%E5%8C%97%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1"
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%83%9F%E3%83%8E%E3%83%95%E3%82%A6%E3%83%81%E3%83%A7%E3%82%A6"
   },
   {
    "tag": "HN",
-   "title": "ao486: x86-compatible Verilog core implementing all features of a 486…",
-   "body": "8ポイント / コメント1件。",
+   "title": "Möbius-Strip Crosswords",
+   "body": "74ポイント / コメント10件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49141236"
+   "url": "https://news.ycombinator.com/item?id=49211660"
   }
  ]
 }
