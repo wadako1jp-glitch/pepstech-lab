@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-09T07:48:49+09:00",
+ "generated_at": "2026-08-09T08:46:33+09:00",
  "items": [
   {
    "tag": "WIKI",
-   "title": "ザ・プリンス さくらタワー東京",
-   "body": "ザ・プリンス さくらタワー東京 は、東京都港区高輪に所在するホテル。西武・プリンスホテルズワールドワイドが運営する「プリンスホテル」のひとつ。",
+   "title": "アイルランド自由国",
+   "body": "アイルランド自由国 は、1922年にアイルランド島32県のうちの南部26県がイギリス（グレートブリテン及びアイルランド連合王国）から分離して成立した立憲君主制国家である。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%B6%E3%83%BB%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B9_%E3%81%95%E3%81%8F%E3%82%89%E3%82%BF%E3%83%AF%E3%83%BC%E6%9D%B1%E4%BA%AC"
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%83%AB%E3%83%A9%E3%83%B3%E3%83%89%E8%87%AA%E7%94%B1%E5%9B%BD"
+  },
+  {
+   "tag": "WIKI",
+   "title": "三芳村 (千葉県)",
+   "body": "三芳村（みよしむら）は、かつて千葉県安房郡に存在した村。旧平郡の一部を含む。館山都市圏に属していた。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8A%B3%E6%9D%91_(%E5%8D%83%E8%91%89%E7%9C%8C)"
   },
   {
    "tag": "HN",
-   "title": "“Code was never the hard part” is an insult to all programmers",
-   "body": "487ポイント / コメント326件。",
+   "title": "Maryland Closes More of Cunningham Falls State Park After Second Beav…",
+   "body": "66ポイント / コメント30件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49222189"
+   "url": "https://news.ycombinator.com/item?id=49225918"
   },
   {
    "tag": "HN",
-   "title": "US Military's cyber command unit grapples with cluster of deaths by s…",
-   "body": "201ポイント / コメント318件。",
+   "title": "Building a local positioning system to track runners using Ultra-Wide…",
+   "body": "30ポイント / コメント1件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49220339"
+   "url": "https://news.ycombinator.com/item?id=49133850"
+  },
+  {
+   "tag": "HN",
+   "title": "Making difficulty curves in games",
+   "body": "34ポイント / コメント6件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49180649"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高31.8℃ / 最低23.1℃。いまは25.8℃。",
+   "body": "霧雨。最高31.6℃ / 最低22.8℃。いまは26.9℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
-  },
-  {
-   "tag": "WIKI",
-   "title": "ルイスバーグ (テネシー州)",
-   "body": "ルイスバーグ（Lewisburg）は、アメリカ合衆国テネシー州の都市。マーシャル郡の郡庁所在地である。人口は1万2288人（2020年）。ナッシュビルの南80キロメートル、アラバマ州…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%82%A4%E3%82%B9%E3%83%90%E3%83%BC%E3%82%B0_(%E3%83%86%E3%83%8D%E3%82%B7%E3%83%BC%E5%B7%9E)"
-  },
-  {
-   "tag": "HN",
-   "title": "DeepSeek V4 Flash 0731",
-   "body": "754ポイント / コメント451件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49214008"
   }
  ]
 }
