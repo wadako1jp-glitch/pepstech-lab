@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-09T04:45:44+09:00",
+ "generated_at": "2026-08-09T05:49:52+09:00",
  "items": [
   {
    "tag": "WIKI",
-   "title": "高陽社",
-   "body": "株式会社高陽社（こうようしゃ）は、岐阜県羽島市に本社を置き、海洋深層水や健康食品などを製造販売する連鎖販売取引企業である。",
+   "title": "カリン (バラ科)",
+   "body": "カリン は、バラ科カリン属の落葉高木である。中国から日本へ渡来した薬用にもされる果樹で、果実は同科のマルメロとよく似る。その果実は石細胞が多く含まれるため硬く生食はできないが、カリン…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E9%AB%98%E9%99%BD%E7%A4%BE"
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AA%E3%83%B3_(%E3%83%90%E3%83%A9%E7%A7%91)"
   },
   {
    "tag": "HN",
-   "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclon…",
-   "body": "311ポイント / コメント99件。",
+   "title": "Voyager 1 FDS Computer Emulator",
+   "body": "62ポイント / コメント12件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49220126"
-  },
-  {
-   "tag": "HN",
-   "title": "Timeline of the OpenAI accidental attack against Hugging Face",
-   "body": "235ポイント / コメント247件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49220609"
+   "url": "https://news.ycombinator.com/item?id=49221679"
   },
   {
    "tag": "WIKI",
-   "title": "ジェントルマン (歌手)",
-   "body": "ジェントルマン はドイツ・オスナブリュック出身のレゲエ歌手である。",
+   "title": "ピーナッツ (漫画)",
+   "body": "『ピーナッツ』 は、チャールズ・M・シュルツによるアメリカ合衆国の漫画、およびそれを原作とするアニメ作品である。漫画は1950年から2000年にかけて、ユナイテッド・フィーチャー・シ…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%E3%83%AB%E3%83%9E%E3%83%B3_(%E6%AD%8C%E6%89%8B)"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%94%E3%83%BC%E3%83%8A%E3%83%83%E3%83%84_(%E6%BC%AB%E7%94%BB)"
+  },
+  {
+   "tag": "HN",
+   "title": "Preventing Misfolding by Preventing Folding",
+   "body": "11ポイント / コメント0件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49169973"
+  },
+  {
+   "tag": "HN",
+   "title": "A physicist rigged his pet hamster’s wheel to upload to Strava",
+   "body": "394ポイント / コメント97件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49189457"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高31.8℃ / 最低23.1℃。いまは23.1℃。",
+   "body": "霧雨。最高31.8℃ / 最低23.1℃。いまは23.2℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
-  },
-  {
-   "tag": "HN",
-   "title": "Gentoo bugzilla closed due AI bot scraper overload",
-   "body": "118ポイント / コメント84件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49221864"
   }
  ]
 }
