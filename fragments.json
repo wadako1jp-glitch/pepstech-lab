@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-08T14:58:16+09:00",
+ "generated_at": "2026-08-08T16:17:33+09:00",
  "items": [
+  {
+   "tag": "WIKI",
+   "title": "戸田公園",
+   "body": "戸田公園（とだこうえん）は、埼玉県戸田市に位置する埼玉県営の都市公園（総合公園）である。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E6%88%B8%E7%94%B0%E5%85%AC%E5%9C%92"
+  },
+  {
+   "tag": "HN",
+   "title": "Making Postgres 300x faster for analytics: batching, operator fusion,…",
+   "body": "271ポイント / コメント136件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49208535"
+  },
+  {
+   "tag": "WIKI",
+   "title": "黒須春次",
+   "body": "黒須 春次 は、日本の柔術家、柔道家（講道館9段・大日本武徳会教士）、政治家。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E9%BB%92%E9%A0%88%E6%98%A5%E6%AC%A1"
+  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "晴れ。最高32.9℃ / 最低25.3℃。いまは33.0℃。",
+   "body": "晴れ。最高33.0℃ / 最低25.3℃。いまは32.0℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "An all-sky map of half a million supermassive black holes",
-   "body": "158ポイント / コメント37件。",
+   "title": "Water system controllers don't belong on the internet, says ex-NSA ch…",
+   "body": "175ポイント / コメント115件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49211921"
-  },
-  {
-   "tag": "WIKI",
-   "title": "アントニー・アシュリー＝クーパー (第5代シャフツベリ伯爵)",
-   "body": "第5代シャフツベリ伯爵アントニー・アシュリー＝クーパー は、イギリスの貴族。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%88%E3%83%8B%E3%83%BC%E3%83%BB%E3%82%A2%E3%82%B7%E3%83%A5%E3%83%AA%E3%83%BC%EF%BC%9D%E3%82%AF%E3%83%BC%E3%83%91%E3%83%BC_(%E7%AC%AC5%E4%BB%A3%E3%82%B7%E3%83%A3%E3%83%95%E3%83%84%E3%83%99%E3%83%AA%E4%BC%AF%E7%88%B5)"
-  },
-  {
-   "tag": "WIKI",
-   "title": "ポン菓子",
-   "body": "ポン菓子（ポンがし）、ドン菓子（ドンがし）とは、米などの穀物に圧力をかけた後に一気に開放することによって膨らませた膨化食品、駄菓子の一種である。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%B3%E8%8F%93%E5%AD%90"
+   "url": "https://news.ycombinator.com/item?id=49216362"
   },
   {
    "tag": "HN",
-   "title": "Show HN: textlog – A quiet, text-only microblogging platform, open-so…",
-   "body": "157ポイント / コメント65件。",
+   "title": "Guarded Methods in OCaml (2025)",
+   "body": "63ポイント / コメント5件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49208458"
-  },
-  {
-   "tag": "HN",
-   "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
-   "body": "180ポイント / コメント58件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49214770"
+   "url": "https://news.ycombinator.com/item?id=49157770"
   }
  ]
 }
