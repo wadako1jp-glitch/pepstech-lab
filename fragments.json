@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-08T08:49:44+09:00",
+ "generated_at": "2026-08-08T11:23:22+09:00",
  "items": [
+  {
+   "tag": "WIKI",
+   "title": "ロンドン・サウスエンド空港",
+   "body": "ロンドン・サウスエンド空港 (ロンドン・サウスエンドくうこう、英語：London Southend Airport)は、イギリスのロンドンにあるコミューター空港である。 実際にはロン…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%B3%E3%83%89%E3%83%B3%E3%83%BB%E3%82%B5%E3%82%A6%E3%82%B9%E3%82%A8%E3%83%B3%E3%83%89%E7%A9%BA%E6%B8%AF"
+  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "晴れ。最高32.4℃ / 最低25.3℃。いまは28.4℃。",
+   "body": "晴れ。最高32.6℃ / 最低25.3℃。いまは31.0℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "DeepSeek V4 Flash 0731",
-   "body": "394ポイント / コメント241件。",
+   "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
+   "body": "155ポイント / コメント53件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49214008"
-  },
-  {
-   "tag": "HN",
-   "title": "Energizing a vacuum-tube flip-flop module from a 1948 IBM system",
-   "body": "18ポイント / コメント3件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49147721"
+   "url": "https://news.ycombinator.com/item?id=49214770"
   },
   {
    "tag": "WIKI",
-   "title": "東山北駅",
-   "body": "東山北駅（ひがしやまきたえき）は、神奈川県足柄上郡山北町向原にある、東海旅客鉄道（JR東海）御殿場線の駅である。駅番号はCB05。",
+   "title": "キャノンデール駅",
+   "body": "キャノンデール駅 は、コネチカット州フェアフィールド郡ウィルトンにあるメトロノース鉄道の駅。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%B1%B1%E5%8C%97%E9%A7%85"
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A3%E3%83%8E%E3%83%B3%E3%83%87%E3%83%BC%E3%83%AB%E9%A7%85"
   },
   {
    "tag": "HN",
-   "title": "AMD acquires Taalas to boost inference performance by etching models …",
-   "body": "879ポイント / コメント659件。",
+   "title": "Making Postgres 300x faster for analytics: batching, operator fusion,…",
+   "body": "253ポイント / コメント119件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49201970"
+   "url": "https://news.ycombinator.com/item?id=49208535"
   },
   {
-   "tag": "WIKI",
-   "title": "コンスタンチン・バリモント",
-   "body": "コンスタンチン・ドミートリエヴィチ・バリモント は、ロシアの象徴主義詩人、訳詞者。ロシア「銀の時代」 における主要な人物の一人。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%81%E3%83%B3%E3%83%BB%E3%83%90%E3%83%AA%E3%83%A2%E3%83%B3%E3%83%88"
+   "tag": "HN",
+   "title": "Captain Bible Reverse Engineering",
+   "body": "14ポイント / コメント3件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49146540"
   }
  ]
 }
