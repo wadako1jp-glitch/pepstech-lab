@@ -1,45 +1,45 @@
 {
- "generated_at": "2026-08-08T11:23:22+09:00",
+ "generated_at": "2026-08-08T13:29:59+09:00",
  "items": [
   {
-   "tag": "WIKI",
-   "title": "ロンドン・サウスエンド空港",
-   "body": "ロンドン・サウスエンド空港 (ロンドン・サウスエンドくうこう、英語：London Southend Airport)は、イギリスのロンドンにあるコミューター空港である。 実際にはロン…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%B3%E3%83%89%E3%83%B3%E3%83%BB%E3%82%B5%E3%82%A6%E3%82%B9%E3%82%A8%E3%83%B3%E3%83%89%E7%A9%BA%E6%B8%AF"
+   "tag": "HN",
+   "title": "Why Are There Statues of Beavers on Top of This Oxford Street Shop?",
+   "body": "56ポイント / コメント34件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49158302"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "晴れ。最高32.6℃ / 最低25.3℃。いまは31.0℃。",
+   "body": "晴れ。最高32.6℃ / 最低25.3℃。いまは32.2℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
+   "tag": "WIKI",
+   "title": "カーティス・ロウ",
+   "body": "カーティス・ロウ・ジュニア は、アメリカ合衆国の元プロバスケットボール選手。身長201cm、体重102kg。ポジションはパワーフォワード。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%BC%E3%83%86%E3%82%A3%E3%82%B9%E3%83%BB%E3%83%AD%E3%82%A6"
+  },
+  {
    "tag": "HN",
-   "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
-   "body": "155ポイント / コメント53件。",
+   "title": "The Nixpkgs core team has disbanded",
+   "body": "174ポイント / コメント74件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49214770"
+   "url": "https://news.ycombinator.com/item?id=49217993"
   },
   {
    "tag": "WIKI",
-   "title": "キャノンデール駅",
-   "body": "キャノンデール駅 は、コネチカット州フェアフィールド郡ウィルトンにあるメトロノース鉄道の駅。",
+   "title": "川又常行",
+   "body": "川又 常行 とは、江戸時代中期の浮世絵師。 川又派の祖。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A3%E3%83%8E%E3%83%B3%E3%83%87%E3%83%BC%E3%83%AB%E9%A7%85"
-  },
-  {
-   "tag": "HN",
-   "title": "Making Postgres 300x faster for analytics: batching, operator fusion,…",
-   "body": "253ポイント / コメント119件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49208535"
+   "url": "https://ja.wikipedia.org/wiki/%E5%B7%9D%E5%8F%88%E5%B8%B8%E8%A1%8C"
   },
   {
    "tag": "HN",
    "title": "Captain Bible Reverse Engineering",
-   "body": "14ポイント / コメント3件。",
+   "body": "21ポイント / コメント2件。",
    "src": "news.ycombinator.com",
    "url": "https://news.ycombinator.com/item?id=49146540"
   }
