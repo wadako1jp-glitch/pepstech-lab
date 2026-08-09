@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-09T11:30:55+09:00",
+ "generated_at": "2026-08-09T13:38:33+09:00",
  "items": [
   {
    "tag": "WIKI",
-   "title": "キタラ",
-   "body": "キタラ は、ツィターなどの系列にある古代ギリシアの弦楽器である。キタラーとも。ラテン語では「cithara」と綴られ、キタラまたは中世以降はチタラと発音される。近代ギリシア語では本来…",
+   "title": "法泉寺 (市川市)",
+   "body": "法泉寺（ほうせんじ）は、千葉県市川市にある浄土宗の寺院。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%82%BF%E3%83%A9"
+   "url": "https://ja.wikipedia.org/wiki/%E6%B3%95%E6%B3%89%E5%AF%BA_(%E5%B8%82%E5%B7%9D%E5%B8%82)"
+  },
+  {
+   "tag": "HN",
+   "title": "Making difficulty curves in games",
+   "body": "80ポイント / コメント32件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49180649"
+  },
+  {
+   "tag": "HN",
+   "title": "Melatonin impairs morning cognition in healthy young adults",
+   "body": "7ポイント / コメント0件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49227365"
+  },
+  {
+   "tag": "HN",
+   "title": "Os8088: A powerful Mac-like OS for the IBM XT, 286, 386",
+   "body": "92ポイント / コメント35件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49226923"
+  },
+  {
+   "tag": "WIKI",
+   "title": "ザクセン＝コーブルク＝ゴータ家",
+   "body": "ザクセン＝コーブルク＝ゴータ家 は、ヴェッティン家（エルネスティン家）の分家で、ドイツ中部にあったザクセン＝コーブルクおよびザクセン＝ゴータの2つの領邦からなるザクセン＝コーブルク＝…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%B6%E3%82%AF%E3%82%BB%E3%83%B3%EF%BC%9D%E3%82%B3%E3%83%BC%E3%83%96%E3%83%AB%E3%82%AF%EF%BC%9D%E3%82%B4%E3%83%BC%E3%82%BF%E5%AE%B6"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高31.6℃ / 最低22.8℃。いまは30.0℃。",
+   "body": "霧雨。最高31.6℃ / 最低22.8℃。いまは31.2℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
-  },
-  {
-   "tag": "HN",
-   "title": "“Code was never the hard part” is an insult to all programmers",
-   "body": "591ポイント / コメント368件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49222189"
-  },
-  {
-   "tag": "WIKI",
-   "title": "NHK小坂ラジオ中継局",
-   "body": "NHK小坂ラジオ中継局（エヌエイチケイこさかラジオちゅうけいきょく）は、秋田県鹿角郡小坂町にあるNHK秋田放送局AM放送（旧ラジオ第1放送）の中継局。正式な名称は、放送局としてはNH…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/NHK%E5%B0%8F%E5%9D%82%E3%83%A9%E3%82%B8%E3%82%AA%E4%B8%AD%E7%B6%99%E5%B1%80"
-  },
-  {
-   "tag": "HN",
-   "title": "DDisasm: Reversible (bi-directional) Disassembler",
-   "body": "22ポイント / コメント4件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49151146"
-  },
-  {
-   "tag": "HN",
-   "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclon…",
-   "body": "393ポイント / コメント118件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49220126"
   }
  ]
 }
