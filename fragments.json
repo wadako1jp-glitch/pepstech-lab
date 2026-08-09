@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-10T02:49:00+09:00",
+ "generated_at": "2026-08-10T04:03:06+09:00",
  "items": [
+  {
+   "tag": "HN",
+   "title": "Show HN: A Project Oberon System version running on RISC-V instead of…",
+   "body": "79ポイント / コメント16件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49230891"
+  },
+  {
+   "tag": "HN",
+   "title": "Cross-compilation with Wails (2025)",
+   "body": "3ポイント / コメント0件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49188559"
+  },
+  {
+   "tag": "HN",
+   "title": "If experience is the goal, then you always win",
+   "body": "3ポイント / コメント0件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49234279"
+  },
+  {
+   "tag": "WIKI",
+   "title": "イバン・ピリス",
+   "body": "イバン・ロドリゴ・ピリス・レギサモン は、パラグアイ・中央県イタグア出身の同国代表サッカー選手。ニューウェルズ・オールドボーイズ所属。ポジションはDF。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%90%E3%83%B3%E3%83%BB%E3%83%94%E3%83%AA%E3%82%B9"
+  },
+  {
+   "tag": "WIKI",
+   "title": "円頓寺 (大田区)",
+   "body": "円頓寺（えんとんじ）は、東京都大田区にある日蓮宗の寺院。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%86%86%E9%A0%93%E5%AF%BA_(%E5%A4%A7%E7%94%B0%E5%8C%BA)"
+  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "曇り。最高30.0℃ / 最低22.9℃。いまは23.8℃。",
+   "body": "薄曇り。最高30.4℃ / 最低22.8℃。いまは22.9℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
-  },
-  {
-   "tag": "WIKI",
-   "title": "鷹巣 (北秋田市)",
-   "body": "鷹巣（たかのす）は、秋田県北秋田市鷹巣地区にある大字。郵便番号は018-3331で、平崎上岱（南鷹巣）は018-3332を使用する。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E9%B7%B9%E5%B7%A3_(%E5%8C%97%E7%A7%8B%E7%94%B0%E5%B8%82)"
-  },
-  {
-   "tag": "WIKI",
-   "title": "島根あさひ社会復帰促進センター",
-   "body": "島根あさひ社会復帰促進センター は、島根県浜田市旭町にある刑務所。PFI手法を採用し、2008年10月に開所された。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%B3%B6%E6%A0%B9%E3%81%82%E3%81%95%E3%81%B2%E7%A4%BE%E4%BC%9A%E5%BE%A9%E5%B8%B0%E4%BF%83%E9%80%B2%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC"
-  },
-  {
-   "tag": "HN",
-   "title": "John C. Lilly on solid state intelligence and the elimination of man …",
-   "body": "57ポイント / コメント22件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49231397"
-  },
-  {
-   "tag": "HN",
-   "title": "Tom Stanton's supersonic trebuchet breaks sound barrier with gravity …",
-   "body": "83ポイント / コメント24件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49232110"
-  },
-  {
-   "tag": "HN",
-   "title": "Show HN: Airy – Free, fast, and simple voice content creation",
-   "body": "24ポイント / コメント12件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49229848"
   }
  ]
 }
