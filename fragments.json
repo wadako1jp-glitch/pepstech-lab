@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-09T20:47:00+09:00",
+ "generated_at": "2026-08-09T22:17:25+09:00",
  "items": [
   {
-   "tag": "WIKI",
-   "title": "三島共立病院",
-   "body": "三島共立病院（みしまきょうりつびょういん）は、医療法人社団静岡健生会が静岡県三島市に設置する病院。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E5%B3%B6%E5%85%B1%E7%AB%8B%E7%97%85%E9%99%A2"
+   "tag": "HN",
+   "title": "Protopia",
+   "body": "30ポイント / コメント24件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49168282"
   },
   {
    "tag": "HN",
-   "title": "Improving Heuristics for A* Pathfinding",
-   "body": "263ポイント / コメント26件。",
+   "title": "Should you stop cracking your knuckles?",
+   "body": "74ポイント / コメント77件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49079995"
-  },
-  {
-   "tag": "WIKI",
-   "title": "エドウィン・スティーヴンス",
-   "body": "エドウィン・スティーヴンス は、アメリカ合衆国の俳優、映画監督である。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%89%E3%82%A6%E3%82%A3%E3%83%B3%E3%83%BB%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%83%B4%E3%83%B3%E3%82%B9"
-  },
-  {
-   "tag": "HN",
-   "title": "The original URL for this prediction will no longer be available in 1…",
-   "body": "157ポイント / コメント71件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49228458"
+   "url": "https://news.ycombinator.com/item?id=49226563"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "薄曇り。最高31.6℃ / 最低22.8℃。いまは26.5℃。",
+   "body": "小雨。最高31.6℃ / 最低22.8℃。いまは24.1℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "There Are Magic Hexagons of Every Order",
-   "body": "53ポイント / コメント10件。",
+   "title": "Os8088: A powerful Mac-like OS for the IBM XT, 286, 386",
+   "body": "201ポイント / コメント120件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49229174"
+   "url": "https://news.ycombinator.com/item?id=49226923"
+  },
+  {
+   "tag": "WIKI",
+   "title": "田主丸町",
+   "body": "田主丸町（たぬしまるまち）は、かつて福岡県の中南部に位置した町。浮羽郡に属していた。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E7%94%B0%E4%B8%BB%E4%B8%B8%E7%94%BA"
+  },
+  {
+   "tag": "WIKI",
+   "title": "徳沢駅",
+   "body": "徳沢駅（とくさわえき）は、福島県耶麻郡西会津町群岡（むらおか）にある、東日本旅客鉄道（JR東日本）磐越西線の駅である。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%BE%B3%E6%B2%A2%E9%A7%85"
   }
  ]
 }
