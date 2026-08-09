@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-10T04:03:06+09:00",
+ "generated_at": "2026-08-10T04:49:45+09:00",
  "items": [
   {
-   "tag": "HN",
-   "title": "Show HN: A Project Oberon System version running on RISC-V instead of…",
-   "body": "79ポイント / コメント16件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49230891"
-  },
-  {
-   "tag": "HN",
-   "title": "Cross-compilation with Wails (2025)",
-   "body": "3ポイント / コメント0件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49188559"
-  },
-  {
-   "tag": "HN",
-   "title": "If experience is the goal, then you always win",
-   "body": "3ポイント / コメント0件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49234279"
+   "tag": "WIKI",
+   "title": "井土ヶ谷駅",
+   "body": "井土ヶ谷駅（いどがやえき）は、神奈川県横浜市南区井土ケ谷中町にある、京浜急行電鉄本線の駅である。駅番号はKK42。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E4%BA%95%E5%9C%9F%E3%83%B6%E8%B0%B7%E9%A7%85"
   },
   {
    "tag": "WIKI",
-   "title": "イバン・ピリス",
-   "body": "イバン・ロドリゴ・ピリス・レギサモン は、パラグアイ・中央県イタグア出身の同国代表サッカー選手。ニューウェルズ・オールドボーイズ所属。ポジションはDF。",
+   "title": "ヘンリク・ルボミルスキ",
+   "body": "ヘンリク・ルドヴィク・ルボミルスキ は、オーストリア領ガリツィアのポーランド人貴族、篤志家。ルボミルスキ家の公。プシェヴォルスクの初代オルディナト。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%90%E3%83%B3%E3%83%BB%E3%83%94%E3%83%AA%E3%82%B9"
-  },
-  {
-   "tag": "WIKI",
-   "title": "円頓寺 (大田区)",
-   "body": "円頓寺（えんとんじ）は、東京都大田区にある日蓮宗の寺院。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%86%86%E9%A0%93%E5%AF%BA_(%E5%A4%A7%E7%94%B0%E5%8C%BA)"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%98%E3%83%B3%E3%83%AA%E3%82%AF%E3%83%BB%E3%83%AB%E3%83%9C%E3%83%9F%E3%83%AB%E3%82%B9%E3%82%AD"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "薄曇り。最高30.4℃ / 最低22.8℃。いまは22.9℃。",
+   "body": "薄曇り。最高30.4℃ / 最低22.8℃。いまは22.8℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
+  },
+  {
+   "tag": "HN",
+   "title": "Tom Stanton's supersonic trebuchet breaks sound barrier with gravity …",
+   "body": "144ポイント / コメント41件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49232110"
+  },
+  {
+   "tag": "HN",
+   "title": "Silicon Valley misreads science fiction and undermines democracy",
+   "body": "187ポイント / コメント148件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49232221"
+  },
+  {
+   "tag": "HN",
+   "title": "Cool URIs Don't Change (1998)",
+   "body": "99ポイント / コメント15件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49231809"
   }
  ]
 }
