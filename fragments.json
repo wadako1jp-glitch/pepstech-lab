@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-09T08:46:33+09:00",
+ "generated_at": "2026-08-09T11:30:55+09:00",
  "items": [
   {
    "tag": "WIKI",
-   "title": "アイルランド自由国",
-   "body": "アイルランド自由国 は、1922年にアイルランド島32県のうちの南部26県がイギリス（グレートブリテン及びアイルランド連合王国）から分離して成立した立憲君主制国家である。",
+   "title": "キタラ",
+   "body": "キタラ は、ツィターなどの系列にある古代ギリシアの弦楽器である。キタラーとも。ラテン語では「cithara」と綴られ、キタラまたは中世以降はチタラと発音される。近代ギリシア語では本来…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%83%AB%E3%83%A9%E3%83%B3%E3%83%89%E8%87%AA%E7%94%B1%E5%9B%BD"
-  },
-  {
-   "tag": "WIKI",
-   "title": "三芳村 (千葉県)",
-   "body": "三芳村（みよしむら）は、かつて千葉県安房郡に存在した村。旧平郡の一部を含む。館山都市圏に属していた。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8A%B3%E6%9D%91_(%E5%8D%83%E8%91%89%E7%9C%8C)"
-  },
-  {
-   "tag": "HN",
-   "title": "Maryland Closes More of Cunningham Falls State Park After Second Beav…",
-   "body": "66ポイント / コメント30件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49225918"
-  },
-  {
-   "tag": "HN",
-   "title": "Building a local positioning system to track runners using Ultra-Wide…",
-   "body": "30ポイント / コメント1件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49133850"
-  },
-  {
-   "tag": "HN",
-   "title": "Making difficulty curves in games",
-   "body": "34ポイント / コメント6件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49180649"
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%82%BF%E3%83%A9"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高31.6℃ / 最低22.8℃。いまは26.9℃。",
+   "body": "霧雨。最高31.6℃ / 最低22.8℃。いまは30.0℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
+  },
+  {
+   "tag": "HN",
+   "title": "“Code was never the hard part” is an insult to all programmers",
+   "body": "591ポイント / コメント368件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49222189"
+  },
+  {
+   "tag": "WIKI",
+   "title": "NHK小坂ラジオ中継局",
+   "body": "NHK小坂ラジオ中継局（エヌエイチケイこさかラジオちゅうけいきょく）は、秋田県鹿角郡小坂町にあるNHK秋田放送局AM放送（旧ラジオ第1放送）の中継局。正式な名称は、放送局としてはNH…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/NHK%E5%B0%8F%E5%9D%82%E3%83%A9%E3%82%B8%E3%82%AA%E4%B8%AD%E7%B6%99%E5%B1%80"
+  },
+  {
+   "tag": "HN",
+   "title": "DDisasm: Reversible (bi-directional) Disassembler",
+   "body": "22ポイント / コメント4件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49151146"
+  },
+  {
+   "tag": "HN",
+   "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclon…",
+   "body": "393ポイント / コメント118件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49220126"
   }
  ]
 }
