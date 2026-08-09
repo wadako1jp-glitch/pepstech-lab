@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-10T01:56:15+09:00",
+ "generated_at": "2026-08-10T02:49:00+09:00",
  "items": [
-  {
-   "tag": "HN",
-   "title": "Honey, I shrunk the embeddings: Matryoshka vs. PCA",
-   "body": "55ポイント / コメント9件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49156607"
-  },
-  {
-   "tag": "HN",
-   "title": "Criminal Deception in Silicon Valley",
-   "body": "26ポイント / コメント2件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49232318"
-  },
-  {
-   "tag": "WIKI",
-   "title": "滋賀県立水口東中学校・高等学校",
-   "body": "滋賀県立水口東中学校・高等学校 は、滋賀県甲賀市水口町古城が丘にある県立中高一貫校。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%BB%8B%E8%B3%80%E7%9C%8C%E7%AB%8B%E6%B0%B4%E5%8F%A3%E6%9D%B1%E4%B8%AD%E5%AD%A6%E6%A0%A1%E3%83%BB%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1"
-  },
-  {
-   "tag": "HN",
-   "title": "The Alpha 21264 CPU: NT's Greatest RISC (1998)",
-   "body": "55ポイント / コメント38件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49230022"
-  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高30.0℃ / 最低22.8℃。いまは23.5℃。",
+   "body": "曇り。最高30.0℃ / 最低22.9℃。いまは23.8℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "WIKI",
-   "title": "鳴子温泉",
-   "body": "鳴子温泉（なるこおんせん、なるごおんせん）は、宮城県（旧国陸奥国、明治以降は陸前国）大崎市鳴子温泉にある温泉。栗駒国定公園内に位置し、福島県の飯坂温泉、宮城県の秋保温泉とともに奥州三…",
+   "title": "鷹巣 (北秋田市)",
+   "body": "鷹巣（たかのす）は、秋田県北秋田市鷹巣地区にある大字。郵便番号は018-3331で、平崎上岱（南鷹巣）は018-3332を使用する。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E9%B3%B4%E5%AD%90%E6%B8%A9%E6%B3%89"
+   "url": "https://ja.wikipedia.org/wiki/%E9%B7%B9%E5%B7%A3_(%E5%8C%97%E7%A7%8B%E7%94%B0%E5%B8%82)"
+  },
+  {
+   "tag": "WIKI",
+   "title": "島根あさひ社会復帰促進センター",
+   "body": "島根あさひ社会復帰促進センター は、島根県浜田市旭町にある刑務所。PFI手法を採用し、2008年10月に開所された。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%B3%B6%E6%A0%B9%E3%81%82%E3%81%95%E3%81%B2%E7%A4%BE%E4%BC%9A%E5%BE%A9%E5%B8%B0%E4%BF%83%E9%80%B2%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC"
+  },
+  {
+   "tag": "HN",
+   "title": "John C. Lilly on solid state intelligence and the elimination of man …",
+   "body": "57ポイント / コメント22件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49231397"
+  },
+  {
+   "tag": "HN",
+   "title": "Tom Stanton's supersonic trebuchet breaks sound barrier with gravity …",
+   "body": "83ポイント / コメント24件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49232110"
+  },
+  {
+   "tag": "HN",
+   "title": "Show HN: Airy – Free, fast, and simple voice content creation",
+   "body": "24ポイント / コメント12件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49229848"
   }
  ]
 }
