@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-10T00:48:27+09:00",
+ "generated_at": "2026-08-10T01:56:15+09:00",
  "items": [
+  {
+   "tag": "HN",
+   "title": "Honey, I shrunk the embeddings: Matryoshka vs. PCA",
+   "body": "55ポイント / コメント9件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49156607"
+  },
+  {
+   "tag": "HN",
+   "title": "Criminal Deception in Silicon Valley",
+   "body": "26ポイント / コメント2件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49232318"
+  },
+  {
+   "tag": "WIKI",
+   "title": "滋賀県立水口東中学校・高等学校",
+   "body": "滋賀県立水口東中学校・高等学校 は、滋賀県甲賀市水口町古城が丘にある県立中高一貫校。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E6%BB%8B%E8%B3%80%E7%9C%8C%E7%AB%8B%E6%B0%B4%E5%8F%A3%E6%9D%B1%E4%B8%AD%E5%AD%A6%E6%A0%A1%E3%83%BB%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1"
+  },
+  {
+   "tag": "HN",
+   "title": "The Alpha 21264 CPU: NT's Greatest RISC (1998)",
+   "body": "55ポイント / コメント38件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49230022"
+  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高30.0℃ / 最低22.8℃。いまは23.6℃。",
+   "body": "霧雨。最高30.0℃ / 最低22.8℃。いまは23.5℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "HN",
-   "title": "The Grid That Doubles the Strength of the Ground",
-   "body": "92ポイント / コメント19件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49178476"
-  },
-  {
-   "tag": "HN",
-   "title": "70% of AI revenue comes from OpenAI and Anthropic",
-   "body": "39ポイント / コメント18件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49230605"
-  },
-  {
-   "tag": "HN",
-   "title": "Stylized GGX Shading",
-   "body": "48ポイント / コメント0件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49167096"
-  },
-  {
    "tag": "WIKI",
-   "title": "海南病院",
-   "body": "愛知県厚生農業協同組合連合会海南病院（あいちけんこうせいのうぎょうきょうどうくみあいれんごうかいかいなんびょういん）は、愛知県弥富市にある、JA愛知厚生連（愛知県厚生農業協同組合連合…",
+   "title": "鳴子温泉",
+   "body": "鳴子温泉（なるこおんせん、なるごおんせん）は、宮城県（旧国陸奥国、明治以降は陸前国）大崎市鳴子温泉にある温泉。栗駒国定公園内に位置し、福島県の飯坂温泉、宮城県の秋保温泉とともに奥州三…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%B5%B7%E5%8D%97%E7%97%85%E9%99%A2"
-  },
-  {
-   "tag": "WIKI",
-   "title": "もろこし",
-   "body": "もろこし（諸越）は、秋田県地方で作られている小豆粉を使用した銘菓であり、落雁の一種である。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%82%E3%82%8D%E3%81%93%E3%81%97"
+   "url": "https://ja.wikipedia.org/wiki/%E9%B3%B4%E5%AD%90%E6%B8%A9%E6%B3%89"
   }
  ]
 }
