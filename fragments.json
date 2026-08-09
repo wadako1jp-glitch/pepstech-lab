@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-09T22:17:25+09:00",
+ "generated_at": "2026-08-09T23:54:35+09:00",
  "items": [
   {
    "tag": "HN",
-   "title": "Protopia",
-   "body": "30ポイント / コメント24件。",
+   "title": "My server is a phone now",
+   "body": "418ポイント / コメント186件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49168282"
+   "url": "https://news.ycombinator.com/item?id=49226636"
   },
   {
    "tag": "HN",
-   "title": "Should you stop cracking your knuckles?",
-   "body": "74ポイント / コメント77件。",
+   "title": "Why Wall Street Is Ignoring Big Tech's Debt",
+   "body": "44ポイント / コメント36件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49226563"
+   "url": "https://news.ycombinator.com/item?id=49230630"
+  },
+  {
+   "tag": "WIKI",
+   "title": "東京都立足立東高等学校",
+   "body": "東京都立足立東高等学校（とうきょうとりつあだちひがしこうとうがっこう）は、東京都足立区大谷田二丁目に所在する東京都立高等学校",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%AB%8B%E8%B6%B3%E7%AB%8B%E6%9D%B1%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1"
+  },
+  {
+   "tag": "HN",
+   "title": "There Are Magic Hexagons of Every Order",
+   "body": "117ポイント / コメント20件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49229174"
+  },
+  {
+   "tag": "WIKI",
+   "title": "マリオン郡 (オレゴン州)",
+   "body": "マリオン郡 は、アメリカ合衆国オレゴン州にある郡の一つである。人口は37万5908人（2020年）。郡庁所在地はセイラムである。セイラム都市圏の一部を形成している。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AA%E3%82%AA%E3%83%B3%E9%83%A1_(%E3%82%AA%E3%83%AC%E3%82%B4%E3%83%B3%E5%B7%9E)"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "小雨。最高31.6℃ / 最低22.8℃。いまは24.1℃。",
+   "body": "小雨。最高31.6℃ / 最低22.8℃。いまは23.8℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
-  },
-  {
-   "tag": "HN",
-   "title": "Os8088: A powerful Mac-like OS for the IBM XT, 286, 386",
-   "body": "201ポイント / コメント120件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49226923"
-  },
-  {
-   "tag": "WIKI",
-   "title": "田主丸町",
-   "body": "田主丸町（たぬしまるまち）は、かつて福岡県の中南部に位置した町。浮羽郡に属していた。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E7%94%B0%E4%B8%BB%E4%B8%B8%E7%94%BA"
-  },
-  {
-   "tag": "WIKI",
-   "title": "徳沢駅",
-   "body": "徳沢駅（とくさわえき）は、福島県耶麻郡西会津町群岡（むらおか）にある、東日本旅客鉄道（JR東日本）磐越西線の駅である。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%BE%B3%E6%B2%A2%E9%A7%85"
   }
  ]
 }
