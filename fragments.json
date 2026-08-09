@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-10T07:52:15+09:00",
+ "generated_at": "2026-08-10T08:48:43+09:00",
  "items": [
+  {
+   "tag": "WIKI",
+   "title": "カンディダ",
+   "body": "カンディダ は、イタリア共和国カンパニア州アヴェッリーノ県にある、人口約1,100人の基礎自治体（コムーネ）。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%B3%E3%83%87%E3%82%A3%E3%83%80"
+  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "薄曇り。最高30.4℃ / 最低22.8℃。いまは25.0℃。",
+   "body": "薄曇り。最高30.5℃ / 最低22.8℃。いまは26.4℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
+   "tag": "HN",
+   "title": "The Alpha 21264 CPU: NT's Greatest RISC (1998)",
+   "body": "77ポイント / コメント63件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49230022"
+  },
+  {
    "tag": "WIKI",
-   "title": "ワーク包囲戦 (1138年)",
-   "body": "ワーク包囲戦（ワークほういせん）とは、1138年5月から11月にかけて、スコットランド王デイヴィッド1世率いるスコットランド軍が、イングランド駐屯群が守備を固めるワーク・オン・ツイー…",
+   "title": "マウント・オーバーン墓地",
+   "body": "マウント・オーバーン墓地 は、マサチューセッツ州ミドルセックス郡、ケンブリッジとウォータータウンの境界線上、ボストンから西に4マイル (6.4km) の位置に所在するアメリカ合衆国初…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%AF%E3%83%BC%E3%82%AF%E5%8C%85%E5%9B%B2%E6%88%A6_(1138%E5%B9%B4)"
-  },
-  {
-   "tag": "WIKI",
-   "title": "バカとテストと召喚獣",
-   "body": "『バカとテストと召喚獣』（バカとテストとしょうかんじゅう）は、井上堅二による日本のライトノベル作品、およびそれを原作としたメディアミックス作品。イラストは葉賀ユイが担当。学力試験の点…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%AB%E3%81%A8%E3%83%86%E3%82%B9%E3%83%88%E3%81%A8%E5%8F%AC%E5%96%9A%E7%8D%A3"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%A6%E3%83%B3%E3%83%88%E3%83%BB%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%83%B3%E5%A2%93%E5%9C%B0"
   },
   {
    "tag": "HN",
-   "title": "Andrew Wiles on proving Fermat’s Last Theorem (1995) [video]",
-   "body": "17ポイント / コメント9件。",
+   "title": "Crickets as pets",
+   "body": "75ポイント / コメント33件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49203626"
+   "url": "https://news.ycombinator.com/item?id=49183291"
   },
   {
    "tag": "HN",
-   "title": "Windows 11's built-in Weather app wastes more than 1 GB of RAM",
-   "body": "296ポイント / コメント252件。",
+   "title": "Everything you do is being recorded",
+   "body": "182ポイント / コメント139件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49232138"
-  },
-  {
-   "tag": "HN",
-   "title": "OpenChamber: An Agentic Development Environment",
-   "body": "88ポイント / コメント46件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49233448"
+   "url": "https://news.ycombinator.com/item?id=49230477"
   }
  ]
 }
