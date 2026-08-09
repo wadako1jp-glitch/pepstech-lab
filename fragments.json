@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-09T23:54:35+09:00",
+ "generated_at": "2026-08-10T00:48:27+09:00",
  "items": [
-  {
-   "tag": "HN",
-   "title": "My server is a phone now",
-   "body": "418ポイント / コメント186件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49226636"
-  },
-  {
-   "tag": "HN",
-   "title": "Why Wall Street Is Ignoring Big Tech's Debt",
-   "body": "44ポイント / コメント36件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49230630"
-  },
-  {
-   "tag": "WIKI",
-   "title": "東京都立足立東高等学校",
-   "body": "東京都立足立東高等学校（とうきょうとりつあだちひがしこうとうがっこう）は、東京都足立区大谷田二丁目に所在する東京都立高等学校",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%AB%8B%E8%B6%B3%E7%AB%8B%E6%9D%B1%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1"
-  },
-  {
-   "tag": "HN",
-   "title": "There Are Magic Hexagons of Every Order",
-   "body": "117ポイント / コメント20件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49229174"
-  },
-  {
-   "tag": "WIKI",
-   "title": "マリオン郡 (オレゴン州)",
-   "body": "マリオン郡 は、アメリカ合衆国オレゴン州にある郡の一つである。人口は37万5908人（2020年）。郡庁所在地はセイラムである。セイラム都市圏の一部を形成している。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AA%E3%82%AA%E3%83%B3%E9%83%A1_(%E3%82%AA%E3%83%AC%E3%82%B4%E3%83%B3%E5%B7%9E)"
-  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "小雨。最高31.6℃ / 最低22.8℃。いまは23.8℃。",
+   "body": "霧雨。最高30.0℃ / 最低22.8℃。いまは23.6℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
+  },
+  {
+   "tag": "HN",
+   "title": "The Grid That Doubles the Strength of the Ground",
+   "body": "92ポイント / コメント19件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49178476"
+  },
+  {
+   "tag": "HN",
+   "title": "70% of AI revenue comes from OpenAI and Anthropic",
+   "body": "39ポイント / コメント18件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49230605"
+  },
+  {
+   "tag": "HN",
+   "title": "Stylized GGX Shading",
+   "body": "48ポイント / コメント0件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49167096"
+  },
+  {
+   "tag": "WIKI",
+   "title": "海南病院",
+   "body": "愛知県厚生農業協同組合連合会海南病院（あいちけんこうせいのうぎょうきょうどうくみあいれんごうかいかいなんびょういん）は、愛知県弥富市にある、JA愛知厚生連（愛知県厚生農業協同組合連合…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E6%B5%B7%E5%8D%97%E7%97%85%E9%99%A2"
+  },
+  {
+   "tag": "WIKI",
+   "title": "もろこし",
+   "body": "もろこし（諸越）は、秋田県地方で作られている小豆粉を使用した銘菓であり、落雁の一種である。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%82%E3%82%8D%E3%81%93%E3%81%97"
   }
  ]
 }
