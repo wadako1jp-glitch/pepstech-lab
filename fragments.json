@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-09T16:18:47+09:00",
+ "generated_at": "2026-08-09T18:04:42+09:00",
  "items": [
   {
-   "tag": "WIKI",
-   "title": "研究ニュース",
-   "body": "研究ニュース（けんきゅうニュース）とは、日本の中央競馬専門の競馬新聞である。発行元は株式会社ケイバブック大阪支社。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E7%A0%94%E7%A9%B6%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9"
+   "tag": "HN",
+   "title": "Melatonin impairs morning cognition in healthy young adults (2023)",
+   "body": "116ポイント / コメント69件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49227365"
   },
   {
    "tag": "HN",
-   "title": "Shopify replaced Redis with MySQL for inventory reservations–and it s…",
-   "body": "157ポイント / コメント88件。",
+   "title": "The original URL for this prediction will no longer be available in 1…",
+   "body": "136ポイント / コメント55件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49226536"
-  },
-  {
-   "tag": "WIKI",
-   "title": "列車防護無線装置",
-   "body": "列車防護無線装置 は、鉄道信号の発報信号で、鉄道において緊急時に列車から無線信号を発信し、付近を走行する列車に停止信号を現示して列車を停止させ、二次事故を防止するための装置。1962…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%88%97%E8%BB%8A%E9%98%B2%E8%AD%B7%E7%84%A1%E7%B7%9A%E8%A3%85%E7%BD%AE"
+   "url": "https://news.ycombinator.com/item?id=49228458"
   },
   {
    "tag": "HN",
-   "title": "Finding zombies in our systems: A real-world story of CPU bottlenecks",
-   "body": "42ポイント / コメント9件。",
+   "title": "Microsoft Word for Windows 1.1a, Native X64 Port",
+   "body": "59ポイント / コメント19件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49145193"
+   "url": "https://news.ycombinator.com/item?id=49228663"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "曇り。最高31.4℃ / 最低22.8℃。いまは31.3℃。",
+   "body": "曇り。最高31.4℃ / 最低22.8℃。いまは29.8℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "HN",
-   "title": "Open-source interactive map for the Aug 12 total solar eclipse",
-   "body": "129ポイント / コメント28件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49225139"
+   "tag": "WIKI",
+   "title": "イトゥメレング・クーン",
+   "body": "イトゥメレング・アイザック・クーン は、南アフリカ・ベンタースドープ出身のサッカー選手。ポジションはGK。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%88%E3%82%A5%E3%83%A1%E3%83%AC%E3%83%B3%E3%82%B0%E3%83%BB%E3%82%AF%E3%83%BC%E3%83%B3"
+  },
+  {
+   "tag": "WIKI",
+   "title": "春秋経伝集解",
+   "body": "『春秋経伝集解』 は、経書の一つである『春秋左氏伝』（以下『左伝』と呼称）に対する注釈書。西晋の学者である杜預の著作で、単に「左伝注」「杜注」とも呼ばれる。完全な形で現存する最古の『…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E6%98%A5%E7%A7%8B%E7%B5%8C%E4%BC%9D%E9%9B%86%E8%A7%A3"
   }
  ]
 }
