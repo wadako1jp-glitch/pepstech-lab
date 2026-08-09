@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-09T18:58:50+09:00",
+ "generated_at": "2026-08-09T19:53:44+09:00",
  "items": [
   {
-   "tag": "HN",
-   "title": "Retraction: The App Store Rejection of the Week That Was a Correct Re…",
-   "body": "186ポイント / コメント18件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49228166"
+   "tag": "WIKI",
+   "title": "新津油田",
+   "body": "新津油田（にいつゆでん）は新潟県新津市（市町村合併により現在は新潟市秋葉区）に存在した油田。大正末期までの総産油量は新潟の油田の中で第一位であったが、1996年（平成8年）に生産を完…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E6%96%B0%E6%B4%A5%E6%B2%B9%E7%94%B0"
   },
   {
    "tag": "HN",
-   "title": "Illinois just told every operating system to start reporting your kid…",
-   "body": "101ポイント / コメント68件。",
+   "title": "Unexpected events and prosocial behavior: the Batman effect (2025)",
+   "body": "63ポイント / コメント20件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49228350"
+   "url": "https://news.ycombinator.com/item?id=49149163"
+  },
+  {
+   "tag": "WIKI",
+   "title": "同志社大学短期大学部",
+   "body": "同志社大学短期大学部 は、京都府京都市上京区今出川通烏丸東入新小路町に本部を置いていた日本の私立大学である。1950年に設置され、1958年に廃止された。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%90%8C%E5%BF%97%E7%A4%BE%E5%A4%A7%E5%AD%A6%E7%9F%AD%E6%9C%9F%E5%A4%A7%E5%AD%A6%E9%83%A8"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "曇り。最高31.4℃ / 最低22.8℃。いまは28.7℃。",
+   "body": "曇り。最高31.4℃ / 最低22.8℃。いまは27.6℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Building a local positioning system to track runners using Ultra-Wide…",
-   "body": "84ポイント / コメント6件。",
+   "title": "Fastmail offers EU data region",
+   "body": "425ポイント / コメント224件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49133850"
+   "url": "https://news.ycombinator.com/item?id=49223082"
   },
   {
-   "tag": "WIKI",
-   "title": "デンマーク王立バレエ団",
-   "body": "デンマーク王立バレエ団 は、デンマークの首都コペンハーゲンのコンゲンス・ニュートー広場に建つデンマーク王立劇場を拠点とする、国際的に有名なバレエ団である。世界最古のバレエ団の一つで、…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%AF%E7%8E%8B%E7%AB%8B%E3%83%90%E3%83%AC%E3%82%A8%E5%9B%A3"
-  },
-  {
-   "tag": "WIKI",
-   "title": "オールスター大行進",
-   "body": "『オールスター大行進』（オールスターだいこうしん）は、1957年から1968年までTBS系列（1959年までは「ラジオ東京テレビ」）の大晦日（12月31日）に生放送された年末特別番組…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%BC%E5%A4%A7%E8%A1%8C%E9%80%B2"
+   "tag": "HN",
+   "title": "Finding zombies in our systems: A real-world story of CPU bottlenecks",
+   "body": "52ポイント / コメント9件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49145193"
   }
  ]
 }
