@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-09T14:59:53+09:00",
+ "generated_at": "2026-08-09T16:18:47+09:00",
  "items": [
   {
+   "tag": "WIKI",
+   "title": "研究ニュース",
+   "body": "研究ニュース（けんきゅうニュース）とは、日本の中央競馬専門の競馬新聞である。発行元は株式会社ケイバブック大阪支社。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E7%A0%94%E7%A9%B6%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9"
+  },
+  {
    "tag": "HN",
-   "title": "Should you stop cracking your knuckles?",
-   "body": "39ポイント / コメント39件。",
+   "title": "Shopify replaced Redis with MySQL for inventory reservations–and it s…",
+   "body": "157ポイント / コメント88件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49226563"
+   "url": "https://news.ycombinator.com/item?id=49226536"
   },
   {
    "tag": "WIKI",
-   "title": "サン・ラッザロ・ディ・サーヴェナ",
-   "body": "サン・ラッザロ・ディ・サーヴェナ は、イタリア共和国エミリア＝ロマーニャ州ボローニャ県にある、人口約33,000人の基礎自治体（コムーネ）。",
+   "title": "列車防護無線装置",
+   "body": "列車防護無線装置 は、鉄道信号の発報信号で、鉄道において緊急時に列車から無線信号を発信し、付近を走行する列車に停止信号を現示して列車を停止させ、二次事故を防止するための装置。1962…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%BB%E3%83%A9%E3%83%83%E3%82%B6%E3%83%AD%E3%83%BB%E3%83%87%E3%82%A3%E3%83%BB%E3%82%B5%E3%83%BC%E3%83%B4%E3%82%A7%E3%83%8A"
+   "url": "https://ja.wikipedia.org/wiki/%E5%88%97%E8%BB%8A%E9%98%B2%E8%AD%B7%E7%84%A1%E7%B7%9A%E8%A3%85%E7%BD%AE"
+  },
+  {
+   "tag": "HN",
+   "title": "Finding zombies in our systems: A real-world story of CPU bottlenecks",
+   "body": "42ポイント / コメント9件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49145193"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "薄曇り。最高31.3℃ / 最低22.8℃。いまは31.2℃。",
+   "body": "曇り。最高31.4℃ / 最低22.8℃。いまは31.3℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "WIKI",
-   "title": "文化体育観光部",
-   "body": "文化体育観光部 略称文体部（ぶんたいぶ、문체부）とは、大韓民国の国家行政機関。文化体育観光部の長を文化体育観光部長官と称し、国務委員が任命される。日本の、文化庁、観光庁、スポーツ庁に…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%96%87%E5%8C%96%E4%BD%93%E8%82%B2%E8%A6%B3%E5%85%89%E9%83%A8"
-  },
-  {
    "tag": "HN",
-   "title": "Building a local positioning system to track runners using Ultra-Wide…",
-   "body": "59ポイント / コメント4件。",
+   "title": "Open-source interactive map for the Aug 12 total solar eclipse",
+   "body": "129ポイント / コメント28件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49133850"
-  },
-  {
-   "tag": "HN",
-   "title": "Incentives are for losers",
-   "body": "47ポイント / コメント17件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49227652"
+   "url": "https://news.ycombinator.com/item?id=49225139"
   }
  ]
 }
