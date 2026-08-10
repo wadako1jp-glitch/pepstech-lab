@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-11T00:18:41+09:00",
+ "generated_at": "2026-08-11T02:11:07+09:00",
  "items": [
   {
    "tag": "HN",
-   "title": "Cool URIs Don't Change (1998)",
-   "body": "275ポイント / コメント67件。",
+   "title": "Tail-call optimization in C is relatively recent",
+   "body": "82ポイント / コメント53件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49231809"
-  },
-  {
-   "tag": "WIKI",
-   "title": "首都高速4号新宿線",
-   "body": "首都高速4号新宿線（しゅとこうそく4ごうしんじゅくせん）は、東京都千代田区から同杉並区へ至る、首都高速道路の路線である。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E9%A6%96%E9%83%BD%E9%AB%98%E9%80%9F4%E5%8F%B7%E6%96%B0%E5%AE%BF%E7%B7%9A"
-  },
-  {
-   "tag": "WIKI",
-   "title": "長尾鼻",
-   "body": "長尾鼻（ながおはな）（別名、長尾岬、長尾埼）は、鳥取県鳥取市青谷町にある岬。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E9%95%B7%E5%B0%BE%E9%BC%BB"
+   "url": "https://news.ycombinator.com/item?id=49242297"
   },
   {
    "tag": "HN",
-   "title": "OpenAI's letter to Governor Abbott on responsible AI infrastructure i…",
-   "body": "23ポイント / コメント9件。",
+   "title": "Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Serv…",
+   "body": "8ポイント / コメント1件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49244308"
+   "url": "https://news.ycombinator.com/item?id=49246057"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "雨。最高26.0℃ / 最低21.6℃。いまは22.5℃。",
+   "body": "雨。最高26.0℃ / 最低21.6℃。いまは21.9℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Everything you do is being recorded",
-   "body": "383ポイント / コメント329件。",
+   "title": "Magnitude 7.4 Earthquake – 5 km S of San José del Palmar, Colombia",
+   "body": "66ポイント / コメント19件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49230477"
+   "url": "https://news.ycombinator.com/item?id=49245251"
+  },
+  {
+   "tag": "WIKI",
+   "title": "ビラヴド (小説)",
+   "body": "『ビラヴド』(Beloved)は、アメリカの作家トニ・モリスンによる1987年の小説である。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%93%E3%83%A9%E3%83%B4%E3%83%89_(%E5%B0%8F%E8%AA%AC)"
+  },
+  {
+   "tag": "WIKI",
+   "title": "正徳帝",
+   "body": "正徳帝（せいとくてい）は、明の第11代皇帝。諱は厚㷖（こうしょう）。廟号は武宗 （ぶそう）。日本では治世の元号から一般に正徳帝と称されている。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E6%AD%A3%E5%BE%B3%E5%B8%9D"
   }
  ]
 }
