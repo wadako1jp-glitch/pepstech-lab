@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-10T11:36:20+09:00",
+ "generated_at": "2026-08-10T13:56:44+09:00",
  "items": [
   {
+   "tag": "WIKI",
+   "title": "ライム",
+   "body": "ライム とは、柑橘類の一種。樹木としてはインドからミャンマー、マレーシア一帯の熱帯地域を原産とする低木。果実としてはライムの木の実である。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A4%E3%83%A0"
+  },
+  {
+   "tag": "WIKI",
+   "title": "徳島県立脇町高等学校",
+   "body": "徳島県立脇町高等学校（とくしまけんりつわきまちこうとうがっこう）は、徳島県美馬市脇町大字脇町に所在する公立高等学校。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%BE%B3%E5%B3%B6%E7%9C%8C%E7%AB%8B%E8%84%87%E7%94%BA%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1"
+  },
+  {
    "tag": "HN",
-   "title": "Mea Culpa – Dark Hours",
-   "body": "565ポイント / コメント257件。",
+   "title": "Turn satellite imagery into a paper globe you fold yourself",
+   "body": "21ポイント / コメント3件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49231154"
+   "url": "https://news.ycombinator.com/item?id=49238735"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "薄曇り。最高30.7℃ / 最低22.8℃。いまは29.9℃。",
+   "body": "薄曇り。最高30.7℃ / 最低22.8℃。いまは30.7℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "How We Pushed CDC into Postgres",
-   "body": "27ポイント / コメント0件。",
+   "title": "Run Android ARM64 VR APKs on Apple Vision Pro",
+   "body": "10ポイント / コメント0件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49238050"
+   "url": "https://news.ycombinator.com/item?id=49238818"
   },
   {
    "tag": "HN",
-   "title": "Tuxedo No. 2 – Cocktail recipes",
-   "body": "51ポイント / コメント13件。",
+   "title": "What Happened to HackerOne?",
+   "body": "118ポイント / コメント31件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49235697"
-  },
-  {
-   "tag": "WIKI",
-   "title": "高嶋智光",
-   "body": "高嶋 智光 は、日本の元検察官、元法務官僚、弁護士。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E9%AB%98%E5%B6%8B%E6%99%BA%E5%85%89"
-  },
-  {
-   "tag": "WIKI",
-   "title": "エミリア・アントウェルピアナ・ファン・ナッサウ",
-   "body": "エミリア・アントウェルピアナ・ファン・ナッサウ は、プファルツ＝ランツベルク公フリードリヒ・カジミールの妃。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%9F%E3%83%AA%E3%82%A2%E3%83%BB%E3%82%A2%E3%83%B3%E3%83%88%E3%82%A6%E3%82%A7%E3%83%AB%E3%83%94%E3%82%A2%E3%83%8A%E3%83%BB%E3%83%95%E3%82%A1%E3%83%B3%E3%83%BB%E3%83%8A%E3%83%83%E3%82%B5%E3%82%A6"
+   "url": "https://news.ycombinator.com/item?id=49238561"
   }
  ]
 }
