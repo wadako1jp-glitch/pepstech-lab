@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-10T08:48:43+09:00",
+ "generated_at": "2026-08-10T11:36:20+09:00",
  "items": [
   {
-   "tag": "WIKI",
-   "title": "カンディダ",
-   "body": "カンディダ は、イタリア共和国カンパニア州アヴェッリーノ県にある、人口約1,100人の基礎自治体（コムーネ）。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%B3%E3%83%87%E3%82%A3%E3%83%80"
+   "tag": "HN",
+   "title": "Mea Culpa – Dark Hours",
+   "body": "565ポイント / コメント257件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49231154"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "薄曇り。最高30.5℃ / 最低22.8℃。いまは26.4℃。",
+   "body": "薄曇り。最高30.7℃ / 最低22.8℃。いまは29.9℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "The Alpha 21264 CPU: NT's Greatest RISC (1998)",
-   "body": "77ポイント / コメント63件。",
+   "title": "How We Pushed CDC into Postgres",
+   "body": "27ポイント / コメント0件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49230022"
+   "url": "https://news.ycombinator.com/item?id=49238050"
+  },
+  {
+   "tag": "HN",
+   "title": "Tuxedo No. 2 – Cocktail recipes",
+   "body": "51ポイント / コメント13件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49235697"
   },
   {
    "tag": "WIKI",
-   "title": "マウント・オーバーン墓地",
-   "body": "マウント・オーバーン墓地 は、マサチューセッツ州ミドルセックス郡、ケンブリッジとウォータータウンの境界線上、ボストンから西に4マイル (6.4km) の位置に所在するアメリカ合衆国初…",
+   "title": "高嶋智光",
+   "body": "高嶋 智光 は、日本の元検察官、元法務官僚、弁護士。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%A6%E3%83%B3%E3%83%88%E3%83%BB%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%83%B3%E5%A2%93%E5%9C%B0"
+   "url": "https://ja.wikipedia.org/wiki/%E9%AB%98%E5%B6%8B%E6%99%BA%E5%85%89"
   },
   {
-   "tag": "HN",
-   "title": "Crickets as pets",
-   "body": "75ポイント / コメント33件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49183291"
-  },
-  {
-   "tag": "HN",
-   "title": "Everything you do is being recorded",
-   "body": "182ポイント / コメント139件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49230477"
+   "tag": "WIKI",
+   "title": "エミリア・アントウェルピアナ・ファン・ナッサウ",
+   "body": "エミリア・アントウェルピアナ・ファン・ナッサウ は、プファルツ＝ランツベルク公フリードリヒ・カジミールの妃。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%9F%E3%83%AA%E3%82%A2%E3%83%BB%E3%82%A2%E3%83%B3%E3%83%88%E3%82%A6%E3%82%A7%E3%83%AB%E3%83%94%E3%82%A2%E3%83%8A%E3%83%BB%E3%83%95%E3%82%A1%E3%83%B3%E3%83%BB%E3%83%8A%E3%83%83%E3%82%B5%E3%82%A6"
   }
  ]
 }
