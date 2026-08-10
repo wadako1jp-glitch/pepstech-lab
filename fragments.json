@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-11T02:11:07+09:00",
+ "generated_at": "2026-08-11T03:05:21+09:00",
  "items": [
   {
-   "tag": "HN",
-   "title": "Tail-call optimization in C is relatively recent",
-   "body": "82ポイント / コメント53件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49242297"
-  },
-  {
-   "tag": "HN",
-   "title": "Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Serv…",
-   "body": "8ポイント / コメント1件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49246057"
+   "tag": "WIKI",
+   "title": "石川県立野々市明倫高等学校",
+   "body": "石川県立野々市明倫高等学校 は、石川県野々市市下林にある公立の高等学校。県立高校としては比較的新しく設置された。「明倫」の名は、今の兼六園西南部にあった加賀藩の重臣横山氏の邸地に創立…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E7%9F%B3%E5%B7%9D%E7%9C%8C%E7%AB%8B%E9%87%8E%E3%80%85%E5%B8%82%E6%98%8E%E5%80%AB%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "雨。最高26.0℃ / 最低21.6℃。いまは21.9℃。",
+   "body": "雨。最高26.0℃ / 最低21.6℃。いまは21.6℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Magnitude 7.4 Earthquake – 5 km S of San José del Palmar, Colombia",
-   "body": "66ポイント / コメント19件。",
+   "title": "Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Serv…",
+   "body": "27ポイント / コメント8件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49245251"
+   "url": "https://news.ycombinator.com/item?id=49246057"
+  },
+  {
+   "tag": "HN",
+   "title": "Learning more about Claude's mathematical capabilities",
+   "body": "16ポイント / コメント3件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49247070"
   },
   {
    "tag": "WIKI",
-   "title": "ビラヴド (小説)",
-   "body": "『ビラヴド』(Beloved)は、アメリカの作家トニ・モリスンによる1987年の小説である。",
+   "title": "La-152 (航空機)",
+   "body": "«152» 、通称La-152 (ロシア語:Ла-152)は、ソ連のラボーチキン設計局が開発したジェット戦闘機である。DoDが割り当てたコードネームはType 4。1機が試作されたの…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%93%E3%83%A9%E3%83%B4%E3%83%89_(%E5%B0%8F%E8%AA%AC)"
+   "url": "https://ja.wikipedia.org/wiki/La-152_(%E8%88%AA%E7%A9%BA%E6%A9%9F)"
   },
   {
-   "tag": "WIKI",
-   "title": "正徳帝",
-   "body": "正徳帝（せいとくてい）は、明の第11代皇帝。諱は厚㷖（こうしょう）。廟号は武宗 （ぶそう）。日本では治世の元号から一般に正徳帝と称されている。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%AD%A3%E5%BE%B3%E5%B8%9D"
+   "tag": "HN",
+   "title": "Mars Bar from 1991 found – and it's 20g bigger than today's",
+   "body": "188ポイント / コメント243件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49245023"
   }
  ]
 }
