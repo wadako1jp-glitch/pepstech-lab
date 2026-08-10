@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-10T15:43:17+09:00",
+ "generated_at": "2026-08-10T17:52:28+09:00",
  "items": [
   {
+   "tag": "WIKI",
+   "title": "南砺市立利賀小学校",
+   "body": "南砺市立利賀小学校 は富山県南砺市利賀村にかつて存在した公立小学校。1996年（平成8年）4月1日に統合により開校し、同年4月3日に開校式が挙行されたが、南砺市立利賀中学校と統合した…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%8D%97%E7%A0%BA%E5%B8%82%E7%AB%8B%E5%88%A9%E8%B3%80%E5%B0%8F%E5%AD%A6%E6%A0%A1"
+  },
+  {
    "tag": "HN",
-   "title": "Tuxedo No. 2 – Cocktail recipes",
-   "body": "81ポイント / コメント21件。",
+   "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+   "body": "154ポイント / コメント103件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49235697"
+   "url": "https://news.ycombinator.com/item?id=49239751"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "薄曇り。最高30.0℃ / 最低22.8℃。いまは29.0℃。",
+   "body": "薄曇り。最高30.0℃ / 最低22.8℃。いまは26.1℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "HN",
-   "title": "New Zealand lost its music media, and what we're building to replace …",
-   "body": "101ポイント / コメント65件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49235641"
-  },
-  {
    "tag": "WIKI",
-   "title": "白川町 (名古屋市)",
-   "body": "白川町（しらかわちょう）は、愛知県名古屋市中区の地名。",
+   "title": "キネマ旬報",
+   "body": "『キネマ旬報』（キネマじゅんぽう）は、キネマ旬報社が発行する日本最古の映画雑誌である。1919年（大正8年）7月11日創刊。創刊当初は毎月1日・11日・21日の発行。1950年10月…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E7%99%BD%E5%B7%9D%E7%94%BA_(%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82)"
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%8D%E3%83%9E%E6%97%AC%E5%A0%B1"
   },
   {
    "tag": "HN",
-   "title": "Picophysics: Single file physics for games on platforms like N64, PSX…",
-   "body": "45ポイント / コメント11件。",
+   "title": "Show HN: I made alchemical-cosmological PCB badges",
+   "body": "9ポイント / コメント0件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49182148"
+   "url": "https://news.ycombinator.com/item?id=49184900"
   },
   {
-   "tag": "WIKI",
-   "title": "JSON",
-   "body": "JSON はデータ記述言語の1つである。軽量なテキストベースのデータ交換用フォーマットでありプログラミング言語を問わず利用できる。名称と構文はJavaScriptにおけるオブジェクト…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/JSON"
+   "tag": "HN",
+   "title": "Andrew Wiles on proving Fermat’s Last Theorem (1995) [video]",
+   "body": "60ポイント / コメント37件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49203626"
   }
  ]
 }
