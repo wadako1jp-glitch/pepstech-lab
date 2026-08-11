@@ -1,47 +1,33 @@
 {
- "generated_at": "2026-08-12T06:05:49+09:00",
+ "generated_at": "2026-08-12T07:07:06+09:00",
  "items": [
+  {
+   "tag": "HN",
+   "title": "The 19th-Century Family Fortunes Funding Degrowth",
+   "body": "3ポイント / コメント1件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49264352"
+  },
+  {
+   "tag": "HN",
+   "title": "Grok Bot",
+   "body": "48ポイント / コメント46件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49261514"
+  },
+  {
+   "tag": "HN",
+   "title": "Show HN: Write.md – A free, open-source, themeable Markdown editor fo…",
+   "body": "56ポイント / コメント59件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49258011"
+  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "強い雨。最高24.9℃ / 最低22.4℃。いまは22.5℃。",
+   "body": "強い雨。最高24.9℃ / 最低22.4℃。いまは23.3℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
-  },
-  {
-   "tag": "WIKI",
-   "title": "春日八郎",
-   "body": "春日 八郎 は、福島県河沼郡会津坂下町塔寺出身の演歌歌手。代表曲は「赤いランプの終列車」「お富さん」「別れの一本杉」。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%98%A5%E6%97%A5%E5%85%AB%E9%83%8E"
-  },
-  {
-   "tag": "WIKI",
-   "title": "鼻節神社",
-   "body": "鼻節神社（はなぶしじんじゃ）は、宮城県宮城郡七ヶ浜町にある神社。式内社（名神大社）で、旧社格は村社。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E9%BC%BB%E7%AF%80%E7%A5%9E%E7%A4%BE"
-  },
-  {
-   "tag": "HN",
-   "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home …",
-   "body": "500ポイント / コメント169件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49246804"
-  },
-  {
-   "tag": "HN",
-   "title": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
-   "body": "265ポイント / コメント40件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49259339"
-  },
-  {
-   "tag": "HN",
-   "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-   "body": "381ポイント / コメント152件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49257876"
   }
  ]
 }
