@@ -1,33 +1,47 @@
 {
- "generated_at": "2026-08-12T07:07:06+09:00",
+ "generated_at": "2026-08-12T08:05:02+09:00",
  "items": [
   {
    "tag": "HN",
-   "title": "The 19th-Century Family Fortunes Funding Degrowth",
-   "body": "3ポイント / コメント1件。",
+   "title": "OpenSSH 10.5/10.5p1",
+   "body": "84ポイント / コメント30件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49264352"
+   "url": "https://news.ycombinator.com/item?id=49261895"
   },
   {
    "tag": "HN",
-   "title": "Grok Bot",
-   "body": "48ポイント / コメント46件。",
+   "title": "pg_clickhouse v0.10: Subquery pushdown and 1000x faster TPC-H queries",
+   "body": "7ポイント / コメント0件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49261514"
-  },
-  {
-   "tag": "HN",
-   "title": "Show HN: Write.md – A free, open-source, themeable Markdown editor fo…",
-   "body": "56ポイント / コメント59件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49258011"
+   "url": "https://news.ycombinator.com/item?id=49265031"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "強い雨。最高24.9℃ / 最低22.4℃。いまは23.3℃。",
+   "body": "強い雨。最高24.6℃ / 最低22.4℃。いまは23.1℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
+  },
+  {
+   "tag": "WIKI",
+   "title": "ユーリ・レヴィタン",
+   "body": "ユーリ・ボリソヴィッチ・レヴィタン は、ソビエト連邦のラジオアナウンサーである。第二次世界大戦中から戦後の1960年代にかけて、全連邦ラジオにおける主要な出来事の発表は、全てレヴィタ…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%BC%E3%83%AA%E3%83%BB%E3%83%AC%E3%83%B4%E3%82%A3%E3%82%BF%E3%83%B3"
+  },
+  {
+   "tag": "HN",
+   "title": "Grok Bot",
+   "body": "75ポイント / コメント75件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49261514"
+  },
+  {
+   "tag": "WIKI",
+   "title": "クロダイ",
+   "body": "クロダイ は、タイ科に分類される魚の1種。東アジア沿岸域に分布する大型魚で、食用や釣りの対象として人気がある。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AD%E3%83%80%E3%82%A4"
   }
  ]
 }
