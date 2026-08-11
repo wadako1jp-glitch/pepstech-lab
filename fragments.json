@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-11T08:51:59+09:00",
+ "generated_at": "2026-08-11T11:29:40+09:00",
  "items": [
+  {
+   "tag": "HN",
+   "title": "The UK's War on Anonymity Has Come to America",
+   "body": "235ポイント / コメント158件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49251411"
+  },
+  {
+   "tag": "HN",
+   "title": "Chicken Scheme 6.0",
+   "body": "56ポイント / コメント5件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49251702"
+  },
+  {
+   "tag": "WIKI",
+   "title": "豊臣秀長",
+   "body": "豊臣 秀長 / 羽柴 秀長 は、戦国時代から安土桃山時代にかけての武将・大名。豊臣秀吉の弟で、大和豊臣家初代当主。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E8%B1%8A%E8%87%A3%E7%A7%80%E9%95%B7"
+  },
+  {
+   "tag": "WIKI",
+   "title": "横手市立南小学校",
+   "body": "横手市立南小学校 は、秋田県横手市雄物川町東里にかつて存在した公立小学校。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E6%A8%AA%E6%89%8B%E5%B8%82%E7%AB%8B%E5%8D%97%E5%B0%8F%E5%AD%A6%E6%A0%A1"
+  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "雨。最高26.4℃ / 最低21.5℃。いまは25.2℃。",
+   "body": "雨。最高27.4℃ / 最低21.5℃。いまは26.7℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Magnitude 7.4 Earthquake – 5 km S of San José del Palmar, Colombia",
-   "body": "155ポイント / コメント61件。",
+   "title": "Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Serv…",
+   "body": "65ポイント / コメント40件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49245251"
-  },
-  {
-   "tag": "HN",
-   "title": "Stowaway – take the window seat on any plane or satellite overhead",
-   "body": "72ポイント / コメント6件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49209918"
-  },
-  {
-   "tag": "WIKI",
-   "title": "九酔渓",
-   "body": "九酔渓（きゅうすいけい）は、大分県玖珠郡九重町にある渓谷。九酔峡（きゅうすいきょう）とも呼ばれ、この付近のより広い一帯の渓谷を鳴子渓谷と呼び、その中に含められることもある。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E4%B9%9D%E9%85%94%E6%B8%93"
-  },
-  {
-   "tag": "WIKI",
-   "title": "フランケンシュタイン対地底怪獣",
-   "body": "『フランケンシュタイン対地底怪獣』 は、1965年（昭和40年）に製作された日米協同製作の怪獣映画である。製作は日本の東宝と米国のベネディクト・プロ。監督は本多猪四郎、主演は高島忠夫。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B1%E3%83%B3%E3%82%B7%E3%83%A5%E3%82%BF%E3%82%A4%E3%83%B3%E5%AF%BE%E5%9C%B0%E5%BA%95%E6%80%AA%E7%8D%A3"
-  },
-  {
-   "tag": "HN",
-   "title": "50k Boat Names",
-   "body": "149ポイント / コメント103件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49243029"
+   "url": "https://news.ycombinator.com/item?id=49246057"
   }
  ]
 }
