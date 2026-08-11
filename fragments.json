@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-11T13:41:37+09:00",
+ "generated_at": "2026-08-11T15:06:04+09:00",
  "items": [
   {
-   "tag": "WIKI",
-   "title": "豊田市立五ケ丘小学校",
-   "body": "豊田市立五ケ丘小学校 は、愛知県豊田市五ケ丘にある公立小学校。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E8%B1%8A%E7%94%B0%E5%B8%82%E7%AB%8B%E4%BA%94%E3%82%B1%E4%B8%98%E5%B0%8F%E5%AD%A6%E6%A0%A1"
-  },
-  {
    "tag": "HN",
-   "title": "Hyperspace",
-   "body": "25ポイント / コメント12件。",
+   "title": "LFM2.5 2.6B model competitive with 4x larger models",
+   "body": "26ポイント / コメント4件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49252493"
+   "url": "https://news.ycombinator.com/item?id=49173107"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "雨。最高27.4℃ / 最低21.5℃。いまは23.6℃。",
+   "body": "雨。最高26.9℃ / 最低21.5℃。いまは23.6℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
+   "tag": "HN",
+   "title": "DeepSeek: Reverse Engineering an AI Assistant by Interviewing Itself",
+   "body": "5ポイント / コメント0件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49253738"
+  },
+  {
+   "tag": "HN",
+   "title": "Updated GPG Key for Signing Firefox and Thunderbird Releases",
+   "body": "23ポイント / コメント5件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49253250"
+  },
+  {
    "tag": "WIKI",
-   "title": "江漢路駅 (杭州市)",
-   "body": "江漢路駅（こうかんろえき）は、中華人民共和国浙江省杭州市浜江区江南大道と江漢路の交差点に位置する杭州地下鉄6号線の駅である。将来的には18号線との乗換駅になる予定となっている。",
+   "title": "J/K/N級駆逐艦",
+   "body": "J/K/N級駆逐艦 は、イギリス海軍の駆逐艦の艦級。従来の駆逐艦の系譜に属しつつ、設計を大きく刷新しており、1936年度計画のJ級、37年度計画のK級、39年度計画のN級と、順次に改…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%B1%9F%E6%BC%A2%E8%B7%AF%E9%A7%85_(%E6%9D%AD%E5%B7%9E%E5%B8%82)"
+   "url": "https://ja.wikipedia.org/wiki/J%2FK%2FN%E7%B4%9A%E9%A7%86%E9%80%90%E8%89%A6"
   },
   {
-   "tag": "HN",
-   "title": "H3-metal – Native MiniMax-H3 inference for Apple Silicon",
-   "body": "104ポイント / コメント14件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49252179"
-  },
-  {
-   "tag": "HN",
-   "title": "Humanising LLM Outputs Is Dumb",
-   "body": "182ポイント / コメント111件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49243474"
+   "tag": "WIKI",
+   "title": "チャールズ・ミッキー・スミス",
+   "body": "チャールズ・ミッキー・スミス は、スコットランドの天文学者である。大学卒業後のほとんどをインドで過ごし、マドラス基督教大学の物理学教授、マドラス管区政府天文官を務め、コダイカナル天文…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A3%E3%83%BC%E3%83%AB%E3%82%BA%E3%83%BB%E3%83%9F%E3%83%83%E3%82%AD%E3%83%BC%E3%83%BB%E3%82%B9%E3%83%9F%E3%82%B9"
   }
  ]
 }
