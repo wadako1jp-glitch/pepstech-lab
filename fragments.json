@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-11T16:39:34+09:00",
+ "generated_at": "2026-08-11T18:15:55+09:00",
  "items": [
   {
+   "tag": "WIKI",
+   "title": "道の駅おおがた",
+   "body": "道の駅おおがた は、秋田県南秋田郡大潟村にある秋田県道42号男鹿八竜線の道の駅である。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E9%81%93%E3%81%AE%E9%A7%85%E3%81%8A%E3%81%8A%E3%81%8C%E3%81%9F"
+  },
+  {
    "tag": "HN",
-   "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open mo…",
-   "body": "481ポイント / コメント438件。",
+   "title": "Faster floating point math with Rust's new API",
+   "body": "33ポイント / コメント1件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49243880"
+   "url": "https://news.ycombinator.com/item?id=49196581"
+  },
+  {
+   "tag": "HN",
+   "title": "Chicken Scheme 6.0",
+   "body": "183ポイント / コメント19件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49251702"
   },
   {
    "tag": "WIKI",
-   "title": "両関酒造",
-   "body": "両関酒造株式会社（りょうぜきしゅぞう）は、秋田県湯沢市にある酒造会社である。",
+   "title": "ハリー・スタイルズ",
+   "body": "ハリー・エドワード・スタイルズ は、イングランドの歌手、俳優。イギリスのボーイ・バンド、ワン・ダイレクションのメンバーである。身長約183cm。瞳の色はグリーン。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E4%B8%A1%E9%96%A2%E9%85%92%E9%80%A0"
-  },
-  {
-   "tag": "WIKI",
-   "title": "前田悠伍",
-   "body": "前田 悠伍 は、滋賀県長浜市出身のプロ野球選手（投手）。左投左打。福岡ソフトバンクホークス所属。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%89%8D%E7%94%B0%E6%82%A0%E4%BC%8D"
-  },
-  {
-   "tag": "天気",
-   "title": "東京 きょう",
-   "body": "雨。最高26.9℃ / 最低21.5℃。いまは24.3℃。",
-   "src": "open-meteo.com",
-   "url": "https://open-meteo.com/"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%82%BA"
   },
   {
    "tag": "HN",
    "title": "How Claude marks AI-generated content",
-   "body": "121ポイント / コメント93件。",
+   "body": "171ポイント / コメント121件。",
    "src": "news.ycombinator.com",
    "url": "https://news.ycombinator.com/item?id=49250109"
   },
   {
-   "tag": "HN",
-   "title": "Mars Bar from 1991 found – and it's 20g bigger than today's",
-   "body": "334ポイント / コメント489件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49245023"
+   "tag": "天気",
+   "title": "東京 きょう",
+   "body": "雨。最高26.9℃ / 最低21.5℃。いまは22.7℃。",
+   "src": "open-meteo.com",
+   "url": "https://open-meteo.com/"
   }
  ]
 }
