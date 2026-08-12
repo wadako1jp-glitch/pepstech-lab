@@ -1,19 +1,40 @@
 {
- "generated_at": "2026-08-13T04:28:31+09:00",
+ "generated_at": "2026-08-13T06:04:39+09:00",
  "items": [
   {
+   "tag": "HN",
+   "title": "DeepSeek V4 Pro 0813",
+   "body": "560ポイント / コメント200件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49274600"
+  },
+  {
    "tag": "WIKI",
-   "title": "ルドルフ・スカーツェル",
-   "body": "ルドルフ・スカーツェル は、チェコ・トルトノフ出身の元同国代表サッカー選手。現役時代のポジションはミッドフィールダーで、主に左サイドハーフ。姓はスカチェルとも表記される。",
+   "title": "川辺駿",
+   "body": "川辺 駿 は、広島県広島市安佐北区出身のプロサッカー選手。Jリーグ・サンフレッチェ広島所属。ポジションはミッドフィールダー（セントラル・ミッドフィールダー、攻撃的ミッドフィールダー）…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%89%E3%83%AB%E3%83%95%E3%83%BB%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%84%E3%82%A7%E3%83%AB"
+   "url": "https://ja.wikipedia.org/wiki/%E5%B7%9D%E8%BE%BA%E9%A7%BF"
+  },
+  {
+   "tag": "WIKI",
+   "title": "徳山大神宮",
+   "body": "徳山大神宮（とくやまだいじんぐう）は、北海道松前郡松前町にある神社である。旧社格は郷社。渡島一宮と称される。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%BE%B3%E5%B1%B1%E5%A4%A7%E7%A5%9E%E5%AE%AE"
   },
   {
    "tag": "HN",
-   "title": "Shade Map",
-   "body": "81ポイント / コメント22件。",
+   "title": "A Tale of Dynamic Programming (2022)",
+   "body": "25ポイント / コメント2件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49271757"
+   "url": "https://news.ycombinator.com/item?id=49232312"
+  },
+  {
+   "tag": "HN",
+   "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+   "body": "626ポイント / コメント98件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49272832"
   },
   {
    "tag": "天気",
@@ -21,27 +42,6 @@
    "body": "小雨。最高27.6℃ / 最低22.8℃。いまは22.9℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
-  },
-  {
-   "tag": "HN",
-   "title": "Automatic1111 for Apple metal, 40% speed up sd1.5",
-   "body": "53ポイント / コメント19件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49272282"
-  },
-  {
-   "tag": "WIKI",
-   "title": "アリシア・マルコワ",
-   "body": "アリシア・マルコワ は、イギリスのバレエダンサー。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AA%E3%82%B7%E3%82%A2%E3%83%BB%E3%83%9E%E3%83%AB%E3%82%B3%E3%83%AF"
-  },
-  {
-   "tag": "HN",
-   "title": "SpaceXAI's Grok 4.6 Scores 61 on the Artificial Analysis Intelligence…",
-   "body": "187ポイント / コメント168件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49275385"
   }
  ]
 }
