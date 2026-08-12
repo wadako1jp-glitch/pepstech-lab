@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-12T14:05:16+09:00",
+ "generated_at": "2026-08-12T15:44:38+09:00",
  "items": [
   {
-   "tag": "WIKI",
-   "title": "新豊根ダム",
-   "body": "新豊根ダム（しんとよねダム）は、愛知県北設楽郡豊根村、一級河川・天竜川水系大入川に建設されたダムである。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%96%B0%E8%B1%8A%E6%A0%B9%E3%83%80%E3%83%A0"
-  },
-  {
    "tag": "HN",
-   "title": "The hardest working font in Manhattan (2025)",
-   "body": "74ポイント / コメント12件。",
+   "title": "WorldClaw Agentic 3D open-world generation at scale",
+   "body": "192ポイント / コメント57件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49201953"
-  },
-  {
-   "tag": "HN",
-   "title": "OpenAI’s head of ethics leaves less than a year after joining",
-   "body": "350ポイント / コメント366件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49257160"
+   "url": "https://news.ycombinator.com/item?id=49265051"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "強い雨。最高26.0℃ / 最低22.4℃。いまは25.4℃。",
+   "body": "雨。最高27.4℃ / 最低22.4℃。いまは27.4℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "The Human Is the Loop",
-   "body": "28ポイント / コメント4件。",
+   "title": "England set to be one of the first countries to eliminate hepatitis C",
+   "body": "518ポイント / コメント380件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49267108"
+   "url": "https://news.ycombinator.com/item?id=49257377"
+  },
+  {
+   "tag": "HN",
+   "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+   "body": "588ポイント / コメント265件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49257876"
   },
   {
    "tag": "WIKI",
-   "title": "飯久保の瓢箪石",
-   "body": "飯久保の瓢箪石（いくぼのひょうたんいし）とは、富山県氷見市飯久保（いくぼ）地区の、ごく限られた場所に産出する瓢箪や繭玉に似た形状の石である。砂岩中に埋まった団塊 の中でも、とりわけ特…",
+   "title": "最大カット問題",
+   "body": "最大カット問題 とは、グラフ理論における問題の一種である。あるグラフにおけるカットの中で最大のものを求める問題である。すなわち、グラフの頂点を二つの補集合 S、T に分割するとき、S…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E9%A3%AF%E4%B9%85%E4%BF%9D%E3%81%AE%E7%93%A2%E7%AE%AA%E7%9F%B3"
+   "url": "https://ja.wikipedia.org/wiki/%E6%9C%80%E5%A4%A7%E3%82%AB%E3%83%83%E3%83%88%E5%95%8F%E9%A1%8C"
+  },
+  {
+   "tag": "WIKI",
+   "title": "栞",
+   "body": "栞 は、本のページに目印を付けるもの。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E6%A0%9E"
   }
  ]
 }
