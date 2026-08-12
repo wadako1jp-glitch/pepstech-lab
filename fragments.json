@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-12T21:01:12+09:00",
+ "generated_at": "2026-08-12T22:50:51+09:00",
  "items": [
   {
-   "tag": "HN",
-   "title": "The lifesaving secret hidden inside a horseshoe crab's blue blood",
-   "body": "90ポイント / コメント26件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49266921"
+   "tag": "WIKI",
+   "title": "デイビッド・スミス (彫刻家)",
+   "body": "デイビッド・スミス は、アメリカの 抽象表現主義 彫刻家、画家。鉄鋼を使い抽象的で幾何学的な彫刻を作ることで知られる。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A4%E3%83%93%E3%83%83%E3%83%89%E3%83%BB%E3%82%B9%E3%83%9F%E3%82%B9_(%E5%BD%AB%E5%88%BB%E5%AE%B6)"
   },
   {
    "tag": "WIKI",
-   "title": "少年忍者風のフジ丸",
-   "body": "『少年忍者風のフジ丸』（しょうねんにんじゃかぜのフジまる）は、1964年6月7日から1965年8月31日にかけてNETテレビ系列で全65話が放送された東映動画製作のテレビアニメである｡",
+   "title": "ルイス・ウィリアムズ・ダグラス",
+   "body": "ルイス・ウィリアムズ・ダグラス は、アメリカ合衆国の政治家、外交官、教育者である。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%B0%91%E5%B9%B4%E5%BF%8D%E8%80%85%E9%A2%A8%E3%81%AE%E3%83%95%E3%82%B8%E4%B8%B8"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%82%A4%E3%82%B9%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%AA%E3%82%A2%E3%83%A0%E3%82%BA%E3%83%BB%E3%83%80%E3%82%B0%E3%83%A9%E3%82%B9"
+  },
+  {
+   "tag": "HN",
+   "title": "The Human Is the Loop",
+   "body": "149ポイント / コメント69件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49267108"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "雨。最高27.6℃ / 最低22.4℃。いまは25.0℃。",
+   "body": "雨。最高27.6℃ / 最低22.4℃。いまは23.8℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Grok Bot",
-   "body": "306ポイント / コメント276件。",
+   "title": "What sort of maths are LLMs good at?",
+   "body": "143ポイント / コメント61件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49261514"
-  },
-  {
-   "tag": "WIKI",
-   "title": "鉄道省 (インド)",
-   "body": "鉄道省 は、インドの行政機関の一つである。国営のインド鉄道を所管している。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E9%89%84%E9%81%93%E7%9C%81_(%E3%82%A4%E3%83%B3%E3%83%89)"
+   "url": "https://news.ycombinator.com/item?id=49270022"
   },
   {
    "tag": "HN",
-   "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-   "body": "640ポイント / コメント288件。",
+   "title": "WorldClaw Agentic 3D open-world generation at scale",
+   "body": "255ポイント / コメント76件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49257876"
+   "url": "https://news.ycombinator.com/item?id=49265051"
   }
  ]
 }
