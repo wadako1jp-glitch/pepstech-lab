@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-12T11:46:51+09:00",
+ "generated_at": "2026-08-12T14:05:16+09:00",
  "items": [
+  {
+   "tag": "WIKI",
+   "title": "新豊根ダム",
+   "body": "新豊根ダム（しんとよねダム）は、愛知県北設楽郡豊根村、一級河川・天竜川水系大入川に建設されたダムである。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E6%96%B0%E8%B1%8A%E6%A0%B9%E3%83%80%E3%83%A0"
+  },
+  {
+   "tag": "HN",
+   "title": "The hardest working font in Manhattan (2025)",
+   "body": "74ポイント / コメント12件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49201953"
+  },
+  {
+   "tag": "HN",
+   "title": "OpenAI’s head of ethics leaves less than a year after joining",
+   "body": "350ポイント / コメント366件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49257160"
+  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "強い雨。最高26.0℃ / 最低22.4℃。いまは24.7℃。",
+   "body": "強い雨。最高26.0℃ / 最低22.4℃。いまは25.4℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Suzanne: AI tool for designing and manufacturing physical products",
-   "body": "42ポイント / コメント29件。",
+   "title": "The Human Is the Loop",
+   "body": "28ポイント / コメント4件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49264755"
-  },
-  {
-   "tag": "HN",
-   "title": "CSS properties you should know for better text designs",
-   "body": "80ポイント / コメント7件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49261417"
+   "url": "https://news.ycombinator.com/item?id=49267108"
   },
   {
    "tag": "WIKI",
-   "title": "武生郵便局",
-   "body": "武生郵便局（たけふゆうびんきょく）は福井県越前市にある郵便局。民営化前の分類では集配普通郵便局であった。",
+   "title": "飯久保の瓢箪石",
+   "body": "飯久保の瓢箪石（いくぼのひょうたんいし）とは、富山県氷見市飯久保（いくぼ）地区の、ごく限られた場所に産出する瓢箪や繭玉に似た形状の石である。砂岩中に埋まった団塊 の中でも、とりわけ特…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%AD%A6%E7%94%9F%E9%83%B5%E4%BE%BF%E5%B1%80"
-  },
-  {
-   "tag": "WIKI",
-   "title": "2005年のワールドシリーズ",
-   "body": "2005年の野球において、メジャーリーグベースボール（MLB）優勝決定戦の第101回ワールドシリーズ は、10月22日から26日にかけて計4試合が開催された。その結果、シカゴ・ホワイ…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/2005%E5%B9%B4%E3%81%AE%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
-  },
-  {
-   "tag": "HN",
-   "title": "Grok Bot",
-   "body": "163ポイント / コメント140件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49261514"
+   "url": "https://ja.wikipedia.org/wiki/%E9%A3%AF%E4%B9%85%E4%BF%9D%E3%81%AE%E7%93%A2%E7%AE%AA%E7%9F%B3"
   }
  ]
 }
