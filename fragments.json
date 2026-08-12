@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-12T15:44:38+09:00",
+ "generated_at": "2026-08-12T17:40:48+09:00",
  "items": [
   {
    "tag": "HN",
-   "title": "WorldClaw Agentic 3D open-world generation at scale",
-   "body": "192ポイント / コメント57件。",
+   "title": "llama.cpp",
+   "body": "175ポイント / コメント76件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49265051"
+   "url": "https://news.ycombinator.com/item?id=49267928"
+  },
+  {
+   "tag": "HN",
+   "title": "A shell exclamation mark is not for yelling. Be lazy",
+   "body": "50ポイント / コメント11件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49197565"
+  },
+  {
+   "tag": "WIKI",
+   "title": "ファビオ・カペッロ",
+   "body": "ファビオ・カペッロ は、イタリア・フリウリ＝ヴェネツィア・ジュリア州サン・カンツィアン・ディゾンツォ出身の元サッカー選手、元サッカー指導者、現サッカー解説者。現役時代のポジションは、…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%83%93%E3%82%AA%E3%83%BB%E3%82%AB%E3%83%9A%E3%83%83%E3%83%AD"
+  },
+  {
+   "tag": "WIKI",
+   "title": "鹿児島テレビ放送",
+   "body": "鹿児島テレビ放送株式会社（かごしまテレビほうそう）は、鹿児島県を放送対象地域とするフジテレビ系列（FNN・FNS）のテレビ局である。通称は鹿児島テレビ、略称はKTS（以下、放送局名は…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E9%B9%BF%E5%85%90%E5%B3%B6%E3%83%86%E3%83%AC%E3%83%93%E6%94%BE%E9%80%81"
+  },
+  {
+   "tag": "HN",
+   "title": "Flatworms, Ion Channels, and Burning Mouths",
+   "body": "30ポイント / コメント1件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49243270"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "雨。最高27.4℃ / 最低22.4℃。いまは27.4℃。",
+   "body": "雨。最高27.4℃ / 最低22.4℃。いまは26.8℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
-  },
-  {
-   "tag": "HN",
-   "title": "England set to be one of the first countries to eliminate hepatitis C",
-   "body": "518ポイント / コメント380件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49257377"
-  },
-  {
-   "tag": "HN",
-   "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-   "body": "588ポイント / コメント265件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49257876"
-  },
-  {
-   "tag": "WIKI",
-   "title": "最大カット問題",
-   "body": "最大カット問題 とは、グラフ理論における問題の一種である。あるグラフにおけるカットの中で最大のものを求める問題である。すなわち、グラフの頂点を二つの補集合 S、T に分割するとき、S…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%9C%80%E5%A4%A7%E3%82%AB%E3%83%83%E3%83%88%E5%95%8F%E9%A1%8C"
-  },
-  {
-   "tag": "WIKI",
-   "title": "栞",
-   "body": "栞 は、本のページに目印を付けるもの。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%A0%9E"
   }
  ]
 }
