@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-13T06:04:39+09:00",
+ "generated_at": "2026-08-13T07:04:47+09:00",
  "items": [
   {
    "tag": "HN",
-   "title": "DeepSeek V4 Pro 0813",
-   "body": "560ポイント / コメント200件。",
+   "title": "Felix and I",
+   "body": "82ポイント / コメント21件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49274600"
-  },
-  {
-   "tag": "WIKI",
-   "title": "川辺駿",
-   "body": "川辺 駿 は、広島県広島市安佐北区出身のプロサッカー選手。Jリーグ・サンフレッチェ広島所属。ポジションはミッドフィールダー（セントラル・ミッドフィールダー、攻撃的ミッドフィールダー）…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%B7%9D%E8%BE%BA%E9%A7%BF"
-  },
-  {
-   "tag": "WIKI",
-   "title": "徳山大神宮",
-   "body": "徳山大神宮（とくやまだいじんぐう）は、北海道松前郡松前町にある神社である。旧社格は郷社。渡島一宮と称される。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%BE%B3%E5%B1%B1%E5%A4%A7%E7%A5%9E%E5%AE%AE"
+   "url": "https://news.ycombinator.com/item?id=49244339"
   },
   {
    "tag": "HN",
-   "title": "A Tale of Dynamic Programming (2022)",
-   "body": "25ポイント / コメント2件。",
+   "title": "uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook",
+   "body": "218ポイント / コメント312件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49232312"
+   "url": "https://news.ycombinator.com/item?id=49270726"
   },
   {
-   "tag": "HN",
-   "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
-   "body": "626ポイント / コメント98件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49272832"
+   "tag": "WIKI",
+   "title": "大分市",
+   "body": "大分市（おおいたし）は、大分県の中部に位置する市。大分県の県庁所在地で、中核市に指定されている。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%88%86%E5%B8%82"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "小雨。最高27.6℃ / 最低22.8℃。いまは22.9℃。",
+   "body": "小雨。最高27.6℃ / 最低22.8℃。いまは23.1℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
+  },
+  {
+   "tag": "HN",
+   "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new …",
+   "body": "107ポイント / コメント18件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49269090"
+  },
+  {
+   "tag": "WIKI",
+   "title": "赤松明勅",
+   "body": "赤松 明勅 は、日本の政治家。日本社会党衆議院議員（1期）。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E8%B5%A4%E6%9D%BE%E6%98%8E%E5%8B%85"
   }
  ]
 }
