@@ -1,45 +1,45 @@
 {
- "generated_at": "2026-08-12T09:01:43+09:00",
+ "generated_at": "2026-08-12T11:46:51+09:00",
  "items": [
-  {
-   "tag": "WIKI",
-   "title": "野口王墓",
-   "body": "野口王墓（のぐちのおうのはか）は、奈良県高市郡明日香村にある古墳。形状は八角墳。古墳時代終末期の古墳である。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E9%87%8E%E5%8F%A3%E7%8E%8B%E5%A2%93"
-  },
-  {
-   "tag": "HN",
-   "title": "OpenSSH 10.5/10.5p1",
-   "body": "89ポイント / コメント30件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49261895"
-  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "強い雨。最高24.6℃ / 最低22.4℃。いまは23.8℃。",
+   "body": "強い雨。最高26.0℃ / 最低22.4℃。いまは24.7℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "WIKI",
-   "title": "キューブリック山",
-   "body": "キューブリック山 は、冥王星の衛星カロンにある山。 ヴァルカン高原の窪地から隆起している。裾野の直径は20キロメートルから25キロメートル、高さは3キロメートルから4キロメートルであ…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%96%E3%83%AA%E3%83%83%E3%82%AF%E5%B1%B1"
+   "tag": "HN",
+   "title": "Suzanne: AI tool for designing and manufacturing physical products",
+   "body": "42ポイント / コメント29件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49264755"
   },
   {
    "tag": "HN",
-   "title": "Nvidia's Risky Business",
-   "body": "284ポイント / コメント131件。",
+   "title": "CSS properties you should know for better text designs",
+   "body": "80ポイント / コメント7件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49255710"
+   "url": "https://news.ycombinator.com/item?id=49261417"
+  },
+  {
+   "tag": "WIKI",
+   "title": "武生郵便局",
+   "body": "武生郵便局（たけふゆうびんきょく）は福井県越前市にある郵便局。民営化前の分類では集配普通郵便局であった。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E6%AD%A6%E7%94%9F%E9%83%B5%E4%BE%BF%E5%B1%80"
+  },
+  {
+   "tag": "WIKI",
+   "title": "2005年のワールドシリーズ",
+   "body": "2005年の野球において、メジャーリーグベースボール（MLB）優勝決定戦の第101回ワールドシリーズ は、10月22日から26日にかけて計4試合が開催された。その結果、シカゴ・ホワイ…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/2005%E5%B9%B4%E3%81%AE%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
   },
   {
    "tag": "HN",
    "title": "Grok Bot",
-   "body": "100ポイント / コメント103件。",
+   "body": "163ポイント / コメント140件。",
    "src": "news.ycombinator.com",
    "url": "https://news.ycombinator.com/item?id=49261514"
   }
