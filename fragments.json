@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-13T22:50:23+09:00",
+ "generated_at": "2026-08-14T00:17:23+09:00",
  "items": [
   {
    "tag": "WIKI",
-   "title": "リク (歌手)",
-   "body": "リク は、日本の歌手。福井県出身。ボーイズグループ・NCTのメンバー。本名は前田 陸。SMエンタテインメント所属。2024年2月、NCT WISHでデビュー。",
+   "title": "オーロフ2世 (デンマーク王)",
+   "body": "オーロフ2世 は、デンマーク王 及びノルウェー王。父はノルウェー国王ホーコン6世。母はデンマーク王ヴァルデマー4世の次女マルグレーテ1世。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%AF_(%E6%AD%8C%E6%89%8B)"
-  },
-  {
-   "tag": "HN",
-   "title": "HTML over WebSockets: real-time SPAs with barely any JavaScript",
-   "body": "227ポイント / コメント166件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49275335"
-  },
-  {
-   "tag": "HN",
-   "title": "2026 Eclipse Webcams",
-   "body": "501ポイント / コメント134件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49270953"
-  },
-  {
-   "tag": "WIKI",
-   "title": "上田城",
-   "body": "上田城（うえだじょう）は、長野県上田市二の丸（旧・信濃国小県郡上田）にあった日本の城。なお、現在残っている城は、仙石忠政によって江戸時代初期の寛永年間に再建築城されたものである。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E4%B8%8A%E7%94%B0%E5%9F%8E"
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%AD%E3%83%952%E4%B8%96_(%E3%83%87%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%AF%E7%8E%8B)"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "雨。最高26.9℃ / 最低22.9℃。いまは24.1℃。",
+   "body": "強い雨。最高25.1℃ / 最低24.1℃。いまは24.3℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Choosing an AI model: one prompt, 11 models, different results",
-   "body": "35ポイント / コメント15件。",
+   "title": "Time to Move On: Querying Without Nulls and Bags",
+   "body": "20ポイント / コメント0件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49285327"
+   "url": "https://news.ycombinator.com/item?id=49286030"
+  },
+  {
+   "tag": "HN",
+   "title": "Deutsche Bank becomes first foreign yuan clearing bank in Europe",
+   "body": "236ポイント / コメント266件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49284774"
+  },
+  {
+   "tag": "HN",
+   "title": "Nine PBS could lose 70 years of archives after cloud vendor goes defu…",
+   "body": "50ポイント / コメント24件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49285418"
+  },
+  {
+   "tag": "WIKI",
+   "title": "アシダカグモ科",
+   "body": "アシダカグモ科 Sparassidae は、クモ目の分類群の一つ。大型の目立つクモが多く、日本ではアシダカグモがよく知られている。学名としては Heteropodidae が使われた…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B7%E3%83%80%E3%82%AB%E3%82%B0%E3%83%A2%E7%A7%91"
   }
  ]
 }
