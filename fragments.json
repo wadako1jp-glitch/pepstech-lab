@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-14T00:17:23+09:00",
+ "generated_at": "2026-08-14T02:15:05+09:00",
  "items": [
   {
+   "tag": "HN",
+   "title": "The lattice of sets of natural numbers is rich (2021)",
+   "body": "92ポイント / コメント18件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49243687"
+  },
+  {
    "tag": "WIKI",
-   "title": "オーロフ2世 (デンマーク王)",
-   "body": "オーロフ2世 は、デンマーク王 及びノルウェー王。父はノルウェー国王ホーコン6世。母はデンマーク王ヴァルデマー4世の次女マルグレーテ1世。",
+   "title": "イザベラ・ロッセリーニ",
+   "body": "イザベラ・ロッセリーニ は、イタリア・ローマ出身の女優。父親は映画監督のロベルト・ロッセリーニ、母親はスウェーデン出身の女優イングリッド・バーグマン、娘はモデルのエレットラ・ロッセリ…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%AD%E3%83%952%E4%B8%96_(%E3%83%87%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%AF%E7%8E%8B)"
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%B6%E3%83%99%E3%83%A9%E3%83%BB%E3%83%AD%E3%83%83%E3%82%BB%E3%83%AA%E3%83%BC%E3%83%8B"
+  },
+  {
+   "tag": "WIKI",
+   "title": "埴生インターチェンジ",
+   "body": "埴生インターチェンジ（はぶインターチェンジ）は、山口県山陽小野田市大字埴生に所在する山陽自動車道（宇部下関線）のインターチェンジである。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%9F%B4%E7%94%9F%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%81%E3%82%A7%E3%83%B3%E3%82%B8"
+  },
+  {
+   "tag": "HN",
+   "title": "Launch HN: Bullet (YC S26) – A Faster Coding Agent",
+   "body": "15ポイント / コメント12件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49283063"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "強い雨。最高25.1℃ / 最低24.1℃。いまは24.3℃。",
+   "body": "雨。最高25.6℃ / 最低23.6℃。いまは23.6℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Time to Move On: Querying Without Nulls and Bags",
-   "body": "20ポイント / コメント0件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49286030"
-  },
-  {
-   "tag": "HN",
    "title": "Deutsche Bank becomes first foreign yuan clearing bank in Europe",
-   "body": "236ポイント / コメント266件。",
+   "body": "309ポイント / コメント332件。",
    "src": "news.ycombinator.com",
    "url": "https://news.ycombinator.com/item?id=49284774"
-  },
-  {
-   "tag": "HN",
-   "title": "Nine PBS could lose 70 years of archives after cloud vendor goes defu…",
-   "body": "50ポイント / コメント24件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49285418"
-  },
-  {
-   "tag": "WIKI",
-   "title": "アシダカグモ科",
-   "body": "アシダカグモ科 Sparassidae は、クモ目の分類群の一つ。大型の目立つクモが多く、日本ではアシダカグモがよく知られている。学名としては Heteropodidae が使われた…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B7%E3%83%80%E3%82%AB%E3%82%B0%E3%83%A2%E7%A7%91"
   }
  ]
 }
