@@ -1,33 +1,19 @@
 {
- "generated_at": "2026-08-14T02:15:05+09:00",
+ "generated_at": "2026-08-14T03:10:45+09:00",
  "items": [
   {
    "tag": "HN",
-   "title": "The lattice of sets of natural numbers is rich (2021)",
-   "body": "92ポイント / コメント18件。",
+   "title": "Spaghettifying DRAM",
+   "body": "298ポイント / コメント87件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49243687"
-  },
-  {
-   "tag": "WIKI",
-   "title": "イザベラ・ロッセリーニ",
-   "body": "イザベラ・ロッセリーニ は、イタリア・ローマ出身の女優。父親は映画監督のロベルト・ロッセリーニ、母親はスウェーデン出身の女優イングリッド・バーグマン、娘はモデルのエレットラ・ロッセリ…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%B6%E3%83%99%E3%83%A9%E3%83%BB%E3%83%AD%E3%83%83%E3%82%BB%E3%83%AA%E3%83%BC%E3%83%8B"
-  },
-  {
-   "tag": "WIKI",
-   "title": "埴生インターチェンジ",
-   "body": "埴生インターチェンジ（はぶインターチェンジ）は、山口県山陽小野田市大字埴生に所在する山陽自動車道（宇部下関線）のインターチェンジである。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%9F%B4%E7%94%9F%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%81%E3%82%A7%E3%83%B3%E3%82%B8"
+   "url": "https://news.ycombinator.com/item?id=49286341"
   },
   {
    "tag": "HN",
-   "title": "Launch HN: Bullet (YC S26) – A Faster Coding Agent",
-   "body": "15ポイント / コメント12件。",
+   "title": "Show HN: MCP Memory – Fast Agent Memory Using Google's OKF and SQLite…",
+   "body": "46ポイント / コメント22件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49283063"
+   "url": "https://news.ycombinator.com/item?id=49286073"
   },
   {
    "tag": "天気",
@@ -38,10 +24,24 @@
   },
   {
    "tag": "HN",
-   "title": "Deutsche Bank becomes first foreign yuan clearing bank in Europe",
-   "body": "309ポイント / コメント332件。",
+   "title": "Show HN: OJCP – an open protocol for agent-consumable job data",
+   "body": "12ポイント / コメント2件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49284774"
+   "url": "https://news.ycombinator.com/item?id=49273922"
+  },
+  {
+   "tag": "WIKI",
+   "title": "小野川温泉",
+   "body": "小野川温泉（おのがわおんせん）は、山形県米沢市小野川町（旧国出羽国、明治以降は羽前国）に湧出する温泉である。米沢八湯の1つに数えられ、複数の温泉旅館が「温泉米沢八湯会」に加盟している。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E9%87%8E%E5%B7%9D%E6%B8%A9%E6%B3%89"
+  },
+  {
+   "tag": "WIKI",
+   "title": "西那須野駅",
+   "body": "西那須野駅（にしなすのえき）は、栃木県那須塩原市永田町にある、東日本旅客鉄道（JR東日本）の駅である。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E9%82%A3%E9%A0%88%E9%87%8E%E9%A7%85"
   }
  ]
 }
