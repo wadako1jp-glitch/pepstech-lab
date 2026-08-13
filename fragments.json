@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-13T11:49:30+09:00",
+ "generated_at": "2026-08-13T14:08:48+09:00",
  "items": [
   {
-   "tag": "HN",
-   "title": "Thanks to social media, canned sardines are a scarcity on the superma…",
-   "body": "58ポイント / コメント72件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49279013"
+   "tag": "WIKI",
+   "title": "広島県立美術館",
+   "body": "広島県立美術館（ひろしまけんりつびじゅつかん）は、広島県広島市中区にある美術館。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E7%9C%8C%E7%AB%8B%E7%BE%8E%E8%A1%93%E9%A4%A8"
   },
   {
-   "tag": "WIKI",
-   "title": "下松市立図書館",
-   "body": "下松市立図書館（くだまつしりつとしょかん）は、山口県下松市大手町二丁目3番1号（ほしらんどくだまつ内）に所在する公共図書館。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E4%B8%8B%E6%9D%BE%E5%B8%82%E7%AB%8B%E5%9B%B3%E6%9B%B8%E9%A4%A8"
+   "tag": "HN",
+   "title": "Principia Mathematica is modern and insightful",
+   "body": "98ポイント / コメント41件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49279928"
+  },
+  {
+   "tag": "HN",
+   "title": "Pixel Watch 5",
+   "body": "121ポイント / コメント227件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49274757"
+  },
+  {
+   "tag": "HN",
+   "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplemen…",
+   "body": "271ポイント / コメント40件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49270040"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "小雨。最高27.9℃ / 最低22.9℃。いまは27.6℃。",
+   "body": "小雨。最高27.5℃ / 最低22.9℃。いまは26.3℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "HN",
-   "title": "Debugging Information for Inlined Functions",
-   "body": "23ポイント / コメント0件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49231315"
-  },
-  {
-   "tag": "HN",
-   "title": "AI is removing the middle class of software engineering?",
-   "body": "746ポイント / コメント679件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49271994"
-  },
-  {
    "tag": "WIKI",
-   "title": "菰野町図書館",
-   "body": "菰野町図書館 は、三重県三重郡菰野町潤田（うるだ）にある公立図書館。2008年（平成20年）4月11日に開館した。",
+   "title": "亀塚稲荷神社",
+   "body": "亀塚稲荷神社（かめづかいなりじんじゃ）は東京都港区三田四丁目にある稲荷神社。宗教法人格を有する。祭神は宇迦御魂命。亀の形をした石を神体としている。伝承によると、太田道灌が当地に物見台…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E8%8F%B0%E9%87%8E%E7%94%BA%E5%9B%B3%E6%9B%B8%E9%A4%A8"
+   "url": "https://ja.wikipedia.org/wiki/%E4%BA%80%E5%A1%9A%E7%A8%B2%E8%8D%B7%E7%A5%9E%E7%A4%BE"
   }
  ]
 }
