@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-13T14:08:48+09:00",
+ "generated_at": "2026-08-13T15:48:03+09:00",
  "items": [
   {
-   "tag": "WIKI",
-   "title": "広島県立美術館",
-   "body": "広島県立美術館（ひろしまけんりつびじゅつかん）は、広島県広島市中区にある美術館。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E7%9C%8C%E7%AB%8B%E7%BE%8E%E8%A1%93%E9%A4%A8"
+   "tag": "HN",
+   "title": "HTML over WebSockets: real-time SPAs with barely any JavaScript",
+   "body": "179ポイント / コメント123件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49275335"
   },
   {
-   "tag": "HN",
-   "title": "Principia Mathematica is modern and insightful",
-   "body": "98ポイント / コメント41件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49279928"
+   "tag": "WIKI",
+   "title": "サマンサ・モートン",
+   "body": "サマンサ・ジェーン・モートン は、イギリスの女優。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%9E%E3%83%B3%E3%82%B5%E3%83%BB%E3%83%A2%E3%83%BC%E3%83%88%E3%83%B3"
+  },
+  {
+   "tag": "天気",
+   "title": "東京 きょう",
+   "body": "雨。最高26.9℃ / 最低22.9℃。いまは25.9℃。",
+   "src": "open-meteo.com",
+   "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
    "title": "Pixel Watch 5",
-   "body": "121ポイント / コメント227件。",
+   "body": "128ポイント / コメント247件。",
    "src": "news.ycombinator.com",
    "url": "https://news.ycombinator.com/item?id=49274757"
   },
   {
    "tag": "HN",
-   "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplemen…",
-   "body": "271ポイント / コメント40件。",
+   "title": "Locating an unknown source of radiation in a heterogeneous environmen…",
+   "body": "24ポイント / コメント20件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49270040"
-  },
-  {
-   "tag": "天気",
-   "title": "東京 きょう",
-   "body": "小雨。最高27.5℃ / 最低22.9℃。いまは26.3℃。",
-   "src": "open-meteo.com",
-   "url": "https://open-meteo.com/"
+   "url": "https://news.ycombinator.com/item?id=49224802"
   },
   {
    "tag": "WIKI",
-   "title": "亀塚稲荷神社",
-   "body": "亀塚稲荷神社（かめづかいなりじんじゃ）は東京都港区三田四丁目にある稲荷神社。宗教法人格を有する。祭神は宇迦御魂命。亀の形をした石を神体としている。伝承によると、太田道灌が当地に物見台…",
+   "title": "レナ (画像データ)",
+   "body": "レナ（LennaまたはLena）は、1973年から2010年代後半までにわたり、画像処理の分野で広く使用されていた標準的なテスト画像である。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E4%BA%80%E5%A1%9A%E7%A8%B2%E8%8D%B7%E7%A5%9E%E7%A4%BE"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%8A_(%E7%94%BB%E5%83%8F%E3%83%87%E3%83%BC%E3%82%BF)"
   }
  ]
 }
