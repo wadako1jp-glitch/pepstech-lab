@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-14T04:27:56+09:00",
+ "generated_at": "2026-08-14T06:05:23+09:00",
  "items": [
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "小雨。最高25.9℃ / 最低23.0℃。いまは23.1℃。",
+   "body": "小雨。最高25.9℃ / 最低23.0℃。いまは23.0℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "What Is Kimi K3? A Complete Developer Guide for 2026",
-   "body": "3ポイント / コメント0件。",
+   "title": "Gemini 3.7 Flash",
+   "body": "438ポイント / コメント264件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49290202"
+   "url": "https://news.ycombinator.com/item?id=49289112"
   },
   {
    "tag": "HN",
-   "title": "Codex in ChatGPT desktop app for Linux is now in preview",
-   "body": "411ポイント / コメント286件。",
+   "title": "Where did the old web go? We followed 657,607 links to find out",
+   "body": "85ポイント / コメント54件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49281916"
+   "url": "https://news.ycombinator.com/item?id=49289532"
+  },
+  {
+   "tag": "WIKI",
+   "title": "デ・リーズル カービン",
+   "body": "デ・リーズル カービン は、1943年にイギリスで開発されたボルトアクション方式小銃である。合同作戦司令部向けの特殊作戦用消音銃として設計されており、特徴的な一体型の消音器(サプレッ…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%BB%E3%83%AA%E3%83%BC%E3%82%BA%E3%83%AB_%E3%82%AB%E3%83%BC%E3%83%93%E3%83%B3"
+  },
+  {
+   "tag": "WIKI",
+   "title": "ミーナ天神",
+   "body": "ミーナ天神 は、福岡県福岡市中央区天神四丁目にある商業施設。ファーストリテイリングの展開する商業施設「ミーナ」の1号店。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%BC%E3%83%8A%E5%A4%A9%E7%A5%9E"
   },
   {
    "tag": "HN",
-   "title": "Come for ENIAC, Stay for UNIVAC and Skeduflo",
-   "body": "46ポイント / コメント12件。",
+   "title": "Understanding is the new bottleneck",
+   "body": "53ポイント / コメント33件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49258428"
-  },
-  {
-   "tag": "WIKI",
-   "title": "パーシー・フェイス",
-   "body": "パーシー・フェイス は、カナダ・トロント生まれでアメリカ合衆国で活動した作曲家、編曲家、指揮者、音楽プロデューサー。イージーリスニングやムード音楽分野において著名な人物である。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%BC%E3%82%B7%E3%83%BC%E3%83%BB%E3%83%95%E3%82%A7%E3%82%A4%E3%82%B9"
-  },
-  {
-   "tag": "WIKI",
-   "title": "北海道旭川東栄高等学校",
-   "body": "北海道旭川東栄高等学校 は、北海道旭川市にかつて存在した公立（北海道立）高等学校。通称「東栄」。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%8C%97%E6%B5%B7%E9%81%93%E6%97%AD%E5%B7%9D%E6%9D%B1%E6%A0%84%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1"
+   "url": "https://news.ycombinator.com/item?id=49290299"
   }
  ]
 }
