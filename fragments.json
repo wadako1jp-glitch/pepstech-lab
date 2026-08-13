@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-13T09:00:29+09:00",
+ "generated_at": "2026-08-13T11:49:30+09:00",
  "items": [
   {
-   "tag": "WIKI",
-   "title": "ヴェスヴィオ",
-   "body": "ヴェスヴィオ山 は、イタリア・カンパニア州にある火山。ナポリから東へ約9kmのナポリ湾岸にある。日本ではベスビオ山、ベスビオス火山、ヴェスヴィオス火山とも呼ばれることがある。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A7%E3%82%B9%E3%83%B4%E3%82%A3%E3%82%AA"
+   "tag": "HN",
+   "title": "Thanks to social media, canned sardines are a scarcity on the superma…",
+   "body": "58ポイント / コメント72件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49279013"
   },
   {
-   "tag": "HN",
-   "title": "License plate reader searches should require a warrant",
-   "body": "523ポイント / コメント323件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49273165"
+   "tag": "WIKI",
+   "title": "下松市立図書館",
+   "body": "下松市立図書館（くだまつしりつとしょかん）は、山口県下松市大手町二丁目3番1号（ほしらんどくだまつ内）に所在する公共図書館。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E4%B8%8B%E6%9D%BE%E5%B8%82%E7%AB%8B%E5%9B%B3%E6%9B%B8%E9%A4%A8"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "小雨。最高27.8℃ / 最低22.9℃。いまは24.9℃。",
+   "body": "小雨。最高27.9℃ / 最低22.9℃。いまは27.6℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Delta",
-   "body": "344ポイント / コメント116件。",
+   "title": "Debugging Information for Inlined Functions",
+   "body": "23ポイント / コメント0件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49276574"
-  },
-  {
-   "tag": "WIKI",
-   "title": "今金町",
-   "body": "今金町（いまかねちょう）は、北海道南部、檜山振興局北部にある町。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E4%BB%8A%E9%87%91%E7%94%BA"
+   "url": "https://news.ycombinator.com/item?id=49231315"
   },
   {
    "tag": "HN",
-   "title": "'The Cheese and the Worms' by Carlo Ginzburg Review",
-   "body": "11ポイント / コメント3件。",
+   "title": "AI is removing the middle class of software engineering?",
+   "body": "746ポイント / コメント679件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49215117"
+   "url": "https://news.ycombinator.com/item?id=49271994"
+  },
+  {
+   "tag": "WIKI",
+   "title": "菰野町図書館",
+   "body": "菰野町図書館 は、三重県三重郡菰野町潤田（うるだ）にある公立図書館。2008年（平成20年）4月11日に開館した。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E8%8F%B0%E9%87%8E%E7%94%BA%E5%9B%B3%E6%9B%B8%E9%A4%A8"
   }
  ]
 }
