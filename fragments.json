@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-14T07:05:08+09:00",
+ "generated_at": "2026-08-14T08:04:28+09:00",
  "items": [
   {
+   "tag": "HN",
+   "title": "Text AI watermarks will always be trivial to remove",
+   "body": "72ポイント / コメント62件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49287153"
+  },
+  {
+   "tag": "HN",
+   "title": "Finite State Machines in Forth (1994)",
+   "body": "18ポイント / コメント0件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49223964"
+  },
+  {
    "tag": "WIKI",
-   "title": "マリア・コレスニコワ",
-   "body": "マリア・コレスニコワ は、ベラルーシのプロのフルート奏者、政治家。彼女は2020年ベラルーシ大統領選挙の間にヴィクタル・ババリコの選挙運動を率いた。コレスニコワはスヴャトラーナ・ツィ…",
+   "title": "安佐北区",
+   "body": "安佐北区（あさきたく）は、広島市を構成する8つの行政区のひとつ。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AA%E3%82%A2%E3%83%BB%E3%82%B3%E3%83%AC%E3%82%B9%E3%83%8B%E3%82%B3%E3%83%AF"
+   "url": "https://ja.wikipedia.org/wiki/%E5%AE%89%E4%BD%90%E5%8C%97%E5%8C%BA"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "小雨。最高25.9℃ / 最低23.0℃。いまは23.2℃。",
+   "body": "小雨。最高25.9℃ / 最低23.0℃。いまは23.6℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "HN",
-   "title": "Ordinary abundance",
-   "body": "174ポイント / コメント93件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49285770"
-  },
-  {
-   "tag": "HN",
-   "title": "Spaghettifying DRAM",
-   "body": "436ポイント / コメント130件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49286341"
-  },
-  {
-   "tag": "HN",
-   "title": "Gemini 3.7 Flash",
-   "body": "485ポイント / コメント298件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49289112"
-  },
-  {
    "tag": "WIKI",
-   "title": "国道480号",
-   "body": "国道480号（こくどう480ごう）は、大阪府泉大津市から和歌山県有田市に至る一般国道である。",
+   "title": "海軍特殊戦センター",
+   "body": "海軍特殊戦センター は、アメリカ海軍特殊戦コマンドに属する組織。カリフォルニア州コロナド海軍水陸両用戦基地内に置かれている。 Navy SEALs入隊の登竜門であるBUD/S（SEA…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%81%93480%E5%8F%B7"
+   "url": "https://ja.wikipedia.org/wiki/%E6%B5%B7%E8%BB%8D%E7%89%B9%E6%AE%8A%E6%88%A6%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC"
+  },
+  {
+   "tag": "HN",
+   "title": "Choosing an AI model: one prompt, 11 models, different results",
+   "body": "163ポイント / コメント70件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49285327"
   }
  ]
 }
