@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-13T08:03:43+09:00",
+ "generated_at": "2026-08-13T09:00:29+09:00",
  "items": [
   {
-   "tag": "HN",
-   "title": "Pixel Watch 5",
-   "body": "81ポイント / コメント134件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49274757"
+   "tag": "WIKI",
+   "title": "ヴェスヴィオ",
+   "body": "ヴェスヴィオ山 は、イタリア・カンパニア州にある火山。ナポリから東へ約9kmのナポリ湾岸にある。日本ではベスビオ山、ベスビオス火山、ヴェスヴィオス火山とも呼ばれることがある。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A7%E3%82%B9%E3%83%B4%E3%82%A3%E3%82%AA"
   },
   {
    "tag": "HN",
    "title": "License plate reader searches should require a warrant",
-   "body": "505ポイント / コメント315件。",
+   "body": "523ポイント / コメント323件。",
    "src": "news.ycombinator.com",
    "url": "https://news.ycombinator.com/item?id=49273165"
   },
   {
-   "tag": "WIKI",
-   "title": "バンジャマン・ヴォワザン",
-   "body": "バンジャマン・ヴォワザン は、パリで生まれたフランスの俳優である。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%9E%E3%83%B3%E3%83%BB%E3%83%B4%E3%82%A9%E3%83%AF%E3%82%B6%E3%83%B3"
-  },
-  {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "小雨。最高27.6℃ / 最低22.8℃。いまは23.5℃。",
+   "body": "小雨。最高27.8℃ / 最低22.9℃。いまは24.9℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "AI is removing the middle class of software engineering?",
-   "body": "658ポイント / コメント575件。",
+   "title": "Delta",
+   "body": "344ポイント / コメント116件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49271994"
+   "url": "https://news.ycombinator.com/item?id=49276574"
   },
   {
    "tag": "WIKI",
-   "title": "本松寺 (明石市)",
-   "body": "本松寺（ほんしょうじ）は、兵庫県明石市上ノ丸にある日蓮宗の寺院。旧本山は大本山本圀寺(六条門流)、奠師法縁(奠統会)。",
+   "title": "今金町",
+   "body": "今金町（いまかねちょう）は、北海道南部、檜山振興局北部にある町。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%9C%AC%E6%9D%BE%E5%AF%BA_(%E6%98%8E%E7%9F%B3%E5%B8%82)"
+   "url": "https://ja.wikipedia.org/wiki/%E4%BB%8A%E9%87%91%E7%94%BA"
+  },
+  {
+   "tag": "HN",
+   "title": "'The Cheese and the Worms' by Carlo Ginzburg Review",
+   "body": "11ポイント / コメント3件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49215117"
   }
  ]
 }
