@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-14T03:10:45+09:00",
+ "generated_at": "2026-08-14T04:27:56+09:00",
  "items": [
-  {
-   "tag": "HN",
-   "title": "Spaghettifying DRAM",
-   "body": "298ポイント / コメント87件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49286341"
-  },
-  {
-   "tag": "HN",
-   "title": "Show HN: MCP Memory – Fast Agent Memory Using Google's OKF and SQLite…",
-   "body": "46ポイント / コメント22件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49286073"
-  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "雨。最高25.6℃ / 最低23.6℃。いまは23.6℃。",
+   "body": "小雨。最高25.9℃ / 最低23.0℃。いまは23.1℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Show HN: OJCP – an open protocol for agent-consumable job data",
-   "body": "12ポイント / コメント2件。",
+   "title": "What Is Kimi K3? A Complete Developer Guide for 2026",
+   "body": "3ポイント / コメント0件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49273922"
+   "url": "https://news.ycombinator.com/item?id=49290202"
+  },
+  {
+   "tag": "HN",
+   "title": "Codex in ChatGPT desktop app for Linux is now in preview",
+   "body": "411ポイント / コメント286件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49281916"
+  },
+  {
+   "tag": "HN",
+   "title": "Come for ENIAC, Stay for UNIVAC and Skeduflo",
+   "body": "46ポイント / コメント12件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49258428"
   },
   {
    "tag": "WIKI",
-   "title": "小野川温泉",
-   "body": "小野川温泉（おのがわおんせん）は、山形県米沢市小野川町（旧国出羽国、明治以降は羽前国）に湧出する温泉である。米沢八湯の1つに数えられ、複数の温泉旅館が「温泉米沢八湯会」に加盟している。",
+   "title": "パーシー・フェイス",
+   "body": "パーシー・フェイス は、カナダ・トロント生まれでアメリカ合衆国で活動した作曲家、編曲家、指揮者、音楽プロデューサー。イージーリスニングやムード音楽分野において著名な人物である。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E9%87%8E%E5%B7%9D%E6%B8%A9%E6%B3%89"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%BC%E3%82%B7%E3%83%BC%E3%83%BB%E3%83%95%E3%82%A7%E3%82%A4%E3%82%B9"
   },
   {
    "tag": "WIKI",
-   "title": "西那須野駅",
-   "body": "西那須野駅（にしなすのえき）は、栃木県那須塩原市永田町にある、東日本旅客鉄道（JR東日本）の駅である。",
+   "title": "北海道旭川東栄高等学校",
+   "body": "北海道旭川東栄高等学校 は、北海道旭川市にかつて存在した公立（北海道立）高等学校。通称「東栄」。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E9%82%A3%E9%A0%88%E9%87%8E%E9%A7%85"
+   "url": "https://ja.wikipedia.org/wiki/%E5%8C%97%E6%B5%B7%E9%81%93%E6%97%AD%E5%B7%9D%E6%9D%B1%E6%A0%84%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1"
   }
  ]
 }
