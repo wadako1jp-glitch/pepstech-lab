@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-15T01:07:07+09:00",
+ "generated_at": "2026-08-15T02:13:20+09:00",
  "items": [
   {
-   "tag": "HN",
-   "title": "Show HN: Graft – Claude Code hooks that cut grep tokens by 42%",
-   "body": "11ポイント / コメント2件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49299985"
+   "tag": "WIKI",
+   "title": "ハヤザキヒョウタンボク",
+   "body": "ハヤザキヒョウタンボク は、スイカズラ科スイカズラ属の落葉低木。別名、カイヒョウタンボク、ヒロハヒョウタンボク。L. praeflorens var. praeflorens を基本…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%A4%E3%82%B6%E3%82%AD%E3%83%92%E3%83%A7%E3%82%A6%E3%82%BF%E3%83%B3%E3%83%9C%E3%82%AF"
   },
   {
    "tag": "WIKI",
-   "title": "ヴェニスに死す",
-   "body": "『ヴェニスに死す』 は、ドイツの作家トーマス・マンの中編小説。1912年発表。",
+   "title": "近衛基熙",
+   "body": "近衛 基熈 は、江戸時代前・中期の公卿。近衛家21代当主。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A7%E3%83%8B%E3%82%B9%E3%81%AB%E6%AD%BB%E3%81%99"
+   "url": "https://ja.wikipedia.org/wiki/%E8%BF%91%E8%A1%9B%E5%9F%BA%E7%86%99"
+  },
+  {
+   "tag": "HN",
+   "title": "HashAgent – Share an AI agent as a URL, runs locally via WebGPU",
+   "body": "30ポイント / コメント3件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49298088"
+  },
+  {
+   "tag": "HN",
+   "title": "Qwen 3.8 27B",
+   "body": "202ポイント / コメント166件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49299605"
+  },
+  {
+   "tag": "HN",
+   "title": "Introducing Toast 1",
+   "body": "78ポイント / コメント22件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49299746"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高27.4℃ / 最低23.4℃。いまは24.0℃。",
+   "body": "霧雨。最高27.4℃ / 最低23.4℃。いまは23.9℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
-  },
-  {
-   "tag": "HN",
-   "title": "We're not done with point clouds",
-   "body": "50ポイント / コメント6件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49247628"
-  },
-  {
-   "tag": "HN",
-   "title": "DeepSeek peak/off-peak pricing update",
-   "body": "181ポイント / コメント101件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49296627"
-  },
-  {
-   "tag": "WIKI",
-   "title": "サウザンドオークス",
-   "body": "サウザンドオークス は、アメリカ合衆国カリフォルニア州の南部ベンチュラ郡にある都市。人口は12万6966（2020年）。住民は通常「T.O.」と呼んでいる。多くのオークの木があったの…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A6%E3%82%B6%E3%83%B3%E3%83%89%E3%82%AA%E3%83%BC%E3%82%AF%E3%82%B9"
   }
  ]
 }
