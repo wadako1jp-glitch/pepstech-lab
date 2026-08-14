@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-14T09:00:57+09:00",
+ "generated_at": "2026-08-14T11:48:23+09:00",
  "items": [
   {
    "tag": "WIKI",
-   "title": "ナット・フリードマン",
-   "body": "ナサニエル・ドゥーリフ・フリードマン は、1999年にミゲル・デ・イカザとともにXimianを設立したプログラマ。通称はナット(Nat)。同社は2003年にノベルに買収された。",
+   "title": "筋鞘",
+   "body": "筋鞘 は、骨格筋線維を包む細胞膜。哺乳類の筋線維の核は筋鞘に接して存在する。筋鞘には無定形あるいは細線維性の基底板が密着して筋鞘を補強する。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%83%E3%83%88%E3%83%BB%E3%83%95%E3%83%AA%E3%83%BC%E3%83%89%E3%83%9E%E3%83%B3"
+   "url": "https://ja.wikipedia.org/wiki/%E7%AD%8B%E9%9E%98"
+  },
+  {
+   "tag": "HN",
+   "title": "NP-overrated",
+   "body": "162ポイント / コメント102件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49291268"
+  },
+  {
+   "tag": "HN",
+   "title": "How Compaction Works in Pi",
+   "body": "112ポイント / コメント42件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49289654"
   },
   {
    "tag": "WIKI",
-   "title": "MATAトロリー",
-   "body": "MATAトロリー は、アメリカ合衆国の都市・メンフィス市内に存在する路面電車。世界各国の歴史ある路面電車車両が使用されている保存路面電車の側面を有し、2023年現在、路線バスをはじめ…",
+   "title": "小山亮",
+   "body": "小山 亮 は、日本の政治家（衆議院議員）。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/MATA%E3%83%88%E3%83%AD%E3%83%AA%E3%83%BC"
+   "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%B1%B1%E4%BA%AE"
+  },
+  {
+   "tag": "HN",
+   "title": "Hello, me. It's been a while",
+   "body": "35ポイント / コメント14件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49290166"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "小雨。最高26.8℃ / 最低23.2℃。いまは24.7℃。",
+   "body": "小雨。最高29.0℃ / 最低22.6℃。いまは28.4℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
-  },
-  {
-   "tag": "HN",
-   "title": "Launch HN: Bullet (YC S26) – A Faster Coding Agent",
-   "body": "77ポイント / コメント48件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49283063"
-  },
-  {
-   "tag": "HN",
-   "title": "Nine PBS sues Iron Mountain over blocked access to archival data",
-   "body": "216ポイント / コメント102件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49285418"
-  },
-  {
-   "tag": "HN",
-   "title": "Where did the old web go? We followed 657,607 links to find out",
-   "body": "116ポイント / コメント81件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49289532"
   }
  ]
 }
