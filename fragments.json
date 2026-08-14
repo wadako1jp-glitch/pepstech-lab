@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-14T19:18:41+09:00",
+ "generated_at": "2026-08-14T20:59:05+09:00",
  "items": [
   {
-   "tag": "WIKI",
-   "title": "薩摩塔",
-   "body": "薩摩塔（さつまとう）は、九州各地に分布する石塔。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E8%96%A9%E6%91%A9%E5%A1%94"
-  },
-  {
    "tag": "HN",
-   "title": "Ruby 4.0 Universal RCE Deserialization Gadget Chain",
-   "body": "30ポイント / コメント7件。",
+   "title": "Bluesky Protocol Services",
+   "body": "172ポイント / コメント45件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49295238"
+   "url": "https://news.ycombinator.com/item?id=49293324"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "小雨。最高29.5℃ / 最低22.6℃。いまは25.3℃。",
+   "body": "小雨。最高29.5℃ / 最低22.6℃。いまは25.0℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Differential Heuristics",
-   "body": "8ポイント / コメント0件。",
+   "title": "Ordinary Abundance",
+   "body": "324ポイント / コメント159件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49231490"
+   "url": "https://news.ycombinator.com/item?id=49285770"
   },
   {
    "tag": "WIKI",
-   "title": "昭和 (宇都宮市)",
-   "body": "昭和（しょうわ）は、栃木県宇都宮市の町名。現行行政地名は昭和一丁目から昭和三丁目。全区域で住居表示実施済み。郵便番号は320-0032（宇都宮中央郵便局管区）。",
+   "title": "脇山村",
+   "body": "脇山村（わきやまむら）は、福岡県早良郡にあった村。1955年に入部村・内野村と新設合併し早良村となったため消滅した。現在は福岡市早良区の一部となっている。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%98%AD%E5%92%8C_(%E5%AE%87%E9%83%BD%E5%AE%AE%E5%B8%82)"
+   "url": "https://ja.wikipedia.org/wiki/%E8%84%87%E5%B1%B1%E6%9D%91"
+  },
+  {
+   "tag": "WIKI",
+   "title": "ベニン共和国",
+   "body": "ベニン共和国 は、ナイジェリア中西部州に作られた、ビアフラ共和国による傀儡国家。1967年9月19日から翌20日まで存在していた短命政権。国名はかつてのベニン王国及び首都ベニンシティ…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%8B%E3%83%B3%E5%85%B1%E5%92%8C%E5%9B%BD"
   },
   {
    "tag": "HN",
-   "title": "We're not done with point clouds",
-   "body": "3ポイント / コメント0件。",
+   "title": "DeepSeek Harness developer preview",
+   "body": "679ポイント / コメント278件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49247628"
+   "url": "https://news.ycombinator.com/item?id=49285244"
   }
  ]
 }
