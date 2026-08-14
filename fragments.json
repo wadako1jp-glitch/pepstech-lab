@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-14T15:44:18+09:00",
+ "generated_at": "2026-08-14T17:38:59+09:00",
  "items": [
   {
-   "tag": "HN",
-   "title": "DeepSeek Harness developer preview",
-   "body": "624ポイント / コメント263件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49285244"
-  },
-  {
-   "tag": "HN",
-   "title": "Where did the old web go? We followed 657,607 links to find out",
-   "body": "164ポイント / コメント142件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49289532"
-  },
-  {
    "tag": "WIKI",
-   "title": "伊福部昭",
-   "body": "伊福部 昭（いふくべ あきら、 は、日本の作曲家。位階は従四位。",
+   "title": "大明寺 (横須賀市)",
+   "body": "大明寺（だいみょうじ）は、神奈川県横須賀市にある日蓮宗の寺院。山号は金谷山。本尊は一塔両尊四菩薩。大本山本圀寺の旧末寺（六条門流）。奠師法縁。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E4%BC%8A%E7%A6%8F%E9%83%A8%E6%98%AD"
-  },
-  {
-   "tag": "WIKI",
-   "title": "松友美佐紀",
-   "body": "松友 美佐紀 は、日本のバドミントン選手。徳島県板野郡藍住町出身。バドミントン日本代表ナショナルAチームに選出されている。髙橋礼華とのペアは「タカマツ」の愛称で知られている。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E5%8F%8B%E7%BE%8E%E4%BD%90%E7%B4%80"
-  },
-  {
-   "tag": "HN",
-   "title": "Cave of the Crystals",
-   "body": "32ポイント / コメント1件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49221431"
+   "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%98%8E%E5%AF%BA_(%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82)"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "小雨。最高29.5℃ / 最低22.6℃。いまは28.2℃。",
+   "body": "小雨。最高29.5℃ / 最低22.6℃。いまは26.0℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
+  },
+  {
+   "tag": "HN",
+   "title": "Understanding is the new bottleneck",
+   "body": "309ポイント / コメント166件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49290299"
+  },
+  {
+   "tag": "WIKI",
+   "title": "淡路島中央スマートインターチェンジ",
+   "body": "淡路島中央スマートインターチェンジ（あわじしまちゅうおうスマートインターチェンジ）は、兵庫県洲本市中川原町市原にある神戸淡路鳴門自動車道のスマートインターチェンジである。淡路島中央バ…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E6%B7%A1%E8%B7%AF%E5%B3%B6%E4%B8%AD%E5%A4%AE%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%81%E3%82%A7%E3%83%B3%E3%82%B8"
+  },
+  {
+   "tag": "HN",
+   "title": "The Legend of the Novell NE2000 [video]",
+   "body": "43ポイント / コメント13件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49232753"
+  },
+  {
+   "tag": "HN",
+   "title": "NP-overrated",
+   "body": "202ポイント / コメント138件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49291268"
   }
  ]
 }
