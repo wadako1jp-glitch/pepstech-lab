@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-14T20:59:05+09:00",
+ "generated_at": "2026-08-14T22:46:12+09:00",
  "items": [
-  {
-   "tag": "HN",
-   "title": "Bluesky Protocol Services",
-   "body": "172ポイント / コメント45件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49293324"
-  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "小雨。最高29.5℃ / 最低22.6℃。いまは25.0℃。",
+   "body": "小雨。最高29.5℃ / 最低22.6℃。いまは24.4℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Ordinary Abundance",
-   "body": "324ポイント / コメント159件。",
+   "title": "Spaghettifying DRAM",
+   "body": "670ポイント / コメント168件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49285770"
+   "url": "https://news.ycombinator.com/item?id=49286341"
   },
   {
    "tag": "WIKI",
-   "title": "脇山村",
-   "body": "脇山村（わきやまむら）は、福岡県早良郡にあった村。1955年に入部村・内野村と新設合併し早良村となったため消滅した。現在は福岡市早良区の一部となっている。",
+   "title": "マリーズ・バスティエ",
+   "body": "マリーズ・バスティエ はフランスの女性パイロットである。1930年代に多くの飛行記録を樹立した。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E8%84%87%E5%B1%B1%E6%9D%91"
-  },
-  {
-   "tag": "WIKI",
-   "title": "ベニン共和国",
-   "body": "ベニン共和国 は、ナイジェリア中西部州に作られた、ビアフラ共和国による傀儡国家。1967年9月19日から翌20日まで存在していた短命政権。国名はかつてのベニン王国及び首都ベニンシティ…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%8B%E3%83%B3%E5%85%B1%E5%92%8C%E5%9B%BD"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AA%E3%83%BC%E3%82%BA%E3%83%BB%E3%83%90%E3%82%B9%E3%83%86%E3%82%A3%E3%82%A8"
   },
   {
    "tag": "HN",
-   "title": "DeepSeek Harness developer preview",
-   "body": "679ポイント / コメント278件。",
+   "title": "Why does Opus 5 feel worse to work with?",
+   "body": "241ポイント / コメント228件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49285244"
+   "url": "https://news.ycombinator.com/item?id=49296740"
+  },
+  {
+   "tag": "HN",
+   "title": "Protect Your Relays",
+   "body": "22ポイント / コメント7件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49242867"
+  },
+  {
+   "tag": "WIKI",
+   "title": "アルカスSASEBO",
+   "body": "アルカスSASEBO（あるかすさせぼ）は、長崎県佐世保市三浦町にある多目的ホール。長崎県が設置する「県民文化ホール『シーサイドホール・アルカスさせぼ』」と、佐世保市が設置する「佐世保…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%AB%E3%82%B9SASEBO"
   }
  ]
 }
