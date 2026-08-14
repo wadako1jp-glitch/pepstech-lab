@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-14T08:04:28+09:00",
+ "generated_at": "2026-08-14T09:00:57+09:00",
  "items": [
   {
-   "tag": "HN",
-   "title": "Text AI watermarks will always be trivial to remove",
-   "body": "72ポイント / コメント62件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49287153"
-  },
-  {
-   "tag": "HN",
-   "title": "Finite State Machines in Forth (1994)",
-   "body": "18ポイント / コメント0件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49223964"
+   "tag": "WIKI",
+   "title": "ナット・フリードマン",
+   "body": "ナサニエル・ドゥーリフ・フリードマン は、1999年にミゲル・デ・イカザとともにXimianを設立したプログラマ。通称はナット(Nat)。同社は2003年にノベルに買収された。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%83%E3%83%88%E3%83%BB%E3%83%95%E3%83%AA%E3%83%BC%E3%83%89%E3%83%9E%E3%83%B3"
   },
   {
    "tag": "WIKI",
-   "title": "安佐北区",
-   "body": "安佐北区（あさきたく）は、広島市を構成する8つの行政区のひとつ。",
+   "title": "MATAトロリー",
+   "body": "MATAトロリー は、アメリカ合衆国の都市・メンフィス市内に存在する路面電車。世界各国の歴史ある路面電車車両が使用されている保存路面電車の側面を有し、2023年現在、路線バスをはじめ…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%AE%89%E4%BD%90%E5%8C%97%E5%8C%BA"
+   "url": "https://ja.wikipedia.org/wiki/MATA%E3%83%88%E3%83%AD%E3%83%AA%E3%83%BC"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "小雨。最高25.9℃ / 最低23.0℃。いまは23.6℃。",
+   "body": "小雨。最高26.8℃ / 最低23.2℃。いまは24.7℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "WIKI",
-   "title": "海軍特殊戦センター",
-   "body": "海軍特殊戦センター は、アメリカ海軍特殊戦コマンドに属する組織。カリフォルニア州コロナド海軍水陸両用戦基地内に置かれている。 Navy SEALs入隊の登竜門であるBUD/S（SEA…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%B5%B7%E8%BB%8D%E7%89%B9%E6%AE%8A%E6%88%A6%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC"
+   "tag": "HN",
+   "title": "Launch HN: Bullet (YC S26) – A Faster Coding Agent",
+   "body": "77ポイント / コメント48件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49283063"
   },
   {
    "tag": "HN",
-   "title": "Choosing an AI model: one prompt, 11 models, different results",
-   "body": "163ポイント / コメント70件。",
+   "title": "Nine PBS sues Iron Mountain over blocked access to archival data",
+   "body": "216ポイント / コメント102件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49285327"
+   "url": "https://news.ycombinator.com/item?id=49285418"
+  },
+  {
+   "tag": "HN",
+   "title": "Where did the old web go? We followed 657,607 links to find out",
+   "body": "116ポイント / コメント81件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49289532"
   }
  ]
 }
