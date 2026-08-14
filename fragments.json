@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-14T17:38:59+09:00",
+ "generated_at": "2026-08-14T19:18:41+09:00",
  "items": [
   {
    "tag": "WIKI",
-   "title": "大明寺 (横須賀市)",
-   "body": "大明寺（だいみょうじ）は、神奈川県横須賀市にある日蓮宗の寺院。山号は金谷山。本尊は一塔両尊四菩薩。大本山本圀寺の旧末寺（六条門流）。奠師法縁。",
+   "title": "薩摩塔",
+   "body": "薩摩塔（さつまとう）は、九州各地に分布する石塔。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%98%8E%E5%AF%BA_(%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82)"
+   "url": "https://ja.wikipedia.org/wiki/%E8%96%A9%E6%91%A9%E5%A1%94"
+  },
+  {
+   "tag": "HN",
+   "title": "Ruby 4.0 Universal RCE Deserialization Gadget Chain",
+   "body": "30ポイント / コメント7件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49295238"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "小雨。最高29.5℃ / 最低22.6℃。いまは26.0℃。",
+   "body": "小雨。最高29.5℃ / 最低22.6℃。いまは25.3℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Understanding is the new bottleneck",
-   "body": "309ポイント / コメント166件。",
+   "title": "Differential Heuristics",
+   "body": "8ポイント / コメント0件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49290299"
+   "url": "https://news.ycombinator.com/item?id=49231490"
   },
   {
    "tag": "WIKI",
-   "title": "淡路島中央スマートインターチェンジ",
-   "body": "淡路島中央スマートインターチェンジ（あわじしまちゅうおうスマートインターチェンジ）は、兵庫県洲本市中川原町市原にある神戸淡路鳴門自動車道のスマートインターチェンジである。淡路島中央バ…",
+   "title": "昭和 (宇都宮市)",
+   "body": "昭和（しょうわ）は、栃木県宇都宮市の町名。現行行政地名は昭和一丁目から昭和三丁目。全区域で住居表示実施済み。郵便番号は320-0032（宇都宮中央郵便局管区）。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%B7%A1%E8%B7%AF%E5%B3%B6%E4%B8%AD%E5%A4%AE%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%81%E3%82%A7%E3%83%B3%E3%82%B8"
+   "url": "https://ja.wikipedia.org/wiki/%E6%98%AD%E5%92%8C_(%E5%AE%87%E9%83%BD%E5%AE%AE%E5%B8%82)"
   },
   {
    "tag": "HN",
-   "title": "The Legend of the Novell NE2000 [video]",
-   "body": "43ポイント / コメント13件。",
+   "title": "We're not done with point clouds",
+   "body": "3ポイント / コメント0件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49232753"
-  },
-  {
-   "tag": "HN",
-   "title": "NP-overrated",
-   "body": "202ポイント / コメント138件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49291268"
+   "url": "https://news.ycombinator.com/item?id=49247628"
   }
  ]
 }
