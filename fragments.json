@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-15T05:47:30+09:00",
+ "generated_at": "2026-08-15T06:42:43+09:00",
  "items": [
-  {
-   "tag": "WIKI",
-   "title": "泉体育館駅",
-   "body": "泉体育館駅（いずみたいいくかんえき）は、東京都立川市泉町にある多摩都市モノレール線の駅。駅番号はTT15。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%B3%89%E4%BD%93%E8%82%B2%E9%A4%A8%E9%A7%85"
-  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "小雨。最高27.5℃ / 最低22.9℃。いまは23.5℃。",
+   "body": "小雨。最高27.5℃ / 最低22.9℃。いまは23.7℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Moving integer division to floating-point is trivial",
-   "body": "20ポイント / コメント9件。",
+   "title": "RustDesk now supports true unattended remote access on Wayland",
+   "body": "170ポイント / コメント78件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49253831"
-  },
-  {
-   "tag": "HN",
-   "title": "The TEMU-Fication of Software, Digital Goods and Services",
-   "body": "112ポイント / コメント80件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49297637"
+   "url": "https://news.ycombinator.com/item?id=49300759"
   },
   {
    "tag": "WIKI",
-   "title": "成東駅",
-   "body": "成東駅（なるとうえき）は、千葉県山武市津辺にある、東日本旅客鉄道（JR東日本）の駅である。",
+   "title": "ンゴジ・オコンジョ・イウェアラ",
+   "body": "ンゴジ・オコンジョ・イウェアラ は、ナイジェリアの経済学者、政治家。2021年3月1日に世界貿易機関(WTO)事務局長に就任した。日本の外務省はオコンジョ＝イウェアラ、日本の報道機関…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%88%90%E6%9D%B1%E9%A7%85"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%B3%E3%82%B4%E3%82%B8%E3%83%BB%E3%82%AA%E3%82%B3%E3%83%B3%E3%82%B8%E3%83%A7%E3%83%BB%E3%82%A4%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%A9"
   },
   {
    "tag": "HN",
-   "title": "Introducing Toast 1",
-   "body": "141ポイント / コメント42件。",
+   "title": "Turbo Pascal on CP/M, MSX-DOS and MS-DOS – Pascal for Small Machines",
+   "body": "48ポイント / コメント13件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49299746"
+   "url": "https://news.ycombinator.com/item?id=49269809"
+  },
+  {
+   "tag": "WIKI",
+   "title": "横田神社 (東みよし町)",
+   "body": "横田神社（よこたじんじゃ）は、徳島県東みよし町にある神社である。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E6%A8%AA%E7%94%B0%E7%A5%9E%E7%A4%BE_(%E6%9D%B1%E3%81%BF%E3%82%88%E3%81%97%E7%94%BA)"
+  },
+  {
+   "tag": "HN",
+   "title": "Every Fucking Website (2020)",
+   "body": "673ポイント / コメント384件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49299222"
   }
  ]
 }
