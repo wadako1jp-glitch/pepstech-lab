@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-15T03:08:11+09:00",
+ "generated_at": "2026-08-15T04:16:14+09:00",
  "items": [
   {
-   "tag": "WIKI",
-   "title": "狭山市駅",
-   "body": "狭山市駅（さやましえき）は、埼玉県狭山市入間川一丁目にある、西武鉄道新宿線の駅である。駅番号はSS26。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E7%8B%AD%E5%B1%B1%E5%B8%82%E9%A7%85"
-  },
-  {
    "tag": "HN",
-   "title": "Forbidden City Cabbage",
-   "body": "18ポイント / コメント1件。",
+   "title": "Moving integer division to floating-point is trivial",
+   "body": "13ポイント / コメント5件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49269240"
-  },
-  {
-   "tag": "HN",
-   "title": "Maximizing the value of your Claude Code sessions",
-   "body": "22ポイント / コメント12件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49300800"
+   "url": "https://news.ycombinator.com/item?id=49253831"
   },
   {
    "tag": "WIKI",
-   "title": "コジネズミ",
-   "body": "コジネズミ は、真無盲腸目トガリネズミ科ジネズミ属に属する哺乳類である。中国東部から朝鮮半島および対馬に分布する 。標準和名はアジアコジネズミ。かつてはヨーロッパからシベリアまで広く…",
+   "title": "ジョゼフ・マジリエ",
+   "body": "ジョゼフ・マジリエ は、フランスのバレエダンサー、振付家である。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%B8%E3%83%8D%E3%82%BA%E3%83%9F"
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%82%BC%E3%83%95%E3%83%BB%E3%83%9E%E3%82%B8%E3%83%AA%E3%82%A8"
   },
   {
    "tag": "HN",
-   "title": "Every Fucking Website (2020)",
-   "body": "560ポイント / コメント330件。",
+   "title": "Gödel, Escher, Elisp: The Beauty of Macros",
+   "body": "62ポイント / コメント18件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49299222"
+   "url": "https://news.ycombinator.com/item?id=49175067"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高27.4℃ / 最低23.4℃。いまは23.7℃。",
+   "body": "小雨。最高27.5℃ / 最低22.9℃。いまは23.5℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
+  },
+  {
+   "tag": "WIKI",
+   "title": "避雷器",
+   "body": "避雷器(ひらいき、英: lightning arrester)は、発電、変電、送電、配電系統の電力機器や電力の供給を受ける需要家の需要機器、有線通信回線、空中線系、通信機器などを、雷…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E9%81%BF%E9%9B%B7%E5%99%A8"
+  },
+  {
+   "tag": "HN",
+   "title": "Introducing Toast 1",
+   "body": "126ポイント / コメント38件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49299746"
   }
  ]
 }
