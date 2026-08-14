@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-14T11:48:23+09:00",
+ "generated_at": "2026-08-14T14:04:59+09:00",
  "items": [
-  {
-   "tag": "WIKI",
-   "title": "筋鞘",
-   "body": "筋鞘 は、骨格筋線維を包む細胞膜。哺乳類の筋線維の核は筋鞘に接して存在する。筋鞘には無定形あるいは細線維性の基底板が密着して筋鞘を補強する。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E7%AD%8B%E9%9E%98"
-  },
-  {
-   "tag": "HN",
-   "title": "NP-overrated",
-   "body": "162ポイント / コメント102件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49291268"
-  },
-  {
-   "tag": "HN",
-   "title": "How Compaction Works in Pi",
-   "body": "112ポイント / コメント42件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49289654"
-  },
-  {
-   "tag": "WIKI",
-   "title": "小山亮",
-   "body": "小山 亮 は、日本の政治家（衆議院議員）。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%B1%B1%E4%BA%AE"
-  },
   {
    "tag": "HN",
    "title": "Hello, me. It's been a while",
-   "body": "35ポイント / コメント14件。",
+   "body": "88ポイント / コメント39件。",
    "src": "news.ycombinator.com",
    "url": "https://news.ycombinator.com/item?id=49290166"
   },
   {
+   "tag": "WIKI",
+   "title": "ロゼート・カーポ・スプーリコ",
+   "body": "ロゼート・カーポ・スプーリコ は、イタリア共和国カラブリア州コゼンツァ県にある、人口約1,900人の基礎自治体（コムーネ）。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%BC%E3%83%BC%E3%83%88%E3%83%BB%E3%82%AB%E3%83%BC%E3%83%9D%E3%83%BB%E3%82%B9%E3%83%97%E3%83%BC%E3%83%AA%E3%82%B3"
+  },
+  {
+   "tag": "HN",
+   "title": "Idol Mahjong Final Romance: A Slideshow Disguised as a Video Game",
+   "body": "48ポイント / コメント10件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49236811"
+  },
+  {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "小雨。最高29.0℃ / 最低22.6℃。いまは28.4℃。",
+   "body": "小雨。最高29.0℃ / 最低22.6℃。いまは27.7℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
+  },
+  {
+   "tag": "WIKI",
+   "title": "国民ブロック",
+   "body": "国民ブロック は、イタリア王国の政党連合 。1921年、イタリア自由党のジョヴァンニ・ジョリッティ首相の呼びかけで設立され、同年の総選挙で勝利した。選挙連合にはベニート・ムッソリーニ…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E6%B0%91%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF"
+  },
+  {
+   "tag": "HN",
+   "title": "Nine PBS sues Iron Mountain over blocked access to archival data",
+   "body": "276ポイント / コメント160件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49285418"
   }
  ]
 }
