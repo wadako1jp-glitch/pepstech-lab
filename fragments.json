@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-14T22:46:12+09:00",
+ "generated_at": "2026-08-15T00:08:29+09:00",
  "items": [
+  {
+   "tag": "WIKI",
+   "title": "久隔帖",
+   "body": "久隔帖（きゅうかくじょう）は、最澄が記した尺牘（漢文で記された手紙）。現存している唯一の、最澄自筆の作品であり、国宝に指定されている。最澄が空海のもとで修業に励んでいた弟子・泰範にあ…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E4%B9%85%E9%9A%94%E5%B8%96"
+  },
+  {
+   "tag": "WIKI",
+   "title": "九州電力キューデンヴォルテクス",
+   "body": "九州電力キューデンヴォルテクス は、JAPAN RUGBY LEAGUE ONEに参加しているラグビーユニオンのチーム。略称は「九州KV」。ホストエリアは福岡市だが、九州電力が運営す…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E4%B9%9D%E5%B7%9E%E9%9B%BB%E5%8A%9B%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%87%E3%83%B3%E3%83%B4%E3%82%A9%E3%83%AB%E3%83%86%E3%82%AF%E3%82%B9"
+  },
+  {
+   "tag": "HN",
+   "title": "AI Model Atlas – visualizing populations of ML models as interconnect…",
+   "body": "5ポイント / コメント0件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49299102"
+  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "小雨。最高29.5℃ / 最低22.6℃。いまは24.4℃。",
+   "body": "霧雨。最高27.4℃ / 最低23.4℃。いまは24.1℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Spaghettifying DRAM",
-   "body": "670ポイント / コメント168件。",
+   "title": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
+   "body": "11ポイント / コメント0件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49286341"
-  },
-  {
-   "tag": "WIKI",
-   "title": "マリーズ・バスティエ",
-   "body": "マリーズ・バスティエ はフランスの女性パイロットである。1930年代に多くの飛行記録を樹立した。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AA%E3%83%BC%E3%82%BA%E3%83%BB%E3%83%90%E3%82%B9%E3%83%86%E3%82%A3%E3%82%A8"
+   "url": "https://news.ycombinator.com/item?id=49299282"
   },
   {
    "tag": "HN",
-   "title": "Why does Opus 5 feel worse to work with?",
-   "body": "241ポイント / コメント228件。",
+   "title": "Differential Heuristics",
+   "body": "79ポイント / コメント5件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49296740"
-  },
-  {
-   "tag": "HN",
-   "title": "Protect Your Relays",
-   "body": "22ポイント / コメント7件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49242867"
-  },
-  {
-   "tag": "WIKI",
-   "title": "アルカスSASEBO",
-   "body": "アルカスSASEBO（あるかすさせぼ）は、長崎県佐世保市三浦町にある多目的ホール。長崎県が設置する「県民文化ホール『シーサイドホール・アルカスさせぼ』」と、佐世保市が設置する「佐世保…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%AB%E3%82%B9SASEBO"
+   "url": "https://news.ycombinator.com/item?id=49231490"
   }
  ]
 }
