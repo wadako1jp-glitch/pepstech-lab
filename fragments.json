@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-16T01:43:15+09:00",
+ "generated_at": "2026-08-16T02:36:51+09:00",
  "items": [
+  {
+   "tag": "HN",
+   "title": "Google is making private AI practical with homomorphic encryption",
+   "body": "465ポイント / コメント269件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49300314"
+  },
+  {
+   "tag": "WIKI",
+   "title": "ハウプキ駅",
+   "body": "ハウプキ駅 はポーランドシロンスク県ラチブシュ郡クシジャノヴィツェにあるポーランド国鉄（PKP）の鉄道駅。チェコとの国境に近く、国境を越えた先にはボフミーン駅がある。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A6%E3%83%97%E3%82%AD%E9%A7%85"
+  },
+  {
+   "tag": "HN",
+   "title": "Semaglutide linked to 26% lower 5-year predicted dementia risk",
+   "body": "61ポイント / コメント21件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49311651"
+  },
+  {
+   "tag": "WIKI",
+   "title": "如法寺 (豊前市)",
+   "body": "如法寺（ねほうじ）は、福岡県豊前市にある黄檗宗の寺院。山号は常在山。本尊は不動明王。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%A6%82%E6%B3%95%E5%AF%BA_(%E8%B1%8A%E5%89%8D%E5%B8%82)"
+  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高26.6℃ / 最低21.6℃。いまは22.6℃。",
+   "body": "霧雨。最高26.6℃ / 最低22.0℃。いまは22.4℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "The Problem",
-   "body": "23ポイント / コメント27件。",
+   "title": "Brain turns listening inward during REM sleep, EEG recordings suggest",
+   "body": "39ポイント / コメント11件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49309963"
-  },
-  {
-   "tag": "HN",
-   "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-   "body": "90ポイント / コメント40件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49307700"
-  },
-  {
-   "tag": "WIKI",
-   "title": "光産業創成大学院大学",
-   "body": "光産業創成大学院大学 は、日本の私立大学である。静岡県浜松市に本部を置く。略称はGPI。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%85%89%E7%94%A3%E6%A5%AD%E5%89%B5%E6%88%90%E5%A4%A7%E5%AD%A6%E9%99%A2%E5%A4%A7%E5%AD%A6"
-  },
-  {
-   "tag": "HN",
-   "title": "The price of a Costco hot dog has gone up",
-   "body": "10ポイント / コメント1件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49311685"
-  },
-  {
-   "tag": "WIKI",
-   "title": "全性寺 (京丹後市)",
-   "body": "全性寺（ぜんしょうじ）は、京都府京丹後市峰山町にある臨済宗の寺院である。山号は臥龍山。本尊は聖観世音菩薩像。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%85%A8%E6%80%A7%E5%AF%BA_(%E4%BA%AC%E4%B8%B9%E5%BE%8C%E5%B8%82)"
+   "url": "https://news.ycombinator.com/item?id=49310248"
   }
  ]
 }
