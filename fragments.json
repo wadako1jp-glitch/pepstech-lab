@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-15T10:51:21+09:00",
+ "generated_at": "2026-08-15T12:06:26+09:00",
  "items": [
   {
    "tag": "WIKI",
-   "title": "103丁目駅 (IRTブロードウェイ-7番街線)",
-   "body": "103丁目駅 は、ニューヨーク市地下鉄IRTブロードウェイ-7番街線の駅である。マンハッタン区アッパー・ウェスト・サイドのブロードウェイと西103丁目の交差点に位置し、1系統が終日停…",
+   "title": "チヴィテッラ・サン・パオロ",
+   "body": "チヴィテッラ・サン・パオロ は、イタリア共和国ラツィオ州ローマ県にある、人口約2,000人の基礎自治体（コムーネ）。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/103%E4%B8%81%E7%9B%AE%E9%A7%85_(IRT%E3%83%96%E3%83%AD%E3%83%BC%E3%83%89%E3%82%A6%E3%82%A7%E3%82%A4-7%E7%95%AA%E8%A1%97%E7%B7%9A)"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%B4%E3%82%A3%E3%83%86%E3%83%83%E3%83%A9%E3%83%BB%E3%82%B5%E3%83%B3%E3%83%BB%E3%83%91%E3%82%AA%E3%83%AD"
   },
   {
    "tag": "HN",
-   "title": "Turbo Pascal on CP/M, MSX-DOS and MS-DOS",
-   "body": "70ポイント / コメント24件。",
+   "title": "NSA and IETF, Part 9",
+   "body": "17ポイント / コメント4件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49269809"
+   "url": "https://news.ycombinator.com/item?id=49306432"
   },
   {
    "tag": "HN",
-   "title": "Maximizing the value of your Claude Code sessions",
-   "body": "130ポイント / コメント90件。",
+   "title": "Simplifying and Refactoring Introductory Calculus",
+   "body": "37ポイント / コメント3件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49300800"
+   "url": "https://news.ycombinator.com/item?id=49306196"
+  },
+  {
+   "tag": "WIKI",
+   "title": "雲南省 (中華民国)",
+   "body": "雲南省（うんなんしょう）は、かつて中華民国に存在した省。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E9%9B%B2%E5%8D%97%E7%9C%81_(%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9B%BD)"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "小雨。最高28.6℃ / 最低23.3℃。いまは27.4℃。",
+   "body": "小雨。最高28.6℃ / 最低23.3℃。いまは27.7℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "The case for overhauling American science",
-   "body": "38ポイント / コメント28件。",
+   "title": "Going Dark, and the era of law enforcement hacking",
+   "body": "233ポイント / コメント126件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49305708"
-  },
-  {
-   "tag": "WIKI",
-   "title": "手のひらを太陽に",
-   "body": "「手のひらを太陽に」（てのひらをたいように）は、日本の童謡。作詞はやなせたかし、作曲はいずみたく。1961年に制作され、翌1962年にNHK『みんなのうた』で放送された。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%89%8B%E3%81%AE%E3%81%B2%E3%82%89%E3%82%92%E5%A4%AA%E9%99%BD%E3%81%AB"
+   "url": "https://news.ycombinator.com/item?id=49304447"
   }
  ]
 }
