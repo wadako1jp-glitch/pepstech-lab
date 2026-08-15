@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-16T05:40:55+09:00",
+ "generated_at": "2026-08-16T06:36:56+09:00",
  "items": [
   {
    "tag": "WIKI",
-   "title": "秋田県道29号横手大森大内線",
-   "body": "秋田県道29号横手大森大内線 は、秋田県横手市から由利本荘市に至る県道（主要地方道）である。",
+   "title": "南義美",
+   "body": "南 義美 は、大日本帝国海軍軍人。戦死認定で大尉。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E7%A7%8B%E7%94%B0%E7%9C%8C%E9%81%9329%E5%8F%B7%E6%A8%AA%E6%89%8B%E5%A4%A7%E6%A3%AE%E5%A4%A7%E5%86%85%E7%B7%9A"
+   "url": "https://ja.wikipedia.org/wiki/%E5%8D%97%E7%BE%A9%E7%BE%8E"
   },
   {
    "tag": "HN",
-   "title": "The Dutch Community Where People Live on Strips of Land in a Lake",
-   "body": "65ポイント / コメント36件。",
+   "title": "Why tech bosses keep sharing their manifestos about AI",
+   "body": "15ポイント / コメント39件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49312165"
+   "url": "https://news.ycombinator.com/item?id=49313519"
+  },
+  {
+   "tag": "HN",
+   "title": "Thunderbird's Desktop Calendar Visual Redesign",
+   "body": "49ポイント / コメント16件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49312823"
   },
   {
    "tag": "WIKI",
-   "title": "北海道神宮頓宮",
-   "body": "北海道神宮頓宮 は、北海道札幌市中央区南2条東3丁目に所在する神社。北海道神宮の境外末社であり、「頓宮」とは「仮の宮」を意味する。",
+   "title": "国吉康雄",
+   "body": "国吉 康雄 は、日本の洋画家。岡山県岡山市中出石町（現・岡山市北区出石町一丁目）出身。20世紀前半にアメリカ合衆国を拠点に活動した。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%8C%97%E6%B5%B7%E9%81%93%E7%A5%9E%E5%AE%AE%E9%A0%93%E5%AE%AE"
-  },
-  {
-   "tag": "HN",
-   "title": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
-   "body": "239ポイント / コメント206件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49312845"
-  },
-  {
-   "tag": "HN",
-   "title": "Pizza Box Project Stack",
-   "body": "4ポイント / コメント0件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49258177"
+   "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%90%89%E5%BA%B7%E9%9B%84"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高26.6℃ / 最低21.8℃。いまは21.8℃。",
+   "body": "霧雨。最高26.6℃ / 最低21.8℃。いまは22.2℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
+  },
+  {
+   "tag": "HN",
+   "title": "Printytron – Type it. 3D Print it",
+   "body": "46ポイント / コメント8件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49310829"
   }
  ]
 }
