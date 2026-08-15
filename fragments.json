@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-15T15:59:31+09:00",
+ "generated_at": "2026-08-15T16:45:58+09:00",
  "items": [
   {
    "tag": "HN",
-   "title": "The other Sean Byrne doesn't exist",
-   "body": "46ポイント / コメント14件。",
+   "title": "Google is making private AI practical with homomorphic encryption",
+   "body": "365ポイント / コメント215件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49307592"
+   "url": "https://news.ycombinator.com/item?id=49300314"
   },
   {
    "tag": "HN",
-   "title": "Ultraviolet Bird Photography",
-   "body": "136ポイント / コメント23件。",
+   "title": "Super Mario Derivations",
+   "body": "92ポイント / コメント14件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49211375"
+   "url": "https://news.ycombinator.com/item?id=49215682"
   },
   {
    "tag": "WIKI",
-   "title": "道の駅瑞穂の里・さらびき",
-   "body": "道の駅瑞穂の里・さらびき は、京都府船井郡京丹波町大朴休石にある国道173号の道の駅である。",
+   "title": "ザ・イトヤマタワー",
+   "body": "ザ・イトヤマタワー は、東京都港区三田三丁目に所在する複合ビル。新日本観光グループなどが入るオフィスフロアのほか、上層部は賃貸マンションとして貸し出されている。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E9%81%93%E3%81%AE%E9%A7%85%E7%91%9E%E7%A9%82%E3%81%AE%E9%87%8C%E3%83%BB%E3%81%95%E3%82%89%E3%81%B3%E3%81%8D"
-  },
-  {
-   "tag": "天気",
-   "title": "東京 きょう",
-   "body": "小雨。最高28.9℃ / 最低23.6℃。いまは28.9℃。",
-   "src": "open-meteo.com",
-   "url": "https://open-meteo.com/"
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%B6%E3%83%BB%E3%82%A4%E3%83%88%E3%83%A4%E3%83%9E%E3%82%BF%E3%83%AF%E3%83%BC"
   },
   {
    "tag": "WIKI",
-   "title": "トルティーヤ",
-   "body": "トルティーヤ は、すり潰したトウモロコシの粉や小麦粉から作るメキシコ、アメリカ合衆国の伝統的な薄焼きパン生地である。メキシコでは主食として食されている。日本語のカタカナ表記としてはト…",
+   "title": "千本北",
+   "body": "千本北（せんぼんきた）は、大阪府大阪市西成区にある町名。現行行政地名は千本北一丁目および千本北二丁目。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AB%E3%83%86%E3%82%A3%E3%83%BC%E3%83%A4"
+   "url": "https://ja.wikipedia.org/wiki/%E5%8D%83%E6%9C%AC%E5%8C%97"
   },
   {
    "tag": "HN",
    "title": "Maximizing the value of your Claude Code sessions",
-   "body": "187ポイント / コメント115件。",
+   "body": "197ポイント / コメント117件。",
    "src": "news.ycombinator.com",
    "url": "https://news.ycombinator.com/item?id=49300800"
+  },
+  {
+   "tag": "天気",
+   "title": "東京 きょう",
+   "body": "小雨。最高28.9℃ / 最低23.6℃。いまは28.7℃。",
+   "src": "open-meteo.com",
+   "url": "https://open-meteo.com/"
   }
  ]
 }
