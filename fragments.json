@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-15T13:49:16+09:00",
+ "generated_at": "2026-08-15T14:43:20+09:00",
  "items": [
   {
    "tag": "WIKI",
-   "title": "私の円を乱すな",
-   "body": "「私の円を乱すな！」 とは、ラテン語の成句。シュラクサイ包囲戦時、数学者・天文学者アルキメデスが、攻めてきたローマ兵に殺されそうになった時、砂上に描いた図形を指して発したと伝わる。",
+   "title": "カン・ジファン",
+   "body": "カン・ジファン は韓国の俳優。身長184cm。湖西専門学校グラフィック科、朝鮮大学校卒業。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E7%A7%81%E3%81%AE%E5%86%86%E3%82%92%E4%B9%B1%E3%81%99%E3%81%AA"
-  },
-  {
-   "tag": "HN",
-   "title": "AI Driven Testing",
-   "body": "13ポイント / コメント5件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49307099"
-  },
-  {
-   "tag": "WIKI",
-   "title": "舟塚古墳 (扶桑町)",
-   "body": "舟塚古墳（ふなつかこふん）は、愛知県丹羽郡扶桑町高雄にある古墳。形状は円墳。町の史跡に指定されている。古墳時代後期の築造と推定される。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E8%88%9F%E5%A1%9A%E5%8F%A4%E5%A2%B3_(%E6%89%B6%E6%A1%91%E7%94%BA)"
-  },
-  {
-   "tag": "HN",
-   "title": "Hi-Fi Tape Recorder Changed Radio Forever",
-   "body": "28ポイント / コメント2件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49263186"
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%B3%E3%83%BB%E3%82%B8%E3%83%95%E3%82%A1%E3%83%B3"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "小雨。最高28.6℃ / 最低23.3℃。いまは28.5℃。",
+   "body": "小雨。最高28.6℃ / 最低23.5℃。いまは28.6℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "The Ploopy A+ Trackball Is Here",
-   "body": "58ポイント / コメント31件。",
+   "title": "Show HN: Ember – Redshift safe color palettes",
+   "body": "83ポイント / コメント18件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49306443"
+   "url": "https://news.ycombinator.com/item?id=49232870"
+  },
+  {
+   "tag": "HN",
+   "title": "eigendrum",
+   "body": "87ポイント / コメント21件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49305250"
+  },
+  {
+   "tag": "WIKI",
+   "title": "大山祇神社 (西会津町)",
+   "body": "大山祇神社（おおやまづみじんじゃ）は、福島県耶麻郡西会津町野沢にある神社である。「3年続けてお詣りすれば、なじょな（どんな）願いもききなさる」とされ、信仰を集める。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%B1%B1%E7%A5%87%E7%A5%9E%E7%A4%BE_(%E8%A5%BF%E4%BC%9A%E6%B4%A5%E7%94%BA)"
+  },
+  {
+   "tag": "HN",
+   "title": "Super Mario Derivations",
+   "body": "82ポイント / コメント14件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49215682"
   }
  ]
 }
