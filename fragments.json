@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-16T00:36:48+09:00",
+ "generated_at": "2026-08-16T01:43:15+09:00",
  "items": [
-  {
-   "tag": "HN",
-   "title": "Show HN: Quasicrystals Animation Playground with WebXR",
-   "body": "10ポイント / コメント5件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49310533"
-  },
-  {
-   "tag": "HN",
-   "title": "Secondhand book sales are booming. Is it because of AI?",
-   "body": "37ポイント / コメント34件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49310725"
-  },
-  {
-   "tag": "WIKI",
-   "title": "カンピ・サレンティーナ",
-   "body": "カンピ・サレンティーナ は、イタリア共和国プッリャ州レッチェ県にある、人口約1万人の基礎自治体（コムーネ）。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%B3%E3%83%94%E3%83%BB%E3%82%B5%E3%83%AC%E3%83%B3%E3%83%86%E3%82%A3%E3%83%BC%E3%83%8A"
-  },
-  {
-   "tag": "WIKI",
-   "title": "横山正治",
-   "body": "横山 正治 は、日本の海軍軍人。太平洋戦争劈頭の真珠湾攻撃において特殊潜航艇「甲標的」搭乗員として戦死した九軍神の一人。二階級特進により最終階級は海軍少佐。岩田豊雄（獅子文六）の小説…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%A8%AA%E5%B1%B1%E6%AD%A3%E6%B2%BB"
-  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高26.6℃ / 最低21.6℃。いまは23.1℃。",
+   "body": "霧雨。最高26.6℃ / 最低21.6℃。いまは22.6℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Möbius Strips and Differential Equations",
-   "body": "20ポイント / コメント1件。",
+   "title": "The Problem",
+   "body": "23ポイント / コメント27件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49242085"
+   "url": "https://news.ycombinator.com/item?id=49309963"
+  },
+  {
+   "tag": "HN",
+   "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+   "body": "90ポイント / コメント40件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49307700"
+  },
+  {
+   "tag": "WIKI",
+   "title": "光産業創成大学院大学",
+   "body": "光産業創成大学院大学 は、日本の私立大学である。静岡県浜松市に本部を置く。略称はGPI。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%85%89%E7%94%A3%E6%A5%AD%E5%89%B5%E6%88%90%E5%A4%A7%E5%AD%A6%E9%99%A2%E5%A4%A7%E5%AD%A6"
+  },
+  {
+   "tag": "HN",
+   "title": "The price of a Costco hot dog has gone up",
+   "body": "10ポイント / コメント1件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49311685"
+  },
+  {
+   "tag": "WIKI",
+   "title": "全性寺 (京丹後市)",
+   "body": "全性寺（ぜんしょうじ）は、京都府京丹後市峰山町にある臨済宗の寺院である。山号は臥龍山。本尊は聖観世音菩薩像。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%85%A8%E6%80%A7%E5%AF%BA_(%E4%BA%AC%E4%B8%B9%E5%BE%8C%E5%B8%82)"
   }
  ]
 }
