@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-15T22:45:23+09:00",
+ "generated_at": "2026-08-15T23:41:35+09:00",
  "items": [
   {
    "tag": "HN",
-   "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
-   "body": "98ポイント / コメント31件。",
+   "title": "Going Dark, and the era of law enforcement hacking",
+   "body": "394ポイント / コメント189件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49309549"
+   "url": "https://news.ycombinator.com/item?id=49304447"
+  },
+  {
+   "tag": "WIKI",
+   "title": "台北101/世界貿易センター駅",
+   "body": "台北101/世界貿易センター駅（タイペイいちまるいち/せかいぼうえきセンターえき）は、台湾台北市信義区にある、台北捷運淡水信義線の駅。駅番号はR03。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%8F%B0%E5%8C%97101%2F%E4%B8%96%E7%95%8C%E8%B2%BF%E6%98%93%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E9%A7%85"
+  },
+  {
+   "tag": "WIKI",
+   "title": "郵政解散",
+   "body": "郵政解散（ゆうせいかいさん）とは、2005年8月8日の衆議院解散の俗称である。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E9%83%B5%E6%94%BF%E8%A7%A3%E6%95%A3"
   },
   {
    "tag": "HN",
-   "title": "The other Sean Byrne doesn't exist",
-   "body": "261ポイント / コメント128件。",
+   "title": "T3X/0 a Minimal Procedural Language",
+   "body": "6ポイント / コメント0件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49307592"
+   "url": "https://news.ycombinator.com/item?id=49309923"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "小雨。最高28.6℃ / 最低23.7℃。いまは23.8℃。",
+   "body": "小雨。最高28.6℃ / 最低23.7℃。いまは23.5℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Geometric Reasoning",
-   "body": "9ポイント / コメント7件。",
+   "title": "Qwen 3.8 27B",
+   "body": "1247ポイント / コメント733件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49267776"
-  },
-  {
-   "tag": "WIKI",
-   "title": "ルディ・グーテンドルフ",
-   "body": "ルディ・グーテンドルフ は、ドイツ・コブレンツ出身のサッカー選手、サッカー監督。選手時代のポジションはフォワード。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%87%E3%82%A3%E3%83%BB%E3%82%B0%E3%83%BC%E3%83%86%E3%83%B3%E3%83%89%E3%83%AB%E3%83%95"
-  },
-  {
-   "tag": "WIKI",
-   "title": "コウジ (柑橘類)",
-   "body": "コウジ は、ミカン科ミカン属の常緑小高木で柑橘類の一種。 「ウスカワ（薄皮）ミカン」とも言われる。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%A6%E3%82%B8_(%E6%9F%91%E6%A9%98%E9%A1%9E)"
+   "url": "https://news.ycombinator.com/item?id=49299605"
   }
  ]
 }
