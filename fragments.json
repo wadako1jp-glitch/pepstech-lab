@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-15T14:43:20+09:00",
+ "generated_at": "2026-08-15T15:59:31+09:00",
  "items": [
   {
+   "tag": "HN",
+   "title": "The other Sean Byrne doesn't exist",
+   "body": "46ポイント / コメント14件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49307592"
+  },
+  {
+   "tag": "HN",
+   "title": "Ultraviolet Bird Photography",
+   "body": "136ポイント / コメント23件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49211375"
+  },
+  {
    "tag": "WIKI",
-   "title": "カン・ジファン",
-   "body": "カン・ジファン は韓国の俳優。身長184cm。湖西専門学校グラフィック科、朝鮮大学校卒業。",
+   "title": "道の駅瑞穂の里・さらびき",
+   "body": "道の駅瑞穂の里・さらびき は、京都府船井郡京丹波町大朴休石にある国道173号の道の駅である。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%B3%E3%83%BB%E3%82%B8%E3%83%95%E3%82%A1%E3%83%B3"
+   "url": "https://ja.wikipedia.org/wiki/%E9%81%93%E3%81%AE%E9%A7%85%E7%91%9E%E7%A9%82%E3%81%AE%E9%87%8C%E3%83%BB%E3%81%95%E3%82%89%E3%81%B3%E3%81%8D"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "小雨。最高28.6℃ / 最低23.5℃。いまは28.6℃。",
+   "body": "小雨。最高28.9℃ / 最低23.6℃。いまは28.9℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "HN",
-   "title": "Show HN: Ember – Redshift safe color palettes",
-   "body": "83ポイント / コメント18件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49232870"
-  },
-  {
-   "tag": "HN",
-   "title": "eigendrum",
-   "body": "87ポイント / コメント21件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49305250"
-  },
-  {
    "tag": "WIKI",
-   "title": "大山祇神社 (西会津町)",
-   "body": "大山祇神社（おおやまづみじんじゃ）は、福島県耶麻郡西会津町野沢にある神社である。「3年続けてお詣りすれば、なじょな（どんな）願いもききなさる」とされ、信仰を集める。",
+   "title": "トルティーヤ",
+   "body": "トルティーヤ は、すり潰したトウモロコシの粉や小麦粉から作るメキシコ、アメリカ合衆国の伝統的な薄焼きパン生地である。メキシコでは主食として食されている。日本語のカタカナ表記としてはト…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%B1%B1%E7%A5%87%E7%A5%9E%E7%A4%BE_(%E8%A5%BF%E4%BC%9A%E6%B4%A5%E7%94%BA)"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AB%E3%83%86%E3%82%A3%E3%83%BC%E3%83%A4"
   },
   {
    "tag": "HN",
-   "title": "Super Mario Derivations",
-   "body": "82ポイント / コメント14件。",
+   "title": "Maximizing the value of your Claude Code sessions",
+   "body": "187ポイント / コメント115件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49215682"
+   "url": "https://news.ycombinator.com/item?id=49300800"
   }
  ]
 }
