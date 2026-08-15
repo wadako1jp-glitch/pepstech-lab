@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-15T12:06:26+09:00",
+ "generated_at": "2026-08-15T12:56:12+09:00",
  "items": [
   {
-   "tag": "WIKI",
-   "title": "チヴィテッラ・サン・パオロ",
-   "body": "チヴィテッラ・サン・パオロ は、イタリア共和国ラツィオ州ローマ県にある、人口約2,000人の基礎自治体（コムーネ）。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%B4%E3%82%A3%E3%83%86%E3%83%83%E3%83%A9%E3%83%BB%E3%82%B5%E3%83%B3%E3%83%BB%E3%83%91%E3%82%AA%E3%83%AD"
-  },
-  {
    "tag": "HN",
-   "title": "NSA and IETF, Part 9",
-   "body": "17ポイント / コメント4件。",
+   "title": "Going Dark, and the era of law enforcement hacking",
+   "body": "243ポイント / コメント128件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49306432"
-  },
-  {
-   "tag": "HN",
-   "title": "Simplifying and Refactoring Introductory Calculus",
-   "body": "37ポイント / コメント3件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49306196"
+   "url": "https://news.ycombinator.com/item?id=49304447"
   },
   {
    "tag": "WIKI",
-   "title": "雲南省 (中華民国)",
-   "body": "雲南省（うんなんしょう）は、かつて中華民国に存在した省。",
+   "title": "アフリカ・バンバータ",
+   "body": "アフリカ・バンバータ はアメリカ合衆国ニューヨーク州ブロンクス区リバーサイド出身のミュージシャン、DJ。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E9%9B%B2%E5%8D%97%E7%9C%81_(%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9B%BD)"
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E3%83%BB%E3%83%90%E3%83%B3%E3%83%90%E3%83%BC%E3%82%BF"
+  },
+  {
+   "tag": "HN",
+   "title": "Turbo Pascal on CP/M, MSX-DOS and MS-DOS",
+   "body": "79ポイント / コメント24件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49269809"
+  },
+  {
+   "tag": "WIKI",
+   "title": "ディラン・ファンバールレ",
+   "body": "ディラン・ファンバールレ は、オランダ、フォールブルフ出身の自転車競技選手。「ディラン・ファンバーレ」とも表記される。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A3%E3%83%A9%E3%83%B3%E3%83%BB%E3%83%95%E3%82%A1%E3%83%B3%E3%83%90%E3%83%BC%E3%83%AB%E3%83%AC"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "小雨。最高28.6℃ / 最低23.3℃。いまは27.7℃。",
+   "body": "小雨。最高28.6℃ / 最低23.3℃。いまは28.0℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Going Dark, and the era of law enforcement hacking",
-   "body": "233ポイント / コメント126件。",
+   "title": "The Ploopy A+ Trackball Is Here",
+   "body": "50ポイント / コメント30件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49304447"
+   "url": "https://news.ycombinator.com/item?id=49306443"
   }
  ]
 }
