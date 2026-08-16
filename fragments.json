@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-16T17:48:26+09:00",
+ "generated_at": "2026-08-16T18:44:03+09:00",
  "items": [
   {
-   "tag": "WIKI",
-   "title": "五条庸子",
-   "body": "五条 庸子 は、江戸時代前期の女官である。霊元天皇の掌侍。正二位権大納言五条為庸の娘。母は右衛門尉南部宣行の娘。見性院宮（三宮、円満院）・一品尭延法親王（六宮周慶親王、後に天台座主）…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E4%BA%94%E6%9D%A1%E5%BA%B8%E5%AD%90"
-  },
-  {
    "tag": "HN",
-   "title": "Asynchronous I/O in DuckDB: Work, Thread, Work",
-   "body": "144ポイント / コメント11件。",
+   "title": "Tess's Android Wayland Compositor",
+   "body": "69ポイント / コメント11件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49243061"
+   "url": "https://news.ycombinator.com/item?id=49313068"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高26.1℃ / 最低21.7℃。いまは25.0℃。",
+   "body": "霧雨。最高26.1℃ / 最低21.7℃。いまは24.8℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
+   "tag": "HN",
+   "title": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
+   "body": "33ポイント / コメント4件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49314967"
+  },
+  {
    "tag": "WIKI",
-   "title": "パトリシア・ケネディ・ローフォード",
-   "body": "パトリシア・ヘレン・ケネディ・ローフォード は、アメリカ合衆国のソーシャライトである。ローズとジョセフ・P・ケネディ・シニアの6番目の子であり、兄は第35代アメリカ合衆国大統領のジョ…",
+   "title": "石丸敬次",
+   "body": "石丸 敬次 は、日本の内務官僚、国会職員。官選第34代富山県知事。勲等は勲二等。位階は正五位。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%88%E3%83%AA%E3%82%B7%E3%82%A2%E3%83%BB%E3%82%B1%E3%83%8D%E3%83%87%E3%82%A3%E3%83%BB%E3%83%AD%E3%83%BC%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89"
+   "url": "https://ja.wikipedia.org/wiki/%E7%9F%B3%E4%B8%B8%E6%95%AC%E6%AC%A1"
+  },
+  {
+   "tag": "WIKI",
+   "title": "サミュエル・ロビンス・ブラウン",
+   "body": "サミュエル・ロビンス・ブラウン は、アメリカ・オランダ改革派教会から派遣された宣教師。イェール大学、ユニオン神学校卒業。モリソン記念学校で教鞭をとる。明六社会員。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%9F%E3%83%A5%E3%82%A8%E3%83%AB%E3%83%BB%E3%83%AD%E3%83%93%E3%83%B3%E3%82%B9%E3%83%BB%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3"
   },
   {
    "tag": "HN",
-   "title": "Cultivating a state of mind where new ideas are born (2023)",
-   "body": "162ポイント / コメント39件。",
+   "title": "RISC-V: They Should Have Known Better",
+   "body": "309ポイント / コメント363件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49314235"
-  },
-  {
-   "tag": "HN",
-   "title": "What happens when an LLM never sees material beyond fifth grade?",
-   "body": "66ポイント / コメント43件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49317760"
+   "url": "https://news.ycombinator.com/item?id=49298035"
   }
  ]
 }
