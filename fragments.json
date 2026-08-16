@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-08-16T16:46:54+09:00",
+ "generated_at": "2026-08-16T17:48:26+09:00",
  "items": [
+  {
+   "tag": "WIKI",
+   "title": "五条庸子",
+   "body": "五条 庸子 は、江戸時代前期の女官である。霊元天皇の掌侍。正二位権大納言五条為庸の娘。母は右衛門尉南部宣行の娘。見性院宮（三宮、円満院）・一品尭延法親王（六宮周慶親王、後に天台座主）…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E4%BA%94%E6%9D%A1%E5%BA%B8%E5%AD%90"
+  },
+  {
+   "tag": "HN",
+   "title": "Asynchronous I/O in DuckDB: Work, Thread, Work",
+   "body": "144ポイント / コメント11件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49243061"
+  },
   {
    "tag": "天気",
    "title": "東京 きょう",
@@ -9,39 +23,25 @@
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "HN",
-   "title": "Semaglutide linked to lower predicted dementia risk",
-   "body": "412ポイント / コメント287件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49311651"
-  },
-  {
    "tag": "WIKI",
-   "title": "アハサー",
-   "body": "アハサー地方 は、サウジアラビア東部州最大のオアシス地帯である。東はペルシア湾に面し、南はルブウアルハーリー砂漠、西はダハナー砂漠、北はクエートに囲まれた面積11万7,000平方キロ…",
+   "title": "パトリシア・ケネディ・ローフォード",
+   "body": "パトリシア・ヘレン・ケネディ・ローフォード は、アメリカ合衆国のソーシャライトである。ローズとジョセフ・P・ケネディ・シニアの6番目の子であり、兄は第35代アメリカ合衆国大統領のジョ…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%8F%E3%82%B5%E3%83%BC"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%88%E3%83%AA%E3%82%B7%E3%82%A2%E3%83%BB%E3%82%B1%E3%83%8D%E3%83%87%E3%82%A3%E3%83%BB%E3%83%AD%E3%83%BC%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89"
   },
   {
    "tag": "HN",
-   "title": "Show HN: Laptop is the last place your secrets are still in plaintext",
-   "body": "27ポイント / コメント20件。",
+   "title": "Cultivating a state of mind where new ideas are born (2023)",
+   "body": "162ポイント / コメント39件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49317546"
-  },
-  {
-   "tag": "WIKI",
-   "title": "自由主義インターナショナル",
-   "body": "自由主義インターナショナル は、自由主義（リベラリズム）政党の国際組織である。本部はロンドン。創設は1947年。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E4%B8%BB%E7%BE%A9%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8A%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB"
+   "url": "https://news.ycombinator.com/item?id=49314235"
   },
   {
    "tag": "HN",
-   "title": "Abdominal fat predicts heart disease risk better than BMI",
-   "body": "244ポイント / コメント172件。",
+   "title": "What happens when an LLM never sees material beyond fifth grade?",
+   "body": "66ポイント / コメント43件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49314403"
+   "url": "https://news.ycombinator.com/item?id=49317760"
   }
  ]
 }
