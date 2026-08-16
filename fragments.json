@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-16T19:42:20+09:00",
+ "generated_at": "2026-08-16T20:36:24+09:00",
  "items": [
   {
-   "tag": "HN",
-   "title": "Super El Niño Keeps Growing as New Forecasts Reach Record Territory A…",
-   "body": "251ポイント / コメント152件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49313428"
-  },
-  {
-   "tag": "WIKI",
-   "title": "上の原 (北九州市)",
-   "body": "上の原（うえのはる）は福岡県北九州市八幡西区の地名。上の原一丁目から四丁目の町がある。住居表示実施済み。郵便番号は807-0071。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E4%B8%8A%E3%81%AE%E5%8E%9F_(%E5%8C%97%E4%B9%9D%E5%B7%9E%E5%B8%82)"
-  },
-  {
-   "tag": "HN",
-   "title": "Abdominal fat predicts heart disease risk better than BMI",
-   "body": "267ポイント / コメント204件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49314403"
+   "tag": "天気",
+   "title": "東京 きょう",
+   "body": "霧雨。最高26.1℃ / 最低21.7℃。いまは24.0℃。",
+   "src": "open-meteo.com",
+   "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
    "title": "Superconducting monolayer cuprate with a single CuO2 plane",
-   "body": "7ポイント / コメント1件。",
+   "body": "20ポイント / コメント4件。",
    "src": "news.ycombinator.com",
    "url": "https://news.ycombinator.com/item?id=49277153"
   },
   {
    "tag": "WIKI",
-   "title": "浅川台",
-   "body": "浅川台（あさかわだい）は福岡県北九州市八幡西区の地名。浅川台一丁目から三丁目の町がある。住居表示実施済み。郵便番号は807-0875。",
+   "title": "国際ホテル・ブライダル専門学校",
+   "body": "国際ホテル・ブライダル専門学校（こくさい-せんもんがっこう）は、新潟市中央区にあるホテル業関連と冠婚葬祭関連業界について取得できる専修学校。運営主体は学校法人国際総合学園。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%B5%85%E5%B7%9D%E5%8F%B0"
+   "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%9A%9B%E3%83%9B%E3%83%86%E3%83%AB%E3%83%BB%E3%83%96%E3%83%A9%E3%82%A4%E3%83%80%E3%83%AB%E5%B0%82%E9%96%80%E5%AD%A6%E6%A0%A1"
   },
   {
-   "tag": "天気",
-   "title": "東京 きょう",
-   "body": "霧雨。最高26.1℃ / 最低21.7℃。いまは24.4℃。",
-   "src": "open-meteo.com",
-   "url": "https://open-meteo.com/"
+   "tag": "WIKI",
+   "title": "チェワ族",
+   "body": "チェワ族（Chewa）は、中央アフリカから南アフリカにかけて住む民族である。この民族は、自身の周囲をとりまく民族、とりわけトゥンブカ族（Tumbuka）やンセンガ族（Nsenga）な…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%A7%E3%83%AF%E6%97%8F"
+  },
+  {
+   "tag": "HN",
+   "title": "Impulse Tracker",
+   "body": "29ポイント / コメント4件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49270279"
+  },
+  {
+   "tag": "HN",
+   "title": "A spectre is haunting Unicode",
+   "body": "234ポイント / コメント89件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49310926"
   }
  ]
 }
