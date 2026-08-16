@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-17T06:35:48+09:00",
+ "generated_at": "2026-08-17T07:38:33+09:00",
  "items": [
   {
-   "tag": "WIKI",
-   "title": "ねぎ焼き",
-   "body": "ねぎ焼き（ねぎやき）とは、近畿地方にみられるお好み焼き類似料理である。水に溶いた小麦粉を生地として用いるが、一般的なお好み焼きとは異なりキャベツではなく青ねぎを刻んだものを大量に使用…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%81%AD%E3%81%8E%E7%84%BC%E3%81%8D"
+   "tag": "HN",
+   "title": "Protobuf has LSP support. You're welcome",
+   "body": "80ポイント / コメント46件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49322573"
+  },
+  {
+   "tag": "HN",
+   "title": "A SAT Attack on Tarski's High School Algebra Problem",
+   "body": "76ポイント / コメント32件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49268565"
+  },
+  {
+   "tag": "HN",
+   "title": "MathCode, Mathematical Coding Agent",
+   "body": "42ポイント / コメント14件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49322330"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高30.2℃ / 最低21.8℃。いまは22.0℃。",
+   "body": "霧雨。最高30.2℃ / 最低21.8℃。いまは22.9℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "HN",
-   "title": "Research papers using \"kidney disappointment\" instead of \"kidney fail…",
-   "body": "336ポイント / コメント118件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49319389"
-  },
-  {
-   "tag": "HN",
-   "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-   "body": "35ポイント / コメント22件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49323381"
+   "tag": "WIKI",
+   "title": "恋ヶ窪駅",
+   "body": "恋ヶ窪駅（こいがくぼえき）は、東京都国分寺市戸倉一丁目にある西武鉄道国分寺線の駅。駅番号はSK02。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E6%81%8B%E3%83%B6%E7%AA%AA%E9%A7%85"
   },
   {
    "tag": "WIKI",
-   "title": "宇都宮市立陽東中学校",
-   "body": "宇都宮市立陽東中学校（うつのみやしりつようとうちゅうがっこう）は、栃木県宇都宮市にある公立中学校。 宇都宮市立峰小学校、宇都宮市立石井小学校、宇都宮市立陽東小学校とともに陽東地域学校…",
+   "title": "ペロミクサ科",
+   "body": "ペロミクサ科はミトコンドリアを欠き原核生物を共生させているアメーバ様生物からなる科。2属からなり、いずれも水中の嫌気的堆積物（腐泥）中で自由生活を送っている。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%AE%87%E9%83%BD%E5%AE%AE%E5%B8%82%E7%AB%8B%E9%99%BD%E6%9D%B1%E4%B8%AD%E5%AD%A6%E6%A0%A1"
-  },
-  {
-   "tag": "HN",
-   "title": "Firefox for iOS now has a native adblocker",
-   "body": "455ポイント / コメント191件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49319633"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%AD%E3%83%9F%E3%82%AF%E3%82%B5%E7%A7%91"
   }
  ]
 }
