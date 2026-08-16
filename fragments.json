@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-17T05:40:03+09:00",
+ "generated_at": "2026-08-17T06:35:48+09:00",
  "items": [
   {
-   "tag": "HN",
-   "title": "Tasklet (YC P26) Is Hiring a Head of Design Engineering",
-   "body": "1ポイント / コメント0件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49319892"
+   "tag": "WIKI",
+   "title": "ねぎ焼き",
+   "body": "ねぎ焼き（ねぎやき）とは、近畿地方にみられるお好み焼き類似料理である。水に溶いた小麦粉を生地として用いるが、一般的なお好み焼きとは異なりキャベツではなく青ねぎを刻んだものを大量に使用…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%81%AD%E3%81%8E%E7%84%BC%E3%81%8D"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高30.2℃ / 最低21.8℃。いまは21.8℃。",
+   "body": "霧雨。最高30.2℃ / 最低21.8℃。いまは22.0℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "WIKI",
-   "title": "カレル・クラマーシュ",
-   "body": "カレル・クラマーシュ は、チェコスロバキアの政治家。首相 、国民民主党党首。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AC%E3%83%AB%E3%83%BB%E3%82%AF%E3%83%A9%E3%83%9E%E3%83%BC%E3%82%B7%E3%83%A5"
-  },
-  {
    "tag": "HN",
    "title": "Research papers using \"kidney disappointment\" instead of \"kidney fail…",
-   "body": "305ポイント / コメント113件。",
+   "body": "336ポイント / コメント118件。",
    "src": "news.ycombinator.com",
    "url": "https://news.ycombinator.com/item?id=49319389"
   },
   {
    "tag": "HN",
-   "title": "Asus Bike Booster",
-   "body": "584ポイント / コメント408件。",
+   "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+   "body": "35ポイント / コメント22件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49268580"
+   "url": "https://news.ycombinator.com/item?id=49323381"
   },
   {
    "tag": "WIKI",
-   "title": "一番美しく",
-   "body": "『一番美しく』（いちばんうつくしく）は、1944年に公開された日本映画である。監督は黒澤明。モノクロ、スタンダードサイズ、85分。第二次世界大戦中に軍需工場で働く女子挺身隊の少女たち…",
+   "title": "宇都宮市立陽東中学校",
+   "body": "宇都宮市立陽東中学校（うつのみやしりつようとうちゅうがっこう）は、栃木県宇都宮市にある公立中学校。 宇都宮市立峰小学校、宇都宮市立石井小学校、宇都宮市立陽東小学校とともに陽東地域学校…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E4%B8%80%E7%95%AA%E7%BE%8E%E3%81%97%E3%81%8F"
+   "url": "https://ja.wikipedia.org/wiki/%E5%AE%87%E9%83%BD%E5%AE%AE%E5%B8%82%E7%AB%8B%E9%99%BD%E6%9D%B1%E4%B8%AD%E5%AD%A6%E6%A0%A1"
+  },
+  {
+   "tag": "HN",
+   "title": "Firefox for iOS now has a native adblocker",
+   "body": "455ポイント / コメント191件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49319633"
   }
  ]
 }
