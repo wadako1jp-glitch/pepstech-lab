@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-16T23:41:27+09:00",
+ "generated_at": "2026-08-17T00:38:44+09:00",
  "items": [
   {
+   "tag": "HN",
+   "title": "Software Engineering fundamentals matter more",
+   "body": "244ポイント / コメント151件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49314902"
+  },
+  {
    "tag": "WIKI",
-   "title": "レオン・ダヤク",
-   "body": "レオン・ダヤク は、ドイツ・バーデン＝ヴュルテンベルク州ヴァイブリンゲン出身のサッカー選手。プルヴァHNL・HNKハイドゥク・スプリト所属。ポジションはFW。",
+   "title": "デイブ・ビン",
+   "body": "デイヴィッド・ビン は、アメリカ合衆国の政治家、実業家。かつてプロリーグであるNBAのデトロイト・ピストンズで活躍した元プロバスケットボール選手であった。第74代デトロイト市長を務め…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%AA%E3%83%B3%E3%83%BB%E3%83%80%E3%83%A4%E3%82%AF"
-  },
-  {
-   "tag": "HN",
-   "title": "Show HN: Grafana agent observability for Hermes Agent",
-   "body": "15ポイント / コメント0件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49318128"
-  },
-  {
-   "tag": "HN",
-   "title": "RISC-V: They Should Have Known Better",
-   "body": "344ポイント / コメント387件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49298035"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A4%E3%83%96%E3%83%BB%E3%83%93%E3%83%B3"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高26.1℃ / 最低21.7℃。いまは22.7℃。",
+   "body": "薄曇り。最高30.0℃ / 最低21.9℃。いまは22.5℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "A True Telnet BBS on a Casio Calculator",
-   "body": "7ポイント / コメント0件。",
+   "title": "Asus Bike Booster",
+   "body": "535ポイント / コメント369件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49319349"
+   "url": "https://news.ycombinator.com/item?id=49268580"
+  },
+  {
+   "tag": "HN",
+   "title": "Tasklet (YC P26) Is Hiring a Head of Design Engineering",
+   "body": "1ポイント / コメント0件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49319892"
   },
   {
    "tag": "WIKI",
-   "title": "リオ (イタリア)",
-   "body": "リオ は、イタリア共和国トスカーナ州リヴォルノ県にある、約3,400人の基礎自治体（コムーネ）。",
+   "title": "ヴャチェスラフ・ズードフ",
+   "body": "ヴャチェスラフ・ドミートリエヴィチ・ズードフ は、ソビエト連邦の宇宙飛行士。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%AA_(%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2)"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%B4%E3%83%A3%E3%83%81%E3%82%A7%E3%82%B9%E3%83%A9%E3%83%95%E3%83%BB%E3%82%BA%E3%83%BC%E3%83%89%E3%83%95"
   }
  ]
 }
