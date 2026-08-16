@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-16T12:14:33+09:00",
+ "generated_at": "2026-08-16T13:03:29+09:00",
  "items": [
-  {
-   "tag": "HN",
-   "title": "At-home test for infected ticks could improve Lyme Disease diagnosis",
-   "body": "221ポイント / コメント81件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49310682"
-  },
-  {
-   "tag": "WIKI",
-   "title": "キャッスルトップ",
-   "body": "キャッスルトップ は、日本の競走馬。2021年のジャパンダートダービーの勝ち馬である。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A3%E3%83%83%E3%82%B9%E3%83%AB%E3%83%88%E3%83%83%E3%83%97"
-  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高25.6℃ / 最低21.7℃。いまは23.8℃。",
+   "body": "霧雨。最高25.6℃ / 最低21.7℃。いまは24.6℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
    "title": "Asynchronous I/O in DuckDB: Work, Thread, Work",
-   "body": "38ポイント / コメント2件。",
+   "body": "56ポイント / コメント2件。",
    "src": "news.ycombinator.com",
    "url": "https://news.ycombinator.com/item?id=49243061"
   },
   {
    "tag": "WIKI",
-   "title": "STILL DREAMING",
-   "body": "『STILL DREAMING』（スティル・ドリーミング）は、韓国の5人組男性アイドルグループTOMORROW X TOGETHERの日本での1stスタジオ・アルバムである。2021…",
+   "title": "アンドリヤ・カルジェロヴィッチ",
+   "body": "アンドリヤ・カルジェロヴィッチ は、ユーゴスラビア（現セルビア）・北バチュカ郡バチュカ・トポラ出身の元サッカー選手。ポジションはフォワード。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/STILL_DREAMING"
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AA%E3%83%A4%E3%83%BB%E3%82%AB%E3%83%AB%E3%82%B8%E3%82%A7%E3%83%AD%E3%83%B4%E3%82%A3%E3%83%83%E3%83%81"
   },
   {
    "tag": "HN",
-   "title": "Show HN: I built a native app for coding agents with Rust and GPUI",
-   "body": "12ポイント / コメント2件。",
+   "title": "AI in drug discovery – what it is, where we stand and the path forward",
+   "body": "113ポイント / コメント57件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49315709"
+   "url": "https://news.ycombinator.com/item?id=49313367"
+  },
+  {
+   "tag": "HN",
+   "title": "Software Engineering fundamentals matter more",
+   "body": "34ポイント / コメント0件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49314902"
+  },
+  {
+   "tag": "WIKI",
+   "title": "ウェスト・サセックス",
+   "body": "ウェスト・サセックス は、イギリスのサウス・イースト・イングランドにある典礼カウンティ。北でサリーと、東でイースト・サセックスと、西でハンプシャーと隣接し、南はイギリス海峡に臨む。最…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A7%E3%82%B9%E3%83%88%E3%83%BB%E3%82%B5%E3%82%BB%E3%83%83%E3%82%AF%E3%82%B9"
   }
  ]
 }
