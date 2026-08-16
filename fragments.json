@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-16T13:03:29+09:00",
+ "generated_at": "2026-08-16T13:51:55+09:00",
  "items": [
+  {
+   "tag": "HN",
+   "title": "Patterns and problems in emerging multi-agent systems",
+   "body": "16ポイント / コメント3件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49316271"
+  },
+  {
+   "tag": "HN",
+   "title": "RISC-V: They Should Have Known Better",
+   "body": "262ポイント / コメント322件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49298035"
+  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高25.6℃ / 最低21.7℃。いまは24.6℃。",
+   "body": "霧雨。最高25.6℃ / 最低21.7℃。いまは25.1℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Asynchronous I/O in DuckDB: Work, Thread, Work",
-   "body": "56ポイント / コメント2件。",
+   "title": "Program with Paint Brushes, Not Pencils",
+   "body": "5ポイント / コメント1件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49243061"
+   "url": "https://news.ycombinator.com/item?id=49259891"
   },
   {
    "tag": "WIKI",
-   "title": "アンドリヤ・カルジェロヴィッチ",
-   "body": "アンドリヤ・カルジェロヴィッチ は、ユーゴスラビア（現セルビア）・北バチュカ郡バチュカ・トポラ出身の元サッカー選手。ポジションはフォワード。",
+   "title": "桑原村 (長野県)",
+   "body": "桑原村（くわばらむら）は長野県更級郡にあった村。現在の千曲市大字桑原にあたる。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AA%E3%83%A4%E3%83%BB%E3%82%AB%E3%83%AB%E3%82%B8%E3%82%A7%E3%83%AD%E3%83%B4%E3%82%A3%E3%83%83%E3%83%81"
-  },
-  {
-   "tag": "HN",
-   "title": "AI in drug discovery – what it is, where we stand and the path forward",
-   "body": "113ポイント / コメント57件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49313367"
-  },
-  {
-   "tag": "HN",
-   "title": "Software Engineering fundamentals matter more",
-   "body": "34ポイント / コメント0件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49314902"
+   "url": "https://ja.wikipedia.org/wiki/%E6%A1%91%E5%8E%9F%E6%9D%91_(%E9%95%B7%E9%87%8E%E7%9C%8C)"
   },
   {
    "tag": "WIKI",
-   "title": "ウェスト・サセックス",
-   "body": "ウェスト・サセックス は、イギリスのサウス・イースト・イングランドにある典礼カウンティ。北でサリーと、東でイースト・サセックスと、西でハンプシャーと隣接し、南はイギリス海峡に臨む。最…",
+   "title": "黄睿璿",
+   "body": "黄 睿璿 は、台湾の男子バドミントン選手。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A7%E3%82%B9%E3%83%88%E3%83%BB%E3%82%B5%E3%82%BB%E3%83%83%E3%82%AF%E3%82%B9"
+   "url": "https://ja.wikipedia.org/wiki/%E9%BB%84%E7%9D%BF%E7%92%BF"
   }
  ]
 }
