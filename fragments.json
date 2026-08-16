@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-16T10:58:34+09:00",
+ "generated_at": "2026-08-16T12:14:33+09:00",
  "items": [
+  {
+   "tag": "HN",
+   "title": "At-home test for infected ticks could improve Lyme Disease diagnosis",
+   "body": "221ポイント / コメント81件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49310682"
+  },
+  {
+   "tag": "WIKI",
+   "title": "キャッスルトップ",
+   "body": "キャッスルトップ は、日本の競走馬。2021年のジャパンダートダービーの勝ち馬である。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A3%E3%83%83%E3%82%B9%E3%83%AB%E3%83%88%E3%83%83%E3%83%97"
+  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高25.6℃ / 最低21.7℃。いまは23.7℃。",
+   "body": "霧雨。最高25.6℃ / 最低21.7℃。いまは23.8℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "The complete AI SEO playbook: from zero to 4.6M impressions in 3 mont…",
-   "body": "4ポイント / コメント1件。",
+   "title": "Asynchronous I/O in DuckDB: Work, Thread, Work",
+   "body": "38ポイント / コメント2件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49315620"
-  },
-  {
-   "tag": "HN",
-   "title": "AI in drug discovery – what it is, where we stand and the path forward",
-   "body": "91ポイント / コメント45件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49313367"
+   "url": "https://news.ycombinator.com/item?id=49243061"
   },
   {
    "tag": "WIKI",
-   "title": "菊坂町",
-   "body": "菊坂町（きくざかちょう）は、愛知県名古屋市千種区の地名。現行行政地名は菊坂町1丁目から菊坂町3丁目。住居表示未実施。",
+   "title": "STILL DREAMING",
+   "body": "『STILL DREAMING』（スティル・ドリーミング）は、韓国の5人組男性アイドルグループTOMORROW X TOGETHERの日本での1stスタジオ・アルバムである。2021…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E8%8F%8A%E5%9D%82%E7%94%BA"
-  },
-  {
-   "tag": "WIKI",
-   "title": "桂林駅",
-   "body": "桂林駅（けいりんえき）は中華人民共和国広西チワン族自治区桂林市象山区にある中国国家鉄路集団（中国国鉄）の南寧局集団が管轄する駅。地域では南駅と呼ばれることもある。上海路と中山南路の交…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%A1%82%E6%9E%97%E9%A7%85"
+   "url": "https://ja.wikipedia.org/wiki/STILL_DREAMING"
   },
   {
    "tag": "HN",
-   "title": "Voltair (YC W26) Is Hiring a Test Flight Engineer",
-   "body": "1ポイント / コメント0件。",
+   "title": "Show HN: I built a native app for coding agents with Rust and GPUI",
+   "body": "12ポイント / コメント2件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49313047"
+   "url": "https://news.ycombinator.com/item?id=49315709"
   }
  ]
 }
