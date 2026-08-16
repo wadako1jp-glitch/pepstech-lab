@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-16T14:45:08+09:00",
+ "generated_at": "2026-08-16T16:01:18+09:00",
  "items": [
-  {
-   "tag": "WIKI",
-   "title": "蘆名氏",
-   "body": "蘆名氏（あしなし）は、三浦氏から興った氏族。相模国三浦郡蘆名（現在の神奈川県横須賀市芦名、芦名城）の地名に由来する。「芦名氏」「葦名氏」「奥州三浦氏」「会津三浦氏」と表記される事もあ…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E8%98%86%E5%90%8D%E6%B0%8F"
-  },
-  {
-   "tag": "WIKI",
-   "title": "郝家府駅",
-   "body": "郝家府駅 は、中華人民共和国北京市通州区にある北京地下鉄6号線の駅である。2014年12月28日に開業した。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E9%83%9D%E5%AE%B6%E5%BA%9C%E9%A7%85"
-  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高25.9℃ / 最低21.7℃。いまは25.8℃。",
+   "body": "霧雨。最高25.9℃ / 最低21.7℃。いまは25.7℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "HN",
-   "title": "Patterns and problems in emerging multi-agent systems",
-   "body": "31ポイント / コメント7件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49316271"
+   "tag": "WIKI",
+   "title": "シツィアーノ",
+   "body": "シツィアーノ は、イタリア共和国ロンバルディア州パヴィーア県にある、人口約6,300人の基礎自治体（コムーネ）。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%84%E3%82%A3%E3%82%A2%E3%83%BC%E3%83%8E"
   },
   {
    "tag": "HN",
-   "title": "A spectre is haunting Unicode",
-   "body": "203ポイント / コメント70件。",
+   "title": "Semaglutide linked to lower predicted dementia risk",
+   "body": "407ポイント / コメント283件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49310926"
+   "url": "https://news.ycombinator.com/item?id=49311651"
+  },
+  {
+   "tag": "WIKI",
+   "title": "ふたご座U星",
+   "body": "ふたご座U星 は、ふたご座の方角、地球から約304光年離れた場所にある矮新星である。白色矮星を含む連星系で、白色矮星へ物質が降着することで、数ヶ月ごとに明るさが大きく上昇する。矮新星…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%81%B5%E3%81%9F%E3%81%94%E5%BA%A7U%E6%98%9F"
   },
   {
    "tag": "HN",
-   "title": "Voltair (YC W26) Is Hiring a Test Flight Engineer",
-   "body": "1ポイント / コメント0件。",
+   "title": "Show HN: Mic Drop, a real-time multiplayer karaoke game",
+   "body": "45ポイント / コメント18件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49313047"
+   "url": "https://news.ycombinator.com/item?id=49315742"
+  },
+  {
+   "tag": "HN",
+   "title": "Tracking down a Zsh history data loss bug",
+   "body": "61ポイント / コメント21件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49314579"
   }
  ]
 }
