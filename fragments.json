@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-17T07:38:33+09:00",
+ "generated_at": "2026-08-17T08:35:27+09:00",
  "items": [
   {
    "tag": "HN",
-   "title": "Protobuf has LSP support. You're welcome",
-   "body": "80ポイント / コメント46件。",
+   "title": "SIMD in the 90s: Programming Intel's Pentium MMX",
+   "body": "53ポイント / コメント21件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49322573"
+   "url": "https://news.ycombinator.com/item?id=49285096"
   },
   {
    "tag": "HN",
-   "title": "A SAT Attack on Tarski's High School Algebra Problem",
-   "body": "76ポイント / コメント32件。",
+   "title": "Plastic mechanical computer from 1963: The Digi-Comp 1 [video]",
+   "body": "43ポイント / コメント10件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49268565"
+   "url": "https://news.ycombinator.com/item?id=49313920"
   },
   {
    "tag": "HN",
-   "title": "MathCode, Mathematical Coding Agent",
-   "body": "42ポイント / コメント14件。",
+   "title": "A quick look at zero-knowledge proofs",
+   "body": "19ポイント / コメント0件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49322330"
+   "url": "https://news.ycombinator.com/item?id=49303776"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高30.2℃ / 最低21.8℃。いまは22.9℃。",
+   "body": "霧雨。最高30.2℃ / 最低22.0℃。いまは24.4℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "WIKI",
-   "title": "恋ヶ窪駅",
-   "body": "恋ヶ窪駅（こいがくぼえき）は、東京都国分寺市戸倉一丁目にある西武鉄道国分寺線の駅。駅番号はSK02。",
+   "title": "宋銭",
+   "body": "宋銭（そうせん）は、中国・宋代に鋳造された貨幣である銅銭。また、宋代には鉄銭も鋳造されたが、一般的には、圧倒的に多い銅銭のことを指して宋銭と呼んでいる。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%81%8B%E3%83%B6%E7%AA%AA%E9%A7%85"
+   "url": "https://ja.wikipedia.org/wiki/%E5%AE%8B%E9%8A%AD"
   },
   {
    "tag": "WIKI",
-   "title": "ペロミクサ科",
-   "body": "ペロミクサ科はミトコンドリアを欠き原核生物を共生させているアメーバ様生物からなる科。2属からなり、いずれも水中の嫌気的堆積物（腐泥）中で自由生活を送っている。",
+   "title": "富山県立しらとり支援学校",
+   "body": "富山県立しらとり支援学校 は、富山県富山市にある県立の特別支援学校。富山県内最大の特別支援学校でもある。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%AD%E3%83%9F%E3%82%AF%E3%82%B5%E7%A7%91"
+   "url": "https://ja.wikipedia.org/wiki/%E5%AF%8C%E5%B1%B1%E7%9C%8C%E7%AB%8B%E3%81%97%E3%82%89%E3%81%A8%E3%82%8A%E6%94%AF%E6%8F%B4%E5%AD%A6%E6%A0%A1"
   }
  ]
 }
