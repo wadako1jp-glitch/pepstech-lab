@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-17T14:00:05+09:00",
+ "generated_at": "2026-08-17T14:52:14+09:00",
  "items": [
   {
    "tag": "WIKI",
-   "title": "マジザーノ",
-   "body": "マジザーノ は、イタリア共和国カラブリア州カタンザーロ県にある、人口約1,200人の基礎自治体（コムーネ）。",
+   "title": "能見町",
+   "body": "能見町（のみちょう）は、愛知県岡崎市の町名である。丁番を持たない単独町名である。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B8%E3%82%B6%E3%83%BC%E3%83%8E"
+   "url": "https://ja.wikipedia.org/wiki/%E8%83%BD%E8%A6%8B%E7%94%BA"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高30.2℃ / 最低22.0℃。いまは30.1℃。",
+   "body": "霧雨。最高30.3℃ / 最低22.0℃。いまは30.3℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Claude: System Prompts",
-   "body": "587ポイント / コメント241件。",
+   "title": "Gmail might partially be to blame for receiving emails from other Sea…",
+   "body": "25ポイント / コメント28件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49319556"
+   "url": "https://news.ycombinator.com/item?id=49326229"
+  },
+  {
+   "tag": "HN",
+   "title": "The federal keyword lists that canceled billions in research funding",
+   "body": "185ポイント / コメント73件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49325159"
+  },
+  {
+   "tag": "HN",
+   "title": "Interview with Amit Patel, Creator of “Solar Realms Elite” (2013)",
+   "body": "44ポイント / コメント9件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49231418"
   },
   {
    "tag": "WIKI",
-   "title": "愛甲 (厚木市)",
-   "body": "愛甲（あいこう）は、神奈川県厚木市にある町名。現行行政地名は愛甲一丁目から愛甲四丁目と大字愛甲。住居表示は一丁目から愛甲四丁目が実施済区域、大字愛甲は未実施区域。",
+   "title": "ジョンズクリーク (ジョージア州)",
+   "body": "ジョンズクリーク は、アメリカ合衆国ジョージア州のフルトン郡にある都市である。人口は8万2453人（2020年）。アトランタの北東に位置する裕福な郊外都市である。雑誌「マネー」の調査…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%84%9B%E7%94%B2_(%E5%8E%9A%E6%9C%A8%E5%B8%82)"
-  },
-  {
-   "tag": "HN",
-   "title": "St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods dro…",
-   "body": "169ポイント / コメント130件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49320856"
-  },
-  {
-   "tag": "HN",
-   "title": "Applying a photosynthetic process to treat \"dry eye\"",
-   "body": "18ポイント / コメント0件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49325304"
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%BA%E3%82%AF%E3%83%AA%E3%83%BC%E3%82%AF_(%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%B8%E3%82%A2%E5%B7%9E)"
   }
  ]
 }
