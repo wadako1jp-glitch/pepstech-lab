@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-18T01:47:31+09:00",
+ "generated_at": "2026-08-18T02:47:02+09:00",
  "items": [
-  {
-   "tag": "HN",
-   "title": "How to ship a database every day",
-   "body": "31ポイント / コメント2件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49330978"
-  },
-  {
-   "tag": "HN",
-   "title": "Apple's App Tracking Transparency treated its own apps better than ri…",
-   "body": "169ポイント / コメント58件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49331222"
-  },
-  {
-   "tag": "WIKI",
-   "title": "スリナム・ドル",
-   "body": "スリナム・ドル はスリナムで利用される通貨単位。ISO 4217コードはSRD。補助通貨はセントで、1ドルは100セントである。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%AA%E3%83%8A%E3%83%A0%E3%83%BB%E3%83%89%E3%83%AB"
-  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "曇り。最高31.0℃ / 最低22.7℃。いまは23.6℃。",
+   "body": "薄曇り。最高30.9℃ / 最低22.6℃。いまは23.1℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-   "body": "192ポイント / コメント100件。",
+   "title": "Olo (Color)",
+   "body": "107ポイント / コメント20件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49329575"
+   "url": "https://news.ycombinator.com/item?id=49270194"
+  },
+  {
+   "tag": "HN",
+   "title": "Sun Clock",
+   "body": "5ポイント / コメント1件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49333824"
   },
   {
    "tag": "WIKI",
-   "title": "イヴ・ルテルム",
-   "body": "イヴ・カミーユ・デジレ・ルテルム はベルギーの政治家。ベルギー北部を支持基盤とするキリスト教民主フランデレン党 (CD&V) 所属。",
+   "title": "名古屋市交通局N3000形電車",
+   "body": "名古屋市交通局N3000形電車（なごやしこうつうきょくN3000がたでんしゃ）は、2011年（平成23年）に登場した名古屋市交通局（名古屋市営地下鉄）鶴舞線用の通勤形電車である。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B4%E3%83%BB%E3%83%AB%E3%83%86%E3%83%AB%E3%83%A0"
+   "url": "https://ja.wikipedia.org/wiki/%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E4%BA%A4%E9%80%9A%E5%B1%80N3000%E5%BD%A2%E9%9B%BB%E8%BB%8A"
+  },
+  {
+   "tag": "HN",
+   "title": "How to put 170 atoms in an atom",
+   "body": "55ポイント / コメント5件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49331474"
+  },
+  {
+   "tag": "WIKI",
+   "title": "九重駅",
+   "body": "九重駅（ここのええき）は、千葉県館山市二子（ふたご）にある、東日本旅客鉄道（JR東日本）内房線の駅である。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E4%B9%9D%E9%87%8D%E9%A7%85"
   }
  ]
 }
