@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-17T18:02:46+09:00",
+ "generated_at": "2026-08-17T18:59:27+09:00",
  "items": [
   {
+   "tag": "HN",
+   "title": "Protobuf has LSP support",
+   "body": "154ポイント / コメント107件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49322573"
+  },
+  {
    "tag": "WIKI",
-   "title": "美里 (豊田市)",
-   "body": "美里（みさと）は、愛知県豊田市の町名。現行行政地名は、美里1丁目〜美里6丁目。住居表示は行われていない。",
+   "title": "ヒンズデール郡 (コロラド州)",
+   "body": "ヒンズデール郡 は、アメリカ合衆国コロラド州の南西部に位置する郡である。2010年国勢調査での人口は843人であり、2000年の790人から6.7％増加した。人口ではコロラド州の郡で…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E7%BE%8E%E9%87%8C_(%E8%B1%8A%E7%94%B0%E5%B8%82)"
-  },
-  {
-   "tag": "HN",
-   "title": "Prolly: A content-addressed ordered map built on prolly trees",
-   "body": "43ポイント / コメント3件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49325458"
-  },
-  {
-   "tag": "HN",
-   "title": "How do I permanently disable random Google Photos popup to backup pho…",
-   "body": "105ポイント / コメント71件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49290545"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%B3%E3%82%BA%E3%83%87%E3%83%BC%E3%83%AB%E9%83%A1_(%E3%82%B3%E3%83%AD%E3%83%A9%E3%83%89%E5%B7%9E)"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高30.3℃ / 最低22.0℃。いまは27.7℃。",
+   "body": "霧雨。最高30.3℃ / 最低22.0℃。いまは27.1℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "$12B of US ratepayers' money wasted on a modeling mistake in PJM",
-   "body": "41ポイント / コメント17件。",
+   "title": "Reticulum – Decentralized Mesh Network",
+   "body": "125ポイント / コメント35件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49326825"
+   "url": "https://news.ycombinator.com/item?id=49325061"
+  },
+  {
+   "tag": "HN",
+   "title": "MathCode, Mathematical Coding Agent",
+   "body": "91ポイント / コメント28件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49322330"
   },
   {
    "tag": "WIKI",
-   "title": "西尾市立白浜小学校",
-   "body": "西尾市立白浜小学校 は、愛知県西尾市吉良町白浜新田にある公立小学校。",
+   "title": "カモノハシ",
+   "body": "カモノハシ は、単孔目カモノハシ科カモノハシ属に分類される哺乳類。後肢に毒を持っており哺乳類でありながら卵を産むという特異な繁殖形態をとることで知られる。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E5%B0%BE%E5%B8%82%E7%AB%8B%E7%99%BD%E6%B5%9C%E5%B0%8F%E5%AD%A6%E6%A0%A1"
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A2%E3%83%8E%E3%83%8F%E3%82%B7"
   }
  ]
 }
