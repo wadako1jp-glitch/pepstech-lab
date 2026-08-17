@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-18T07:43:28+09:00",
+ "generated_at": "2026-08-18T08:39:37+09:00",
  "items": [
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "薄曇り。最高30.9℃ / 最低22.6℃。いまは24.0℃。",
+   "body": "薄曇り。最高30.9℃ / 最低22.6℃。いまは25.8℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "A particle made of force: physicists say they've found mysterious 'gl…",
-   "body": "83ポイント / コメント4件。",
+   "title": "How to disable or avoid intrusive AI",
+   "body": "241ポイント / コメント137件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49272891"
-  },
-  {
-   "tag": "WIKI",
-   "title": "汽車道",
-   "body": "汽車道 は、神奈川県横浜市の桜木町駅前と新港地区とを結ぶ、鉄道廃線跡を利用して1997年に開通した遊歩道である。港湾環境整備施設（港湾緑地）として整備されている。線路設備については撤…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%B1%BD%E8%BB%8A%E9%81%93"
+   "url": "https://news.ycombinator.com/item?id=49331220"
   },
   {
    "tag": "HN",
-   "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-   "body": "287ポイント / コメント148件。",
+   "title": "How to put 170 atoms in an atom",
+   "body": "98ポイント / コメント22件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49329575"
+   "url": "https://news.ycombinator.com/item?id=49331474"
   },
   {
    "tag": "WIKI",
-   "title": "南極点",
-   "body": "南極点 とは、自転する天体の最南端に当たる南緯90度地点のことである。ほとんどの場合、地理学上の南極点は自転軸と天体表面が交差する点の内、南側にある1点が南極点である。もうひとつは北…",
+   "title": "非友好的な国と地域のリスト",
+   "body": "非友好的な国と地域のリスト は、ロシア連邦とその企業、国民に対して「非友好的な行動をとった」として、ロシア政府が公開した国・地域のリスト。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%8D%97%E6%A5%B5%E7%82%B9"
+   "url": "https://ja.wikipedia.org/wiki/%E9%9D%9E%E5%8F%8B%E5%A5%BD%E7%9A%84%E3%81%AA%E5%9B%BD%E3%81%A8%E5%9C%B0%E5%9F%9F%E3%81%AE%E3%83%AA%E3%82%B9%E3%83%88"
   },
   {
    "tag": "HN",
-   "title": "We Are Forking dotenvy into dotenv-ng",
-   "body": "31ポイント / コメント30件。",
+   "title": "AI;DR (AI; Didn't Read)",
+   "body": "515ポイント / コメント310件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49335001"
+   "url": "https://news.ycombinator.com/item?id=49336573"
+  },
+  {
+   "tag": "WIKI",
+   "title": "宮崎県立高千穂高等学校",
+   "body": "宮崎県立高千穂高等学校（みやざきけんりつたかちほこうとうがっこう）は、宮崎県西臼杵郡高千穂町大字三田井に所在する公立の高等学校。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%AE%AE%E5%B4%8E%E7%9C%8C%E7%AB%8B%E9%AB%98%E5%8D%83%E7%A9%82%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1"
   }
  ]
 }
