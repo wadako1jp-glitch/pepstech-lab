@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-17T22:54:53+09:00",
+ "generated_at": "2026-08-17T23:46:30+09:00",
  "items": [
   {
-   "tag": "HN",
-   "title": "How Go detects struct copies with sync.noCopy",
-   "body": "21ポイント / コメント21件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49284983"
-  },
-  {
    "tag": "WIKI",
-   "title": "種市町",
-   "body": "種市町（たねいちまち）は、岩手県の最北端に位置し、太平洋に面していた町である。2006年（平成18年）1月1日に大野村と合併して洋野町となり消滅した。",
+   "title": "ムンバイ",
+   "body": "ムンバイ は、インドの西海岸に面するマハーラーシュトラ州の州都であり、ムンバイ市街県の都市である。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E7%A8%AE%E5%B8%82%E7%94%BA"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%A0%E3%83%B3%E3%83%90%E3%82%A4"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高30.1℃ / 最低22.0℃。いまは24.5℃。",
+   "body": "霧雨。最高30.1℃ / 最低22.0℃。いまは24.2℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "GitHub down again? no PR access",
-   "body": "25ポイント / コメント9件。",
+   "title": "Stripe to Buy OpenRouter for $7B",
+   "body": "81ポイント / コメント34件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49330632"
-  },
-  {
-   "tag": "WIKI",
-   "title": "阿蘇駅",
-   "body": "阿蘇駅（あそえき）は、熊本県阿蘇市黒川にある、九州旅客鉄道（JR九州）豊肥本線の駅である。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E9%98%BF%E8%98%87%E9%A7%85"
+   "url": "https://news.ycombinator.com/item?id=49330139"
   },
   {
    "tag": "HN",
-   "title": "On A.I. regulation and messaging",
-   "body": "152ポイント / コメント292件。",
+   "title": "A third world engineer responds to “RISC-V: They should have known be…",
+   "body": "570ポイント / コメント292件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49325789"
+   "url": "https://news.ycombinator.com/item?id=49321717"
+  },
+  {
+   "tag": "WIKI",
+   "title": "道の駅すずなり",
+   "body": "道の駅すずなり は、石川県珠洲市野々江町にある石川県道12号蛸島港線の道の駅である。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E9%81%93%E3%81%AE%E9%A7%85%E3%81%99%E3%81%9A%E3%81%AA%E3%82%8A"
+  },
+  {
+   "tag": "HN",
+   "title": "Incident with Github.com",
+   "body": "405ポイント / コメント318件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49330684"
   }
  ]
 }
