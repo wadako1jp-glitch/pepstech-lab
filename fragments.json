@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-17T14:52:14+09:00",
+ "generated_at": "2026-08-17T16:17:45+09:00",
  "items": [
-  {
-   "tag": "WIKI",
-   "title": "能見町",
-   "body": "能見町（のみちょう）は、愛知県岡崎市の町名である。丁番を持たない単独町名である。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E8%83%BD%E8%A6%8B%E7%94%BA"
-  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高30.3℃ / 最低22.0℃。いまは30.3℃。",
+   "body": "霧雨。最高30.3℃ / 最低22.0℃。いまは29.6℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Gmail might partially be to blame for receiving emails from other Sea…",
-   "body": "25ポイント / コメント28件。",
+   "title": "Dancing with friends and enemies: boids' swarm intelligence (2012)",
+   "body": "38ポイント / コメント4件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49326229"
-  },
-  {
-   "tag": "HN",
-   "title": "The federal keyword lists that canceled billions in research funding",
-   "body": "185ポイント / コメント73件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49325159"
-  },
-  {
-   "tag": "HN",
-   "title": "Interview with Amit Patel, Creator of “Solar Realms Elite” (2013)",
-   "body": "44ポイント / コメント9件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49231418"
+   "url": "https://news.ycombinator.com/item?id=49257362"
   },
   {
    "tag": "WIKI",
-   "title": "ジョンズクリーク (ジョージア州)",
-   "body": "ジョンズクリーク は、アメリカ合衆国ジョージア州のフルトン郡にある都市である。人口は8万2453人（2020年）。アトランタの北東に位置する裕福な郊外都市である。雑誌「マネー」の調査…",
+   "title": "城村城",
+   "body": "城村城（じょうむらじょう）は、熊本県山鹿市城字城にあった中世の日本の城（丘城）。山鹿市指定史跡。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%BA%E3%82%AF%E3%83%AA%E3%83%BC%E3%82%AF_(%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%B8%E3%82%A2%E5%B7%9E)"
+   "url": "https://ja.wikipedia.org/wiki/%E5%9F%8E%E6%9D%91%E5%9F%8E"
+  },
+  {
+   "tag": "HN",
+   "title": "GIMP Development Update",
+   "body": "24ポイント / コメント0件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49326156"
+  },
+  {
+   "tag": "WIKI",
+   "title": "大阪府立四條畷高等学校",
+   "body": "大阪府立四條畷高等学校 は、大阪府四條畷市雁屋北町にある公立の全日制（文理学科）高等学校。略称および通称は畷高 、またの通称は畷 。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%98%AA%E5%BA%9C%E7%AB%8B%E5%9B%9B%E6%A2%9D%E7%95%B7%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1"
+  },
+  {
+   "tag": "HN",
+   "title": "Tell HN: Cloudflare silently injects its analytics when you switch na…",
+   "body": "437ポイント / コメント112件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49322107"
   }
  ]
 }
