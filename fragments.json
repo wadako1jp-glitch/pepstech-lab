@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-18T02:47:02+09:00",
+ "generated_at": "2026-08-18T03:59:37+09:00",
  "items": [
+  {
+   "tag": "WIKI",
+   "title": "カナの婚礼 (ヴェロネーゼ)",
+   "body": "『カナの婚礼』 は、イタリアルネサンス期のヴェネツィア派の画家パオロ・ヴェロネーゼが1563年に制作した絵画である。油彩。主題は『新約聖書』「ヨハネの福音書」2章1-11で語られてい…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%8A%E3%81%AE%E5%A9%9A%E7%A4%BC_(%E3%83%B4%E3%82%A7%E3%83%AD%E3%83%8D%E3%83%BC%E3%82%BC)"
+  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "薄曇り。最高30.9℃ / 最低22.6℃。いまは23.1℃。",
+   "body": "薄曇り。最高30.9℃ / 最低22.6℃。いまは22.8℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "HN",
-   "title": "Olo (Color)",
-   "body": "107ポイント / コメント20件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49270194"
-  },
-  {
-   "tag": "HN",
-   "title": "Sun Clock",
-   "body": "5ポイント / コメント1件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49333824"
-  },
-  {
    "tag": "WIKI",
-   "title": "名古屋市交通局N3000形電車",
-   "body": "名古屋市交通局N3000形電車（なごやしこうつうきょくN3000がたでんしゃ）は、2011年（平成23年）に登場した名古屋市交通局（名古屋市営地下鉄）鶴舞線用の通勤形電車である。",
+   "title": "ディンケルシェルベン",
+   "body": "ディンケルシェルベン は、ドイツ連邦共和国バイエルン州シュヴァーベン行政管区のアウクスブルク郡に属す市場町である。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E4%BA%A4%E9%80%9A%E5%B1%80N3000%E5%BD%A2%E9%9B%BB%E8%BB%8A"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B1%E3%83%AB%E3%82%B7%E3%82%A7%E3%83%AB%E3%83%99%E3%83%B3"
   },
   {
    "tag": "HN",
-   "title": "How to put 170 atoms in an atom",
-   "body": "55ポイント / コメント5件。",
+   "title": "How I Over-Engineered My Book",
+   "body": "8ポイント / コメント6件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49331474"
+   "url": "https://news.ycombinator.com/item?id=49335292"
   },
   {
-   "tag": "WIKI",
-   "title": "九重駅",
-   "body": "九重駅（ここのええき）は、千葉県館山市二子（ふたご）にある、東日本旅客鉄道（JR東日本）内房線の駅である。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E4%B9%9D%E9%87%8D%E9%A7%85"
+   "tag": "HN",
+   "title": "Llama.cpp v0.1.0",
+   "body": "13ポイント / コメント2件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49335017"
+  },
+  {
+   "tag": "HN",
+   "title": "A particle made of force: physicists say they've found mysterious 'gl…",
+   "body": "33ポイント / コメント1件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49272891"
   }
  ]
 }
