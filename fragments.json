@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-18T04:43:43+09:00",
+ "generated_at": "2026-08-18T05:46:05+09:00",
  "items": [
+  {
+   "tag": "HN",
+   "title": "The Lonely Men Who Work in Patagonia, at the End of the World",
+   "body": "70ポイント / コメント26件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49335600"
+  },
+  {
+   "tag": "HN",
+   "title": "Olo (Color)",
+   "body": "200ポイント / コメント48件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49270194"
+  },
+  {
+   "tag": "WIKI",
+   "title": "ミゾカクシ属",
+   "body": "ミゾカクシ属（みぞかくしぞく、溝隠属）あるいはロベリア属 とは、キキョウ科の植物群の一部である。非常に多様な種を含む。花形は他のキキョウ科とは大いに異なり、左右相称の花をつける。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%82%BE%E3%82%AB%E3%82%AF%E3%82%B7%E5%B1%9E"
+  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "薄曇り。最高30.9℃ / 最低22.6℃。いまは22.7℃。",
+   "body": "薄曇り。最高30.9℃ / 最低22.6℃。いまは22.6℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "A particle made of force: physicists say they've found mysterious 'gl…",
-   "body": "41ポイント / コメント1件。",
+   "title": "Judge sets framework for Nine PBS to retrieve archival data",
+   "body": "75ポイント / コメント29件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49272891"
-  },
-  {
-   "tag": "HN",
-   "title": "Incident with Github.com",
-   "body": "351ポイント / コメント770件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49330597"
+   "url": "https://news.ycombinator.com/item?id=49333344"
   },
   {
    "tag": "WIKI",
-   "title": "中川秀成",
-   "body": "中川 秀成 は、安土桃山時代から江戸時代初期にかけての武将、大名。豊後国岡藩の初代藩主。中川清秀の次男。",
+   "title": "熊本市立飽田南小学校",
+   "body": "熊本市立飽田南小学校 は、熊本県熊本市南区護藤町にある公立小学校。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%B7%9D%E7%A7%80%E6%88%90"
-  },
-  {
-   "tag": "WIKI",
-   "title": "金森太郎",
-   "body": "金森 太郎 は、日本の農商務・内務官僚。東京府（のちの東京府豊多摩郡千駄ヶ谷町、現東京都渋谷区）出身。勲三等旭日中綬章。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E9%87%91%E6%A3%AE%E5%A4%AA%E9%83%8E"
-  },
-  {
-   "tag": "HN",
-   "title": "How I developed an Am29000 C compiler and web browser",
-   "body": "61ポイント / コメント9件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49323474"
+   "url": "https://ja.wikipedia.org/wiki/%E7%86%8A%E6%9C%AC%E5%B8%82%E7%AB%8B%E9%A3%BD%E7%94%B0%E5%8D%97%E5%B0%8F%E5%AD%A6%E6%A0%A1"
   }
  ]
 }
