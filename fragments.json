@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-17T13:06:43+09:00",
+ "generated_at": "2026-08-17T14:00:05+09:00",
  "items": [
   {
-   "tag": "HN",
-   "title": "Protobuf has LSP support. You're welcome",
-   "body": "129ポイント / コメント85件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49322573"
-  },
-  {
-   "tag": "HN",
-   "title": "Clamiga: Common Lisp for the Amiga",
-   "body": "94ポイント / コメント12件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49281352"
-  },
-  {
-   "tag": "HN",
-   "title": "Low-Tech Ceramic Water Filter",
-   "body": "124ポイント / コメント32件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49259980"
-  },
-  {
    "tag": "WIKI",
-   "title": "静岡県道145号沼津三島線",
-   "body": "静岡県道145号沼津三島線 は、静岡県沼津市と三島市間を通る県道である。",
+   "title": "マジザーノ",
+   "body": "マジザーノ は、イタリア共和国カラブリア州カタンザーロ県にある、人口約1,200人の基礎自治体（コムーネ）。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E9%9D%99%E5%B2%A1%E7%9C%8C%E9%81%93145%E5%8F%B7%E6%B2%BC%E6%B4%A5%E4%B8%89%E5%B3%B6%E7%B7%9A"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B8%E3%82%B6%E3%83%BC%E3%83%8E"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高30.2℃ / 最低22.0℃。いまは29.8℃。",
+   "body": "霧雨。最高30.2℃ / 最低22.0℃。いまは30.1℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
+   "tag": "HN",
+   "title": "Claude: System Prompts",
+   "body": "587ポイント / コメント241件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49319556"
+  },
+  {
    "tag": "WIKI",
-   "title": "エラス・ヴェローナFC",
-   "body": "エラス・ヴェローナ・フットボール・クラブ は、イタリア・ヴェネト州ヴェローナを本拠地とするサッカークラブである。1984-85シーズンにセリエA優勝を果たしている古豪。",
+   "title": "愛甲 (厚木市)",
+   "body": "愛甲（あいこう）は、神奈川県厚木市にある町名。現行行政地名は愛甲一丁目から愛甲四丁目と大字愛甲。住居表示は一丁目から愛甲四丁目が実施済区域、大字愛甲は未実施区域。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%A9%E3%82%B9%E3%83%BB%E3%83%B4%E3%82%A7%E3%83%AD%E3%83%BC%E3%83%8AFC"
+   "url": "https://ja.wikipedia.org/wiki/%E6%84%9B%E7%94%B2_(%E5%8E%9A%E6%9C%A8%E5%B8%82)"
+  },
+  {
+   "tag": "HN",
+   "title": "St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods dro…",
+   "body": "169ポイント / コメント130件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49320856"
+  },
+  {
+   "tag": "HN",
+   "title": "Applying a photosynthetic process to treat \"dry eye\"",
+   "body": "18ポイント / コメント0件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49325304"
   }
  ]
 }
