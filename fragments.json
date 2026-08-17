@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-17T23:46:30+09:00",
+ "generated_at": "2026-08-18T00:42:35+09:00",
  "items": [
-  {
-   "tag": "WIKI",
-   "title": "ムンバイ",
-   "body": "ムンバイ は、インドの西海岸に面するマハーラーシュトラ州の州都であり、ムンバイ市街県の都市である。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%A0%E3%83%B3%E3%83%90%E3%82%A4"
-  },
-  {
-   "tag": "天気",
-   "title": "東京 きょう",
-   "body": "霧雨。最高30.1℃ / 最低22.0℃。いまは24.2℃。",
-   "src": "open-meteo.com",
-   "url": "https://open-meteo.com/"
-  },
-  {
-   "tag": "HN",
-   "title": "Stripe to Buy OpenRouter for $7B",
-   "body": "81ポイント / コメント34件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49330139"
-  },
   {
    "tag": "HN",
    "title": "A third world engineer responds to “RISC-V: They should have known be…",
-   "body": "570ポイント / コメント292件。",
+   "body": "578ポイント / コメント293件。",
    "src": "news.ycombinator.com",
    "url": "https://news.ycombinator.com/item?id=49321717"
   },
   {
    "tag": "WIKI",
-   "title": "道の駅すずなり",
-   "body": "道の駅すずなり は、石川県珠洲市野々江町にある石川県道12号蛸島港線の道の駅である。",
+   "title": "国泰寺 (北海道厚岸町)",
+   "body": "国泰寺（こくたいじ）は、北海道厚岸郡厚岸町（創建時は釧路国）のバラサン岬に所在する臨済宗南禅寺派の仏教寺院。山号は景運山。国の史跡に指定されている。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E9%81%93%E3%81%AE%E9%A7%85%E3%81%99%E3%81%9A%E3%81%AA%E3%82%8A"
+   "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E6%B3%B0%E5%AF%BA_(%E5%8C%97%E6%B5%B7%E9%81%93%E5%8E%9A%E5%B2%B8%E7%94%BA)"
   },
   {
    "tag": "HN",
-   "title": "Incident with Github.com",
-   "body": "405ポイント / コメント318件。",
+   "title": "GitHub down again? no PR access",
+   "body": "209ポイント / コメント70件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49330684"
+   "url": "https://news.ycombinator.com/item?id=49330632"
+  },
+  {
+   "tag": "天気",
+   "title": "東京 きょう",
+   "body": "曇り。最高31.0℃ / 最低22.7℃。いまは24.0℃。",
+   "src": "open-meteo.com",
+   "url": "https://open-meteo.com/"
+  },
+  {
+   "tag": "HN",
+   "title": "Show HN: Learn Flags Quiz",
+   "body": "5ポイント / コメント1件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49331288"
+  },
+  {
+   "tag": "WIKI",
+   "title": "ダボン駅",
+   "body": "ダボン駅 は、マレーシアのクランタン州ダボンにある、マレー鉄道イースト・コースト線の駅である。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%9C%E3%83%B3%E9%A7%85"
   }
  ]
 }
