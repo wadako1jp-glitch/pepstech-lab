@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-17T16:17:45+09:00",
+ "generated_at": "2026-08-17T18:02:46+09:00",
  "items": [
+  {
+   "tag": "WIKI",
+   "title": "美里 (豊田市)",
+   "body": "美里（みさと）は、愛知県豊田市の町名。現行行政地名は、美里1丁目〜美里6丁目。住居表示は行われていない。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E7%BE%8E%E9%87%8C_(%E8%B1%8A%E7%94%B0%E5%B8%82)"
+  },
+  {
+   "tag": "HN",
+   "title": "Prolly: A content-addressed ordered map built on prolly trees",
+   "body": "43ポイント / コメント3件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49325458"
+  },
+  {
+   "tag": "HN",
+   "title": "How do I permanently disable random Google Photos popup to backup pho…",
+   "body": "105ポイント / コメント71件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49290545"
+  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高30.3℃ / 最低22.0℃。いまは29.6℃。",
+   "body": "霧雨。最高30.3℃ / 最低22.0℃。いまは27.7℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Dancing with friends and enemies: boids' swarm intelligence (2012)",
-   "body": "38ポイント / コメント4件。",
+   "title": "$12B of US ratepayers' money wasted on a modeling mistake in PJM",
+   "body": "41ポイント / コメント17件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49257362"
+   "url": "https://news.ycombinator.com/item?id=49326825"
   },
   {
    "tag": "WIKI",
-   "title": "城村城",
-   "body": "城村城（じょうむらじょう）は、熊本県山鹿市城字城にあった中世の日本の城（丘城）。山鹿市指定史跡。",
+   "title": "西尾市立白浜小学校",
+   "body": "西尾市立白浜小学校 は、愛知県西尾市吉良町白浜新田にある公立小学校。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%9F%8E%E6%9D%91%E5%9F%8E"
-  },
-  {
-   "tag": "HN",
-   "title": "GIMP Development Update",
-   "body": "24ポイント / コメント0件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49326156"
-  },
-  {
-   "tag": "WIKI",
-   "title": "大阪府立四條畷高等学校",
-   "body": "大阪府立四條畷高等学校 は、大阪府四條畷市雁屋北町にある公立の全日制（文理学科）高等学校。略称および通称は畷高 、またの通称は畷 。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%98%AA%E5%BA%9C%E7%AB%8B%E5%9B%9B%E6%A2%9D%E7%95%B7%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1"
-  },
-  {
-   "tag": "HN",
-   "title": "Tell HN: Cloudflare silently injects its analytics when you switch na…",
-   "body": "437ポイント / コメント112件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49322107"
+   "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E5%B0%BE%E5%B8%82%E7%AB%8B%E7%99%BD%E6%B5%9C%E5%B0%8F%E5%AD%A6%E6%A0%A1"
   }
  ]
 }
