@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-18T06:42:55+09:00",
+ "generated_at": "2026-08-18T07:43:28+09:00",
  "items": [
-  {
-   "tag": "HN",
-   "title": "Sun Clock",
-   "body": "133ポイント / コメント41件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49333824"
-  },
-  {
-   "tag": "HN",
-   "title": "How to disable or avoid intrusive AI",
-   "body": "210ポイント / コメント113件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49331220"
-  },
-  {
-   "tag": "WIKI",
-   "title": "武蔵塚駅",
-   "body": "武蔵塚駅（むさしづかえき）は、熊本県熊本市北区龍田町弓削にある、九州旅客鉄道（JR九州）豊肥本線の駅である。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%AD%A6%E8%94%B5%E5%A1%9A%E9%A7%85"
-  },
-  {
-   "tag": "WIKI",
-   "title": "マアレ・アドゥンミーム",
-   "body": "マアレ・アドゥンミーム は、ヨルダン川西岸地区（ユダヤ・サマリア地区）にあるイスラエルの都市（ユダヤ人入植地）である。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%A2%E3%83%AC%E3%83%BB%E3%82%A2%E3%83%89%E3%82%A5%E3%83%B3%E3%83%9F%E3%83%BC%E3%83%A0"
-  },
-  {
-   "tag": "HN",
-   "title": "Qwen3.8 27B scores 52 on Artificial Analysis",
-   "body": "239ポイント / コメント112件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49334544"
-  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "薄曇り。最高30.9℃ / 最低22.6℃。いまは23.1℃。",
+   "body": "薄曇り。最高30.9℃ / 最低22.6℃。いまは24.0℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
+  },
+  {
+   "tag": "HN",
+   "title": "A particle made of force: physicists say they've found mysterious 'gl…",
+   "body": "83ポイント / コメント4件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49272891"
+  },
+  {
+   "tag": "WIKI",
+   "title": "汽車道",
+   "body": "汽車道 は、神奈川県横浜市の桜木町駅前と新港地区とを結ぶ、鉄道廃線跡を利用して1997年に開通した遊歩道である。港湾環境整備施設（港湾緑地）として整備されている。線路設備については撤…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E6%B1%BD%E8%BB%8A%E9%81%93"
+  },
+  {
+   "tag": "HN",
+   "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+   "body": "287ポイント / コメント148件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49329575"
+  },
+  {
+   "tag": "WIKI",
+   "title": "南極点",
+   "body": "南極点 とは、自転する天体の最南端に当たる南緯90度地点のことである。ほとんどの場合、地理学上の南極点は自転軸と天体表面が交差する点の内、南側にある1点が南極点である。もうひとつは北…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%8D%97%E6%A5%B5%E7%82%B9"
+  },
+  {
+   "tag": "HN",
+   "title": "We Are Forking dotenvy into dotenv-ng",
+   "body": "31ポイント / コメント30件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49335001"
   }
  ]
 }
