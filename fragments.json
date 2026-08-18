@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-18T17:55:11+09:00",
+ "generated_at": "2026-08-18T18:50:07+09:00",
  "items": [
   {
    "tag": "WIKI",
-   "title": "ニック・マルスマン",
-   "body": "ニック・マルスマン は、オランダ・ズヴォレ出身のサッカー選手。ポジションはゴールキーパー（GK）。エールディヴィジ・フォルトゥナ・シッタート所属。",
+   "title": "硯井天満宮",
+   "body": "硯井天満宮（すずりいてんまんぐう）は、岡山県玉野市にある神社（天満宮）。旧社格は無格社。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%83%E3%82%AF%E3%83%BB%E3%83%9E%E3%83%AB%E3%82%B9%E3%83%9E%E3%83%B3"
+   "url": "https://ja.wikipedia.org/wiki/%E7%A1%AF%E4%BA%95%E5%A4%A9%E6%BA%80%E5%AE%AE"
   },
   {
    "tag": "HN",
-   "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-   "body": "338ポイント / コメント161件。",
+   "title": "IBM Simon (1994): the original smartphone, explained in its own ad [v…",
+   "body": "24ポイント / コメント0件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49329575"
+   "url": "https://news.ycombinator.com/item?id=49313360"
   },
   {
    "tag": "HN",
-   "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
-   "body": "103ポイント / コメント58件。",
+   "title": "How do functions like alloca allocate memory from the stack?",
+   "body": "56ポイント / コメント38件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49332751"
+   "url": "https://news.ycombinator.com/item?id=49337630"
   },
   {
    "tag": "WIKI",
-   "title": "カルロス・ベラスコ・カルバージョ",
-   "body": "カルロス・ベラスコ・カルバージョ はスペイン・マドリード出身 のサッカー審判員である。彼は2004年よりスペインの国内最上位リーグであるプリメーラ・ディビシオンで審判員を務めている他…",
+   "title": "キリング・フィールド",
+   "body": "キリング・フィールド は、ポル・ポト政権下のカンボジアで、大量虐殺が行われた刑場跡の俗称。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AB%E3%83%AD%E3%82%B9%E3%83%BB%E3%83%99%E3%83%A9%E3%82%B9%E3%82%B3%E3%83%BB%E3%82%AB%E3%83%AB%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7"
-  },
-  {
-   "tag": "HN",
-   "title": "Shattered skeleton is first confirmed death from trebuchet",
-   "body": "65ポイント / コメント45件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49285139"
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%BB%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "薄曇り。最高30.8℃ / 最低22.6℃。いまは28.1℃。",
+   "body": "薄曇り。最高30.8℃ / 最低22.6℃。いまは27.1℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
+  },
+  {
+   "tag": "HN",
+   "title": "Fairphone 6 and PostmarketOS working main camera",
+   "body": "193ポイント / コメント44件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49338285"
   }
  ]
 }
