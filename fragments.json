@@ -1,6 +1,34 @@
 {
- "generated_at": "2026-08-18T13:54:16+09:00",
+ "generated_at": "2026-08-18T14:46:57+09:00",
  "items": [
+  {
+   "tag": "HN",
+   "title": "The Road to MS-DOS 2.0",
+   "body": "48ポイント / コメント16件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49269966"
+  },
+  {
+   "tag": "HN",
+   "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+   "body": "320ポイント / コメント156件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49329575"
+  },
+  {
+   "tag": "WIKI",
+   "title": "ペンシルベニア州の郡一覧",
+   "body": "ペンシルベニア州の郡一覧は、アメリカ合衆国ペンシルベニア州内の郡の一覧である。ペンシルベニア州内には67の郡がある。下の表はアルファベット順に掲載している。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%E3%83%99%E3%83%8B%E3%82%A2%E5%B7%9E%E3%81%AE%E9%83%A1%E4%B8%80%E8%A6%A7"
+  },
+  {
+   "tag": "WIKI",
+   "title": "アリス・ウォルトン",
+   "body": "アリス・ウォルトン は、アメリカ合衆国の実業家。ウォルマート創業者サム・ウォルトンとヘレン・ウォルトンの娘。S・ロブソン・ウォルトン、ジョン・T・ウォルトン、ジム・ウォルトンの兄弟。…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AA%E3%82%B9%E3%83%BB%E3%82%A6%E3%82%A9%E3%83%AB%E3%83%88%E3%83%B3"
+  },
   {
    "tag": "天気",
    "title": "東京 きょう",
@@ -10,38 +38,10 @@
   },
   {
    "tag": "HN",
-   "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
-   "body": "97ポイント / コメント56件。",
+   "title": "Ask HN: Alternatives to GitHub",
+   "body": "545ポイント / コメント349件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49332751"
-  },
-  {
-   "tag": "HN",
-   "title": "Wellington second-hand bookstore's mysterious orders",
-   "body": "29ポイント / コメント11件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49323983"
-  },
-  {
-   "tag": "WIKI",
-   "title": "天地創造 (映画)",
-   "body": "『天地創造』 は、1966年のアメリカ合衆国・イタリアの叙事詩的映画。 監督はジョン・ヒューストン、出演はマイケル・パークス、ウラ・ベルグリッド、リチャード・ハリス、ジョン・ヒュース…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%A4%A9%E5%9C%B0%E5%89%B5%E9%80%A0_(%E6%98%A0%E7%94%BB)"
-  },
-  {
-   "tag": "HN",
-   "title": "A Preview of DuckDB v2.0",
-   "body": "580ポイント / コメント104件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49330781"
-  },
-  {
-   "tag": "WIKI",
-   "title": "ハードオフファミリー",
-   "body": "株式会社ハードオフファミリー は、かつて千葉県白井市に本社を置き、ハードオフ・ブックオフをフランチャイズ展開していた企業。ハードオフコーポレーションの完全子会社であった。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%BC%E3%83%89%E3%82%AA%E3%83%95%E3%83%95%E3%82%A1%E3%83%9F%E3%83%AA%E3%83%BC"
+   "url": "https://news.ycombinator.com/item?id=49331033"
   }
  ]
 }
