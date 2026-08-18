@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-18T18:50:07+09:00",
+ "generated_at": "2026-08-18T19:48:21+09:00",
  "items": [
   {
    "tag": "WIKI",
-   "title": "硯井天満宮",
-   "body": "硯井天満宮（すずりいてんまんぐう）は、岡山県玉野市にある神社（天満宮）。旧社格は無格社。",
+   "title": "大門ダム",
+   "body": "大門ダム（だいもんダム）は、山梨県北杜市、富士川水系大門川に建設されたダム。高さ65.5メートルの重力式コンクリートダムで、洪水調節・不特定利水・上水道・発電を目的とする、山梨県営の…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E7%A1%AF%E4%BA%95%E5%A4%A9%E6%BA%80%E5%AE%AE"
-  },
-  {
-   "tag": "HN",
-   "title": "IBM Simon (1994): the original smartphone, explained in its own ad [v…",
-   "body": "24ポイント / コメント0件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49313360"
-  },
-  {
-   "tag": "HN",
-   "title": "How do functions like alloca allocate memory from the stack?",
-   "body": "56ポイント / コメント38件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49337630"
-  },
-  {
-   "tag": "WIKI",
-   "title": "キリング・フィールド",
-   "body": "キリング・フィールド は、ポル・ポト政権下のカンボジアで、大量虐殺が行われた刑場跡の俗称。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%BB%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89"
+   "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%96%80%E3%83%80%E3%83%A0"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "薄曇り。最高30.8℃ / 最低22.6℃。いまは27.1℃。",
+   "body": "薄曇り。最高30.8℃ / 最低22.6℃。いまは26.5℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Fairphone 6 and PostmarketOS working main camera",
-   "body": "193ポイント / コメント44件。",
+   "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+   "body": "340ポイント / コメント162件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49338285"
+   "url": "https://news.ycombinator.com/item?id=49329575"
+  },
+  {
+   "tag": "HN",
+   "title": "Repair Cafe – Fix Your Broken Items",
+   "body": "119ポイント / コメント20件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49339097"
+  },
+  {
+   "tag": "HN",
+   "title": "AI;DR (AI; Didn't Read)",
+   "body": "899ポイント / コメント548件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49336573"
+  },
+  {
+   "tag": "WIKI",
+   "title": "父と子",
+   "body": "『父と子』 は、1862年に雑誌『ロシア報知』 に発表されたイワン・ツルゲーネフの長編小説である。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E7%88%B6%E3%81%A8%E5%AD%90"
   }
  ]
 }
