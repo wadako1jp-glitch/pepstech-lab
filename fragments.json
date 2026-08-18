@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-18T23:54:08+09:00",
+ "generated_at": "2026-08-19T00:48:15+09:00",
  "items": [
   {
    "tag": "HN",
-   "title": "Ranking the Most Brilliantly Colored Birds with Data",
-   "body": "55ポイント / コメント5件。",
+   "title": "Finger: Social network that never died",
+   "body": "109ポイント / コメント34件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49311115"
-  },
-  {
-   "tag": "HN",
-   "title": "Baking a Model: A Metaphor for LLM Training",
-   "body": "17ポイント / コメント1件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49305969"
-  },
-  {
-   "tag": "HN",
-   "title": "Rethinking Database Programming",
-   "body": "154ポイント / コメント70件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49342530"
+   "url": "https://news.ycombinator.com/item?id=49342472"
   },
   {
    "tag": "WIKI",
-   "title": "新船町",
-   "body": "新船町（しんふねちょう）は、愛知県名古屋市港区の地名。現行行政地名は新船町1丁目から新船町4丁目。住居表示未実施。",
+   "title": "宮本悦子 (官僚)",
+   "body": "宮本悦子 は日本の労働・厚生労働官僚。元愛知県副知事。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%96%B0%E8%88%B9%E7%94%BA"
+   "url": "https://ja.wikipedia.org/wiki/%E5%AE%AE%E6%9C%AC%E6%82%A6%E5%AD%90_(%E5%AE%98%E5%83%9A)"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "薄曇り。最高31.0℃ / 最低22.6℃。いまは24.8℃。",
+   "body": "晴れ。最高31.0℃ / 最低23.2℃。いまは24.5℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "WIKI",
-   "title": "メットライフ・ビルディング",
-   "body": "メットライフビル は、ニューヨークのパーク街200号にある超高層ビル。かつてパンナムビル と呼ばれていた。",
+   "title": "ハバード郡 (ミネソタ州)",
+   "body": "ハバード郡 は、アメリカ合衆国ミネソタ州の中央部に位置する郡である。2010年国勢調査での人口は20,428人であり、2000年の18,376人から11.2％増加した。郡庁所在地はパ…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%83%E3%83%88%E3%83%A9%E3%82%A4%E3%83%95%E3%83%BB%E3%83%93%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%90%E3%83%BC%E3%83%89%E9%83%A1_(%E3%83%9F%E3%83%8D%E3%82%BD%E3%82%BF%E5%B7%9E)"
+  },
+  {
+   "tag": "HN",
+   "title": "Python Polars Cheatsheet (based on our O'Reilly book)",
+   "body": "55ポイント / コメント8件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49345476"
+  },
+  {
+   "tag": "HN",
+   "title": "Teaching my kid to code with a modern MUD",
+   "body": "122ポイント / コメント40件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49272631"
   }
  ]
 }
