@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-19T05:42:07+09:00",
+ "generated_at": "2026-08-19T06:41:11+09:00",
  "items": [
   {
-   "tag": "HN",
-   "title": "Ask HN: GitHub employees what's going on? Why?",
-   "body": "183ポイント / コメント141件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49332495"
+   "tag": "WIKI",
+   "title": "裃",
+   "body": "裃（かみしも）とは、和服における男子の正装の一種。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E8%A3%83"
   },
   {
    "tag": "WIKI",
-   "title": "ホテル京阪 ユニバーサル・タワー",
-   "body": "ホテル京阪 ユニバーサル・タワー は、大阪府大阪市此花区に所在するホテル京阪が運営するシティホテル。",
+   "title": "小池晃",
+   "body": "小池 晃 は、日本の政治家、医師、YouTuber。日本共産党所属の参議院議員（5期）。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%86%E3%83%AB%E4%BA%AC%E9%98%AA_%E3%83%A6%E3%83%8B%E3%83%90%E3%83%BC%E3%82%B5%E3%83%AB%E3%83%BB%E3%82%BF%E3%83%AF%E3%83%BC"
+   "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%B1%A0%E6%99%83"
+  },
+  {
+   "tag": "HN",
+   "title": "Mycorrhizal Infrastructure Map",
+   "body": "19ポイント / コメント6件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49308058"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "晴れ。最高31.5℃ / 最低22.7℃。いまは22.8℃。",
+   "body": "晴れ。最高31.5℃ / 最低22.7℃。いまは23.6℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Pacing model development in an era of cyber-critical capabilities",
-   "body": "28ポイント / コメント6件。",
+   "title": "How does IKEA come up with names for its products?",
+   "body": "164ポイント / コメント106件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49350031"
-  },
-  {
-   "tag": "WIKI",
-   "title": "僕が愛したすべての君へ/君を愛したひとりの僕へ",
-   "body": "『僕が愛したすべての君へ』（ぼくがあいしたすべてのきみへ）、『君を愛したひとりの僕へ』（きみをあいしたひとりのぼくへ）は、乙野四方字による日本の小説。ハヤカワ文庫JA（早川書房）より…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%83%95%E3%81%8C%E6%84%9B%E3%81%97%E3%81%9F%E3%81%99%E3%81%B9%E3%81%A6%E3%81%AE%E5%90%9B%E3%81%B8%2F%E5%90%9B%E3%82%92%E6%84%9B%E3%81%97%E3%81%9F%E3%81%B2%E3%81%A8%E3%82%8A%E3%81%AE%E5%83%95%E3%81%B8"
+   "url": "https://news.ycombinator.com/item?id=49349984"
   },
   {
    "tag": "HN",
-   "title": "Memory prices climb 500% in 12 months",
-   "body": "322ポイント / コメント248件。",
+   "title": "Using the railway network as a flatbed scanner",
+   "body": "362ポイント / コメント57件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49334960"
+   "url": "https://news.ycombinator.com/item?id=49344825"
   }
  ]
 }
