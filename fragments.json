@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-18T12:10:20+09:00",
+ "generated_at": "2026-08-18T13:00:01+09:00",
  "items": [
+  {
+   "tag": "WIKI",
+   "title": "ナサニエル・バグショー・ウォード",
+   "body": "ナサニエル・バグショー・ウォード は、「ウォードの箱」と呼ばれる植物の栽培と輸送のケースを広めたイギリスの医師。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%B5%E3%83%8B%E3%82%A8%E3%83%AB%E3%83%BB%E3%83%90%E3%82%B0%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%BB%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%89"
+  },
+  {
+   "tag": "WIKI",
+   "title": "マテウス・ソアレス・トゥーレル",
+   "body": "マテウス・トゥーレル ことマテウス・ソアレス・トゥーレル は、ブラジル・リオデジャネイロ出身のプロサッカー選手。Jリーグ・ヴィッセル神戸所属。ポジションはディフェンダー（センターバッ…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%86%E3%82%A6%E3%82%B9%E3%83%BB%E3%82%BD%E3%82%A2%E3%83%AC%E3%82%B9%E3%83%BB%E3%83%88%E3%82%A5%E3%83%BC%E3%83%AC%E3%83%AB"
+  },
   {
    "tag": "HN",
    "title": "How to disable or avoid intrusive AI",
-   "body": "262ポイント / コメント162件。",
+   "body": "265ポイント / コメント163件。",
    "src": "news.ycombinator.com",
    "url": "https://news.ycombinator.com/item?id=49331220"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "薄曇り。最高30.8℃ / 最低22.6℃。いまは30.0℃。",
+   "body": "薄曇り。最高30.8℃ / 最低22.6℃。いまは30.3℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "WIKI",
-   "title": "上伝馬町",
-   "body": "上伝馬町（かみでんまちょう）は、愛知県豊橋市の地名。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E4%B8%8A%E4%BC%9D%E9%A6%AC%E7%94%BA"
-  },
-  {
-   "tag": "WIKI",
-   "title": "芦野池沼群県立自然公園",
-   "body": "芦野池沼群県立自然公園（あしのちしょうぐんけんりつしぜんこうえん）は、青森県五所川原市と北津軽郡中泊町にある青森県立の自然公園。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E8%8A%A6%E9%87%8E%E6%B1%A0%E6%B2%BC%E7%BE%A4%E7%9C%8C%E7%AB%8B%E8%87%AA%E7%84%B6%E5%85%AC%E5%9C%92"
+   "tag": "HN",
+   "title": "California's new tire efficiency rules could save drivers $1B a year",
+   "body": "11ポイント / コメント13件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49340710"
   },
   {
    "tag": "HN",
-   "title": "GPU Offload in Rust: Portable, Safe, and Fast",
-   "body": "168ポイント / コメント36件。",
+   "title": "Olo (Color)",
+   "body": "350ポイント / コメント67件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49334991"
-  },
-  {
-   "tag": "HN",
-   "title": "AI;DR (AI; Didn't Read)",
-   "body": "645ポイント / コメント401件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49336573"
+   "url": "https://news.ycombinator.com/item?id=49270194"
   }
  ]
 }
