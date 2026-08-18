@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-19T00:48:15+09:00",
+ "generated_at": "2026-08-19T01:50:31+09:00",
  "items": [
-  {
-   "tag": "HN",
-   "title": "Finger: Social network that never died",
-   "body": "109ポイント / コメント34件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49342472"
-  },
-  {
-   "tag": "WIKI",
-   "title": "宮本悦子 (官僚)",
-   "body": "宮本悦子 は日本の労働・厚生労働官僚。元愛知県副知事。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%AE%AE%E6%9C%AC%E6%82%A6%E5%AD%90_(%E5%AE%98%E5%83%9A)"
-  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "晴れ。最高31.0℃ / 最低23.2℃。いまは24.5℃。",
+   "body": "晴れ。最高31.0℃ / 最低23.2℃。いまは24.2℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
+   "tag": "HN",
+   "title": "Show HN: Saggar, a Mac terminal that keeps sessions and your attentio…",
+   "body": "42ポイント / コメント46件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49331551"
+  },
+  {
    "tag": "WIKI",
-   "title": "ハバード郡 (ミネソタ州)",
-   "body": "ハバード郡 は、アメリカ合衆国ミネソタ州の中央部に位置する郡である。2010年国勢調査での人口は20,428人であり、2000年の18,376人から11.2％増加した。郡庁所在地はパ…",
+   "title": "キクガシラコウモリ",
+   "body": "キクガシラコウモリ は、翼手目キクガシラコウモリ科キクガシラコウモリ属に分類されるコウモリ。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%90%E3%83%BC%E3%83%89%E9%83%A1_(%E3%83%9F%E3%83%8D%E3%82%BD%E3%82%BF%E5%B7%9E)"
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%82%AF%E3%82%AC%E3%82%B7%E3%83%A9%E3%82%B3%E3%82%A6%E3%83%A2%E3%83%AA"
   },
   {
    "tag": "HN",
-   "title": "Python Polars Cheatsheet (based on our O'Reilly book)",
-   "body": "55ポイント / コメント8件。",
+   "title": "Meta Files Patent for Facial Recognition, Automatic Recording of Peop…",
+   "body": "169ポイント / コメント116件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49345476"
+   "url": "https://news.ycombinator.com/item?id=49344654"
+  },
+  {
+   "tag": "WIKI",
+   "title": "消波ブロック",
+   "body": "消波ブロック（しょうはブロック）は、海岸や河川などの護岸や水制を目的に設置するコンクリートブロック。消波根固ブロック（しょうはねがためブロック）、波消しブロック（なみけしブロック）と…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E6%B6%88%E6%B3%A2%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF"
   },
   {
    "tag": "HN",
-   "title": "Teaching my kid to code with a modern MUD",
-   "body": "122ポイント / コメント40件。",
+   "title": "Claude: Degraded Performance for Multiple Models",
+   "body": "46ポイント / コメント27件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49272631"
+   "url": "https://news.ycombinator.com/item?id=49348163"
   }
  ]
 }
