@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-18T16:06:01+09:00",
+ "generated_at": "2026-08-18T16:55:51+09:00",
  "items": [
   {
-   "tag": "HN",
-   "title": "The Benchmarkpocalypse",
-   "body": "64ポイント / コメント8件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49340299"
-  },
-  {
-   "tag": "HN",
-   "title": "Shattered skeleton is first confirmed death from trebuchet",
-   "body": "54ポイント / コメント34件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49285139"
-  },
-  {
    "tag": "WIKI",
-   "title": "バスター・キートン",
-   "body": "バスター・キートン は、アメリカ合衆国の喜劇俳優、映画監督、脚本家。チャールズ・チャップリン、ハロルド・ロイドと並び「世界の三大喜劇王」と呼ばれる。",
+   "title": "リン化亜鉛",
+   "body": "リン化亜鉛（燐化亜鉛、リンかあえん、英文名称 Zinc phosphide）は、リンと亜鉛からなり、組成式Zn3P2 （二リン化三亜鉛、Trizinc diphosphide）で表さ…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%BB%E3%82%AD%E3%83%BC%E3%83%88%E3%83%B3"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%B3%E5%8C%96%E4%BA%9C%E9%89%9B"
   },
   {
    "tag": "HN",
-   "title": "GPU Offload in Rust: Portable, Safe, and Fast",
-   "body": "195ポイント / コメント37件。",
+   "title": "Fairphone 6 and PostmarketOS working main camera",
+   "body": "159ポイント / コメント37件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49334991"
+   "url": "https://news.ycombinator.com/item?id=49338285"
+  },
+  {
+   "tag": "HN",
+   "title": "GPT-5.6 Sol Pricing Cut by 50%",
+   "body": "388ポイント / コメント221件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49337602"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "薄曇り。最高30.8℃ / 最低22.6℃。いまは29.8℃。",
+   "body": "薄曇り。最高30.8℃ / 最低22.6℃。いまは29.2℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "WIKI",
-   "title": "馬鞍山線",
-   "body": "馬鞍山線（ばあんざんせん）は、香港新界沙田の大囲駅と新界沙田馬鞍山の烏渓沙駅を結ぶ香港鉄路有限公司（港鉄 ）の鉄道路線である。2020年2月14日に屯馬線一期に併合された。",
+   "title": "井野俊郎",
+   "body": "井野 俊郎 は、日本の政治家、弁護士。自由民主党所属の衆議院議員（6期）、経済産業副大臣兼内閣府副大臣。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E9%A6%AC%E9%9E%8D%E5%B1%B1%E7%B7%9A"
+   "url": "https://ja.wikipedia.org/wiki/%E4%BA%95%E9%87%8E%E4%BF%8A%E9%83%8E"
+  },
+  {
+   "tag": "HN",
+   "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
+   "body": "100ポイント / コメント58件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49332751"
   }
  ]
 }
