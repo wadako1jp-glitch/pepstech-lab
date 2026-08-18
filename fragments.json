@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-18T08:39:37+09:00",
+ "generated_at": "2026-08-18T10:52:15+09:00",
  "items": [
+  {
+   "tag": "HN",
+   "title": "AI;DR (AI; Didn't Read)",
+   "body": "594ポイント / コメント370件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49336573"
+  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "薄曇り。最高30.9℃ / 最低22.6℃。いまは25.8℃。",
+   "body": "薄曇り。最高30.8℃ / 最低22.6℃。いまは29.0℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
+   "tag": "WIKI",
+   "title": "サンジャシント山脈",
+   "body": "サンジャシント山脈 は、アメリカ合衆国カリフォルニア州のロサンゼルス東方にある山脈。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%82%B8%E3%83%A3%E3%82%B7%E3%83%B3%E3%83%88%E5%B1%B1%E8%84%88"
+  },
+  {
+   "tag": "WIKI",
+   "title": "岩泉警察署",
+   "body": "岩泉警察署（いわいずみけいさつしょ）は、岩手県警察が管轄する16ある警察署の一。識別章所属表示はSO。岩手県警察が設置する警察署の中では最も署員が少ない。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%B2%A9%E6%B3%89%E8%AD%A6%E5%AF%9F%E7%BD%B2"
+  },
+  {
    "tag": "HN",
    "title": "How to disable or avoid intrusive AI",
-   "body": "241ポイント / コメント137件。",
+   "body": "257ポイント / コメント155件。",
    "src": "news.ycombinator.com",
    "url": "https://news.ycombinator.com/item?id=49331220"
   },
   {
    "tag": "HN",
-   "title": "How to put 170 atoms in an atom",
-   "body": "98ポイント / コメント22件。",
+   "title": "Intriguing stories in computer science",
+   "body": "33ポイント / コメント7件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49331474"
-  },
-  {
-   "tag": "WIKI",
-   "title": "非友好的な国と地域のリスト",
-   "body": "非友好的な国と地域のリスト は、ロシア連邦とその企業、国民に対して「非友好的な行動をとった」として、ロシア政府が公開した国・地域のリスト。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E9%9D%9E%E5%8F%8B%E5%A5%BD%E7%9A%84%E3%81%AA%E5%9B%BD%E3%81%A8%E5%9C%B0%E5%9F%9F%E3%81%AE%E3%83%AA%E3%82%B9%E3%83%88"
-  },
-  {
-   "tag": "HN",
-   "title": "AI;DR (AI; Didn't Read)",
-   "body": "515ポイント / コメント310件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49336573"
-  },
-  {
-   "tag": "WIKI",
-   "title": "宮崎県立高千穂高等学校",
-   "body": "宮崎県立高千穂高等学校（みやざきけんりつたかちほこうとうがっこう）は、宮崎県西臼杵郡高千穂町大字三田井に所在する公立の高等学校。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%AE%AE%E5%B4%8E%E7%9C%8C%E7%AB%8B%E9%AB%98%E5%8D%83%E7%A9%82%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1"
+   "url": "https://news.ycombinator.com/item?id=49279146"
   }
  ]
 }
