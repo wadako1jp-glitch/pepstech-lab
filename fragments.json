@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-18T13:00:01+09:00",
+ "generated_at": "2026-08-18T13:54:16+09:00",
  "items": [
-  {
-   "tag": "WIKI",
-   "title": "ナサニエル・バグショー・ウォード",
-   "body": "ナサニエル・バグショー・ウォード は、「ウォードの箱」と呼ばれる植物の栽培と輸送のケースを広めたイギリスの医師。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%B5%E3%83%8B%E3%82%A8%E3%83%AB%E3%83%BB%E3%83%90%E3%82%B0%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%BB%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%89"
-  },
-  {
-   "tag": "WIKI",
-   "title": "マテウス・ソアレス・トゥーレル",
-   "body": "マテウス・トゥーレル ことマテウス・ソアレス・トゥーレル は、ブラジル・リオデジャネイロ出身のプロサッカー選手。Jリーグ・ヴィッセル神戸所属。ポジションはディフェンダー（センターバッ…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%86%E3%82%A6%E3%82%B9%E3%83%BB%E3%82%BD%E3%82%A2%E3%83%AC%E3%82%B9%E3%83%BB%E3%83%88%E3%82%A5%E3%83%BC%E3%83%AC%E3%83%AB"
-  },
-  {
-   "tag": "HN",
-   "title": "How to disable or avoid intrusive AI",
-   "body": "265ポイント / コメント163件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49331220"
-  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "薄曇り。最高30.8℃ / 最低22.6℃。いまは30.3℃。",
+   "body": "薄曇り。最高30.8℃ / 最低22.6℃。いまは30.7℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "California's new tire efficiency rules could save drivers $1B a year",
-   "body": "11ポイント / コメント13件。",
+   "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
+   "body": "97ポイント / コメント56件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49340710"
+   "url": "https://news.ycombinator.com/item?id=49332751"
   },
   {
    "tag": "HN",
-   "title": "Olo (Color)",
-   "body": "350ポイント / コメント67件。",
+   "title": "Wellington second-hand bookstore's mysterious orders",
+   "body": "29ポイント / コメント11件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49270194"
+   "url": "https://news.ycombinator.com/item?id=49323983"
+  },
+  {
+   "tag": "WIKI",
+   "title": "天地創造 (映画)",
+   "body": "『天地創造』 は、1966年のアメリカ合衆国・イタリアの叙事詩的映画。 監督はジョン・ヒューストン、出演はマイケル・パークス、ウラ・ベルグリッド、リチャード・ハリス、ジョン・ヒュース…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%A4%A9%E5%9C%B0%E5%89%B5%E9%80%A0_(%E6%98%A0%E7%94%BB)"
+  },
+  {
+   "tag": "HN",
+   "title": "A Preview of DuckDB v2.0",
+   "body": "580ポイント / コメント104件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49330781"
+  },
+  {
+   "tag": "WIKI",
+   "title": "ハードオフファミリー",
+   "body": "株式会社ハードオフファミリー は、かつて千葉県白井市に本社を置き、ハードオフ・ブックオフをフランチャイズ展開していた企業。ハードオフコーポレーションの完全子会社であった。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%BC%E3%83%89%E3%82%AA%E3%83%95%E3%83%95%E3%82%A1%E3%83%9F%E3%83%AA%E3%83%BC"
   }
  ]
 }
