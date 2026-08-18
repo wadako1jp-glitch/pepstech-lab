@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-19T01:50:31+09:00",
+ "generated_at": "2026-08-19T02:45:32+09:00",
  "items": [
+  {
+   "tag": "HN",
+   "title": "Teaching my kid to code with a modern MUD",
+   "body": "155ポイント / コメント50件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49272631"
+  },
+  {
+   "tag": "WIKI",
+   "title": "蔵宿駅",
+   "body": "蔵宿駅（ぞうしゅくえき）は、佐賀県西松浦郡有田町蔵宿にある、松浦鉄道西九州線の駅である。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E8%94%B5%E5%AE%BF%E9%A7%85"
+  },
+  {
+   "tag": "WIKI",
+   "title": "本宿町 (岡崎市)",
+   "body": "本宿町（もとじゅくちょう）は、愛知県岡崎市東部地区の町名。丁番を持たない単独町名であり、54の小字が設置されている。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E6%9C%AC%E5%AE%BF%E7%94%BA_(%E5%B2%A1%E5%B4%8E%E5%B8%82)"
+  },
+  {
+   "tag": "HN",
+   "title": "Rethinking Database Programming",
+   "body": "190ポイント / コメント99件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49342530"
+  },
+  {
+   "tag": "HN",
+   "title": "Memory prices climb 500% in 12 months",
+   "body": "169ポイント / コメント131件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49334960"
+  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "晴れ。最高31.0℃ / 最低23.2℃。いまは24.2℃。",
+   "body": "晴れ。最高31.1℃ / 最低22.9℃。いまは23.8℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
-  },
-  {
-   "tag": "HN",
-   "title": "Show HN: Saggar, a Mac terminal that keeps sessions and your attentio…",
-   "body": "42ポイント / コメント46件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49331551"
-  },
-  {
-   "tag": "WIKI",
-   "title": "キクガシラコウモリ",
-   "body": "キクガシラコウモリ は、翼手目キクガシラコウモリ科キクガシラコウモリ属に分類されるコウモリ。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%82%AF%E3%82%AC%E3%82%B7%E3%83%A9%E3%82%B3%E3%82%A6%E3%83%A2%E3%83%AA"
-  },
-  {
-   "tag": "HN",
-   "title": "Meta Files Patent for Facial Recognition, Automatic Recording of Peop…",
-   "body": "169ポイント / コメント116件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49344654"
-  },
-  {
-   "tag": "WIKI",
-   "title": "消波ブロック",
-   "body": "消波ブロック（しょうはブロック）は、海岸や河川などの護岸や水制を目的に設置するコンクリートブロック。消波根固ブロック（しょうはねがためブロック）、波消しブロック（なみけしブロック）と…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%B6%88%E6%B3%A2%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF"
-  },
-  {
-   "tag": "HN",
-   "title": "Claude: Degraded Performance for Multiple Models",
-   "body": "46ポイント / コメント27件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49348163"
   }
  ]
 }
