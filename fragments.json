@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-18T19:48:21+09:00",
+ "generated_at": "2026-08-18T20:43:14+09:00",
  "items": [
   {
+   "tag": "HN",
+   "title": "Exercise intensity modulates interorgan communication and is associat…",
+   "body": "48ポイント / コメント14件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49341411"
+  },
+  {
+   "tag": "HN",
+   "title": "Linux 7.3 improves performance when running out of vRAM",
+   "body": "212ポイント / コメント54件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49342719"
+  },
+  {
    "tag": "WIKI",
-   "title": "大門ダム",
-   "body": "大門ダム（だいもんダム）は、山梨県北杜市、富士川水系大門川に建設されたダム。高さ65.5メートルの重力式コンクリートダムで、洪水調節・不特定利水・上水道・発電を目的とする、山梨県営の…",
+   "title": "ティーハウス",
+   "body": "ティーハウス またはティールーム は主にお茶と軽い食事を提供する施設である。茶店、茶館、茶屋、茶房、茶寮などと呼ばれることもある。ティールームは特にアフタヌーンティーを提供するホテル…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%96%80%E3%83%80%E3%83%A0"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%A3%E3%83%BC%E3%83%8F%E3%82%A6%E3%82%B9"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "薄曇り。最高30.8℃ / 最低22.6℃。いまは26.5℃。",
+   "body": "曇り。最高31.0℃ / 最低22.6℃。いまは26.2℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
+   "tag": "WIKI",
+   "title": "ロイ・ハーグローヴ",
+   "body": "ロイ・ハーグローヴ は、アメリカ合衆国のジャズ・トランペット奏者である。テキサス州ウェーコ生まれ。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%A4%E3%83%BB%E3%83%8F%E3%83%BC%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%B4"
+  },
+  {
    "tag": "HN",
    "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-   "body": "340ポイント / コメント162件。",
+   "body": "343ポイント / コメント163件。",
    "src": "news.ycombinator.com",
    "url": "https://news.ycombinator.com/item?id=49329575"
-  },
-  {
-   "tag": "HN",
-   "title": "Repair Cafe – Fix Your Broken Items",
-   "body": "119ポイント / コメント20件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49339097"
-  },
-  {
-   "tag": "HN",
-   "title": "AI;DR (AI; Didn't Read)",
-   "body": "899ポイント / コメント548件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49336573"
-  },
-  {
-   "tag": "WIKI",
-   "title": "父と子",
-   "body": "『父と子』 は、1862年に雑誌『ロシア報知』 に発表されたイワン・ツルゲーネフの長編小説である。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E7%88%B6%E3%81%A8%E5%AD%90"
   }
  ]
 }
