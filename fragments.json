@@ -1,45 +1,45 @@
 {
- "generated_at": "2026-08-19T02:45:32+09:00",
+ "generated_at": "2026-08-19T03:58:16+09:00",
  "items": [
   {
    "tag": "HN",
-   "title": "Teaching my kid to code with a modern MUD",
-   "body": "155ポイント / コメント50件。",
+   "title": "Python Polars Cheatsheet (based on our O'Reilly book)",
+   "body": "112ポイント / コメント17件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49272631"
+   "url": "https://news.ycombinator.com/item?id=49345476"
   },
   {
    "tag": "WIKI",
-   "title": "蔵宿駅",
-   "body": "蔵宿駅（ぞうしゅくえき）は、佐賀県西松浦郡有田町蔵宿にある、松浦鉄道西九州線の駅である。",
+   "title": "東急百貨店東横店",
+   "body": "東急百貨店東横店（とうきゅうひゃっかてんとうよこてん）は、東京都渋谷区渋谷にあった、かつて株式会社東急百貨店が経営していた百貨店。渋谷駅に直結しており、東京メトロ銀座線の線路が建物内…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E8%94%B5%E5%AE%BF%E9%A7%85"
+   "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%80%A5%E7%99%BE%E8%B2%A8%E5%BA%97%E6%9D%B1%E6%A8%AA%E5%BA%97"
+  },
+  {
+   "tag": "HN",
+   "title": "The Amazon tax",
+   "body": "560ポイント / コメント393件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49345263"
   },
   {
    "tag": "WIKI",
-   "title": "本宿町 (岡崎市)",
-   "body": "本宿町（もとじゅくちょう）は、愛知県岡崎市東部地区の町名。丁番を持たない単独町名であり、54の小字が設置されている。",
+   "title": "宇治市立西小倉中学校",
+   "body": "宇治市立西小倉中学校 は、京都府宇治市伊勢田町にある公立中学校。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%9C%AC%E5%AE%BF%E7%94%BA_(%E5%B2%A1%E5%B4%8E%E5%B8%82)"
+   "url": "https://ja.wikipedia.org/wiki/%E5%AE%87%E6%B2%BB%E5%B8%82%E7%AB%8B%E8%A5%BF%E5%B0%8F%E5%80%89%E4%B8%AD%E5%AD%A6%E6%A0%A1"
   },
   {
    "tag": "HN",
-   "title": "Rethinking Database Programming",
-   "body": "190ポイント / コメント99件。",
+   "title": "Turbovec – Google's TurboQuant for vector search in Rust",
+   "body": "38ポイント / コメント4件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49342530"
-  },
-  {
-   "tag": "HN",
-   "title": "Memory prices climb 500% in 12 months",
-   "body": "169ポイント / コメント131件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49334960"
+   "url": "https://news.ycombinator.com/item?id=49349898"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "晴れ。最高31.1℃ / 最低22.9℃。いまは23.8℃。",
+   "body": "晴れ。最高31.5℃ / 最低22.7℃。いまは23.3℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   }
