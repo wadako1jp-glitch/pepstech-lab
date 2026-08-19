@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-20T01:48:36+09:00",
+ "generated_at": "2026-08-20T02:43:15+09:00",
  "items": [
-  {
-   "tag": "WIKI",
-   "title": "広島バスセンター",
-   "body": "広島バスセンター（ひろしまバスセンター）は、広島県広島市中区基町6番27号にあるバスターミナル。広島市などの出資した第三セクターである株式会社広島バスセンターが運営している。百貨店の…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E3%83%90%E3%82%B9%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC"
-  },
-  {
-   "tag": "HN",
-   "title": "Cerebras CS-4",
-   "body": "407ポイント / コメント247件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49354949"
-  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "薄曇り。最高30.7℃ / 最低24.1℃。いまは24.7℃。",
+   "body": "薄曇り。最高30.4℃ / 最低23.7℃。いまは24.3℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Civic Hygiene – avoid building technologies that could be used by a p…",
-   "body": "127ポイント / コメント63件。",
+   "title": "Show HN: Frugal Tokens – explore costs and usage across coding agents",
+   "body": "11ポイント / コメント2件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49363433"
+   "url": "https://news.ycombinator.com/item?id=49364223"
   },
   {
    "tag": "HN",
-   "title": "PostgreSQL for Everything",
-   "body": "158ポイント / コメント108件。",
+   "title": "Remote workers report the highest well-being in study of 7,700 employ…",
+   "body": "173ポイント / コメント84件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49361279"
+   "url": "https://news.ycombinator.com/item?id=49362934"
+  },
+  {
+   "tag": "HN",
+   "title": "Air Theremin – a browser theremin you play by waving at your webcam",
+   "body": "176ポイント / コメント69件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49359425"
   },
   {
    "tag": "WIKI",
-   "title": "際波信号場",
-   "body": "際波信号場（きわなみしんごうじょう）は、山口県宇部市大字際波にある、西日本旅客鉄道（JR西日本）宇部線の信号場である。",
+   "title": "内野町 (新潟市)",
+   "body": "内野町 （うちのまち）。は、新潟県新潟市西区の町字。丁番を持たない単独町名であり、住居表示未実施区域。郵便番号は950-2112。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E9%9A%9B%E6%B3%A2%E4%BF%A1%E5%8F%B7%E5%A0%B4"
+   "url": "https://ja.wikipedia.org/wiki/%E5%86%85%E9%87%8E%E7%94%BA_(%E6%96%B0%E6%BD%9F%E5%B8%82)"
+  },
+  {
+   "tag": "WIKI",
+   "title": "扇谷上杉氏",
+   "body": "扇谷上杉氏（おうぎがやつうえすぎし）は、日本の室町時代に関東地方に割拠した上杉氏の諸家のひとつ。上杉朝定の養子顕定を祖とする。戦国時代には河越城に本拠を移し、武蔵国を拠点とする大名と…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E6%89%87%E8%B0%B7%E4%B8%8A%E6%9D%89%E6%B0%8F"
   }
  ]
 }
