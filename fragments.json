@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-19T20:43:10+09:00",
+ "generated_at": "2026-08-19T22:11:33+09:00",
  "items": [
   {
    "tag": "WIKI",
-   "title": "唐津湾",
-   "body": "唐津湾（からつわん）は、玄界灘の南、佐賀県唐津市と福岡県糸島市に囲まれた湾である。日本百景に選定されている。",
+   "title": "山上の垂訓",
+   "body": "山上の垂訓（さんじょうのすいくん）は、新約聖書の『マタイによる福音書』第5章から7章と『ルカによる福音書』第6章にある、イエスが山の上で弟子たちと群集に語った教えのこと。山上の説教と…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%94%90%E6%B4%A5%E6%B9%BE"
+   "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E4%B8%8A%E3%81%AE%E5%9E%82%E8%A8%93"
+  },
+  {
+   "tag": "WIKI",
+   "title": "ペンシルベニア駅 (ボルチモア)",
+   "body": "ペンシルベニア駅 はアメリカ合衆国メリーランド州のボルチモアにある鉄道駅。愛称は「ボルチモア・ペン・ステーション」。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%E3%83%99%E3%83%8B%E3%82%A2%E9%A7%85_(%E3%83%9C%E3%83%AB%E3%83%81%E3%83%A2%E3%82%A2)"
   },
   {
    "tag": "HN",
-   "title": "A 25-year-old video patent just expired, ending a legal headache for …",
-   "body": "215ポイント / コメント89件。",
+   "title": "Looking for Missed Alarm Bugs in a Formal Verification Tool",
+   "body": "21ポイント / コメント1件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49311814"
+   "url": "https://news.ycombinator.com/item?id=49295071"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "晴れ。最高31.6℃ / 最低22.6℃。いまは26.3℃。",
+   "body": "晴れ。最高31.6℃ / 最低22.6℃。いまは25.7℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "The Vietnam Binh Chau (Chau Tan) Late Tang Wreck",
-   "body": "43ポイント / コメント3件。",
+   "title": "Show HN: Automatically detect and patch walking-dead states in Sierra…",
+   "body": "96ポイント / コメント43件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49355451"
+   "url": "https://news.ycombinator.com/item?id=49355607"
   },
   {
    "tag": "HN",
-   "title": "Meta's blockbuster trial draws parallels to big tobacco",
-   "body": "253ポイント / コメント201件。",
+   "title": "The Mojo language (by Modular, now Qualcomm) is now open-source",
+   "body": "118ポイント / コメント44件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49355825"
-  },
-  {
-   "tag": "WIKI",
-   "title": "宍道湖",
-   "body": "宍道湖（しんじこ）は、島根県松江市と出雲市にまたがる湖。一級水系の斐伊川(ひいかわ)の一部である。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%AE%8D%E9%81%93%E6%B9%96"
+   "url": "https://news.ycombinator.com/item?id=49358327"
   }
  ]
 }
