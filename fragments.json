@@ -1,33 +1,12 @@
 {
- "generated_at": "2026-08-20T04:42:05+09:00",
+ "generated_at": "2026-08-20T05:47:19+09:00",
  "items": [
   {
-   "tag": "HN",
-   "title": "Remote workers report the highest well-being in study of 7,700 employ…",
-   "body": "305ポイント / コメント147件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49362934"
-  },
-  {
    "tag": "WIKI",
-   "title": "両関酒造",
-   "body": "両関酒造株式会社（りょうぜきしゅぞう）は、秋田県湯沢市にある酒造会社である。",
+   "title": "サラ・ヒューズ",
+   "body": "サラ・エリザベス・ヒューズ は、アメリカ合衆国ニューヨーク州グレート・ネック出身の女性元フィギュアスケート選手。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E4%B8%A1%E9%96%A2%E9%85%92%E9%80%A0"
-  },
-  {
-   "tag": "HN",
-   "title": "Ornith-1.5: From Self-Scaffolding to Self-Improvement",
-   "body": "117ポイント / コメント32件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49362401"
-  },
-  {
-   "tag": "HN",
-   "title": "PostgreSQL for Everything",
-   "body": "227ポイント / コメント157件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49361279"
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%A9%E3%83%BB%E3%83%92%E3%83%A5%E3%83%BC%E3%82%BA"
   },
   {
    "tag": "天気",
@@ -37,11 +16,32 @@
    "url": "https://open-meteo.com/"
   },
   {
+   "tag": "HN",
+   "title": "Introducing MicroLighter",
+   "body": "31ポイント / コメント7件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49365326"
+  },
+  {
    "tag": "WIKI",
-   "title": "濵田圭司",
-   "body": "濵田 圭司 は、鳥取県出身の日本の外交官。漢字表記は浜田圭司とも。",
+   "title": "2006年フィジークーデター",
+   "body": "2006年フィジークーデター(2006ねんフィジークーデター)は、2006年12月5日に、発生した。ライセニア・ガラセ首相とジョセファ・イロイロ大統領に対して、フランク・バイニマラマ…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%BF%B5%E7%94%B0%E5%9C%AD%E5%8F%B8"
+   "url": "https://ja.wikipedia.org/wiki/2006%E5%B9%B4%E3%83%95%E3%82%A3%E3%82%B8%E3%83%BC%E3%82%AF%E3%83%BC%E3%83%87%E3%82%BF%E3%83%BC"
+  },
+  {
+   "tag": "HN",
+   "title": "Pressed Penny Machine Map",
+   "body": "3ポイント / コメント0件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49366597"
+  },
+  {
+   "tag": "HN",
+   "title": "Air Theremin – a browser theremin you play by waving at your webcam",
+   "body": "211ポイント / コメント75件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49359425"
   }
  ]
 }
