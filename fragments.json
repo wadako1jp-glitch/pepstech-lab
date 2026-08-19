@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-19T16:07:44+09:00",
+ "generated_at": "2026-08-19T16:55:53+09:00",
  "items": [
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "薄曇り。最高31.9℃ / 最低22.6℃。いまは31.8℃。",
+   "body": "薄曇り。最高31.9℃ / 最低22.6℃。いまは30.0℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
+   "tag": "HN",
+   "title": "Meta's blockbuster trial draws parallels to big tobacco",
+   "body": "208ポイント / コメント156件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49355825"
+  },
+  {
    "tag": "WIKI",
-   "title": "ショーン・パーカー",
-   "body": "ショーン・パーカー は、アメリカ合衆国の実業家であり、起業家。ナップスター、Plaxo、Causesを共同設立し、Facebookの初代CEOを務めた。",
+   "title": "ワシントン郡 (ウィスコンシン州)",
+   "body": "ワシントン郡 は、アメリカ合衆国ウィスコンシン州の郡である。人口は13万6761人（2020年）。郡庁所在地はウエストベンドであり、同郡で人口最大の都市である。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%B3%E3%83%BB%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%AF%E3%82%B7%E3%83%B3%E3%83%88%E3%83%B3%E9%83%A1_(%E3%82%A6%E3%82%A3%E3%82%B9%E3%82%B3%E3%83%B3%E3%82%B7%E3%83%B3%E5%B7%9E)"
+  },
+  {
+   "tag": "HN",
+   "title": "Supersonic Trebuchet [video]",
+   "body": "81ポイント / コメント15件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49306207"
   },
   {
    "tag": "WIKI",
-   "title": "西元町 (国分寺市)",
-   "body": "西元町（にしもとまち）は、東京都国分寺市の町名。現行行政地名は西元町一丁目から西元町四丁目。郵便番号は185-0023。",
+   "title": "昭和元禄落語心中",
+   "body": "『昭和元禄落語心中』（しょうわげんろくらくごしんじゅう）は、雲田はるこによる日本の漫画で『ITAN』（講談社）2010年零号（創刊号）から2016年32号まで連載。第17回文化庁メデ…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E5%85%83%E7%94%BA_(%E5%9B%BD%E5%88%86%E5%AF%BA%E5%B8%82)"
+   "url": "https://ja.wikipedia.org/wiki/%E6%98%AD%E5%92%8C%E5%85%83%E7%A6%84%E8%90%BD%E8%AA%9E%E5%BF%83%E4%B8%AD"
   },
   {
    "tag": "HN",
-   "title": "Cursor launches Origin, GitHub alternative",
-   "body": "551ポイント / コメント402件。",
+   "title": "That Disgraceful, Disreputable, (Wonderful) Form of Punctuation: The …",
+   "body": "28ポイント / コメント16件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49334209"
-  },
-  {
-   "tag": "HN",
-   "title": "Scientists stunned by children's lung recovery in ultra low emission …",
-   "body": "157ポイント / コメント103件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49355105"
-  },
-  {
-   "tag": "HN",
-   "title": "Palomar: A registry of Lean verified mathematics",
-   "body": "73ポイント / コメント14件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49355968"
+   "url": "https://news.ycombinator.com/item?id=49355360"
   }
  ]
 }
