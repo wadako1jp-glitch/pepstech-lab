@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-19T22:59:26+09:00",
+ "generated_at": "2026-08-19T23:54:40+09:00",
  "items": [
+  {
+   "tag": "WIKI",
+   "title": "伊原五郎兵衛",
+   "body": "伊原 五郎兵衛 は、長野県飯田市出身の実業家・鉄道経営者。衆議院議員。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E4%BC%8A%E5%8E%9F%E4%BA%94%E9%83%8E%E5%85%B5%E8%A1%9B"
+  },
+  {
+   "tag": "WIKI",
+   "title": "道の駅北方よっちみろ屋",
+   "body": "道の駅北方よっちみろ屋 は、宮崎県延岡市にある国道218号の道の駅である。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E9%81%93%E3%81%AE%E9%A7%85%E5%8C%97%E6%96%B9%E3%82%88%E3%81%A3%E3%81%A1%E3%81%BF%E3%82%8D%E5%B1%8B"
+  },
+  {
+   "tag": "HN",
+   "title": "The Amazon tax",
+   "body": "1283ポイント / コメント649件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49345263"
+  },
+  {
+   "tag": "HN",
+   "title": "GrapheneOS in 2027 available on high-end Motorola phones",
+   "body": "321ポイント / コメント184件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49360242"
+  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "晴れ。最高31.6℃ / 最低22.6℃。いまは25.5℃。",
+   "body": "晴れ。最高31.6℃ / 最低22.6℃。いまは25.2℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "WIKI",
-   "title": "近衛兼教",
-   "body": "近衛 兼教 は、鎌倉時代後半の公卿。関白左大臣・近衛基平の子。官位は従一位・准大臣。猪熊一位入道と号する。母は岡屋関白太政大臣・近衛兼経の女、すなわち基平の異母妹あるいは異母姉である。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E8%BF%91%E8%A1%9B%E5%85%BC%E6%95%99"
-  },
-  {
    "tag": "HN",
-   "title": "Cerebras CS-4",
-   "body": "364ポイント / コメント221件。",
+   "title": "λλ: A Programming Language for Silicon Photonics",
+   "body": "61ポイント / コメント14件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49354949"
-  },
-  {
-   "tag": "HN",
-   "title": "Claude writing a macOS driver for my obscure HP printer built only fo…",
-   "body": "252ポイント / コメント186件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49344643"
-  },
-  {
-   "tag": "HN",
-   "title": "How does IKEA come up with names for its products?",
-   "body": "403ポイント / コメント276件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49349984"
-  },
-  {
-   "tag": "WIKI",
-   "title": "キール (ドイツ)",
-   "body": "キール は、バルト海に面したドイツ北部の都市。シュレスヴィヒ＝ホルシュタイン州の州都で最大の都市である。人口は約24万人。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%BC%E3%83%AB_(%E3%83%89%E3%82%A4%E3%83%84)"
+   "url": "https://news.ycombinator.com/item?id=49357501"
   }
  ]
 }
