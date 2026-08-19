@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-19T19:47:46+09:00",
+ "generated_at": "2026-08-19T20:43:10+09:00",
  "items": [
   {
-   "tag": "HN",
-   "title": "Turbovec – Google's TurboQuant for vector search in Rust",
-   "body": "253ポイント / コメント31件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49349898"
-  },
-  {
    "tag": "WIKI",
-   "title": "早月加積駅",
-   "body": "早月加積駅（はやつきかづみえき）は、富山県滑川市追分にある、富山地方鉄道本線の駅である。駅番号はT20。",
+   "title": "唐津湾",
+   "body": "唐津湾（からつわん）は、玄界灘の南、佐賀県唐津市と福岡県糸島市に囲まれた湾である。日本百景に選定されている。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%97%A9%E6%9C%88%E5%8A%A0%E7%A9%8D%E9%A7%85"
+   "url": "https://ja.wikipedia.org/wiki/%E5%94%90%E6%B4%A5%E6%B9%BE"
   },
   {
    "tag": "HN",
-   "title": "Looking for Missed Alarm Bugs in a Formal Verification Tool",
-   "body": "15ポイント / コメント0件。",
+   "title": "A 25-year-old video patent just expired, ending a legal headache for …",
+   "body": "215ポイント / コメント89件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49295071"
-  },
-  {
-   "tag": "WIKI",
-   "title": "不完全雇用",
-   "body": "不完全雇用（ふかんぜんこよう、underemployment）、部分失業 とは、与えられた仕事が労働者のスキルを使わないものであったり、パートタイムであったり、遊休状態であったりする…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E4%B8%8D%E5%AE%8C%E5%85%A8%E9%9B%87%E7%94%A8"
-  },
-  {
-   "tag": "HN",
-   "title": "OpenLogi",
-   "body": "748ポイント / コメント215件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49355606"
+   "url": "https://news.ycombinator.com/item?id=49311814"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "薄曇り。最高31.9℃ / 最低22.6℃。いまは26.8℃。",
+   "body": "晴れ。最高31.6℃ / 最低22.6℃。いまは26.3℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
+  },
+  {
+   "tag": "HN",
+   "title": "The Vietnam Binh Chau (Chau Tan) Late Tang Wreck",
+   "body": "43ポイント / コメント3件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49355451"
+  },
+  {
+   "tag": "HN",
+   "title": "Meta's blockbuster trial draws parallels to big tobacco",
+   "body": "253ポイント / コメント201件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49355825"
+  },
+  {
+   "tag": "WIKI",
+   "title": "宍道湖",
+   "body": "宍道湖（しんじこ）は、島根県松江市と出雲市にまたがる湖。一級水系の斐伊川(ひいかわ)の一部である。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%AE%8D%E9%81%93%E6%B9%96"
   }
  ]
 }
