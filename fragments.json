@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-20T03:55:20+09:00",
+ "generated_at": "2026-08-20T04:42:05+09:00",
  "items": [
+  {
+   "tag": "HN",
+   "title": "Remote workers report the highest well-being in study of 7,700 employ…",
+   "body": "305ポイント / コメント147件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49362934"
+  },
+  {
+   "tag": "WIKI",
+   "title": "両関酒造",
+   "body": "両関酒造株式会社（りょうぜきしゅぞう）は、秋田県湯沢市にある酒造会社である。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E4%B8%A1%E9%96%A2%E9%85%92%E9%80%A0"
+  },
+  {
+   "tag": "HN",
+   "title": "Ornith-1.5: From Self-Scaffolding to Self-Improvement",
+   "body": "117ポイント / コメント32件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49362401"
+  },
+  {
+   "tag": "HN",
+   "title": "PostgreSQL for Everything",
+   "body": "227ポイント / コメント157件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49361279"
+  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "薄曇り。最高30.5℃ / 最低23.6℃。いまは23.8℃。",
+   "body": "薄曇り。最高30.5℃ / 最低23.6℃。いまは23.6℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "HN",
-   "title": "A recipe for drone racing with reinforcement learning",
-   "body": "21ポイント / コメント3件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49319745"
-  },
-  {
-   "tag": "HN",
-   "title": "Microgpt in pure C hits 10M tps on Apple m5",
-   "body": "86ポイント / コメント27件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49347477"
-  },
-  {
    "tag": "WIKI",
-   "title": "ソマリ (ネコ)",
-   "body": "ソマリ（Somali）は、ネコの品種のひとつ。アビシニアンの長毛種（ロングヘアード・アビシニアン）とも言われる。原産国はイギリス。",
+   "title": "濵田圭司",
+   "body": "濵田 圭司 は、鳥取県出身の日本の外交官。漢字表記は浜田圭司とも。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%9E%E3%83%AA_(%E3%83%8D%E3%82%B3)"
-  },
-  {
-   "tag": "WIKI",
-   "title": "川西市立久代小学校",
-   "body": "川西市立久代小学校 は、兵庫県川西市久代3丁目にある市内最南端の公立小学校。児童数は、2022年5月1日現在514人。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%B7%9D%E8%A5%BF%E5%B8%82%E7%AB%8B%E4%B9%85%E4%BB%A3%E5%B0%8F%E5%AD%A6%E6%A0%A1"
-  },
-  {
-   "tag": "HN",
-   "title": "Rings forged from meteorites may have been fashionable among ancient …",
-   "body": "100ポイント / コメント39件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49298283"
+   "url": "https://ja.wikipedia.org/wiki/%E6%BF%B5%E7%94%B0%E5%9C%AD%E5%8F%B8"
   }
  ]
 }
