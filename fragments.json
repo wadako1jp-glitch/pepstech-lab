@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-19T17:56:05+09:00",
+ "generated_at": "2026-08-19T18:50:56+09:00",
  "items": [
   {
    "tag": "HN",
-   "title": "The Amazon tax",
-   "body": "1163ポイント / コメント623件。",
+   "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
+   "body": "275ポイント / コメント106件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49345263"
-  },
-  {
-   "tag": "WIKI",
-   "title": "D-DAY (アルバム)",
-   "body": "『D-DAY』は韓国の男性ヒップホップグループBTS（防弾少年団）のメンバーSUGAのソロ名義Agust Dによる初のスタジオアルバム。 2023年4月21日にBIGHIT MUSI…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/D-DAY_(%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0)"
-  },
-  {
-   "tag": "WIKI",
-   "title": "小城藩",
-   "body": "小城藩（おぎはん）は、肥前国に1617年（元和3年）から1871年（明治4年）まで存在した佐賀藩の支藩。佐賀藩主・鍋島勝茂の庶長子鍋島元茂を藩祖とし、以降も小城鍋島家が代々藩主を務め…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%9F%8E%E8%97%A9"
+   "url": "https://news.ycombinator.com/item?id=49353221"
   },
   {
    "tag": "HN",
-   "title": "Claude writing a macOS driver for my obscure HP printer built only fo…",
-   "body": "193ポイント / コメント153件。",
+   "title": "The Vietnam Binh Chau (Chau Tan) Late Tang Wreck",
+   "body": "38ポイント / コメント3件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49344643"
+   "url": "https://news.ycombinator.com/item?id=49355451"
+  },
+  {
+   "tag": "HN",
+   "title": "Looking for Missed Alarm Bugs in a Formal Verification Tool",
+   "body": "13ポイント / コメント0件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49295071"
+  },
+  {
+   "tag": "WIKI",
+   "title": "東村山市立東村山第三中学校",
+   "body": "東村山市立東村山第三中学校（ひがしむらやましりつひがしむらやまだいさんちゅうがっこう）は、東京都東村山市萩山町にある公立中学校。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82%E7%AB%8B%E6%9D%B1%E6%9D%91%E5%B1%B1%E7%AC%AC%E4%B8%89%E4%B8%AD%E5%AD%A6%E6%A0%A1"
+  },
+  {
+   "tag": "WIKI",
+   "title": "ジャムチ",
+   "body": "ジャムチ とは、モンゴル帝国及びその後継国家で施行された駅伝制度。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%A0%E3%83%81"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "薄曇り。最高31.9℃ / 最低22.6℃。いまは28.3℃。",
+   "body": "薄曇り。最高31.9℃ / 最低22.6℃。いまは27.3℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
-  },
-  {
-   "tag": "HN",
-   "title": "Where Human Sleep Went Wrong",
-   "body": "35ポイント / コメント17件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49358259"
   }
  ]
 }
