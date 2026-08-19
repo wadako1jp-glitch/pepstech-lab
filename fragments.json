@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-20T07:44:04+09:00",
+ "generated_at": "2026-08-20T08:39:48+09:00",
  "items": [
-  {
-   "tag": "HN",
-   "title": "The little-known winstart.bat batch file",
-   "body": "51ポイント / コメント6件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49314109"
-  },
-  {
-   "tag": "HN",
-   "title": "DFlash 2: Keep Drafting Parallel",
-   "body": "47ポイント / コメント5件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49366792"
-  },
-  {
-   "tag": "WIKI",
-   "title": "網走市立美術館",
-   "body": "網走市立美術館（あばしりしりつびじゅつかん）は北海道網走市にある美術館。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E7%B6%B2%E8%B5%B0%E5%B8%82%E7%AB%8B%E7%BE%8E%E8%A1%93%E9%A4%A8"
-  },
-  {
-   "tag": "WIKI",
-   "title": "水野遵",
-   "body": "水野 遵 は、日本の政治家、官僚。貴族院議員、衆議院書記官長、台湾総督府民政長官。幼名・恂造、号・大路。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%B0%B4%E9%87%8E%E9%81%B5"
-  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "薄曇り。最高30.5℃ / 最低23.6℃。いまは25.2℃。",
+   "body": "薄曇り。最高30.8℃ / 最低23.6℃。いまは27.1℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
+   "tag": "WIKI",
+   "title": "Nacomi Tanaka",
+   "body": "Nacomi Tanaka あるいはNacomiは、日本のブルース・シンガー、ギタリスト、ソングライター。ブルースの枠にとらわれることのないアメリカンルーツ・ミュージック色のサウンド…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/Nacomi_Tanaka"
+  },
+  {
    "tag": "HN",
-   "title": "Casio F-B100W-1A",
-   "body": "234ポイント / コメント181件。",
+   "title": "A joke domain purchase turned in geopolitical warfare",
+   "body": "711ポイント / コメント107件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49362887"
+   "url": "https://news.ycombinator.com/item?id=49360015"
+  },
+  {
+   "tag": "HN",
+   "title": "Aluminum Frame PC Fan Corsi-Rosenthal Build (2023)",
+   "body": "9ポイント / コメント1件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49294621"
+  },
+  {
+   "tag": "WIKI",
+   "title": "中野信陽",
+   "body": "中野 信陽 は、日本の海軍軍人。日清戦争で戦死した海軍大尉である。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E9%87%8E%E4%BF%A1%E9%99%BD"
+  },
+  {
+   "tag": "HN",
+   "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
+   "body": "109ポイント / コメント31件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49365841"
   }
  ]
 }
