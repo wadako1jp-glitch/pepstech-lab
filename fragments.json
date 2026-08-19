@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-19T22:11:33+09:00",
+ "generated_at": "2026-08-19T22:59:26+09:00",
  "items": [
-  {
-   "tag": "WIKI",
-   "title": "山上の垂訓",
-   "body": "山上の垂訓（さんじょうのすいくん）は、新約聖書の『マタイによる福音書』第5章から7章と『ルカによる福音書』第6章にある、イエスが山の上で弟子たちと群集に語った教えのこと。山上の説教と…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E4%B8%8A%E3%81%AE%E5%9E%82%E8%A8%93"
-  },
-  {
-   "tag": "WIKI",
-   "title": "ペンシルベニア駅 (ボルチモア)",
-   "body": "ペンシルベニア駅 はアメリカ合衆国メリーランド州のボルチモアにある鉄道駅。愛称は「ボルチモア・ペン・ステーション」。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%E3%83%99%E3%83%8B%E3%82%A2%E9%A7%85_(%E3%83%9C%E3%83%AB%E3%83%81%E3%83%A2%E3%82%A2)"
-  },
-  {
-   "tag": "HN",
-   "title": "Looking for Missed Alarm Bugs in a Formal Verification Tool",
-   "body": "21ポイント / コメント1件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49295071"
-  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "晴れ。最高31.6℃ / 最低22.6℃。いまは25.7℃。",
+   "body": "晴れ。最高31.6℃ / 最低22.6℃。いまは25.5℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "HN",
-   "title": "Show HN: Automatically detect and patch walking-dead states in Sierra…",
-   "body": "96ポイント / コメント43件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49355607"
+   "tag": "WIKI",
+   "title": "近衛兼教",
+   "body": "近衛 兼教 は、鎌倉時代後半の公卿。関白左大臣・近衛基平の子。官位は従一位・准大臣。猪熊一位入道と号する。母は岡屋関白太政大臣・近衛兼経の女、すなわち基平の異母妹あるいは異母姉である。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E8%BF%91%E8%A1%9B%E5%85%BC%E6%95%99"
   },
   {
    "tag": "HN",
-   "title": "The Mojo language (by Modular, now Qualcomm) is now open-source",
-   "body": "118ポイント / コメント44件。",
+   "title": "Cerebras CS-4",
+   "body": "364ポイント / コメント221件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49358327"
+   "url": "https://news.ycombinator.com/item?id=49354949"
+  },
+  {
+   "tag": "HN",
+   "title": "Claude writing a macOS driver for my obscure HP printer built only fo…",
+   "body": "252ポイント / コメント186件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49344643"
+  },
+  {
+   "tag": "HN",
+   "title": "How does IKEA come up with names for its products?",
+   "body": "403ポイント / コメント276件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49349984"
+  },
+  {
+   "tag": "WIKI",
+   "title": "キール (ドイツ)",
+   "body": "キール は、バルト海に面したドイツ北部の都市。シュレスヴィヒ＝ホルシュタイン州の州都で最大の都市である。人口は約24万人。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%BC%E3%83%AB_(%E3%83%89%E3%82%A4%E3%83%84)"
   }
  ]
 }
