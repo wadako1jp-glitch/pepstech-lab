@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-20T00:48:03+09:00",
+ "generated_at": "2026-08-20T01:48:36+09:00",
  "items": [
   {
-   "tag": "HN",
-   "title": "Solo – a .so loader for static Linux binaries",
-   "body": "174ポイント / コメント200件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49354613"
-  },
-  {
-   "tag": "HN",
-   "title": "A decades-old bug in Knuth's long division (TAOCP Vol II, Algorithm 4…",
-   "body": "76ポイント / コメント17件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49286258"
-  },
-  {
    "tag": "WIKI",
-   "title": "上山容弘",
-   "body": "上山 容弘 は大阪府泉南市出身,泉佐野市在住のトランポリン競技の選手。泉南市立一丘中学校、大阪府立日根野高等学校、大阪体育大学卒業。162 cm、57 kg。所属はベンチャーバンクホ…",
+   "title": "広島バスセンター",
+   "body": "広島バスセンター（ひろしまバスセンター）は、広島県広島市中区基町6番27号にあるバスターミナル。広島市などの出資した第三セクターである株式会社広島バスセンターが運営している。百貨店の…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E4%B8%8A%E5%B1%B1%E5%AE%B9%E5%BC%98"
+   "url": "https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E3%83%90%E3%82%B9%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC"
+  },
+  {
+   "tag": "HN",
+   "title": "Cerebras CS-4",
+   "body": "407ポイント / コメント247件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49354949"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "薄曇り。最高30.7℃ / 最低24.1℃。いまは24.9℃。",
+   "body": "薄曇り。最高30.7℃ / 最低24.1℃。いまは24.7℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "The Amazon tax",
-   "body": "1294ポイント / コメント655件。",
+   "title": "Civic Hygiene – avoid building technologies that could be used by a p…",
+   "body": "127ポイント / コメント63件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49345263"
+   "url": "https://news.ycombinator.com/item?id=49363433"
+  },
+  {
+   "tag": "HN",
+   "title": "PostgreSQL for Everything",
+   "body": "158ポイント / コメント108件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49361279"
   },
   {
    "tag": "WIKI",
-   "title": "ボノボ",
-   "body": "ボノボ は、哺乳綱霊長目ヒト科チンパンジー属に分類される霊長類。別名ピグミーチンパンジー。",
+   "title": "際波信号場",
+   "body": "際波信号場（きわなみしんごうじょう）は、山口県宇部市大字際波にある、西日本旅客鉄道（JR西日本）宇部線の信号場である。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%8E%E3%83%9C"
+   "url": "https://ja.wikipedia.org/wiki/%E9%9A%9B%E6%B3%A2%E4%BF%A1%E5%8F%B7%E5%A0%B4"
   }
  ]
 }
