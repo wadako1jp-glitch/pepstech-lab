@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-19T14:48:03+09:00",
+ "generated_at": "2026-08-19T16:07:44+09:00",
  "items": [
-  {
-   "tag": "HN",
-   "title": "Beware Management Consultants",
-   "body": "496ポイント / コメント125件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49351324"
-  },
-  {
-   "tag": "HN",
-   "title": "A 25-year-old video patent just expired, ending a legal headache for …",
-   "body": "139ポイント / コメント46件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49311814"
-  },
-  {
-   "tag": "WIKI",
-   "title": "フェアステ・ディヴィション1986 (サッカー)",
-   "body": "フェアステ・ディヴィション1986 は、デンマーク最上位サッカーリーグの第73シーズン目である。AGFが優勝し、5回目のデンマーク王座獲得を決めた。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A7%E3%82%A2%E3%82%B9%E3%83%86%E3%83%BB%E3%83%87%E3%82%A3%E3%83%B4%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%B31986_(%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC)"
-  },
-  {
-   "tag": "HN",
-   "title": "The Vietnam Binh Chau (Chau Tan) Late Tang Wreck",
-   "body": "17ポイント / コメント0件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49355451"
-  },
-  {
-   "tag": "WIKI",
-   "title": "小野英二郎",
-   "body": "小野 英二郎 は、柳川藩士の子で、福岡県出身の財界人。ジョン・レノンの妻・オノ・ヨーコの祖父である。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E9%87%8E%E8%8B%B1%E4%BA%8C%E9%83%8E"
-  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "晴れ。最高32.0℃ / 最低22.6℃。いまは32.1℃。",
+   "body": "薄曇り。最高31.9℃ / 最低22.6℃。いまは31.8℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
+  },
+  {
+   "tag": "WIKI",
+   "title": "ショーン・パーカー",
+   "body": "ショーン・パーカー は、アメリカ合衆国の実業家であり、起業家。ナップスター、Plaxo、Causesを共同設立し、Facebookの初代CEOを務めた。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%B3%E3%83%BB%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC"
+  },
+  {
+   "tag": "WIKI",
+   "title": "西元町 (国分寺市)",
+   "body": "西元町（にしもとまち）は、東京都国分寺市の町名。現行行政地名は西元町一丁目から西元町四丁目。郵便番号は185-0023。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E5%85%83%E7%94%BA_(%E5%9B%BD%E5%88%86%E5%AF%BA%E5%B8%82)"
+  },
+  {
+   "tag": "HN",
+   "title": "Cursor launches Origin, GitHub alternative",
+   "body": "551ポイント / コメント402件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49334209"
+  },
+  {
+   "tag": "HN",
+   "title": "Scientists stunned by children's lung recovery in ultra low emission …",
+   "body": "157ポイント / コメント103件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49355105"
+  },
+  {
+   "tag": "HN",
+   "title": "Palomar: A registry of Lean verified mathematics",
+   "body": "73ポイント / コメント14件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49355968"
   }
  ]
 }
