@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-19T23:54:40+09:00",
+ "generated_at": "2026-08-20T00:48:03+09:00",
  "items": [
   {
-   "tag": "WIKI",
-   "title": "伊原五郎兵衛",
-   "body": "伊原 五郎兵衛 は、長野県飯田市出身の実業家・鉄道経営者。衆議院議員。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E4%BC%8A%E5%8E%9F%E4%BA%94%E9%83%8E%E5%85%B5%E8%A1%9B"
-  },
-  {
-   "tag": "WIKI",
-   "title": "道の駅北方よっちみろ屋",
-   "body": "道の駅北方よっちみろ屋 は、宮崎県延岡市にある国道218号の道の駅である。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E9%81%93%E3%81%AE%E9%A7%85%E5%8C%97%E6%96%B9%E3%82%88%E3%81%A3%E3%81%A1%E3%81%BF%E3%82%8D%E5%B1%8B"
+   "tag": "HN",
+   "title": "Solo – a .so loader for static Linux binaries",
+   "body": "174ポイント / コメント200件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49354613"
   },
   {
    "tag": "HN",
-   "title": "The Amazon tax",
-   "body": "1283ポイント / コメント649件。",
+   "title": "A decades-old bug in Knuth's long division (TAOCP Vol II, Algorithm 4…",
+   "body": "76ポイント / コメント17件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49345263"
+   "url": "https://news.ycombinator.com/item?id=49286258"
   },
   {
-   "tag": "HN",
-   "title": "GrapheneOS in 2027 available on high-end Motorola phones",
-   "body": "321ポイント / コメント184件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49360242"
+   "tag": "WIKI",
+   "title": "上山容弘",
+   "body": "上山 容弘 は大阪府泉南市出身,泉佐野市在住のトランポリン競技の選手。泉南市立一丘中学校、大阪府立日根野高等学校、大阪体育大学卒業。162 cm、57 kg。所属はベンチャーバンクホ…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E4%B8%8A%E5%B1%B1%E5%AE%B9%E5%BC%98"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "晴れ。最高31.6℃ / 最低22.6℃。いまは25.2℃。",
+   "body": "薄曇り。最高30.7℃ / 最低24.1℃。いまは24.9℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "λλ: A Programming Language for Silicon Photonics",
-   "body": "61ポイント / コメント14件。",
+   "title": "The Amazon tax",
+   "body": "1294ポイント / コメント655件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49357501"
+   "url": "https://news.ycombinator.com/item?id=49345263"
+  },
+  {
+   "tag": "WIKI",
+   "title": "ボノボ",
+   "body": "ボノボ は、哺乳綱霊長目ヒト科チンパンジー属に分類される霊長類。別名ピグミーチンパンジー。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%8E%E3%83%9C"
   }
  ]
 }
