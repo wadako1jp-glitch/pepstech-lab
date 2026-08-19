@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-20T02:43:15+09:00",
+ "generated_at": "2026-08-20T03:55:20+09:00",
  "items": [
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "薄曇り。最高30.4℃ / 最低23.7℃。いまは24.3℃。",
+   "body": "薄曇り。最高30.5℃ / 最低23.6℃。いまは23.8℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Show HN: Frugal Tokens – explore costs and usage across coding agents",
-   "body": "11ポイント / コメント2件。",
+   "title": "A recipe for drone racing with reinforcement learning",
+   "body": "21ポイント / コメント3件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49364223"
+   "url": "https://news.ycombinator.com/item?id=49319745"
   },
   {
    "tag": "HN",
-   "title": "Remote workers report the highest well-being in study of 7,700 employ…",
-   "body": "173ポイント / コメント84件。",
+   "title": "Microgpt in pure C hits 10M tps on Apple m5",
+   "body": "86ポイント / コメント27件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49362934"
+   "url": "https://news.ycombinator.com/item?id=49347477"
+  },
+  {
+   "tag": "WIKI",
+   "title": "ソマリ (ネコ)",
+   "body": "ソマリ（Somali）は、ネコの品種のひとつ。アビシニアンの長毛種（ロングヘアード・アビシニアン）とも言われる。原産国はイギリス。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%9E%E3%83%AA_(%E3%83%8D%E3%82%B3)"
+  },
+  {
+   "tag": "WIKI",
+   "title": "川西市立久代小学校",
+   "body": "川西市立久代小学校 は、兵庫県川西市久代3丁目にある市内最南端の公立小学校。児童数は、2022年5月1日現在514人。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%B7%9D%E8%A5%BF%E5%B8%82%E7%AB%8B%E4%B9%85%E4%BB%A3%E5%B0%8F%E5%AD%A6%E6%A0%A1"
   },
   {
    "tag": "HN",
-   "title": "Air Theremin – a browser theremin you play by waving at your webcam",
-   "body": "176ポイント / コメント69件。",
+   "title": "Rings forged from meteorites may have been fashionable among ancient …",
+   "body": "100ポイント / コメント39件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49359425"
-  },
-  {
-   "tag": "WIKI",
-   "title": "内野町 (新潟市)",
-   "body": "内野町 （うちのまち）。は、新潟県新潟市西区の町字。丁番を持たない単独町名であり、住居表示未実施区域。郵便番号は950-2112。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%86%85%E9%87%8E%E7%94%BA_(%E6%96%B0%E6%BD%9F%E5%B8%82)"
-  },
-  {
-   "tag": "WIKI",
-   "title": "扇谷上杉氏",
-   "body": "扇谷上杉氏（おうぎがやつうえすぎし）は、日本の室町時代に関東地方に割拠した上杉氏の諸家のひとつ。上杉朝定の養子顕定を祖とする。戦国時代には河越城に本拠を移し、武蔵国を拠点とする大名と…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%89%87%E8%B0%B7%E4%B8%8A%E6%9D%89%E6%B0%8F"
+   "url": "https://news.ycombinator.com/item?id=49298283"
   }
  ]
 }
