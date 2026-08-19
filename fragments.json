@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-19T13:01:11+09:00",
+ "generated_at": "2026-08-19T13:53:57+09:00",
  "items": [
   {
    "tag": "HN",
-   "title": "New paper shows that 37% of workers in US saw real wages decline from…",
-   "body": "267ポイント / コメント132件。",
+   "title": "Turbovec – Google's TurboQuant for vector search in Rust",
+   "body": "220ポイント / コメント30件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49355142"
+   "url": "https://news.ycombinator.com/item?id=49349898"
   },
   {
    "tag": "WIKI",
-   "title": "猿岩駅",
-   "body": "猿岩駅（さるいわえき）は、岐阜県大垣市南市橋町にあった西濃鉄道市橋線の貨物駅である。",
+   "title": "石州犬",
+   "body": "石州犬（せきしゅういぬ）は、島根県・山口県原産の絶滅した日本犬の一種である。岩見犬（いわみいぬ）とも呼ばれた。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E7%8C%BF%E5%B2%A9%E9%A7%85"
+   "url": "https://ja.wikipedia.org/wiki/%E7%9F%B3%E5%B7%9E%E7%8A%AC"
   },
   {
    "tag": "HN",
-   "title": "OpenLogi",
-   "body": "77ポイント / コメント15件。",
+   "title": "And then the men with guns tell you to do it anyway",
+   "body": "232ポイント / コメント137件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49355606"
+   "url": "https://news.ycombinator.com/item?id=49348912"
+  },
+  {
+   "tag": "WIKI",
+   "title": "シューティングガード",
+   "body": "シューティングガード は、バスケットボールのポジションの呼び名。ポジション名を番号では「2番」と呼ぶ。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%AC%E3%83%BC%E3%83%89"
+  },
+  {
+   "tag": "HN",
+   "title": "How does IKEA come up with names for its products?",
+   "body": "273ポイント / コメント159件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49349984"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "薄曇り。最高31.8℃ / 最低22.6℃。いまは31.1℃。",
+   "body": "薄曇り。最高31.8℃ / 最低22.6℃。いまは31.6℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
-  },
-  {
-   "tag": "WIKI",
-   "title": "イリノイ大学スプリングフィールド校",
-   "body": "イリノイ大学スプリングフィールド校 は、米国イリノイ州スプリングフィールドに本部を置くアメリカ合衆国の州立大学。1969年創立、1970年大学設置。 UISは1970年にサンガモン州…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%AA%E3%83%8E%E3%82%A4%E5%A4%A7%E5%AD%A6%E3%82%B9%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E6%A0%A1"
-  },
-  {
-   "tag": "HN",
-   "title": "Scientists stunned by children's lung recovery in ultra low emission …",
-   "body": "66ポイント / コメント31件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49355105"
   }
  ]
 }
