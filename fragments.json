@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-19T08:39:32+09:00",
+ "generated_at": "2026-08-19T10:54:34+09:00",
  "items": [
   {
    "tag": "WIKI",
-   "title": "チクングニア熱",
-   "body": "チクングニア熱 は、ネッタイシマカやヒトスジシマカなどにより媒介されるウイルス性の伝染病。トガウイルス科アルファウイルス属のチクングニアウイルスがヒトに感染することにより発症する。お…",
+   "title": "姉ケ崎駅",
+   "body": "姉ケ崎駅（あねがさきえき）は、千葉県市原市姉崎にある、東日本旅客鉄道（JR東日本）内房線の駅である。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%AF%E3%83%B3%E3%82%B0%E3%83%8B%E3%82%A2%E7%86%B1"
+   "url": "https://ja.wikipedia.org/wiki/%E5%A7%89%E3%82%B1%E5%B4%8E%E9%A7%85"
+  },
+  {
+   "tag": "HN",
+   "title": "AI usage patterns in software teams",
+   "body": "42ポイント / コメント19件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49353432"
+  },
+  {
+   "tag": "WIKI",
+   "title": "鬼石町",
+   "body": "鬼石町（おにしまち）は、群馬県多野郡にあった町。人口は約7,000人。三波石渓谷や冬桜が有名であり、町内には神流湖がある。「鬼石」の語源はアイヌ語の「オニウシ」（樹木の生い茂ったとこ…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E9%AC%BC%E7%9F%B3%E7%94%BA"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "晴れ。最高31.5℃ / 最低22.6℃。いまは26.8℃。",
+   "body": "薄曇り。最高31.8℃ / 最低22.6℃。いまは29.6℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
-   "body": "65ポイント / コメント15件。",
+   "title": "Being ambitious and being a dad",
+   "body": "286ポイント / コメント158件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49353221"
+   "url": "https://news.ycombinator.com/item?id=49321298"
   },
   {
    "tag": "HN",
-   "title": "Apple announces changes for apps in the European Union",
-   "body": "89ポイント / コメント144件。",
+   "title": "And then the men with guns tell you to do it anyway",
+   "body": "168ポイント / コメント92件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49348055"
-  },
-  {
-   "tag": "WIKI",
-   "title": "アンデルソン・ジョゼ・ロペス・デ・ソウザ",
-   "body": "アンデルソン・ロペス ことアンデルソン・ジョゼ・ロペス・デ・ソウザ は、ブラジル・ペルナンブーコ州レシフェ出身のプロサッカー選手。Jリーグ・ヴィッセル神戸所属。ポジションはFW。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%87%E3%83%AB%E3%82%BD%E3%83%B3%E3%83%BB%E3%82%B8%E3%83%A7%E3%82%BC%E3%83%BB%E3%83%AD%E3%83%9A%E3%82%B9%E3%83%BB%E3%83%87%E3%83%BB%E3%82%BD%E3%82%A6%E3%82%B6"
-  },
-  {
-   "tag": "HN",
-   "title": "Programmable Property-Based Testing",
-   "body": "5ポイント / コメント0件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49353618"
+   "url": "https://news.ycombinator.com/item?id=49348912"
   }
  ]
 }
