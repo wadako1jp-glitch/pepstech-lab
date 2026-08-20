@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-20T13:54:55+09:00",
+ "generated_at": "2026-08-20T14:48:07+09:00",
  "items": [
   {
    "tag": "HN",
-   "title": "Simulacra and Simulation",
-   "body": "41ポイント / コメント12件。",
+   "title": "PostgreSQL for Everything",
+   "body": "331ポイント / コメント208件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49273010"
+   "url": "https://news.ycombinator.com/item?id=49361279"
+  },
+  {
+   "tag": "HN",
+   "title": "Manabu Kosaka's Handmade Paper Sculptures",
+   "body": "90ポイント / コメント8件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49362001"
+  },
+  {
+   "tag": "WIKI",
+   "title": "富津市消防本部",
+   "body": "富津市消防本部（ふっつししょうぼうほんぶ）は、千葉県富津市の消防部局（消防本部）。管轄区域は富津市全域。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%AF%8C%E6%B4%A5%E5%B8%82%E6%B6%88%E9%98%B2%E6%9C%AC%E9%83%A8"
+  },
+  {
+   "tag": "HN",
+   "title": "The little-known winstart.bat batch file",
+   "body": "99ポイント / コメント24件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49314109"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "薄曇り。最高31.0℃ / 最低23.4℃。いまは30.7℃。",
+   "body": "薄曇り。最高30.7℃ / 最低23.4℃。いまは30.7℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "WIKI",
-   "title": "トリフェニルスチビン",
-   "body": "トリフェニルスチビン（英語: triphenylstibin）は、化学式Sb(C6H5)3、またはSbPh3で表される無色の固体で、典型的な有機アンチモン化合物である。配位化学におい…",
+   "title": "泉穴師神社",
+   "body": "泉穴師神社（いずみあなしじんじゃ）は、大阪府泉大津市にある神社。式内社、和泉国二宮で、旧社格は府社。「泉穴師神社の森」は「大阪みどりの百選」に選ばれている。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AA%E3%83%95%E3%82%A7%E3%83%8B%E3%83%AB%E3%82%B9%E3%83%81%E3%83%93%E3%83%B3"
-  },
-  {
-   "tag": "HN",
-   "title": "Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and M…",
-   "body": "60ポイント / コメント34件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49367256"
-  },
-  {
-   "tag": "HN",
-   "title": "Pressed Penny Machine Map",
-   "body": "57ポイント / コメント48件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49366597"
-  },
-  {
-   "tag": "WIKI",
-   "title": "エフエム熊本",
-   "body": "株式会社エフエム熊本 は、熊本県を放送対象地域として超短波放送（FMラジオ放送）を行っている特定地上基幹放送事業者である。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%95%E3%82%A8%E3%83%A0%E7%86%8A%E6%9C%AC"
+   "url": "https://ja.wikipedia.org/wiki/%E6%B3%89%E7%A9%B4%E5%B8%AB%E7%A5%9E%E7%A4%BE"
   }
  ]
 }
