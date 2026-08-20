@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-21T07:47:23+09:00",
+ "generated_at": "2026-08-21T08:42:27+09:00",
  "items": [
   {
-   "tag": "HN",
-   "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth …",
-   "body": "818ポイント / コメント273件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49372583"
-  },
-  {
-   "tag": "HN",
-   "title": "CIA funding helped keep NeXT afloat in the 80s",
-   "body": "296ポイント / コメント190件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49368886"
+   "tag": "WIKI",
+   "title": "利根運河",
+   "body": "利根運河（とねうんが）は、千葉県柏市、流山市、野田市を流れる、利根川と江戸川をつなぐ全長8・5キロの運河（人工河川）。日本初の西洋式運河である。オランダ人技師ムルデル指揮で完成し、1…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%88%A9%E6%A0%B9%E9%81%8B%E6%B2%B3"
   },
   {
    "tag": "WIKI",
-   "title": "野島 (神奈川県)",
-   "body": "野島（のじま）は、神奈川県横浜市金沢区の平潟湾に浮かぶ島である。",
+   "title": "不動院 (つくばみらい市)",
+   "body": "不動院（ふどういん）は、茨城県つくばみらい市にある真言宗豊山派の寺院。正式名称は清安山願成寺不動院（せいあんざんがんじょうじふどういん）、通称で板橋不動尊（いたばしふどうそん）と呼ば…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E9%87%8E%E5%B3%B6_(%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C)"
+   "url": "https://ja.wikipedia.org/wiki/%E4%B8%8D%E5%8B%95%E9%99%A2_(%E3%81%A4%E3%81%8F%E3%81%B0%E3%81%BF%E3%82%89%E3%81%84%E5%B8%82)"
   },
   {
    "tag": "HN",
-   "title": "I should have loved biology (2020)",
-   "body": "162ポイント / コメント63件。",
+   "title": "DiffusionGemma Technical Report",
+   "body": "125ポイント / コメント33件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49377853"
+   "url": "https://news.ycombinator.com/item?id=49374287"
+  },
+  {
+   "tag": "HN",
+   "title": "Detecting scraper bots through scroll behaviour",
+   "body": "7ポイント / コメント3件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49381311"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "曇り。最高29.7℃ / 最低24.3℃。いまは25.8℃。",
+   "body": "曇り。最高29.7℃ / 最低24.2℃。いまは26.8℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "WIKI",
-   "title": "小倉名画座",
-   "body": "小倉名画座（こくらめいがざ）は、福岡県北九州市小倉北区京町にある映画館（成人映画館）。1階にある「名画座I」では一般的なピンク映画、2階にある「名画座II」ではゲイ映画を専門に上映し…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%80%89%E5%90%8D%E7%94%BB%E5%BA%A7"
+   "tag": "HN",
+   "title": "Every Model Cheats",
+   "body": "75ポイント / コメント56件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49374635"
   }
  ]
 }
