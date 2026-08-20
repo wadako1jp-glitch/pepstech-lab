@@ -1,47 +1,40 @@
 {
- "generated_at": "2026-08-21T04:01:51+09:00",
+ "generated_at": "2026-08-21T04:47:51+09:00",
  "items": [
   {
-   "tag": "HN",
-   "title": "Nearly 1,400 live streams from Japan",
-   "body": "84ポイント / コメント15件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49336772"
-  },
-  {
    "tag": "WIKI",
-   "title": "Zフィナンシャル",
-   "body": "Zフィナンシャル株式会社 は、かつて存在したソフトバンクグループ傘下の日本の金融持株会社。LINEヤフーの完全子会社であった。",
+   "title": "ミハル・ゴヴリン",
+   "body": "ミハル・ゴヴリン は、イスラエルの作家、詩人、劇場監督である。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/Z%E3%83%95%E3%82%A3%E3%83%8A%E3%83%B3%E3%82%B7%E3%83%A3%E3%83%AB"
-  },
-  {
-   "tag": "天気",
-   "title": "東京 きょう",
-   "body": "曇り。最高29.7℃ / 最低24.3℃。いまは24.6℃。",
-   "src": "open-meteo.com",
-   "url": "https://open-meteo.com/"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%8F%E3%83%AB%E3%83%BB%E3%82%B4%E3%83%B4%E3%83%AA%E3%83%B3"
   },
   {
    "tag": "HN",
-   "title": "Launch HN: Vendo (YC S26) – Let users build features on top of your p…",
-   "body": "24ポイント / コメント13件。",
+   "title": "DiffusionGemma Technical Report",
+   "body": "113ポイント / コメント27件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49376038"
-  },
-  {
-   "tag": "WIKI",
-   "title": "次年子",
-   "body": "次年子（じねんご）は、山形県北村山郡大石田町の大字。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%AC%A1%E5%B9%B4%E5%AD%90"
+   "url": "https://news.ycombinator.com/item?id=49374287"
   },
   {
    "tag": "HN",
    "title": "Generic Methods in Go 1.27",
-   "body": "45ポイント / コメント17件。",
+   "body": "52ポイント / コメント17件。",
    "src": "news.ycombinator.com",
    "url": "https://news.ycombinator.com/item?id=49376211"
+  },
+  {
+   "tag": "HN",
+   "title": "Project Cybersyn (2022)",
+   "body": "29ポイント / コメント15件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49377739"
+  },
+  {
+   "tag": "WIKI",
+   "title": "篠栗町",
+   "body": "篠栗町（ささぐりまち）は、福岡県の町。糟屋郡に属す。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E7%AF%A0%E6%A0%97%E7%94%BA"
   }
  ]
 }
