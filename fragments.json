@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-20T16:58:19+09:00",
+ "generated_at": "2026-08-20T17:57:45+09:00",
  "items": [
   {
-   "tag": "HN",
-   "title": "fx :Tiny, open, native coding agent.",
-   "body": "245ポイント / コメント106件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49353339"
+   "tag": "WIKI",
+   "title": "火炎放射戦車",
+   "body": "火炎放射戦車（かえんほうしゃせんしゃ）は、火炎放射器を搭載した戦車。陣地攻撃、森や建物・塹壕に潜む敵兵のあぶり出しなどに使用された。 砲塔や車体前面など、搭載形態は車種や開発国によっ…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E7%81%AB%E7%82%8E%E6%94%BE%E5%B0%84%E6%88%A6%E8%BB%8A"
   },
   {
    "tag": "HN",
-   "title": "Sol loves to cheat",
-   "body": "152ポイント / コメント92件。",
+   "title": "Pixel 11 Pro Fold feels like the end of an era",
+   "body": "62ポイント / コメント149件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49348189"
+   "url": "https://news.ycombinator.com/item?id=49366264"
+  },
+  {
+   "tag": "WIKI",
+   "title": "JR東日本E991系電車",
+   "body": "E991系電車（E991けいでんしゃ）は、東日本旅客鉄道（JR東日本）の在来線交直両用試験電車である。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/JR%E6%9D%B1%E6%97%A5%E6%9C%ACE991%E7%B3%BB%E9%9B%BB%E8%BB%8A"
   },
   {
    "tag": "HN",
    "title": "Why Microsoft Entertainment Pack had a sticker announcing that it had…",
-   "body": "47ポイント / コメント23件。",
+   "body": "51ポイント / コメント26件。",
    "src": "news.ycombinator.com",
    "url": "https://news.ycombinator.com/item?id=49370440"
   },
   {
-   "tag": "WIKI",
-   "title": "十三騎神社",
-   "body": "十三騎神社（じゅうさんきじんじゃ）は、秋田県南秋田郡五城目町にある神社。北弾正とその家臣12名の計13人を祀る。五城目神明社の一角にある。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%8D%81%E4%B8%89%E9%A8%8E%E7%A5%9E%E7%A4%BE"
-  },
-  {
-   "tag": "WIKI",
-   "title": "出雲横田駅",
-   "body": "出雲横田駅（いずもよこたえき）は、島根県仁多郡奥出雲町横田にある、西日本旅客鉄道（JR西日本）木次線の駅である。愛称は「奇稲田姫」（くしいなだひめ）。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%87%BA%E9%9B%B2%E6%A8%AA%E7%94%B0%E9%A7%85"
-  },
-  {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "薄曇り。最高30.7℃ / 最低23.4℃。いまは29.8℃。",
+   "body": "薄曇り。最高30.7℃ / 最低23.4℃。いまは28.4℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
+  },
+  {
+   "tag": "HN",
+   "title": "Extensible Software in the age of LLMs",
+   "body": "148ポイント / コメント60件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49363668"
   }
  ]
 }
