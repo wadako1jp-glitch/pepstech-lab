@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-21T00:50:12+09:00",
+ "generated_at": "2026-08-21T01:52:55+09:00",
  "items": [
   {
-   "tag": "HN",
-   "title": "Git at any scale",
-   "body": "97ポイント / コメント7件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49348141"
+   "tag": "WIKI",
+   "title": "サイオト郡 (オハイオ州)",
+   "body": "サイオト郡 は、アメリカ合衆国オハイオ州の南部中央、サイオト川がオハイオ川に合流する地点に位置する郡である。2010年国勢調査での人口は79,499人であり、2000年の79,195…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A4%E3%82%AA%E3%83%88%E9%83%A1_(%E3%82%AA%E3%83%8F%E3%82%A4%E3%82%AA%E5%B7%9E)"
   },
   {
    "tag": "HN",
-   "title": "Why the Ocean Cleanup hasn't solved the plastic pollution crisis",
-   "body": "43ポイント / コメント35件。",
+   "title": "Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Tra…",
+   "body": "117ポイント / コメント36件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49374036"
+   "url": "https://news.ycombinator.com/item?id=49360140"
+  },
+  {
+   "tag": "HN",
+   "title": "A theory for decades of C vulnerabilities",
+   "body": "14ポイント / コメント0件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49328812"
   },
   {
    "tag": "WIKI",
-   "title": "ゲンリフ・ヤゴーダ",
-   "body": "ゲンリフ・グリゴリエヴィチ・ヤゴーダ は、ソビエト連邦の革命家、政治家。初代NKVD（内務人民委員部）長官。国家保安総委員（1937年1月に予備役編入）。",
+   "title": "境港市立境小学校",
+   "body": "境港市立境小学校 は、鳥取県境港市湊町にある公立小学校。通称は地元方言で「境小（さかえしょう）」。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%B2%E3%83%B3%E3%83%AA%E3%83%95%E3%83%BB%E3%83%A4%E3%82%B4%E3%83%BC%E3%83%80"
-  },
-  {
-   "tag": "HN",
-   "title": "Nearly 1,400 live streams from Japan",
-   "body": "41ポイント / コメント8件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49336772"
-  },
-  {
-   "tag": "WIKI",
-   "title": "日本のナンバープレート",
-   "body": "日本のナンバープレート（にほんのナンバープレート）では、日本における自動車用ナンバープレートについて記載する。日本での、自動車用ナンバープレートの正式名称は車両の区分によって異なり、…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88"
+   "url": "https://ja.wikipedia.org/wiki/%E5%A2%83%E6%B8%AF%E5%B8%82%E7%AB%8B%E5%A2%83%E5%B0%8F%E5%AD%A6%E6%A0%A1"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "曇り。最高29.8℃ / 最低24.5℃。いまは24.7℃。",
+   "body": "曇り。最高29.8℃ / 最低24.5℃。いまは24.6℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
+  },
+  {
+   "tag": "HN",
+   "title": "Hacking with Claude on a $27 Smart Watch",
+   "body": "46ポイント / コメント28件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49374772"
   }
  ]
 }
