@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-20T19:49:17+09:00",
+ "generated_at": "2026-08-20T20:44:54+09:00",
  "items": [
   {
-   "tag": "WIKI",
-   "title": "フリッツ・ロンドン",
-   "body": "フリッツ・ロンドン は、ドイツ生まれの物理学者である。後にアメリカ合衆国に帰化した。非分極分子間に働く分子間力、ロンドン力に名前を残している。弟に同じ物理学者のハインツ・ロンドンがい…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AA%E3%83%83%E3%83%84%E3%83%BB%E3%83%AD%E3%83%B3%E3%83%89%E3%83%B3"
-  },
-  {
    "tag": "HN",
-   "title": "Sol loves to cheat",
-   "body": "171ポイント / コメント128件。",
+   "title": "Turns are Better than Radians (2022)",
+   "body": "235ポイント / コメント113件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49348189"
-  },
-  {
-   "tag": "HN",
-   "title": "Don't Paste the AI, please",
-   "body": "305ポイント / コメント167件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49371857"
+   "url": "https://news.ycombinator.com/item?id=49369408"
   },
   {
    "tag": "WIKI",
-   "title": "九份",
-   "body": "九份（きゅうふん、ジョウフェン、チウフェン）は、台湾北部の港湾都市基隆市の近郊、新北市瑞芳区に位置する山あいの町である。",
+   "title": "紀元前7世紀",
+   "body": "紀元前7世紀（きげんぜんななせいき、きげんぜんしちせいき）は、西暦による紀元前700年から紀元前601年までの100年間を指す世紀。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E4%B9%9D%E4%BB%BD"
+   "url": "https://ja.wikipedia.org/wiki/%E7%B4%80%E5%85%83%E5%89%8D7%E4%B8%96%E7%B4%80"
+  },
+  {
+   "tag": "HN",
+   "title": "Xorshift Generators",
+   "body": "91ポイント / コメント45件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49310128"
+  },
+  {
+   "tag": "WIKI",
+   "title": "サンタンドレーア・デル・ガリリャーノ",
+   "body": "サンタンドレーア・デル・ガリリャーノ は、イタリア共和国ラツィオ州フロジノーネ県にある、人口約1,300人の基礎自治体（コムーネ）。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%82%BF%E3%83%B3%E3%83%89%E3%83%AC%E3%83%BC%E3%82%A2%E3%83%BB%E3%83%87%E3%83%AB%E3%83%BB%E3%82%AC%E3%83%AA%E3%83%AA%E3%83%A3%E3%83%BC%E3%83%8E"
+  },
+  {
+   "tag": "HN",
+   "title": "Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and M…",
+   "body": "99ポイント / コメント46件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49367256"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "薄曇り。最高30.7℃ / 最低23.4℃。いまは26.6℃。",
+   "body": "曇り。最高30.7℃ / 最低23.4℃。いまは26.2℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
-  },
-  {
-   "tag": "HN",
-   "title": "Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
-   "body": "78ポイント / コメント22件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49363710"
   }
  ]
 }
