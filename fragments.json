@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-20T18:51:30+09:00",
+ "generated_at": "2026-08-20T19:49:17+09:00",
  "items": [
+  {
+   "tag": "WIKI",
+   "title": "フリッツ・ロンドン",
+   "body": "フリッツ・ロンドン は、ドイツ生まれの物理学者である。後にアメリカ合衆国に帰化した。非分極分子間に働く分子間力、ロンドン力に名前を残している。弟に同じ物理学者のハインツ・ロンドンがい…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AA%E3%83%83%E3%83%84%E3%83%BB%E3%83%AD%E3%83%B3%E3%83%89%E3%83%B3"
+  },
+  {
+   "tag": "HN",
+   "title": "Sol loves to cheat",
+   "body": "171ポイント / コメント128件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49348189"
+  },
+  {
+   "tag": "HN",
+   "title": "Don't Paste the AI, please",
+   "body": "305ポイント / コメント167件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49371857"
+  },
+  {
+   "tag": "WIKI",
+   "title": "九份",
+   "body": "九份（きゅうふん、ジョウフェン、チウフェン）は、台湾北部の港湾都市基隆市の近郊、新北市瑞芳区に位置する山あいの町である。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E4%B9%9D%E4%BB%BD"
+  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "薄曇り。最高30.7℃ / 最低23.4℃。いまは27.3℃。",
+   "body": "薄曇り。最高30.7℃ / 最低23.4℃。いまは26.6℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "A joke domain purchase turned in geopolitical warfare",
-   "body": "905ポイント / コメント144件。",
+   "title": "Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
+   "body": "78ポイント / コメント22件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49360015"
-  },
-  {
-   "tag": "HN",
-   "title": "Don't Paste the AI, please",
-   "body": "177ポイント / コメント99件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49371857"
-  },
-  {
-   "tag": "HN",
-   "title": "Unsloth Dynamic 3.0 GGUFs",
-   "body": "267ポイント / コメント97件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49365443"
-  },
-  {
-   "tag": "WIKI",
-   "title": "糸数健一",
-   "body": "糸数 健一 は、日本の政治家。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E7%B3%B8%E6%95%B0%E5%81%A5%E4%B8%80"
-  },
-  {
-   "tag": "WIKI",
-   "title": "ふなと岩断層",
-   "body": "ふなと岩断層（ふなといわだんそう）は、日本の四国地方、徳島県名西郡神山町下分西寺で掘削により出土した断層露頭のことである。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%81%B5%E3%81%AA%E3%81%A8%E5%B2%A9%E6%96%AD%E5%B1%A4"
+   "url": "https://news.ycombinator.com/item?id=49363710"
   }
  ]
 }
