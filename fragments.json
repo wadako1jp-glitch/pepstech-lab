@@ -1,45 +1,45 @@
 {
- "generated_at": "2026-08-20T23:56:53+09:00",
+ "generated_at": "2026-08-21T00:50:12+09:00",
  "items": [
   {
-   "tag": "WIKI",
-   "title": "パシフィック・ミュージック・フェスティバル",
-   "body": "パシフィック・ミュージック・フェスティバル札幌 は、1990年に20世紀を代表する指揮者、作曲家のレナード・バーンスタインがロンドン交響楽団とともに北海道札幌市で創設した国際教育音楽…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%B7%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E3%83%BB%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF%E3%83%BB%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB"
+   "tag": "HN",
+   "title": "Git at any scale",
+   "body": "97ポイント / コメント7件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49348141"
   },
   {
    "tag": "HN",
-   "title": "Why the Ocean Cleanup Hasn't Solved the Plastic Pollution Crisis",
-   "body": "18ポイント / コメント9件。",
+   "title": "Why the Ocean Cleanup hasn't solved the plastic pollution crisis",
+   "body": "43ポイント / コメント35件。",
    "src": "news.ycombinator.com",
    "url": "https://news.ycombinator.com/item?id=49374036"
   },
   {
+   "tag": "WIKI",
+   "title": "ゲンリフ・ヤゴーダ",
+   "body": "ゲンリフ・グリゴリエヴィチ・ヤゴーダ は、ソビエト連邦の革命家、政治家。初代NKVD（内務人民委員部）長官。国家保安総委員（1937年1月に予備役編入）。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%B2%E3%83%B3%E3%83%AA%E3%83%95%E3%83%BB%E3%83%A4%E3%82%B4%E3%83%BC%E3%83%80"
+  },
+  {
    "tag": "HN",
-   "title": "Stwipe Acquires OpenWouter",
-   "body": "87ポイント / コメント12件。",
+   "title": "Nearly 1,400 live streams from Japan",
+   "body": "41ポイント / コメント8件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49374738"
+   "url": "https://news.ycombinator.com/item?id=49336772"
   },
   {
    "tag": "WIKI",
-   "title": "柳家小さん (5代目)",
-   "body": "5代目 柳家 小さん は、長野県長野市出身の落語家。剣道家、俳優としても知られた。本名：小林 盛夫。出囃子は「序の舞」。1995年、落語家として初の人間国宝に認定された。位階は従五位…",
+   "title": "日本のナンバープレート",
+   "body": "日本のナンバープレート（にほんのナンバープレート）では、日本における自動車用ナンバープレートについて記載する。日本での、自動車用ナンバープレートの正式名称は車両の区分によって異なり、…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%9F%B3%E5%AE%B6%E5%B0%8F%E3%81%95%E3%82%93_(5%E4%BB%A3%E7%9B%AE)"
-  },
-  {
-   "tag": "HN",
-   "title": "An American Mosaic (interactive map of ancestry census data)",
-   "body": "16ポイント / コメント2件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49321515"
+   "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高30.7℃ / 最低23.4℃。いまは24.8℃。",
+   "body": "曇り。最高29.8℃ / 最低24.5℃。いまは24.7℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   }
