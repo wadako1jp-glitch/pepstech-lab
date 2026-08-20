@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-21T05:48:36+09:00",
+ "generated_at": "2026-08-21T06:45:29+09:00",
  "items": [
   {
-   "tag": "WIKI",
-   "title": "ゆめおおおか",
-   "body": "ゆめおおおかは、神奈川県横浜市港南区の上大岡駅に直結した複合施設である。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%86%E3%82%81%E3%81%8A%E3%81%8A%E3%81%8A%E3%81%8B"
-  },
-  {
-   "tag": "WIKI",
-   "title": "東海村JCO臨界事故",
-   "body": "東海村JCO臨界事故（とうかいむらジェー・シー・オーりんかいじこ）は、1999年9月30日、茨城県那珂郡東海村にある株式会社ジェー・シー・オー（住友金属鉱山の子会社。以下「JCO」）…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%9D%91JCO%E8%87%A8%E7%95%8C%E4%BA%8B%E6%95%85"
-  },
-  {
    "tag": "HN",
-   "title": "Git at any scale",
-   "body": "230ポイント / コメント61件。",
+   "title": "Sixtyfour (YC P25) Is Hiring",
+   "body": "1ポイント / コメント0件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49348141"
+   "url": "https://news.ycombinator.com/item?id=49377248"
   },
   {
-   "tag": "HN",
-   "title": "DiffusionGemma Technical Report",
-   "body": "120ポイント / コメント29件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49374287"
+   "tag": "WIKI",
+   "title": "レイモンド・チャンドラー",
+   "body": "レイモンド・ソーントン・チャンドラー は、アメリカの小説家・脚本家。アメリカ合衆国イリノイ州シカゴ生まれ。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%A4%E3%83%A2%E3%83%B3%E3%83%89%E3%83%BB%E3%83%81%E3%83%A3%E3%83%B3%E3%83%89%E3%83%A9%E3%83%BC"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "曇り。最高29.7℃ / 最低24.3℃。いまは24.4℃。",
+   "body": "曇り。最高29.7℃ / 最低24.3℃。いまは24.9℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Show HN: We chased a weather balloon across Montana and never found it",
-   "body": "41ポイント / コメント17件。",
+   "title": "Why aren't smart people happier? (2022)",
+   "body": "43ポイント / コメント58件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49377660"
+   "url": "https://news.ycombinator.com/item?id=49378446"
+  },
+  {
+   "tag": "WIKI",
+   "title": "アレクサンドラ・フォン・アンハルト",
+   "body": "アレクサンドラ・テレーゼ・マリー・フォン・アンハルト は、ドイツの諸侯家門アンハルト公爵家の公女で、シュヴァルツブルク侯家家長ジッツォの妻。アンハルト公フリードリヒ1世とその妻でザク…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AC%E3%82%AF%E3%82%B5%E3%83%B3%E3%83%89%E3%83%A9%E3%83%BB%E3%83%95%E3%82%A9%E3%83%B3%E3%83%BB%E3%82%A2%E3%83%B3%E3%83%8F%E3%83%AB%E3%83%88"
+  },
+  {
+   "tag": "HN",
+   "title": "Linux 7.2",
+   "body": "160ポイント / コメント53件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49376265"
   }
  ]
 }
