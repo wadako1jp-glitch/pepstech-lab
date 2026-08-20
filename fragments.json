@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-21T02:47:21+09:00",
+ "generated_at": "2026-08-21T04:01:51+09:00",
  "items": [
   {
    "tag": "HN",
-   "title": "Show HN: We chased a weather balloon across Montana and never found it",
-   "body": "5ポイント / コメント0件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49377660"
-  },
-  {
-   "tag": "WIKI",
-   "title": "ルイス・ラカジェ・ポー",
-   "body": "ルイス・アルベルト・アレハンドロ・アパリシオ・ラカジェ・ポー はウルグアイの政治家、弁護士。同国大統領（第42代、2020-2025）を1期5年務めた。 国民党の党員であり、同国で最…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%82%A4%E3%82%B9%E3%83%BB%E3%83%A9%E3%82%AB%E3%82%B8%E3%82%A7%E3%83%BB%E3%83%9D%E3%83%BC"
-  },
-  {
-   "tag": "WIKI",
-   "title": "三宅町 (碧南市)",
-   "body": "三宅町（みやけまち）は、愛知県碧南市の地名。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E5%AE%85%E7%94%BA_(%E7%A2%A7%E5%8D%97%E5%B8%82)"
-  },
-  {
-   "tag": "HN",
    "title": "Nearly 1,400 live streams from Japan",
-   "body": "67ポイント / コメント13件。",
+   "body": "84ポイント / コメント15件。",
    "src": "news.ycombinator.com",
    "url": "https://news.ycombinator.com/item?id=49336772"
   },
   {
-   "tag": "HN",
-   "title": "HTML Can Do That",
-   "body": "261ポイント / コメント67件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49362689"
+   "tag": "WIKI",
+   "title": "Zフィナンシャル",
+   "body": "Zフィナンシャル株式会社 は、かつて存在したソフトバンクグループ傘下の日本の金融持株会社。LINEヤフーの完全子会社であった。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/Z%E3%83%95%E3%82%A3%E3%83%8A%E3%83%B3%E3%82%B7%E3%83%A3%E3%83%AB"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "薄曇り。最高29.9℃ / 最低24.5℃。いまは24.6℃。",
+   "body": "曇り。最高29.7℃ / 最低24.3℃。いまは24.6℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
+  },
+  {
+   "tag": "HN",
+   "title": "Launch HN: Vendo (YC S26) – Let users build features on top of your p…",
+   "body": "24ポイント / コメント13件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49376038"
+  },
+  {
+   "tag": "WIKI",
+   "title": "次年子",
+   "body": "次年子（じねんご）は、山形県北村山郡大石田町の大字。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E6%AC%A1%E5%B9%B4%E5%AD%90"
+  },
+  {
+   "tag": "HN",
+   "title": "Generic Methods in Go 1.27",
+   "body": "45ポイント / コメント17件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49376211"
   }
  ]
 }
