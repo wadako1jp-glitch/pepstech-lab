@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-21T13:55:52+09:00",
+ "generated_at": "2026-08-21T14:49:34+09:00",
  "items": [
   {
-   "tag": "HN",
-   "title": "Sixtyfour (YC P25) Is Hiring",
-   "body": "1ポイント / コメント0件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49377248"
+   "tag": "WIKI",
+   "title": "オーフス空港",
+   "body": "オーフス空港 はデンマーク中部・ユトランド半島にある空港。オーフスの北東約35キロメートルにあり、周囲は森林及び農業地帯となっている。市内とのアクセスはバス・自動車を用いる。ターミナ…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%95%E3%82%B9%E7%A9%BA%E6%B8%AF"
   },
   {
    "tag": "HN",
-   "title": "I should have loved biology (2020)",
-   "body": "219ポイント / コメント85件。",
+   "title": "HTML Can Do That",
+   "body": "666ポイント / コメント175件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49377853"
+   "url": "https://news.ycombinator.com/item?id=49362689"
+  },
+  {
+   "tag": "HN",
+   "title": "DiffusionGemma Technical Report",
+   "body": "144ポイント / コメント34件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49374287"
   },
   {
    "tag": "WIKI",
-   "title": "並木 (横浜市)",
-   "body": "並木（なみき）は、神奈川県横浜市金沢区にある町名。現行行政地名は並木一丁目から並木三丁目。住居表示実施済み区域。",
+   "title": "宮中橋",
+   "body": "宮中橋（みやなかばし）は、新潟県十日町市小原 - 宮中の信濃川に架かる国道353号の橋長262 m（メートル）の桁橋。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E4%B8%A6%E6%9C%A8_(%E6%A8%AA%E6%B5%9C%E5%B8%82)"
+   "url": "https://ja.wikipedia.org/wiki/%E5%AE%AE%E4%B8%AD%E6%A9%8B"
+  },
+  {
+   "tag": "HN",
+   "title": "Make a 6-Tesla-class high-temperature superconducting dipole magnet a…",
+   "body": "26ポイント / コメント5件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49304409"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高29.7℃ / 最低24.1℃。いまは29.1℃。",
+   "body": "薄曇り。最高29.7℃ / 最低24.1℃。いまは28.9℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
-  },
-  {
-   "tag": "WIKI",
-   "title": "長野市立後町小学校",
-   "body": "長野市立後町小学校（ながのしりつごちょうしょうがっこう）は、長野県長野市西後町にあった公立小学校。長野市の中心市街地に位置していた。児童数減少により統廃合の対象となり、2013年3月…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E9%95%B7%E9%87%8E%E5%B8%82%E7%AB%8B%E5%BE%8C%E7%94%BA%E5%B0%8F%E5%AD%A6%E6%A0%A1"
-  },
-  {
-   "tag": "HN",
-   "title": "Hard Problems and Heuristic Answers",
-   "body": "4ポイント / コメント0件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49330622"
   }
  ]
 }
