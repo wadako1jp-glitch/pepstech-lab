@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-21T18:53:41+09:00",
+ "generated_at": "2026-08-21T19:49:40+09:00",
  "items": [
   {
    "tag": "HN",
-   "title": "Emacs 31.1 will release on 8/24",
-   "body": "23ポイント / コメント3件。",
+   "title": "Linux 7.2",
+   "body": "256ポイント / コメント103件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49385296"
+   "url": "https://news.ycombinator.com/item?id=49376265"
+  },
+  {
+   "tag": "HN",
+   "title": "Make a 6-Tesla-class high-temperature superconducting dipole magnet a…",
+   "body": "41ポイント / コメント11件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49304409"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高29.5℃ / 最低24.1℃。いまは26.9℃。",
+   "body": "霧雨。最高29.5℃ / 最低24.1℃。いまは26.5℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "HN",
-   "title": "Ox Alpha",
-   "body": "153ポイント / コメント114件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49381896"
+   "tag": "WIKI",
+   "title": "モハメド・アリ・カマラ",
+   "body": "モハメド・アリ・カマラ は、ギニアのサッカー選手。ギニア代表。ポジションはDF。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%8F%E3%83%A1%E3%83%89%E3%83%BB%E3%82%A2%E3%83%AA%E3%83%BB%E3%82%AB%E3%83%9E%E3%83%A9"
   },
   {
    "tag": "WIKI",
-   "title": "蓮盛坊",
-   "body": "蓮盛坊（れんじょうぼう）は山梨県南巨摩郡身延町身延にある日蓮宗の寺院。",
+   "title": "仙台市立長命ケ丘中学校",
+   "body": "仙台市立長命ケ丘中学校 は、宮城県仙台市泉区長命ケ丘二丁目にある公立中学校。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E8%93%AE%E7%9B%9B%E5%9D%8A"
+   "url": "https://ja.wikipedia.org/wiki/%E4%BB%99%E5%8F%B0%E5%B8%82%E7%AB%8B%E9%95%B7%E5%91%BD%E3%82%B1%E4%B8%98%E4%B8%AD%E5%AD%A6%E6%A0%A1"
   },
   {
    "tag": "HN",
-   "title": "I like 'em thick: an apology to my English teachers",
-   "body": "730ポイント / コメント302件。",
+   "title": "Codex on AWS bedrock bug causing 10x charges",
+   "body": "135ポイント / コメント51件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49347543"
-  },
-  {
-   "tag": "WIKI",
-   "title": "デレック・フィッシャー",
-   "body": "デレック・ラマー・フィッシャー は、アメリカ合衆国アーカンソー州リトルロック出身の元プロバスケットボール選手、指導者。ポジションはポイントガード。第13代NBA選手会会長。現役時代は…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%AC%E3%83%83%E3%82%AF%E3%83%BB%E3%83%95%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A3%E3%83%BC"
+   "url": "https://news.ycombinator.com/item?id=49383326"
   }
  ]
 }
