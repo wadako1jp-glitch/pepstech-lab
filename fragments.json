@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-21T17:59:47+09:00",
+ "generated_at": "2026-08-21T18:53:41+09:00",
  "items": [
   {
-   "tag": "WIKI",
-   "title": "1+1+1+1+…",
-   "body": "数学において1 + 1 + 1 + 1 + · · · は発散する級数のひとつである。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/1%2B1%2B1%2B1%2B%E2%80%A6"
-  },
-  {
    "tag": "HN",
-   "title": "Japan tried to build an operating system for the world, the US interv…",
-   "body": "116ポイント / コメント57件。",
+   "title": "Emacs 31.1 will release on 8/24",
+   "body": "23ポイント / コメント3件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49384180"
-  },
-  {
-   "tag": "HN",
-   "title": "Speeding Up (Small) Ruby Hashes",
-   "body": "51ポイント / コメント0件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49295112"
+   "url": "https://news.ycombinator.com/item?id=49385296"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高29.5℃ / 最低24.1℃。いまは27.6℃。",
+   "body": "霧雨。最高29.5℃ / 最低24.1℃。いまは26.9℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Seed: Minimal, self-modifying agent harness",
-   "body": "18ポイント / コメント7件。",
+   "title": "Ox Alpha",
+   "body": "153ポイント / コメント114件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49384113"
+   "url": "https://news.ycombinator.com/item?id=49381896"
   },
   {
    "tag": "WIKI",
-   "title": "クロアチア王国 (1102年-1526年)",
-   "body": "クロアチア王国 は、ハンガリー王国との同君連合（ハンガリー・クロアチア連合王国）である。トルピミロヴィチ家とスヴェトスラヴィチ家の王による統治時代と、国王ドミタル・ズヴォニミルの死に…",
+   "title": "蓮盛坊",
+   "body": "蓮盛坊（れんじょうぼう）は山梨県南巨摩郡身延町身延にある日蓮宗の寺院。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AD%E3%82%A2%E3%83%81%E3%82%A2%E7%8E%8B%E5%9B%BD_(1102%E5%B9%B4-1526%E5%B9%B4)"
+   "url": "https://ja.wikipedia.org/wiki/%E8%93%AE%E7%9B%9B%E5%9D%8A"
+  },
+  {
+   "tag": "HN",
+   "title": "I like 'em thick: an apology to my English teachers",
+   "body": "730ポイント / コメント302件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49347543"
+  },
+  {
+   "tag": "WIKI",
+   "title": "デレック・フィッシャー",
+   "body": "デレック・ラマー・フィッシャー は、アメリカ合衆国アーカンソー州リトルロック出身の元プロバスケットボール選手、指導者。ポジションはポイントガード。第13代NBA選手会会長。現役時代は…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%AC%E3%83%83%E3%82%AF%E3%83%BB%E3%83%95%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A3%E3%83%BC"
   }
  ]
 }
