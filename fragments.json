@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-22T06:41:35+09:00",
+ "generated_at": "2026-08-22T07:43:58+09:00",
  "items": [
-  {
-   "tag": "HN",
-   "title": "I ran Photoshop on a £0.60 computer chip",
-   "body": "88ポイント / コメント18件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49389441"
-  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高29.3℃ / 最低23.6℃。いまは23.9℃。",
+   "body": "霧雨。最高29.3℃ / 最低23.6℃。いまは24.8℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "WIKI",
-   "title": "ジョルジェ・ミハイロヴィッチ",
-   "body": "ジョルジェ・アレクサンダル・ミハイロヴィッチ は、アメリカ合衆国・フロリダ州ジャクソンビル出身のサッカー選手。メジャーリーグサッカー・トロントFC所属。アメリカ合衆国代表。ポジション…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8%E3%82%A7%E3%83%BB%E3%83%9F%E3%83%8F%E3%82%A4%E3%83%AD%E3%83%B4%E3%82%A3%E3%83%83%E3%83%81"
-  },
-  {
    "tag": "HN",
-   "title": "Kobo can run apps now",
-   "body": "316ポイント / コメント110件。",
+   "title": "SalesPatriot (YC W25) Is Hiring Forward Deployed Engineers",
+   "body": "1ポイント / コメント0件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49390427"
+   "url": "https://news.ycombinator.com/item?id=49393733"
   },
   {
    "tag": "WIKI",
-   "title": "恋文",
-   "body": "恋文（こいぶみ）とは、愛を告白する手紙のこと。ラブレター とも呼ばれ、この語がもっとも現代の日本では一般的である。ほかに付（け）文（つけぶみ）・艶書（えんしょ）・艶文（えんぶん）の語…",
+   "title": "ジュース",
+   "body": "ジュース とは、果物や野菜の汁のこと。日本の食品表示基準上は100%果汁のことを指す。果汁ともいう。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%81%8B%E6%96%87"
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A5%E3%83%BC%E3%82%B9"
   },
   {
    "tag": "HN",
-   "title": "Using an old Android phone as a music player",
-   "body": "25ポイント / コメント9件。",
+   "title": "Building an (almost) fully self-hosted, sandboxed, agentic software f…",
+   "body": "67ポイント / コメント48件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49332812"
+   "url": "https://news.ycombinator.com/item?id=49390463"
+  },
+  {
+   "tag": "HN",
+   "title": "The road to ACID transactions in Cassandra 6",
+   "body": "58ポイント / コメント6件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49386877"
+  },
+  {
+   "tag": "WIKI",
+   "title": "霊山院 (埼玉県ときがわ町)",
+   "body": "霊山院（りょうぜんいん）は、埼玉県比企郡ときがわ町にある臨済宗妙心寺派の寺院。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E9%9C%8A%E5%B1%B1%E9%99%A2_(%E5%9F%BC%E7%8E%89%E7%9C%8C%E3%81%A8%E3%81%8D%E3%81%8C%E3%82%8F%E7%94%BA)"
   }
  ]
 }
