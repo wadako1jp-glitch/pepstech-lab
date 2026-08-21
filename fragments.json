@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-21T23:55:13+09:00",
+ "generated_at": "2026-08-22T00:50:11+09:00",
  "items": [
   {
-   "tag": "WIKI",
-   "title": "燗酒",
-   "body": "燗酒 とは、加熱した酒のこと。日本酒のほか中国酒の紹興酒などでも行われる。酒自体を加熱する行為のことを、燗（かん）を付ける、お燗（おかん）するなどと言う。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E7%87%97%E9%85%92"
+   "tag": "HN",
+   "title": "Claudette: Make Claude Stop Talking Like a BuzzFeed Article",
+   "body": "55ポイント / コメント46件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49388752"
   },
   {
    "tag": "WIKI",
-   "title": "大庭みな子",
-   "body": "大庭 みな子 は、日本の小説家。本名・美奈子。東京市出身。出生名は椎名 美奈子。",
+   "title": "健老インターチェンジ",
+   "body": "健老インターチェンジ（けんろうインターチェンジ）は、福岡県大牟田市にある有明海沿岸道路（大牟田高田道路）のインターチェンジである。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%BA%AD%E3%81%BF%E3%81%AA%E5%AD%90"
+   "url": "https://ja.wikipedia.org/wiki/%E5%81%A5%E8%80%81%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%81%E3%82%A7%E3%83%B3%E3%82%B8"
+  },
+  {
+   "tag": "WIKI",
+   "title": "相川 (三重県)",
+   "body": "相川（あいかわ）は、三重県津市を流れる二級水系の本流である。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E7%9B%B8%E5%B7%9D_(%E4%B8%89%E9%87%8D%E7%9C%8C)"
   },
   {
    "tag": "HN",
-   "title": "Nothing Doing",
-   "body": "7ポイント / コメント1件。",
+   "title": "TigerBeetle Core System Architecture: Deconstructing Performance Engi…",
+   "body": "100ポイント / コメント35件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49387221"
+   "url": "https://news.ycombinator.com/item?id=49386659"
+  },
+  {
+   "tag": "HN",
+   "title": "The B-right/V R2 Operating System",
+   "body": "5ポイント / コメント0件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49389491"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "小雨。最高29.5℃ / 最低24.1℃。いまは24.4℃。",
+   "body": "小雨。最高29.3℃ / 最低23.4℃。いまは24.2℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
-  },
-  {
-   "tag": "HN",
-   "title": "AI companies destroy physical books – let's scan rare books before it…",
-   "body": "402ポイント / コメント290件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49385994"
-  },
-  {
-   "tag": "HN",
-   "title": "Olympian Jenny Simpson Says Her Running Career Is Over After Cardiac …",
-   "body": "11ポイント / コメント1件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49388288"
   }
  ]
 }
