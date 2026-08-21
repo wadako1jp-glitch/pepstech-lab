@@ -1,27 +1,6 @@
 {
- "generated_at": "2026-08-21T12:17:35+09:00",
+ "generated_at": "2026-08-21T13:55:52+09:00",
  "items": [
-  {
-   "tag": "HN",
-   "title": "Malicious Rust crate Arrayref runs a build-time payload",
-   "body": "411ポイント / コメント372件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49374269"
-  },
-  {
-   "tag": "WIKI",
-   "title": "テイラー・モッター",
-   "body": "テイラー・デービス・モッター は、アメリカ合衆国フロリダ州ウェストパームビーチ出身のプロ野球選手（ユーティリティープレイヤー）。右投右打。愛称は悪夢を意味するナイトメア（Nightm…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%A4%E3%83%A9%E3%83%BC%E3%83%BB%E3%83%A2%E3%83%83%E3%82%BF%E3%83%BC"
-  },
-  {
-   "tag": "天気",
-   "title": "東京 きょう",
-   "body": "霧雨。最高29.7℃ / 最低24.1℃。いまは29.6℃。",
-   "src": "open-meteo.com",
-   "url": "https://open-meteo.com/"
-  },
   {
    "tag": "HN",
    "title": "Sixtyfour (YC P25) Is Hiring",
@@ -31,17 +10,38 @@
   },
   {
    "tag": "HN",
-   "title": "The August 17 outage",
-   "body": "366ポイント / コメント413件。",
+   "title": "I should have loved biology (2020)",
+   "body": "219ポイント / コメント85件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49378957"
+   "url": "https://news.ycombinator.com/item?id=49377853"
   },
   {
    "tag": "WIKI",
-   "title": "宇高勲",
-   "body": "宇高 勲 は日本の実業家、プロ野球球団経営者・スカウト。",
+   "title": "並木 (横浜市)",
+   "body": "並木（なみき）は、神奈川県横浜市金沢区にある町名。現行行政地名は並木一丁目から並木三丁目。住居表示実施済み区域。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%AE%87%E9%AB%98%E5%8B%B2"
+   "url": "https://ja.wikipedia.org/wiki/%E4%B8%A6%E6%9C%A8_(%E6%A8%AA%E6%B5%9C%E5%B8%82)"
+  },
+  {
+   "tag": "天気",
+   "title": "東京 きょう",
+   "body": "霧雨。最高29.7℃ / 最低24.1℃。いまは29.1℃。",
+   "src": "open-meteo.com",
+   "url": "https://open-meteo.com/"
+  },
+  {
+   "tag": "WIKI",
+   "title": "長野市立後町小学校",
+   "body": "長野市立後町小学校（ながのしりつごちょうしょうがっこう）は、長野県長野市西後町にあった公立小学校。長野市の中心市街地に位置していた。児童数減少により統廃合の対象となり、2013年3月…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E9%95%B7%E9%87%8E%E5%B8%82%E7%AB%8B%E5%BE%8C%E7%94%BA%E5%B0%8F%E5%AD%A6%E6%A0%A1"
+  },
+  {
+   "tag": "HN",
+   "title": "Hard Problems and Heuristic Answers",
+   "body": "4ポイント / コメント0件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49330622"
   }
  ]
 }
