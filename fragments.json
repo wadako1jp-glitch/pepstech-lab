@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-22T05:42:54+09:00",
+ "generated_at": "2026-08-22T06:41:35+09:00",
  "items": [
   {
    "tag": "HN",
-   "title": "Tumble Forth – from assembly to OS with C compiler",
-   "body": "12ポイント / コメント1件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49392465"
-  },
-  {
-   "tag": "WIKI",
-   "title": "TEIKOKU",
-   "body": "株式会社TEIKOKU は、兵庫県たつの市新宮町に本社を置く機械メーカーであり、東証プライムに上場している。旧社名は株式会社帝国電機製作所。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/TEIKOKU"
-  },
-  {
-   "tag": "HN",
-   "title": "Building an (almost) fully self-hosted, sandboxed, agentic software f…",
-   "body": "50ポイント / コメント31件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49390463"
-  },
-  {
-   "tag": "天気",
-   "title": "東京 きょう",
-   "body": "霧雨。最高29.3℃ / 最低23.6℃。いまは23.6℃。",
-   "src": "open-meteo.com",
-   "url": "https://open-meteo.com/"
-  },
-  {
-   "tag": "HN",
    "title": "I ran Photoshop on a £0.60 computer chip",
-   "body": "74ポイント / コメント14件。",
+   "body": "88ポイント / コメント18件。",
    "src": "news.ycombinator.com",
    "url": "https://news.ycombinator.com/item?id=49389441"
   },
   {
+   "tag": "天気",
+   "title": "東京 きょう",
+   "body": "霧雨。最高29.3℃ / 最低23.6℃。いまは23.9℃。",
+   "src": "open-meteo.com",
+   "url": "https://open-meteo.com/"
+  },
+  {
    "tag": "WIKI",
-   "title": "禅躰寺 (瑞浪市)",
-   "body": "禅躰寺（ぜんたいじ）は、岐阜県瑞浪市土岐町市原にある臨済宗妙心寺派の龍泉派の寺院。山号は報恩山。",
+   "title": "ジョルジェ・ミハイロヴィッチ",
+   "body": "ジョルジェ・アレクサンダル・ミハイロヴィッチ は、アメリカ合衆国・フロリダ州ジャクソンビル出身のサッカー選手。メジャーリーグサッカー・トロントFC所属。アメリカ合衆国代表。ポジション…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E7%A6%85%E8%BA%B0%E5%AF%BA_(%E7%91%9E%E6%B5%AA%E5%B8%82)"
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8%E3%82%A7%E3%83%BB%E3%83%9F%E3%83%8F%E3%82%A4%E3%83%AD%E3%83%B4%E3%82%A3%E3%83%83%E3%83%81"
+  },
+  {
+   "tag": "HN",
+   "title": "Kobo can run apps now",
+   "body": "316ポイント / コメント110件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49390427"
+  },
+  {
+   "tag": "WIKI",
+   "title": "恋文",
+   "body": "恋文（こいぶみ）とは、愛を告白する手紙のこと。ラブレター とも呼ばれ、この語がもっとも現代の日本では一般的である。ほかに付（け）文（つけぶみ）・艶書（えんしょ）・艶文（えんぶん）の語…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E6%81%8B%E6%96%87"
+  },
+  {
+   "tag": "HN",
+   "title": "Using an old Android phone as a music player",
+   "body": "25ポイント / コメント9件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49332812"
   }
  ]
 }
