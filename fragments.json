@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-21T10:59:37+09:00",
+ "generated_at": "2026-08-21T12:17:35+09:00",
  "items": [
+  {
+   "tag": "HN",
+   "title": "Malicious Rust crate Arrayref runs a build-time payload",
+   "body": "411ポイント / コメント372件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49374269"
+  },
+  {
+   "tag": "WIKI",
+   "title": "テイラー・モッター",
+   "body": "テイラー・デービス・モッター は、アメリカ合衆国フロリダ州ウェストパームビーチ出身のプロ野球選手（ユーティリティープレイヤー）。右投右打。愛称は悪夢を意味するナイトメア（Nightm…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%A4%E3%83%A9%E3%83%BC%E3%83%BB%E3%83%A2%E3%83%83%E3%82%BF%E3%83%BC"
+  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高29.7℃ / 最低24.1℃。いまは29.0℃。",
+   "body": "霧雨。最高29.7℃ / 最低24.1℃。いまは29.6℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
-   "body": "193ポイント / コメント203件。",
+   "title": "Sixtyfour (YC P25) Is Hiring",
+   "body": "1ポイント / コメント0件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49375996"
+   "url": "https://news.ycombinator.com/item?id=49377248"
   },
   {
    "tag": "HN",
-   "title": "Why aren't smart people happier? (2022)",
-   "body": "87ポイント / コメント140件。",
+   "title": "The August 17 outage",
+   "body": "366ポイント / コメント413件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49378446"
+   "url": "https://news.ycombinator.com/item?id=49378957"
   },
   {
    "tag": "WIKI",
-   "title": "中禅寺 (日光市)",
-   "body": "中禅寺（ちゅうぜんじ）は栃木県日光市の中禅寺湖畔・歌ヶ浜にある天台宗の寺院である。本尊は十一面千手観世音菩薩で、世界遺産に登録された輪王寺の別院であり、坂東三十三観音の第18番に位置…",
+   "title": "宇高勲",
+   "body": "宇高 勲 は日本の実業家、プロ野球球団経営者・スカウト。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E7%A6%85%E5%AF%BA_(%E6%97%A5%E5%85%89%E5%B8%82)"
-  },
-  {
-   "tag": "HN",
-   "title": "Anti-AI fonts are useless and harmful",
-   "body": "117ポイント / コメント80件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49375719"
-  },
-  {
-   "tag": "WIKI",
-   "title": "犬山駅",
-   "body": "犬山駅（いぬやまえき）は、愛知県犬山市犬山富士見町にある、名古屋鉄道（名鉄）の駅である。駅番号はIY15。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E7%8A%AC%E5%B1%B1%E9%A7%85"
+   "url": "https://ja.wikipedia.org/wiki/%E5%AE%87%E9%AB%98%E5%8B%B2"
   }
  ]
 }
