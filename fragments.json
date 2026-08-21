@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-22T02:47:35+09:00",
+ "generated_at": "2026-08-22T03:58:33+09:00",
  "items": [
   {
    "tag": "HN",
-   "title": "DeepSeek-v4-flash-vision-exp",
-   "body": "377ポイント / コメント123件。",
+   "title": "People of ACM – Russ Cox",
+   "body": "10ポイント / コメント1件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49386163"
+   "url": "https://news.ycombinator.com/item?id=49327408"
+  },
+  {
+   "tag": "HN",
+   "title": "Show HN: Proliferate- open-source, self-hostable Codex for any coding…",
+   "body": "21ポイント / コメント11件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49390739"
+  },
+  {
+   "tag": "WIKI",
+   "title": "ゴーイト",
+   "body": "ゴーイト は、イタリア共和国ロンバルディア州マントヴァ県にある、人口約10,000人の基礎自治体（コムーネ）。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%B4%E3%83%BC%E3%82%A4%E3%83%88"
+  },
+  {
+   "tag": "WIKI",
+   "title": "ケンブリッジ・ベイ",
+   "body": "ケンブリッジ・ベイ は、カナダ・ヌナブト準州のキティクメオト地域にあるハムレット。ヴィクトリア島に所在。人口は1,760人（2022年）。北西航路の主要停泊地である。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%B3%E3%83%96%E3%83%AA%E3%83%83%E3%82%B8%E3%83%BB%E3%83%99%E3%82%A4"
+  },
+  {
+   "tag": "HN",
+   "title": "Does whispering to agents in docs help?",
+   "body": "23ポイント / コメント4件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49331391"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高29.1℃ / 最低23.5℃。いまは24.2℃。",
+   "body": "霧雨。最高29.3℃ / 最低23.6℃。いまは24.1℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
-  },
-  {
-   "tag": "HN",
-   "title": "Cancer-Related Mortality Among US Pilots and Flight Attendants",
-   "body": "55ポイント / コメント46件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49389524"
-  },
-  {
-   "tag": "HN",
-   "title": "Kino: A high-performance Ractor web server for Ruby 4.0",
-   "body": "63ポイント / コメント11件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49386383"
-  },
-  {
-   "tag": "WIKI",
-   "title": "セルジオ・ペレス",
-   "body": "セルジオ・ミッチェル・\"チェコ\"・ペレス・メンドーサ は、メキシコ・ハリスコ州グアダラハラ出身のレーシングドライバー。「チェコ（Checo）」の愛称で親しまれている。父は国民再生運動…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%AB%E3%82%B8%E3%82%AA%E3%83%BB%E3%83%9A%E3%83%AC%E3%82%B9"
-  },
-  {
-   "tag": "WIKI",
-   "title": "影なき狙撃者 (映画)",
-   "body": "『影なき狙撃者』 は、1962年のアメリカ合衆国のサイコスリラー映画。監督はジョン・フランケンハイマー、出演はフランク・シナトラ、ローレンス・ハーヴェイ、ジャネット・リーなど。原作は…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%BD%B1%E3%81%AA%E3%81%8D%E7%8B%99%E6%92%83%E8%80%85_(%E6%98%A0%E7%94%BB)"
   }
  ]
 }
