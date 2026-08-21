@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-22T07:43:58+09:00",
+ "generated_at": "2026-08-22T08:41:47+09:00",
  "items": [
+  {
+   "tag": "WIKI",
+   "title": "今井正",
+   "body": "今井 正 は、日本の映画監督。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E4%BB%8A%E4%BA%95%E6%AD%A3"
+  },
+  {
+   "tag": "WIKI",
+   "title": "グラディ・テイト",
+   "body": "グラディ・テイト は、アメリカ合衆国のジャズ、ソウル・ジャズのドラマー、バリトン・ボーカリスト。サイドマンとしての活動に加え、リーダーとして多くのアルバムをリリースし、アニメ・シリー…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%A9%E3%83%87%E3%82%A3%E3%83%BB%E3%83%86%E3%82%A4%E3%83%88"
+  },
+  {
+   "tag": "HN",
+   "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
+   "body": "172ポイント / コメント125件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49388752"
+  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高29.3℃ / 最低23.6℃。いまは24.8℃。",
+   "body": "強い霧雨。最高29.9℃ / 最低24.1℃。いまは25.5℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "SalesPatriot (YC W25) Is Hiring Forward Deployed Engineers",
-   "body": "1ポイント / コメント0件。",
+   "title": "Scientists release biggest 2D map of the universe",
+   "body": "125ポイント / コメント38件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49393733"
-  },
-  {
-   "tag": "WIKI",
-   "title": "ジュース",
-   "body": "ジュース とは、果物や野菜の汁のこと。日本の食品表示基準上は100%果汁のことを指す。果汁ともいう。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A5%E3%83%BC%E3%82%B9"
+   "url": "https://news.ycombinator.com/item?id=49392200"
   },
   {
    "tag": "HN",
-   "title": "Building an (almost) fully self-hosted, sandboxed, agentic software f…",
-   "body": "67ポイント / コメント48件。",
+   "title": "Three important steps in my maturation process",
+   "body": "8ポイント / コメント1件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49390463"
-  },
-  {
-   "tag": "HN",
-   "title": "The road to ACID transactions in Cassandra 6",
-   "body": "58ポイント / コメント6件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49386877"
-  },
-  {
-   "tag": "WIKI",
-   "title": "霊山院 (埼玉県ときがわ町)",
-   "body": "霊山院（りょうぜんいん）は、埼玉県比企郡ときがわ町にある臨済宗妙心寺派の寺院。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E9%9C%8A%E5%B1%B1%E9%99%A2_(%E5%9F%BC%E7%8E%89%E7%9C%8C%E3%81%A8%E3%81%8D%E3%81%8C%E3%82%8F%E7%94%BA)"
+   "url": "https://news.ycombinator.com/item?id=49394496"
   }
  ]
 }
