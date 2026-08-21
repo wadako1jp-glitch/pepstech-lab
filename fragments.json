@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-22T04:39:22+09:00",
+ "generated_at": "2026-08-22T05:42:54+09:00",
  "items": [
+  {
+   "tag": "HN",
+   "title": "Tumble Forth – from assembly to OS with C compiler",
+   "body": "12ポイント / コメント1件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49392465"
+  },
+  {
+   "tag": "WIKI",
+   "title": "TEIKOKU",
+   "body": "株式会社TEIKOKU は、兵庫県たつの市新宮町に本社を置く機械メーカーであり、東証プライムに上場している。旧社名は株式会社帝国電機製作所。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/TEIKOKU"
+  },
+  {
+   "tag": "HN",
+   "title": "Building an (almost) fully self-hosted, sandboxed, agentic software f…",
+   "body": "50ポイント / コメント31件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49390463"
+  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高29.3℃ / 最低23.6℃。いまは23.8℃。",
+   "body": "霧雨。最高29.3℃ / 最低23.6℃。いまは23.6℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "How we made a text-to-speech model respond in sub-50 ms",
-   "body": "46ポイント / コメント10件。",
+   "title": "I ran Photoshop on a £0.60 computer chip",
+   "body": "74ポイント / コメント14件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49389952"
-  },
-  {
-   "tag": "HN",
-   "title": "Kodak's \"pre-invented\" lunar orbiter camera; or, the fate of SAMOS re…",
-   "body": "40ポイント / コメント1件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49388095"
-  },
-  {
-   "tag": "HN",
-   "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
-   "body": "100ポイント / コメント86件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49388752"
+   "url": "https://news.ycombinator.com/item?id=49389441"
   },
   {
    "tag": "WIKI",
-   "title": "がらがら (玩具)",
-   "body": "がらがら、ガラガラは、乳幼児をあやすために用いられる音響玩具である。一般に柄の付いた円筒状の形をしており、中に球が入っていて、柄を持って振ることで音を出す。振るとがらがら音が鳴るので…",
+   "title": "禅躰寺 (瑞浪市)",
+   "body": "禅躰寺（ぜんたいじ）は、岐阜県瑞浪市土岐町市原にある臨済宗妙心寺派の龍泉派の寺院。山号は報恩山。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%81%8C%E3%82%89%E3%81%8C%E3%82%89_(%E7%8E%A9%E5%85%B7)"
-  },
-  {
-   "tag": "WIKI",
-   "title": "能福寺",
-   "body": "能福寺（のうふくじ）は、兵庫県神戸市兵庫区にある天台宗の寺院。山号は宝積山。本尊は阿弥陀如来。兵庫大仏で有名である。ビルシャナ殿は新西国三十三箇所第23番札所で本尊は十一面観音。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E8%83%BD%E7%A6%8F%E5%AF%BA"
+   "url": "https://ja.wikipedia.org/wiki/%E7%A6%85%E8%BA%B0%E5%AF%BA_(%E7%91%9E%E6%B5%AA%E5%B8%82)"
   }
  ]
 }
