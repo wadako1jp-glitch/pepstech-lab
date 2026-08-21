@@ -1,45 +1,45 @@
 {
- "generated_at": "2026-08-21T20:44:35+09:00",
+ "generated_at": "2026-08-21T22:12:51+09:00",
  "items": [
   {
+   "tag": "WIKI",
+   "title": "コスタリカの野鳥一覧",
+   "body": "コスタリカの野鳥一覧は、コスタリカで観察された野鳥のリストを示す。コスタリカは新熱帯区（動物地理区）に属する。 種数は約900種。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%AB%E3%81%AE%E9%87%8E%E9%B3%A5%E4%B8%80%E8%A6%A7"
+  },
+  {
    "tag": "HN",
-   "title": "Malicious Rust crate Arrayref runs a build-time payload",
-   "body": "511ポイント / コメント438件。",
+   "title": "Linux 7.2",
+   "body": "272ポイント / コメント116件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49374269"
+   "url": "https://news.ycombinator.com/item?id=49376265"
+  },
+  {
+   "tag": "HN",
+   "title": "Launch HN: Vendo (YC S26) – Let users build features on top of your p…",
+   "body": "49ポイント / コメント20件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49376038"
   },
   {
    "tag": "WIKI",
-   "title": "アリソン・ドゥーディ",
-   "body": "アリソン・ドゥーディ は、アイルランド・ダブリン出身の女優、モデル。",
+   "title": "ラウドン郡 (テネシー州)",
+   "body": "ラウドン郡 は、アメリカ合衆国テネシー州の東部に位置する郡である。2010年国勢調査での人口は48,556人であり、2000年の39,086人から24.2%増加した。郡庁所在地はラウ…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AA%E3%82%BD%E3%83%B3%E3%83%BB%E3%83%89%E3%82%A5%E3%83%BC%E3%83%87%E3%82%A3"
-  },
-  {
-   "tag": "WIKI",
-   "title": "浜島町桧山路",
-   "body": "浜島町桧山路（はまじまちょうひやまじ）は、三重県志摩市の地名。郵便番号は517-0401。面積3.250km2（1989年現在）。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%B5%9C%E5%B3%B6%E7%94%BA%E6%A1%A7%E5%B1%B1%E8%B7%AF"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A6%E3%83%89%E3%83%B3%E9%83%A1_(%E3%83%86%E3%83%8D%E3%82%B7%E3%83%BC%E5%B7%9E)"
   },
   {
    "tag": "HN",
-   "title": "Why aren't smart people happier? (2022)",
-   "body": "197ポイント / コメント282件。",
+   "title": "Small, native web tricks worth remembering",
+   "body": "109ポイント / コメント24件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49378446"
-  },
-  {
-   "tag": "HN",
-   "title": "Ox Alpha",
-   "body": "178ポイント / コメント136件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49381896"
+   "url": "https://news.ycombinator.com/item?id=49385860"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高29.5℃ / 最低24.1℃。いまは26.3℃。",
+   "body": "小雨。最高29.5℃ / 最低24.1℃。いまは24.7℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   }
