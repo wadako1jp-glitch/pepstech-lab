@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-21T19:49:40+09:00",
+ "generated_at": "2026-08-21T20:44:35+09:00",
  "items": [
   {
    "tag": "HN",
-   "title": "Linux 7.2",
-   "body": "256ポイント / コメント103件。",
+   "title": "Malicious Rust crate Arrayref runs a build-time payload",
+   "body": "511ポイント / コメント438件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49376265"
+   "url": "https://news.ycombinator.com/item?id=49374269"
+  },
+  {
+   "tag": "WIKI",
+   "title": "アリソン・ドゥーディ",
+   "body": "アリソン・ドゥーディ は、アイルランド・ダブリン出身の女優、モデル。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AA%E3%82%BD%E3%83%B3%E3%83%BB%E3%83%89%E3%82%A5%E3%83%BC%E3%83%87%E3%82%A3"
+  },
+  {
+   "tag": "WIKI",
+   "title": "浜島町桧山路",
+   "body": "浜島町桧山路（はまじまちょうひやまじ）は、三重県志摩市の地名。郵便番号は517-0401。面積3.250km2（1989年現在）。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E6%B5%9C%E5%B3%B6%E7%94%BA%E6%A1%A7%E5%B1%B1%E8%B7%AF"
   },
   {
    "tag": "HN",
-   "title": "Make a 6-Tesla-class high-temperature superconducting dipole magnet a…",
-   "body": "41ポイント / コメント11件。",
+   "title": "Why aren't smart people happier? (2022)",
+   "body": "197ポイント / コメント282件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49304409"
+   "url": "https://news.ycombinator.com/item?id=49378446"
+  },
+  {
+   "tag": "HN",
+   "title": "Ox Alpha",
+   "body": "178ポイント / コメント136件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49381896"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高29.5℃ / 最低24.1℃。いまは26.5℃。",
+   "body": "霧雨。最高29.5℃ / 最低24.1℃。いまは26.3℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
-  },
-  {
-   "tag": "WIKI",
-   "title": "モハメド・アリ・カマラ",
-   "body": "モハメド・アリ・カマラ は、ギニアのサッカー選手。ギニア代表。ポジションはDF。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%8F%E3%83%A1%E3%83%89%E3%83%BB%E3%82%A2%E3%83%AA%E3%83%BB%E3%82%AB%E3%83%9E%E3%83%A9"
-  },
-  {
-   "tag": "WIKI",
-   "title": "仙台市立長命ケ丘中学校",
-   "body": "仙台市立長命ケ丘中学校 は、宮城県仙台市泉区長命ケ丘二丁目にある公立中学校。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E4%BB%99%E5%8F%B0%E5%B8%82%E7%AB%8B%E9%95%B7%E5%91%BD%E3%82%B1%E4%B8%98%E4%B8%AD%E5%AD%A6%E6%A0%A1"
-  },
-  {
-   "tag": "HN",
-   "title": "Codex on AWS bedrock bug causing 10x charges",
-   "body": "135ポイント / コメント51件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49383326"
   }
  ]
 }
