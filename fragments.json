@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-21T08:42:27+09:00",
+ "generated_at": "2026-08-21T10:59:37+09:00",
  "items": [
-  {
-   "tag": "WIKI",
-   "title": "利根運河",
-   "body": "利根運河（とねうんが）は、千葉県柏市、流山市、野田市を流れる、利根川と江戸川をつなぐ全長8・5キロの運河（人工河川）。日本初の西洋式運河である。オランダ人技師ムルデル指揮で完成し、1…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%88%A9%E6%A0%B9%E9%81%8B%E6%B2%B3"
-  },
-  {
-   "tag": "WIKI",
-   "title": "不動院 (つくばみらい市)",
-   "body": "不動院（ふどういん）は、茨城県つくばみらい市にある真言宗豊山派の寺院。正式名称は清安山願成寺不動院（せいあんざんがんじょうじふどういん）、通称で板橋不動尊（いたばしふどうそん）と呼ば…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E4%B8%8D%E5%8B%95%E9%99%A2_(%E3%81%A4%E3%81%8F%E3%81%B0%E3%81%BF%E3%82%89%E3%81%84%E5%B8%82)"
-  },
-  {
-   "tag": "HN",
-   "title": "DiffusionGemma Technical Report",
-   "body": "125ポイント / コメント33件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49374287"
-  },
-  {
-   "tag": "HN",
-   "title": "Detecting scraper bots through scroll behaviour",
-   "body": "7ポイント / コメント3件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49381311"
-  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "曇り。最高29.7℃ / 最低24.2℃。いまは26.8℃。",
+   "body": "霧雨。最高29.7℃ / 最低24.1℃。いまは29.0℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Every Model Cheats",
-   "body": "75ポイント / コメント56件。",
+   "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
+   "body": "193ポイント / コメント203件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49374635"
+   "url": "https://news.ycombinator.com/item?id=49375996"
+  },
+  {
+   "tag": "HN",
+   "title": "Why aren't smart people happier? (2022)",
+   "body": "87ポイント / コメント140件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49378446"
+  },
+  {
+   "tag": "WIKI",
+   "title": "中禅寺 (日光市)",
+   "body": "中禅寺（ちゅうぜんじ）は栃木県日光市の中禅寺湖畔・歌ヶ浜にある天台宗の寺院である。本尊は十一面千手観世音菩薩で、世界遺産に登録された輪王寺の別院であり、坂東三十三観音の第18番に位置…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E7%A6%85%E5%AF%BA_(%E6%97%A5%E5%85%89%E5%B8%82)"
+  },
+  {
+   "tag": "HN",
+   "title": "Anti-AI fonts are useless and harmful",
+   "body": "117ポイント / コメント80件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49375719"
+  },
+  {
+   "tag": "WIKI",
+   "title": "犬山駅",
+   "body": "犬山駅（いぬやまえき）は、愛知県犬山市犬山富士見町にある、名古屋鉄道（名鉄）の駅である。駅番号はIY15。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E7%8A%AC%E5%B1%B1%E9%A7%85"
   }
  ]
 }
