@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-21T16:59:15+09:00",
+ "generated_at": "2026-08-21T17:59:47+09:00",
  "items": [
+  {
+   "tag": "WIKI",
+   "title": "1+1+1+1+…",
+   "body": "数学において1 + 1 + 1 + 1 + · · · は発散する級数のひとつである。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/1%2B1%2B1%2B1%2B%E2%80%A6"
+  },
+  {
+   "tag": "HN",
+   "title": "Japan tried to build an operating system for the world, the US interv…",
+   "body": "116ポイント / コメント57件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49384180"
+  },
+  {
+   "tag": "HN",
+   "title": "Speeding Up (Small) Ruby Hashes",
+   "body": "51ポイント / コメント0件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49295112"
+  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高29.5℃ / 最低24.1℃。いまは28.3℃。",
+   "body": "霧雨。最高29.5℃ / 最低24.1℃。いまは27.6℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Micron announces $10B research hub in Boise",
-   "body": "8ポイント / コメント0件。",
+   "title": "Seed: Minimal, self-modifying agent harness",
+   "body": "18ポイント / コメント7件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49383582"
-  },
-  {
-   "tag": "HN",
-   "title": "HTML Can Do That",
-   "body": "750ポイント / コメント184件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49362689"
+   "url": "https://news.ycombinator.com/item?id=49384113"
   },
   {
    "tag": "WIKI",
-   "title": "ウィリアム・ナイト",
-   "body": "ウィリアム・ナイト は、アメリカ合衆国出身のバスケットボール選手、指導者である。ポジションはガード・フォワード。2009年、bjリーグの浜松・東三河フェニックスに入団し、リーグ優勝に…",
+   "title": "クロアチア王国 (1102年-1526年)",
+   "body": "クロアチア王国 は、ハンガリー王国との同君連合（ハンガリー・クロアチア連合王国）である。トルピミロヴィチ家とスヴェトスラヴィチ家の王による統治時代と、国王ドミタル・ズヴォニミルの死に…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A3%E3%83%AA%E3%82%A2%E3%83%A0%E3%83%BB%E3%83%8A%E3%82%A4%E3%83%88"
-  },
-  {
-   "tag": "HN",
-   "title": "The August 17 outage",
-   "body": "480ポイント / コメント549件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49378957"
-  },
-  {
-   "tag": "WIKI",
-   "title": "大内義興",
-   "body": "大内 義興 は、室町時代後期から戦国時代にかけての周防（山口）の戦国大名・ 公卿。周防の在庁官人・大内氏の第15代当主。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%86%85%E7%BE%A9%E8%88%88"
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AD%E3%82%A2%E3%83%81%E3%82%A2%E7%8E%8B%E5%9B%BD_(1102%E5%B9%B4-1526%E5%B9%B4)"
   }
  ]
 }
