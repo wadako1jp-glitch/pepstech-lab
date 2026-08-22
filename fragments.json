@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-23T05:42:19+09:00",
+ "generated_at": "2026-08-23T06:38:21+09:00",
  "items": [
   {
-   "tag": "WIKI",
-   "title": "辰吉丈一郎",
-   "body": "辰吉 丈一郎 は、日本のプロボクサー。岡山県倉敷市出身。大阪帝拳ジム所属。元WBC世界バンタム級王者。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E8%BE%B0%E5%90%89%E4%B8%88%E4%B8%80%E9%83%8E"
+   "tag": "HN",
+   "title": "Rust Glancer: Rust LSP using 100x less RAM",
+   "body": "387ポイント / コメント92件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49393052"
   },
   {
-   "tag": "HN",
-   "title": "Munder Difflin – Agent harness to run an office of your clones",
-   "body": "226ポイント / コメント105件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49398152"
+   "tag": "WIKI",
+   "title": "山種美術館",
+   "body": "山種美術館（やまたねびじゅつかん）は、東京都渋谷区広尾にある日本画専門の美術館。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E7%A8%AE%E7%BE%8E%E8%A1%93%E9%A4%A8"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "薄曇り。最高29.5℃ / 最低23.4℃。いまは23.4℃。",
+   "body": "薄曇り。最高29.5℃ / 最低23.4℃。いまは23.7℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
+   "tag": "HN",
+   "title": "Z80 – The 1970s Microprocessor Still Alive (2021)",
+   "body": "107ポイント / コメント50件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49398158"
+  },
+  {
+   "tag": "HN",
+   "title": "RF Cafe",
+   "body": "101ポイント / コメント10件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49355659"
+  },
+  {
    "tag": "WIKI",
-   "title": "アンドリュー・テイラー (サッカー選手)",
-   "body": "アンドルー・デレク・テイラー は、イングランド・ハートルプール出身の元サッカー選手、現サッカー指導者。現役時代のポジションはDF（左サイドバック）。",
+   "title": "ジャン川",
+   "body": "ジャン川 は、ベトナムの北中部沿岸のクアンビン省（BắcTrungBộ）にある河川である。全長は268キロメートル。古称は𤅷江。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%BB%E3%83%86%E3%82%A4%E3%83%A9%E3%83%BC_(%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC%E9%81%B8%E6%89%8B)"
-  },
-  {
-   "tag": "HN",
-   "title": "Why your local LLM feels dumber than it is",
-   "body": "25ポイント / コメント7件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49402232"
-  },
-  {
-   "tag": "HN",
-   "title": "hdiutil is deprecated in macOS 27 Golden Gate",
-   "body": "74ポイント / コメント21件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49402741"
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%B3%E5%B7%9D"
   }
  ]
 }
