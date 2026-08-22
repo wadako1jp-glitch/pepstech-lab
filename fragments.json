@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-23T04:38:22+09:00",
+ "generated_at": "2026-08-23T05:42:19+09:00",
  "items": [
   {
+   "tag": "WIKI",
+   "title": "辰吉丈一郎",
+   "body": "辰吉 丈一郎 は、日本のプロボクサー。岡山県倉敷市出身。大阪帝拳ジム所属。元WBC世界バンタム級王者。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E8%BE%B0%E5%90%89%E4%B8%88%E4%B8%80%E9%83%8E"
+  },
+  {
    "tag": "HN",
-   "title": "Canada will match US tariffs 'dollar for dollar' as trade talks break…",
-   "body": "216ポイント / コメント841件。",
+   "title": "Munder Difflin – Agent harness to run an office of your clones",
+   "body": "226ポイント / コメント105件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49397074"
-  },
-  {
-   "tag": "WIKI",
-   "title": "中川謙二郎",
-   "body": "中川 謙二郎 は明治時代から大正時代にかけての日本の教育者、文部官僚。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%B7%9D%E8%AC%99%E4%BA%8C%E9%83%8E"
-  },
-  {
-   "tag": "WIKI",
-   "title": "航空無線通信士",
-   "body": "航空無線通信士（こうくうむせんつうしんし）は、無線従事者の一種で電波法第40条第1項第3号イに規定するものである。 英語表記は Aeronautical Radio Operator。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E8%88%AA%E7%A9%BA%E7%84%A1%E7%B7%9A%E9%80%9A%E4%BF%A1%E5%A3%AB"
+   "url": "https://news.ycombinator.com/item?id=49398152"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "薄曇り。最高29.5℃ / 最低23.4℃。いまは23.5℃。",
+   "body": "薄曇り。最高29.5℃ / 最低23.4℃。いまは23.4℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "HN",
-   "title": "Anthropic appears to be A/B testing reduced effort levels in Claude C…",
-   "body": "76ポイント / コメント80件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49401549"
+   "tag": "WIKI",
+   "title": "アンドリュー・テイラー (サッカー選手)",
+   "body": "アンドルー・デレク・テイラー は、イングランド・ハートルプール出身の元サッカー選手、現サッカー指導者。現役時代のポジションはDF（左サイドバック）。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%BB%E3%83%86%E3%82%A4%E3%83%A9%E3%83%BC_(%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC%E9%81%B8%E6%89%8B)"
   },
   {
    "tag": "HN",
-   "title": "Why it might be time to rethink the human family tree",
-   "body": "28ポイント / コメント15件。",
+   "title": "Why your local LLM feels dumber than it is",
+   "body": "25ポイント / コメント7件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49377316"
+   "url": "https://news.ycombinator.com/item?id=49402232"
+  },
+  {
+   "tag": "HN",
+   "title": "hdiutil is deprecated in macOS 27 Golden Gate",
+   "body": "74ポイント / コメント21件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49402741"
   }
  ]
 }
