@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-22T17:49:26+09:00",
+ "generated_at": "2026-08-22T18:44:43+09:00",
  "items": [
   {
    "tag": "WIKI",
-   "title": "塩川莉世",
-   "body": "塩川 莉世 は、日本のモデル、タレント、歌手。山梨県出身。アソビシステム所属。",
+   "title": "メシーア",
+   "body": "メシーア（Mesía）は、スペイン、ガリシア州、ア・コルーニャ県の自治体。コマルカ・デ・オルデスに属する。ガリシア統計局によると、2010年の人口は2,918人 である。住民呼称は、…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%A1%A9%E5%B7%9D%E8%8E%89%E4%B8%96"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%B7%E3%83%BC%E3%82%A2"
   },
   {
    "tag": "HN",
-   "title": "ESP32 Firmware Development with Docker Sandboxes",
-   "body": "13ポイント / コメント4件。",
+   "title": "Everyone says assembly is untyped—everyone is wrong",
+   "body": "79ポイント / コメント33件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49329506"
+   "url": "https://news.ycombinator.com/item?id=49376769"
   },
   {
    "tag": "HN",
-   "title": "Kobo can run apps now",
-   "body": "534ポイント / コメント187件。",
+   "title": "A revisit of remote Spectre attacks on Cloudflare Workers",
+   "body": "52ポイント / コメント0件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49390427"
-  },
-  {
-   "tag": "WIKI",
-   "title": "アルゼンチン陸軍",
-   "body": "アルゼンチン陸軍 はアルゼンチンの陸軍。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%BC%E3%83%B3%E3%83%81%E3%83%B3%E9%99%B8%E8%BB%8D"
+   "url": "https://news.ycombinator.com/item?id=49364721"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高30.1℃ / 最低24.2℃。いまは28.0℃。",
+   "body": "霧雨。最高30.1℃ / 最低24.2℃。いまは27.5℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
+   "tag": "WIKI",
+   "title": "ジョン・グールド",
+   "body": "ジョン・グールド は、イギリスの鳥類学者・動物学者・出版者である。王立協会会員（FRS）。鳥類に関する壮麗な図版入りモノグラフを多数刊行し、特に7巻からなる大著『オーストラリアの鳥類…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%82%B0%E3%83%BC%E3%83%AB%E3%83%89"
+  },
+  {
    "tag": "HN",
-   "title": "OTel isn’t going well",
-   "body": "106ポイント / コメント42件。",
+   "title": "Kagi added a setting for removing paywalled links from search results",
+   "body": "1121ポイント / コメント363件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49391553"
+   "url": "https://news.ycombinator.com/item?id=49388154"
   }
  ]
 }
