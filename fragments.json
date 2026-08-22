@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-23T07:40:47+09:00",
+ "generated_at": "2026-08-23T08:36:58+09:00",
  "items": [
+  {
+   "tag": "WIKI",
+   "title": "アーサー・テューダー",
+   "body": "アーサー・テューダー は、イングランド王ヘンリー7世と王妃エリザベスの第1王子でヘンリー8世の兄。プリンス・オブ・ウェールズに立てられたが、国王即位を果たせずに死去した。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%BC%E3%82%B5%E3%83%BC%E3%83%BB%E3%83%86%E3%83%A5%E3%83%BC%E3%83%80%E3%83%BC"
+  },
+  {
+   "tag": "HN",
+   "title": "Show HN: OzBrain, a shared brain for knowledge between agents and you…",
+   "body": "75ポイント / コメント46件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49394827"
+  },
+  {
+   "tag": "HN",
+   "title": "Z80 – The 1970s Microprocessor Still Alive (2021)",
+   "body": "113ポイント / コメント54件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49398158"
+  },
+  {
+   "tag": "WIKI",
+   "title": "静岡県旗",
+   "body": "静岡県旗（しずおかけんき）は、日本の都道府県の一つ、静岡県の旗。本項では、旗に図示されている静岡県章（しずおかけんしょう）についても併せて解説する。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E9%9D%99%E5%B2%A1%E7%9C%8C%E6%97%97"
+  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "薄曇り。最高29.5℃ / 最低23.4℃。いまは24.3℃。",
+   "body": "薄曇り。最高29.8℃ / 最低23.6℃。いまは25.4℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "hdiutil is deprecated in macOS 27 Golden Gate",
-   "body": "142ポイント / コメント48件。",
+   "title": "Why your local LLM feels dumber than it is",
+   "body": "142ポイント / コメント37件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49402741"
-  },
-  {
-   "tag": "HN",
-   "title": "Anthropic appears to be A/B testing reduced effort levels in Claude C…",
-   "body": "147ポイント / コメント137件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49401549"
-  },
-  {
-   "tag": "HN",
-   "title": "One night in Uzbekistan: Why was this one data point so influential?",
-   "body": "53ポイント / コメント4件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49392536"
-  },
-  {
-   "tag": "WIKI",
-   "title": "安部幸明",
-   "body": "安部 幸明 は日本の作曲家。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%AE%89%E9%83%A8%E5%B9%B8%E6%98%8E"
-  },
-  {
-   "tag": "WIKI",
-   "title": "メアリ・シーコール",
-   "body": "メアリ・ジェーン・シーコール は、ヴィクトリア時代のイギリスで活躍したジャマイカ出身のクレオール女性で、看護師。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%A2%E3%83%AA%E3%83%BB%E3%82%B7%E3%83%BC%E3%82%B3%E3%83%BC%E3%83%AB"
+   "url": "https://news.ycombinator.com/item?id=49402232"
   }
  ]
 }
