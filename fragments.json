@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-22T22:45:34+09:00",
+ "generated_at": "2026-08-22T23:40:46+09:00",
  "items": [
   {
-   "tag": "HN",
-   "title": "Hook, hold, harvest and hide: Meta's alleged strategy laid out in fir…",
-   "body": "64ポイント / コメント4件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49398904"
+   "tag": "WIKI",
+   "title": "国鉄495系電車",
+   "body": "495系電車（495けいでんしゃ）は、日本国有鉄道（国鉄）が製造した事業用交流直流両用電車（架線検測車）である。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%89%84495%E7%B3%BB%E9%9B%BB%E8%BB%8A"
   },
   {
-   "tag": "WIKI",
-   "title": "コタバト",
-   "body": "コタバト市 は、フィリピン南部ミンダナオ島の南部に位置する都市の1つである。コタバト・ヴァレー（コタバト平野）の米など農業産品の集散地として古くから栄えた。街の中心は、ミンダナオ有数…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%BF%E3%83%90%E3%83%88"
+   "tag": "HN",
+   "title": "How Thailand Resisted Colonization",
+   "body": "68ポイント / コメント20件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49392099"
+  },
+  {
+   "tag": "HN",
+   "title": "A Kantian Critique of \"Sorry\" by Justin Bieber",
+   "body": "61ポイント / コメント10件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49399524"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高30.1℃ / 最低24.2℃。いまは24.9℃。",
+   "body": "霧雨。最高30.1℃ / 最低24.2℃。いまは24.7℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "HN",
-   "title": "New Worlds: We are living in the future of J.G. Ballard or William Gi…",
-   "body": "259ポイント / コメント168件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49387525"
-  },
-  {
    "tag": "WIKI",
-   "title": "釧路外環状道路",
-   "body": "釧路外環状道路（くしろそとかんじょうどうろ）は、北海道の釧路市鶴野（釧路西IC）から釧路郡釧路町上別保（釧路別保IC）に至る総延長 16.8キロメートル (km) の自動車専用道路（…",
+   "title": "岡田華子",
+   "body": "岡田 華子 は、日本の政治家、弁護士。元衆議院議員（1期）。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E9%87%A7%E8%B7%AF%E5%A4%96%E7%92%B0%E7%8A%B6%E9%81%93%E8%B7%AF"
+   "url": "https://ja.wikipedia.org/wiki/%E5%B2%A1%E7%94%B0%E8%8F%AF%E5%AD%90"
   },
   {
    "tag": "HN",
-   "title": "Rust Glancer: Rust LSP using 100x less RAM",
-   "body": "313ポイント / コメント62件。",
+   "title": "Three important steps in my maturation process",
+   "body": "183ポイント / コメント82件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49393052"
+   "url": "https://news.ycombinator.com/item?id=49394496"
   }
  ]
 }
