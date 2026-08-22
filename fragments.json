@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-22T22:02:43+09:00",
+ "generated_at": "2026-08-22T22:45:34+09:00",
  "items": [
   {
    "tag": "HN",
-   "title": "OTel isn’t going well",
-   "body": "151ポイント / コメント60件。",
+   "title": "Hook, hold, harvest and hide: Meta's alleged strategy laid out in fir…",
+   "body": "64ポイント / コメント4件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49391553"
+   "url": "https://news.ycombinator.com/item?id=49398904"
   },
   {
-   "tag": "HN",
-   "title": "I'm becoming AI-blind",
-   "body": "410ポイント / コメント416件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49386699"
-  },
-  {
-   "tag": "HN",
-   "title": "Felony charges for citizen deleting phone data at US Border",
-   "body": "864ポイント / コメント987件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49386895"
+   "tag": "WIKI",
+   "title": "コタバト",
+   "body": "コタバト市 は、フィリピン南部ミンダナオ島の南部に位置する都市の1つである。コタバト・ヴァレー（コタバト平野）の米など農業産品の集散地として古くから栄えた。街の中心は、ミンダナオ有数…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%BF%E3%83%90%E3%83%88"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高30.1℃ / 最低24.2℃。いまは25.2℃。",
+   "body": "霧雨。最高30.1℃ / 最低24.2℃。いまは24.9℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "WIKI",
-   "title": "しぎ焼き",
-   "body": "しぎ焼き（しぎやき）あるいは鴫焼き（しぎやき）は、ナス料理の一種で、ナスを縦二つまたは厚めの輪切りにして、油で炒めて、味見味噌で味をつけて食べる料理をいう。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%81%97%E3%81%8E%E7%84%BC%E3%81%8D"
+   "tag": "HN",
+   "title": "New Worlds: We are living in the future of J.G. Ballard or William Gi…",
+   "body": "259ポイント / コメント168件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49387525"
   },
   {
    "tag": "WIKI",
-   "title": "飛島グリーンヒル",
-   "body": "飛島グリーンヒル（とびしまグリーンヒル）は、滋賀県草津市と同県大津市の市境にある住宅地である。飛島都市開発がびわこ文化公園都市の住宅ゾーンとして分譲し、若草・青山・松が丘の3地区から…",
+   "title": "釧路外環状道路",
+   "body": "釧路外環状道路（くしろそとかんじょうどうろ）は、北海道の釧路市鶴野（釧路西IC）から釧路郡釧路町上別保（釧路別保IC）に至る総延長 16.8キロメートル (km) の自動車専用道路（…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E9%A3%9B%E5%B3%B6%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%92%E3%83%AB"
+   "url": "https://ja.wikipedia.org/wiki/%E9%87%A7%E8%B7%AF%E5%A4%96%E7%92%B0%E7%8A%B6%E9%81%93%E8%B7%AF"
+  },
+  {
+   "tag": "HN",
+   "title": "Rust Glancer: Rust LSP using 100x less RAM",
+   "body": "313ポイント / コメント62件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49393052"
   }
  ]
 }
