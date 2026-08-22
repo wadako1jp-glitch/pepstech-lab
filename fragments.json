@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-22T08:41:47+09:00",
+ "generated_at": "2026-08-22T10:52:20+09:00",
  "items": [
   {
-   "tag": "WIKI",
-   "title": "今井正",
-   "body": "今井 正 は、日本の映画監督。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E4%BB%8A%E4%BA%95%E6%AD%A3"
-  },
-  {
-   "tag": "WIKI",
-   "title": "グラディ・テイト",
-   "body": "グラディ・テイト は、アメリカ合衆国のジャズ、ソウル・ジャズのドラマー、バリトン・ボーカリスト。サイドマンとしての活動に加え、リーダーとして多くのアルバムをリリースし、アニメ・シリー…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%A9%E3%83%87%E3%82%A3%E3%83%BB%E3%83%86%E3%82%A4%E3%83%88"
+   "tag": "HN",
+   "title": "Kodak's \"pre-invented\" lunar orbiter camera; or, the fate of SAMOS re…",
+   "body": "55ポイント / コメント3件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49388095"
   },
   {
    "tag": "HN",
-   "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
-   "body": "172ポイント / コメント125件。",
+   "title": "A look under our trunk: what's in our compute",
+   "body": "95ポイント / コメント50件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49388752"
+   "url": "https://news.ycombinator.com/item?id=49374853"
+  },
+  {
+   "tag": "WIKI",
+   "title": "山口市立阿知須中学校",
+   "body": "山口市立阿知須中学校 は、山口県山口市阿知須にある公立中学校。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E5%8F%A3%E5%B8%82%E7%AB%8B%E9%98%BF%E7%9F%A5%E9%A0%88%E4%B8%AD%E5%AD%A6%E6%A0%A1"
+  },
+  {
+   "tag": "HN",
+   "title": "Everyone says assembly is untyped—everyone is wrong",
+   "body": "39ポイント / コメント14件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49376769"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "強い霧雨。最高29.9℃ / 最低24.1℃。いまは25.5℃。",
+   "body": "小雨。最高30.3℃ / 最低24.2℃。いまは28.9℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "HN",
-   "title": "Scientists release biggest 2D map of the universe",
-   "body": "125ポイント / コメント38件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49392200"
-  },
-  {
-   "tag": "HN",
-   "title": "Three important steps in my maturation process",
-   "body": "8ポイント / コメント1件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49394496"
+   "tag": "WIKI",
+   "title": "地域医療機能推進機構高岡ふしき病院",
+   "body": "地域医療機能推進機構高岡ふしき病院（ちいきいりょうきのうすいしんきこうたかおかふしきびょういん）は、富山県高岡市にある独立行政法人地域医療機能推進機構の病院。通称JCHO高岡ふしき病…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%9C%B0%E5%9F%9F%E5%8C%BB%E7%99%82%E6%A9%9F%E8%83%BD%E6%8E%A8%E9%80%B2%E6%A9%9F%E6%A7%8B%E9%AB%98%E5%B2%A1%E3%81%B5%E3%81%97%E3%81%8D%E7%97%85%E9%99%A2"
   }
  ]
 }
