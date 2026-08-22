@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-22T16:47:24+09:00",
+ "generated_at": "2026-08-22T17:49:26+09:00",
  "items": [
   {
+   "tag": "WIKI",
+   "title": "塩川莉世",
+   "body": "塩川 莉世 は、日本のモデル、タレント、歌手。山梨県出身。アソビシステム所属。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%A1%A9%E5%B7%9D%E8%8E%89%E4%B8%96"
+  },
+  {
    "tag": "HN",
-   "title": "SalesPatriot (YC W25) Is Hiring Forward Deployed Engineers",
-   "body": "1ポイント / コメント0件。",
+   "title": "ESP32 Firmware Development with Docker Sandboxes",
+   "body": "13ポイント / コメント4件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49393733"
+   "url": "https://news.ycombinator.com/item?id=49329506"
+  },
+  {
+   "tag": "HN",
+   "title": "Kobo can run apps now",
+   "body": "534ポイント / コメント187件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49390427"
   },
   {
    "tag": "WIKI",
-   "title": "ローワー・カナダ",
-   "body": "ローワー・カナダ は、現在のカナダ、ケベック州にあったイギリスの植民地である。公式には1791年から1841年まで存在し、領域は大まかに現在のケベック州南部とニューファンドランド・ラ…",
+   "title": "アルゼンチン陸軍",
+   "body": "アルゼンチン陸軍 はアルゼンチンの陸軍。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%83%BB%E3%82%AB%E3%83%8A%E3%83%80"
-  },
-  {
-   "tag": "HN",
-   "title": "Initial focus for our partnership with Motorola is a regular non-fold…",
-   "body": "102ポイント / コメント33件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49395605"
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%BC%E3%83%B3%E3%83%81%E3%83%B3%E9%99%B8%E8%BB%8D"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高30.1℃ / 最低24.2℃。いまは28.6℃。",
+   "body": "霧雨。最高30.1℃ / 最低24.2℃。いまは28.0℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "WIKI",
-   "title": "熱海市立図書館",
-   "body": "熱海市立図書館（あたみしりつとしょかん）は、静岡県熱海市の公共図書館。熱海町に居住していた坪内逍遥の蔵書などを中心として1915年（大正4年）に開館した。静岡県に現存する最古の図書館…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E7%86%B1%E6%B5%B7%E5%B8%82%E7%AB%8B%E5%9B%B3%E6%9B%B8%E9%A4%A8"
-  },
-  {
    "tag": "HN",
-   "title": "Three important steps in my maturation process",
-   "body": "124ポイント / コメント52件。",
+   "title": "OTel isn’t going well",
+   "body": "106ポイント / コメント42件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49394496"
+   "url": "https://news.ycombinator.com/item?id=49391553"
   }
  ]
 }
