@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-23T00:36:49+09:00",
+ "generated_at": "2026-08-23T01:42:57+09:00",
  "items": [
+  {
+   "tag": "HN",
+   "title": "Scientists release biggest 2D map of the universe",
+   "body": "238ポイント / コメント64件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49392200"
+  },
+  {
+   "tag": "WIKI",
+   "title": "埼玉県道230号東吾野停車場線",
+   "body": "埼玉県道230号東吾野停車場線 は、埼玉県飯能市内に設定されている都道府県道である。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%9F%BC%E7%8E%89%E7%9C%8C%E9%81%93230%E5%8F%B7%E6%9D%B1%E5%90%BE%E9%87%8E%E5%81%9C%E8%BB%8A%E5%A0%B4%E7%B7%9A"
+  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高29.0℃ / 最低23.7℃。いまは24.5℃。",
+   "body": "霧雨。最高29.0℃ / 最低23.7℃。いまは24.3℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "AI boosted homework scores, then exam scores dropped: study",
-   "body": "348ポイント / コメント350件。",
+   "title": "Stop Making TUIs",
+   "body": "308ポイント / コメント387件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49357530"
+   "url": "https://news.ycombinator.com/item?id=49384210"
   },
   {
    "tag": "HN",
-   "title": "Canada suspends trade negotiations with USA and match tariffs dollar …",
-   "body": "587ポイント / コメント520件。",
+   "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+   "body": "67ポイント / コメント18件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49398304"
+   "url": "https://news.ycombinator.com/item?id=49400408"
   },
   {
    "tag": "WIKI",
-   "title": "玉野郵便局 (岡山県)",
-   "body": "玉野郵便局（たまのゆうびんきょく）は、岡山県玉野市にある郵便局。民営化前の分類では集配普通郵便局であった。",
+   "title": "ラスベガスグランプリ",
+   "body": "ラスベガスグランプリ は、2023年からアメリカ合衆国・ネバダ州ラスベガス郊外のラスベガス・ストリップに新設されたラスベガス・ストリップ・サーキットで開催されているF1世界選手権のレ…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E7%8E%89%E9%87%8E%E9%83%B5%E4%BE%BF%E5%B1%80_(%E5%B2%A1%E5%B1%B1%E7%9C%8C)"
-  },
-  {
-   "tag": "HN",
-   "title": "Zig’s Io.Threaded is neat",
-   "body": "117ポイント / コメント66件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49388694"
-  },
-  {
-   "tag": "WIKI",
-   "title": "メヒルギ",
-   "body": "メヒルギ はヒルギ科メヒルギ属の常緑木本。潮間帯に生育するマングローブ樹種のひとつ。別名リュウキュウコウガイ（琉球笄）。かつて、日本に産する本種にはKandelia candel (…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%92%E3%83%AB%E3%82%AE"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%B9%E3%83%99%E3%82%AC%E3%82%B9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%97%E3%83%AA"
   }
  ]
 }
