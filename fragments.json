@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-23T13:53:34+09:00",
+ "generated_at": "2026-08-23T14:47:17+09:00",
  "items": [
   {
+   "tag": "WIKI",
+   "title": "セルフサービス",
+   "body": "セルフサービス とは、顧客が直接商品を手にとって選び、低価格・短時間の買い物ができるようにした販売形態。レストランなど飲食店では料理がすでに出来上がっており、これを客が選び取って自ら…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%AB%E3%83%95%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9"
+  },
+  {
+   "tag": "WIKI",
+   "title": "福寿院 (足立区伊興)",
+   "body": "福寿院（ふくじゅいん）は、東京都足立区にある真言宗豊山派の寺院。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E7%A6%8F%E5%AF%BF%E9%99%A2_(%E8%B6%B3%E7%AB%8B%E5%8C%BA%E4%BC%8A%E8%88%88)"
+  },
+  {
    "tag": "HN",
-   "title": "I set a trap for a book-marketing scammer (2025)",
-   "body": "20ポイント / コメント16件。",
+   "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+   "body": "353ポイント / コメント109件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49402181"
+   "url": "https://news.ycombinator.com/item?id=49400408"
+  },
+  {
+   "tag": "HN",
+   "title": "Thinking in Python",
+   "body": "122ポイント / コメント23件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49402202"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "薄曇り。最高29.6℃ / 最低23.6℃。いまは29.5℃。",
+   "body": "霧雨。最高29.7℃ / 最低23.6℃。いまは29.7℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "WIKI",
-   "title": "トゥールーズ・ブラニャック空港",
-   "body": "トゥールーズ・ブラニャック空港 は、フランス共和国オート＝ガロンヌ県トゥールーズ北西部およびブラニャック西部にまたがって位置する空港である。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%82%A5%E3%83%BC%E3%83%AB%E3%83%BC%E3%82%BA%E3%83%BB%E3%83%96%E3%83%A9%E3%83%8B%E3%83%A3%E3%83%83%E3%82%AF%E7%A9%BA%E6%B8%AF"
-  },
-  {
    "tag": "HN",
-   "title": "Munder Difflin – Agent harness to run an office of your clones",
-   "body": "264ポイント / コメント117件。",
+   "title": "Scrap (2006)",
+   "body": "359ポイント / コメント191件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49398152"
-  },
-  {
-   "tag": "HN",
-   "title": "NetBSD and my life (2005)",
-   "body": "105ポイント / コメント28件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49402781"
-  },
-  {
-   "tag": "WIKI",
-   "title": "ヨゼフ・ミスリヴェチェク",
-   "body": "ヨセフ・ミスリヴェチェク（Josef Mysliveček はチェコ出身のオペラ作曲家。主にイタリアで活躍した。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%A8%E3%82%BC%E3%83%95%E3%83%BB%E3%83%9F%E3%82%B9%E3%83%AA%E3%83%B4%E3%82%A7%E3%83%81%E3%82%A7%E3%82%AF"
+   "url": "https://news.ycombinator.com/item?id=49402189"
   }
  ]
 }
