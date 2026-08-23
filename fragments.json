@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-23T20:37:58+09:00",
+ "generated_at": "2026-08-23T22:03:42+09:00",
  "items": [
   {
-   "tag": "HN",
-   "title": "Show HN: Live 3D satellite tracker and the declassified Pentagon UFO …",
-   "body": "5ポイント / コメント0件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49407309"
+   "tag": "WIKI",
+   "title": "運輸安全委員会",
+   "body": "運輸安全委員会 は、日本の行政機関のひとつ。航空事故・鉄道事故・船舶事故または重大インシデントの原因究明調査を行い、調査結果に基づき国土交通大臣または原因関係者に対し必要な施策・措置…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E9%81%8B%E8%BC%B8%E5%AE%89%E5%85%A8%E5%A7%94%E5%93%A1%E4%BC%9A"
   },
   {
    "tag": "WIKI",
-   "title": "岩渕貞哉",
-   "body": "岩渕 貞哉 は、日本の編集者。",
+   "title": "メナロ山",
+   "body": "メナロ山 は、ギリシャのアルカディア県にある山で、ペロポネソス半島のメナロン高地の最高峰。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%B2%A9%E6%B8%95%E8%B2%9E%E5%93%89"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%8A%E3%83%AD%E5%B1%B1"
+  },
+  {
+   "tag": "HN",
+   "title": "NetBSD and my life (2005)",
+   "body": "134ポイント / コメント29件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49402781"
+  },
+  {
+   "tag": "HN",
+   "title": "Thinking in Python",
+   "body": "213ポイント / コメント40件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49402202"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "曇り。最高29.5℃ / 最低23.6℃。いまは26.3℃。",
+   "body": "曇り。最高29.5℃ / 最低23.6℃。いまは25.5℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "WIKI",
-   "title": "横浜BLITZ",
-   "body": "横浜BLITZ（よこはまブリッツ）は、神奈川県横浜市西区みなとみらい五丁目のGENTO YOKOHAMA内でかつて運営されていた、主に音楽ライブを開催するTBSテレビ運営のライブハウ…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%A8%AA%E6%B5%9CBLITZ"
-  },
-  {
    "tag": "HN",
-   "title": "Show HN: Public Muscriptor Instance (latest, most powerful Audio-to-M…",
-   "body": "48ポイント / コメント9件。",
+   "title": "Hister – A private, full content search index that you control",
+   "body": "394ポイント / コメント87件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49389846"
-  },
-  {
-   "tag": "HN",
-   "title": "A Friendly Introduction to Racket",
-   "body": "236ポイント / コメント130件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49399898"
+   "url": "https://news.ycombinator.com/item?id=49351802"
   }
  ]
 }
