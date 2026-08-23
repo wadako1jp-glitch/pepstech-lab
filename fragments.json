@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-24T05:41:23+09:00",
+ "generated_at": "2026-08-24T06:38:19+09:00",
  "items": [
   {
-   "tag": "WIKI",
-   "title": "北島町立北島中学校",
-   "body": "北島町立北島中学校 は、徳島県板野郡北島町高房字東野神ノにある公立中学校。通称「北中（きたちゅう）」。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%8C%97%E5%B3%B6%E7%94%BA%E7%AB%8B%E5%8C%97%E5%B3%B6%E4%B8%AD%E5%AD%A6%E6%A0%A1"
+   "tag": "HN",
+   "title": "JIT Compiling Code in 5μs",
+   "body": "150ポイント / コメント95件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49406387"
   },
   {
    "tag": "HN",
-   "title": "My agent.md to improve LLM-assisted code quality",
-   "body": "27ポイント / コメント14件。",
+   "title": "Why Sal Khan't: On Learning by Making but Teaching by Telling",
+   "body": "97ポイント / コメント60件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49410932"
+   "url": "https://news.ycombinator.com/item?id=49409862"
   },
   {
    "tag": "HN",
-   "title": "Phoenix tried a reflective coating on black asphalt; noon surface hea…",
-   "body": "17ポイント / コメント18件。",
+   "title": "How Complex Systems Fail (1998)",
+   "body": "180ポイント / コメント50件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49410250"
-  },
-  {
-   "tag": "HN",
-   "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 m…",
-   "body": "282ポイント / コメント123件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49407507"
+   "url": "https://news.ycombinator.com/item?id=49409473"
   },
   {
    "tag": "WIKI",
-   "title": "滋賀県立水口東中学校・高等学校",
-   "body": "滋賀県立水口東中学校・高等学校 は、滋賀県甲賀市水口町古城が丘にある県立中高一貫校。",
+   "title": "しらゆき (練習艦)",
+   "body": "しらゆき は、海上自衛隊の練習艦（最終時）。はつゆき型護衛艦の2番艦。晩年には練習艦に種別変更され、しまゆき型練習艦の2番艦となった。｢しらゆき｣の名は｢白い雪｣に由来し、同じ名を持…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%BB%8B%E8%B3%80%E7%9C%8C%E7%AB%8B%E6%B0%B4%E5%8F%A3%E6%9D%B1%E4%B8%AD%E5%AD%A6%E6%A0%A1%E3%83%BB%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1"
+   "url": "https://ja.wikipedia.org/wiki/%E3%81%97%E3%82%89%E3%82%86%E3%81%8D_(%E7%B7%B4%E7%BF%92%E8%89%A6)"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "曇り。最高32.2℃ / 最低23.6℃。いまは23.6℃。",
+   "body": "曇り。最高32.2℃ / 最低23.6℃。いまは23.8℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
+  },
+  {
+   "tag": "WIKI",
+   "title": "李宗盛",
+   "body": "李宗盛 は、中華民国の歌手・プロデューサー。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E6%9D%8E%E5%AE%97%E7%9B%9B"
   }
  ]
 }
