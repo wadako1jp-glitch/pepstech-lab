@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-23T14:47:17+09:00",
+ "generated_at": "2026-08-23T16:03:10+09:00",
  "items": [
   {
    "tag": "WIKI",
-   "title": "セルフサービス",
-   "body": "セルフサービス とは、顧客が直接商品を手にとって選び、低価格・短時間の買い物ができるようにした販売形態。レストランなど飲食店では料理がすでに出来上がっており、これを客が選び取って自ら…",
+   "title": "ヒュロノメー",
+   "body": "ヒュロノメー は、ギリシア神話に登場するケンタウリス（雌のケンタウロス）である。長母音を省略してヒュロノメとも表記される。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%AB%E3%83%95%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9"
-  },
-  {
-   "tag": "WIKI",
-   "title": "福寿院 (足立区伊興)",
-   "body": "福寿院（ふくじゅいん）は、東京都足立区にある真言宗豊山派の寺院。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E7%A6%8F%E5%AF%BF%E9%99%A2_(%E8%B6%B3%E7%AB%8B%E5%8C%BA%E4%BC%8A%E8%88%88)"
-  },
-  {
-   "tag": "HN",
-   "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
-   "body": "353ポイント / コメント109件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49400408"
-  },
-  {
-   "tag": "HN",
-   "title": "Thinking in Python",
-   "body": "122ポイント / コメント23件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49402202"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%A5%E3%83%AD%E3%83%8E%E3%83%A1%E3%83%BC"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高29.7℃ / 最低23.6℃。いまは29.7℃。",
+   "body": "曇り。最高29.7℃ / 最低23.6℃。いまは29.7℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Scrap (2006)",
-   "body": "359ポイント / コメント191件。",
+   "title": "The End of an Athlon",
+   "body": "20ポイント / コメント0件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49402189"
+   "url": "https://news.ycombinator.com/item?id=49406333"
+  },
+  {
+   "tag": "WIKI",
+   "title": "奈良県立吉野林業高等学校",
+   "body": "奈良県立吉野林業高等学校 とは、かつて奈良県吉野郡川上村西河105-1にあった公立の高等学校である。1978年、県立高等学校再編による奈良県立吉野工業高等学校との統合で、奈良県立吉野…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%A5%88%E8%89%AF%E7%9C%8C%E7%AB%8B%E5%90%89%E9%87%8E%E6%9E%97%E6%A5%AD%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1"
+  },
+  {
+   "tag": "HN",
+   "title": "The Golden Rule for Becoming a Better Writer",
+   "body": "61ポイント / コメント34件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49405870"
+  },
+  {
+   "tag": "HN",
+   "title": "Munder Difflin – Agent harness to run an office of your clones",
+   "body": "275ポイント / コメント118件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49398152"
   }
  ]
 }
