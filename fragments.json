@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-23T18:45:24+09:00",
+ "generated_at": "2026-08-23T19:43:33+09:00",
  "items": [
   {
    "tag": "HN",
-   "title": "To become a better writer, read as much as you can",
-   "body": "138ポイント / コメント86件。",
+   "title": "Show HN: Public Muscriptor Instance (latest, most powerful Audio-to-M…",
+   "body": "45ポイント / コメント8件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49405870"
+   "url": "https://news.ycombinator.com/item?id=49389846"
   },
   {
    "tag": "HN",
-   "title": "Why your local LLM feels dumber than it is",
-   "body": "346ポイント / コメント123件。",
+   "title": "Z80 – The 1970s Microprocessor Still Alive (2021)",
+   "body": "140ポイント / コメント69件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49402232"
+   "url": "https://news.ycombinator.com/item?id=49398158"
   },
   {
    "tag": "WIKI",
-   "title": "ニホンジカ",
-   "body": "ニホンジカ は、哺乳綱偶蹄目（鯨偶蹄目とする見解もあり）シカ科シカ属に分類される偶蹄類（シカ）である。国内ではエゾシカ、ホンシュウジカ、キュウシュウジカ、ヤクシカ、絶滅危惧のマゲシカ…",
+   "title": "F7 (エンジン)",
+   "body": "IHI F7はP-1のためにIHIによって開発されたターボファンエンジンである。開発総額は200億円以上。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%9B%E3%83%B3%E3%82%B8%E3%82%AB"
+   "url": "https://ja.wikipedia.org/wiki/F7_(%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3)"
+  },
+  {
+   "tag": "WIKI",
+   "title": "西島町 (豊川市)",
+   "body": "西島町（にしじまちょう）は、愛知県豊川市の地名。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E5%B3%B6%E7%94%BA_(%E8%B1%8A%E5%B7%9D%E5%B8%82)"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "曇り。最高29.7℃ / 最低23.6℃。いまは27.6℃。",
+   "body": "曇り。最高29.7℃ / 最低23.6℃。いまは27.0℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "WIKI",
-   "title": "程頤",
-   "body": "程 頤 は、中国北宋時代の儒学者。字は正叔。伊川先生と称された。兄の程顥とともに朱子学・陽明学の源流の一人で、兄とあわせ「二程子」と呼ばれる。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E7%A8%8B%E9%A0%A4"
-  },
-  {
    "tag": "HN",
-   "title": "NanoGPT Speedrun Frontier",
-   "body": "98ポイント / コメント26件。",
+   "title": "I Dream of Quieter Computing",
+   "body": "77ポイント / コメント61件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49404380"
+   "url": "https://news.ycombinator.com/item?id=49405682"
   }
  ]
 }
