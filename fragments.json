@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-24T01:44:45+09:00",
+ "generated_at": "2026-08-24T02:37:29+09:00",
  "items": [
-  {
-   "tag": "HN",
-   "title": "RF Cafe",
-   "body": "233ポイント / コメント44件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49355659"
-  },
-  {
-   "tag": "WIKI",
-   "title": "ピエトラッボンダンテ",
-   "body": "ピエトラッボンダンテ は、イタリア共和国モリーゼ州イゼルニア県にある、人口約700人の基礎自治体（コムーネ）。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%94%E3%82%A8%E3%83%88%E3%83%A9%E3%83%83%E3%83%9C%E3%83%B3%E3%83%80%E3%83%B3%E3%83%86"
-  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "晴れ。最高31.7℃ / 最低23.6℃。いまは24.6℃。",
+   "body": "曇り。最高31.8℃ / 最低23.5℃。いまは23.7℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
+   "tag": "HN",
+   "title": "I Dream of Quieter Computing",
+   "body": "94ポイント / コメント104件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49405682"
+  },
+  {
    "tag": "WIKI",
-   "title": "マリー＝ドニーズ・ヴィレール",
-   "body": "マリー＝ドニーズ・ヴィレール は、肖像画を専門としていたフランスの画家である。長らくジャック＝ルイ・ダヴィッドの作品と思われていた肖像画「マリー・ジョゼフィーヌ・シャルロット・デュ・…",
+   "title": "ドイツ＝オーストリア共和国",
+   "body": "ドイツ＝オーストリア共和国 またはドイツ＝オーストリア は、第一次世界大戦後に成立した未承認国家である。これは、かつてのオーストリア＝ハンガリー帝国のうち、主にドイツ語を話すドイツ系…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AA%E3%83%BC%EF%BC%9D%E3%83%89%E3%83%8B%E3%83%BC%E3%82%BA%E3%83%BB%E3%83%B4%E3%82%A3%E3%83%AC%E3%83%BC%E3%83%AB"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%82%A4%E3%83%84%EF%BC%9D%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%AA%E3%82%A2%E5%85%B1%E5%92%8C%E5%9B%BD"
+  },
+  {
+   "tag": "WIKI",
+   "title": "櫃石島橋",
+   "body": "櫃石島橋（ひついしじまばし）は、瀬戸大橋海峡部のうち、北から2番目にある橋。香川県坂出市櫃石島と岩黒島の間に架かる、全長792メートル（m）、道路・鉄道併用の斜張橋である。岩黒島橋と…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E6%AB%83%E7%9F%B3%E5%B3%B6%E6%A9%8B"
   },
   {
    "tag": "HN",
-   "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
-   "body": "454ポイント / コメント137件。",
+   "title": "Fast and Hard Code",
+   "body": "97ポイント / コメント64件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49400408"
+   "url": "https://news.ycombinator.com/item?id=49406285"
   },
   {
    "tag": "HN",
-   "title": "How Complex Systems Fail",
-   "body": "54ポイント / コメント5件。",
+   "title": "The End of an Athlon",
+   "body": "161ポイント / コメント73件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49409473"
+   "url": "https://news.ycombinator.com/item?id=49406333"
   }
  ]
 }
