@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-24T06:38:19+09:00",
+ "generated_at": "2026-08-24T07:40:38+09:00",
  "items": [
   {
-   "tag": "HN",
-   "title": "JIT Compiling Code in 5μs",
-   "body": "150ポイント / コメント95件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49406387"
-  },
-  {
-   "tag": "HN",
-   "title": "Why Sal Khan't: On Learning by Making but Teaching by Telling",
-   "body": "97ポイント / コメント60件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49409862"
-  },
-  {
-   "tag": "HN",
-   "title": "How Complex Systems Fail (1998)",
-   "body": "180ポイント / コメント50件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49409473"
-  },
-  {
    "tag": "WIKI",
-   "title": "しらゆき (練習艦)",
-   "body": "しらゆき は、海上自衛隊の練習艦（最終時）。はつゆき型護衛艦の2番艦。晩年には練習艦に種別変更され、しまゆき型練習艦の2番艦となった。｢しらゆき｣の名は｢白い雪｣に由来し、同じ名を持…",
+   "title": "マリモ (不動産)",
+   "body": "株式会社マリモ は、日本の不動産会社。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%81%97%E3%82%89%E3%82%86%E3%81%8D_(%E7%B7%B4%E7%BF%92%E8%89%A6)"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AA%E3%83%A2_(%E4%B8%8D%E5%8B%95%E7%94%A3)"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "曇り。最高32.2℃ / 最低23.6℃。いまは23.8℃。",
+   "body": "薄曇り。最高32.3℃ / 最低23.9℃。いまは25.9℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
+   "tag": "HN",
+   "title": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing spe…",
+   "body": "274ポイント / コメント216件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49406539"
+  },
+  {
    "tag": "WIKI",
-   "title": "李宗盛",
-   "body": "李宗盛 は、中華民国の歌手・プロデューサー。",
+   "title": "伊藤五郎",
+   "body": "伊藤 五郎 は、日本の弁護士、政治家。参議院議員（2期）、衆議院議員（3期）。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%9D%8E%E5%AE%97%E7%9B%9B"
+   "url": "https://ja.wikipedia.org/wiki/%E4%BC%8A%E8%97%A4%E4%BA%94%E9%83%8E"
+  },
+  {
+   "tag": "HN",
+   "title": "How I find problems to solve as a staff engineer",
+   "body": "180ポイント / コメント65件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49411643"
+  },
+  {
+   "tag": "HN",
+   "title": "Predicting AI model release dates with stats",
+   "body": "18ポイント / コメント3件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49410949"
   }
  ]
 }
