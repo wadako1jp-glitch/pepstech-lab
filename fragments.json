@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-24T04:37:55+09:00",
+ "generated_at": "2026-08-24T05:41:23+09:00",
  "items": [
   {
    "tag": "WIKI",
-   "title": "島津忠承",
-   "body": "島津 忠承 は、日本の華族。玉里島津家第3代当主。位階・勲等・爵位は正三位勲一等公爵。第8代日本赤十字社社長、結核予防会会長などを歴任した。",
+   "title": "北島町立北島中学校",
+   "body": "北島町立北島中学校 は、徳島県板野郡北島町高房字東野神ノにある公立中学校。通称「北中（きたちゅう）」。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%B3%B6%E6%B4%A5%E5%BF%A0%E6%89%BF"
+   "url": "https://ja.wikipedia.org/wiki/%E5%8C%97%E5%B3%B6%E7%94%BA%E7%AB%8B%E5%8C%97%E5%B3%B6%E4%B8%AD%E5%AD%A6%E6%A0%A1"
   },
   {
    "tag": "HN",
-   "title": "Malware infects Android-based automotive head unit firmware",
-   "body": "172ポイント / コメント82件。",
+   "title": "My agent.md to improve LLM-assisted code quality",
+   "body": "27ポイント / コメント14件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49408550"
+   "url": "https://news.ycombinator.com/item?id=49410932"
+  },
+  {
+   "tag": "HN",
+   "title": "Phoenix tried a reflective coating on black asphalt; noon surface hea…",
+   "body": "17ポイント / コメント18件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49410250"
+  },
+  {
+   "tag": "HN",
+   "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 m…",
+   "body": "282ポイント / コメント123件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49407507"
+  },
+  {
+   "tag": "WIKI",
+   "title": "滋賀県立水口東中学校・高等学校",
+   "body": "滋賀県立水口東中学校・高等学校 は、滋賀県甲賀市水口町古城が丘にある県立中高一貫校。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E6%BB%8B%E8%B3%80%E7%9C%8C%E7%AB%8B%E6%B0%B4%E5%8F%A3%E6%9D%B1%E4%B8%AD%E5%AD%A6%E6%A0%A1%E3%83%BB%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "曇り。最高32.2℃ / 最低23.6℃。いまは23.7℃。",
+   "body": "曇り。最高32.2℃ / 最低23.6℃。いまは23.6℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
-  },
-  {
-   "tag": "HN",
-   "title": "The Art and Beauty of Blade Runner (2015)",
-   "body": "165ポイント / コメント100件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49405331"
-  },
-  {
-   "tag": "HN",
-   "title": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing spe…",
-   "body": "230ポイント / コメント176件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49406539"
-  },
-  {
-   "tag": "WIKI",
-   "title": "ジーン・エイムズ",
-   "body": "ジーン・エイムズ は、アメリカの俳優、ボーカルミュージシャンである。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%BC%E3%83%B3%E3%83%BB%E3%82%A8%E3%82%A4%E3%83%A0%E3%82%BA"
   }
  ]
 }
