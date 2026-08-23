@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-24T00:39:44+09:00",
+ "generated_at": "2026-08-24T01:44:45+09:00",
  "items": [
-  {
-   "tag": "WIKI",
-   "title": "マティアス・ニコラス・ロドリゲス",
-   "body": "マティアス・ニコラス・ロドリゲス は、アルゼンチンの元サッカー選手。現役時代のポジションはDFまたはMF。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%86%E3%82%A3%E3%82%A2%E3%82%B9%E3%83%BB%E3%83%8B%E3%82%B3%E3%83%A9%E3%82%B9%E3%83%BB%E3%83%AD%E3%83%89%E3%83%AA%E3%82%B2%E3%82%B9"
-  },
-  {
-   "tag": "天気",
-   "title": "東京 きょう",
-   "body": "晴れ。最高31.7℃ / 最低23.6℃。いまは24.7℃。",
-   "src": "open-meteo.com",
-   "url": "https://open-meteo.com/"
-  },
-  {
-   "tag": "HN",
-   "title": "Thinking in Python",
-   "body": "252ポイント / コメント51件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49402202"
-  },
   {
    "tag": "HN",
    "title": "RF Cafe",
-   "body": "227ポイント / コメント44件。",
+   "body": "233ポイント / コメント44件。",
    "src": "news.ycombinator.com",
    "url": "https://news.ycombinator.com/item?id=49355659"
   },
   {
    "tag": "WIKI",
-   "title": "北上バイパス",
-   "body": "北上バイパス（きたかみバイパス）は、国道4号のバイパス道路である。",
+   "title": "ピエトラッボンダンテ",
+   "body": "ピエトラッボンダンテ は、イタリア共和国モリーゼ州イゼルニア県にある、人口約700人の基礎自治体（コムーネ）。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%8C%97%E4%B8%8A%E3%83%90%E3%82%A4%E3%83%91%E3%82%B9"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%94%E3%82%A8%E3%83%88%E3%83%A9%E3%83%83%E3%83%9C%E3%83%B3%E3%83%80%E3%83%B3%E3%83%86"
+  },
+  {
+   "tag": "天気",
+   "title": "東京 きょう",
+   "body": "晴れ。最高31.7℃ / 最低23.6℃。いまは24.6℃。",
+   "src": "open-meteo.com",
+   "url": "https://open-meteo.com/"
+  },
+  {
+   "tag": "WIKI",
+   "title": "マリー＝ドニーズ・ヴィレール",
+   "body": "マリー＝ドニーズ・ヴィレール は、肖像画を専門としていたフランスの画家である。長らくジャック＝ルイ・ダヴィッドの作品と思われていた肖像画「マリー・ジョゼフィーヌ・シャルロット・デュ・…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AA%E3%83%BC%EF%BC%9D%E3%83%89%E3%83%8B%E3%83%BC%E3%82%BA%E3%83%BB%E3%83%B4%E3%82%A3%E3%83%AC%E3%83%BC%E3%83%AB"
   },
   {
    "tag": "HN",
-   "title": "JIT Compiling Code in 5μs",
-   "body": "124ポイント / コメント82件。",
+   "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+   "body": "454ポイント / コメント137件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49406387"
+   "url": "https://news.ycombinator.com/item?id=49400408"
+  },
+  {
+   "tag": "HN",
+   "title": "How Complex Systems Fail",
+   "body": "54ポイント / コメント5件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49409473"
   }
  ]
 }
