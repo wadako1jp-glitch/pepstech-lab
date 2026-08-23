@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-24T02:37:29+09:00",
+ "generated_at": "2026-08-24T03:49:54+09:00",
  "items": [
+  {
+   "tag": "WIKI",
+   "title": "クラーケン",
+   "body": "クラーケン は近世ノルウェーに伝わっていた海の怪物。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%A9%E3%83%BC%E3%82%B1%E3%83%B3"
+  },
+  {
+   "tag": "HN",
+   "title": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing spe…",
+   "body": "214ポイント / コメント159件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49406539"
+  },
+  {
+   "tag": "HN",
+   "title": "Coconut Oil Jet Fuel Matches Kerosene's Efficiency in Engine Tests",
+   "body": "71ポイント / コメント61件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49409780"
+  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "曇り。最高31.8℃ / 最低23.5℃。いまは23.7℃。",
+   "body": "曇り。最高32.2℃ / 最低23.6℃。いまは23.7℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "I Dream of Quieter Computing",
-   "body": "94ポイント / コメント104件。",
+   "title": "typ.ing",
+   "body": "346ポイント / コメント111件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49405682"
+   "url": "https://news.ycombinator.com/item?id=49346854"
   },
   {
    "tag": "WIKI",
-   "title": "ドイツ＝オーストリア共和国",
-   "body": "ドイツ＝オーストリア共和国 またはドイツ＝オーストリア は、第一次世界大戦後に成立した未承認国家である。これは、かつてのオーストリア＝ハンガリー帝国のうち、主にドイツ語を話すドイツ系…",
+   "title": "マンゴチ",
+   "body": "マンゴチはマラウイ南部州にあり、マンゴチ県の中心都市で、主要産業は商業と観光である。2010年時点の国勢調査によれば、都市の人口は4万2309人であった。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%82%A4%E3%83%84%EF%BC%9D%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%AA%E3%82%A2%E5%85%B1%E5%92%8C%E5%9B%BD"
-  },
-  {
-   "tag": "WIKI",
-   "title": "櫃石島橋",
-   "body": "櫃石島橋（ひついしじまばし）は、瀬戸大橋海峡部のうち、北から2番目にある橋。香川県坂出市櫃石島と岩黒島の間に架かる、全長792メートル（m）、道路・鉄道併用の斜張橋である。岩黒島橋と…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%AB%83%E7%9F%B3%E5%B3%B6%E6%A9%8B"
-  },
-  {
-   "tag": "HN",
-   "title": "Fast and Hard Code",
-   "body": "97ポイント / コメント64件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49406285"
-  },
-  {
-   "tag": "HN",
-   "title": "The End of an Athlon",
-   "body": "161ポイント / コメント73件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49406333"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%B3%E3%82%B4%E3%83%81"
   }
  ]
 }
