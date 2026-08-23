@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-23T08:36:58+09:00",
+ "generated_at": "2026-08-23T11:01:15+09:00",
  "items": [
   {
    "tag": "WIKI",
-   "title": "アーサー・テューダー",
-   "body": "アーサー・テューダー は、イングランド王ヘンリー7世と王妃エリザベスの第1王子でヘンリー8世の兄。プリンス・オブ・ウェールズに立てられたが、国王即位を果たせずに死去した。",
+   "title": "ホルヘ・パチェコ・アレコ",
+   "body": "ホルヘ・パチェコ・アレコ はウルグアイの政治家。1967年から1972年までウルグアイ大統領を務めた。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%BC%E3%82%B5%E3%83%BC%E3%83%BB%E3%83%86%E3%83%A5%E3%83%BC%E3%83%80%E3%83%BC"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%AB%E3%83%98%E3%83%BB%E3%83%91%E3%83%81%E3%82%A7%E3%82%B3%E3%83%BB%E3%82%A2%E3%83%AC%E3%82%B3"
+  },
+  {
+   "tag": "HN",
+   "title": "US Military newspaper editor voices censorship fears after being fired",
+   "body": "37ポイント / コメント10件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49405110"
+  },
+  {
+   "tag": "WIKI",
+   "title": "トロイアの木馬",
+   "body": "トロイアの木馬 は、古代ギリシアの伝承に語られてきたトロイア戦争において、ギリシア連合軍がトロイアを攻め滅ぼすきっかけになったとされる中空の巨大な木馬。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AD%E3%82%A4%E3%82%A2%E3%81%AE%E6%9C%A8%E9%A6%AC"
+  },
+  {
+   "tag": "HN",
+   "title": "Canada will match US tariffs 'dollar for dollar' as trade talks break…",
+   "body": "493ポイント / コメント1238件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49397074"
   },
   {
    "tag": "HN",
    "title": "Show HN: OzBrain, a shared brain for knowledge between agents and you…",
-   "body": "75ポイント / コメント46件。",
+   "body": "79ポイント / コメント46件。",
    "src": "news.ycombinator.com",
    "url": "https://news.ycombinator.com/item?id=49394827"
   },
   {
-   "tag": "HN",
-   "title": "Z80 – The 1970s Microprocessor Still Alive (2021)",
-   "body": "113ポイント / コメント54件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49398158"
-  },
-  {
-   "tag": "WIKI",
-   "title": "静岡県旗",
-   "body": "静岡県旗（しずおかけんき）は、日本の都道府県の一つ、静岡県の旗。本項では、旗に図示されている静岡県章（しずおかけんしょう）についても併せて解説する。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E9%9D%99%E5%B2%A1%E7%9C%8C%E6%97%97"
-  },
-  {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "薄曇り。最高29.8℃ / 最低23.6℃。いまは25.4℃。",
+   "body": "薄曇り。最高29.6℃ / 最低23.6℃。いまは27.7℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
-  },
-  {
-   "tag": "HN",
-   "title": "Why your local LLM feels dumber than it is",
-   "body": "142ポイント / コメント37件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49402232"
   }
  ]
 }
