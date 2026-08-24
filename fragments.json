@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-24T14:03:54+09:00",
+ "generated_at": "2026-08-24T14:55:20+09:00",
  "items": [
   {
    "tag": "WIKI",
-   "title": "ウクライナ正教会・キエフ総主教庁",
-   "body": "ウクライナ正教会・キエフ総主教庁 は、ウクライナにかつて存在した正教会の一つである。2018年、新生「ウクライナ正教会 (2018年設立)」の発足に伴い解消した。",
+   "title": "高新園駅",
+   "body": "高新園駅（こうしんえん-えき）は深圳市南山区に位置する深圳地下鉄1号線の駅。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%8A%E6%AD%A3%E6%95%99%E4%BC%9A%E3%83%BB%E3%82%AD%E3%82%A8%E3%83%95%E7%B7%8F%E4%B8%BB%E6%95%99%E5%BA%81"
+   "url": "https://ja.wikipedia.org/wiki/%E9%AB%98%E6%96%B0%E5%9C%92%E9%A7%85"
   },
   {
    "tag": "HN",
-   "title": "How I find problems to solve as a staff engineer",
-   "body": "339ポイント / コメント118件。",
+   "title": "Anthropic's best AI model struggles to attract users as cheaper tools…",
+   "body": "377ポイント / コメント332件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49411643"
+   "url": "https://news.ycombinator.com/item?id=49411102"
+  },
+  {
+   "tag": "HN",
+   "title": "How Complex Systems Fail (1998)",
+   "body": "282ポイント / コメント66件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49409473"
   },
   {
    "tag": "WIKI",
-   "title": "ブアソーン・ブッパーヴァン",
-   "body": "ブアソーン・ブッパーヴァン はラオスの政治家。第7期・第8期ラオス人民革命党政治局員。第8期政治局での序列は第7位。",
+   "title": "1.FCロコモティヴェ・ライプツィヒ",
+   "body": "1.FCロコモティヴェ・ライプツィヒ は、ドイツ・ザクセン州ライプツィヒを本拠地とするサッカークラブ。20世紀初頭にはドイツ・サッカー選手権を3度制した古豪クラブである。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%82%A2%E3%82%BD%E3%83%BC%E3%83%B3%E3%83%BB%E3%83%96%E3%83%83%E3%83%91%E3%83%BC%E3%83%B4%E3%82%A1%E3%83%B3"
+   "url": "https://ja.wikipedia.org/wiki/1.FC%E3%83%AD%E3%82%B3%E3%83%A2%E3%83%86%E3%82%A3%E3%83%B4%E3%82%A7%E3%83%BB%E3%83%A9%E3%82%A4%E3%83%97%E3%83%84%E3%82%A3%E3%83%92"
+  },
+  {
+   "tag": "HN",
+   "title": "Everything I own, owned",
+   "body": "551ポイント / コメント170件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49413320"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "薄曇り。最高32.3℃ / 最低23.9℃。いまは32.1℃。",
+   "body": "薄曇り。最高31.9℃ / 最低23.9℃。いまは31.5℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
-  },
-  {
-   "tag": "HN",
-   "title": "What Is a Harness?",
-   "body": "368ポイント / コメント142件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49409092"
-  },
-  {
-   "tag": "HN",
-   "title": "A website for debloated open source alternatives",
-   "body": "296ポイント / コメント93件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49410362"
   }
  ]
 }
