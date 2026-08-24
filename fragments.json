@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-25T01:57:06+09:00",
+ "generated_at": "2026-08-25T02:48:27+09:00",
  "items": [
   {
    "tag": "WIKI",
-   "title": "日本ロマンチック街道",
-   "body": "日本ロマンチック街道（にほんろまんちっくかいどう）は、長野県上田市から栃木県日光市までの全長約320 kmを通過する広域観光ルートからなる街道である。街道の名称はドイツのロマンティッ…",
+   "title": "諏訪中央病院",
+   "body": "諏訪中央病院（すわちゅうおうびょういん）は長野県茅野市にある医療機関。正式名称は組合立諏訪中央病院。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%83%AD%E3%83%9E%E3%83%B3%E3%83%81%E3%83%83%E3%82%AF%E8%A1%97%E9%81%93"
+   "url": "https://ja.wikipedia.org/wiki/%E8%AB%8F%E8%A8%AA%E4%B8%AD%E5%A4%AE%E7%97%85%E9%99%A2"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "晴れ。最高33.5℃ / 最低24.5℃。いまは25.1℃。",
+   "body": "晴れ。最高33.4℃ / 最低24.3℃。いまは25.0℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "A Server Lost Power at 00:32. We Found Out at 08:18",
-   "body": "6ポイント / コメント4件。",
+   "title": "Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam",
+   "body": "19ポイント / コメント2件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49422220"
+   "url": "https://news.ycombinator.com/item?id=49422548"
   },
   {
    "tag": "HN",
-   "title": "Adafruit USB Type C CC Resistor Fixer",
-   "body": "17ポイント / コメント4件。",
+   "title": "Coding expertise is going to collapse from AI reliance",
+   "body": "191ポイント / コメント224件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49420832"
-  },
-  {
-   "tag": "HN",
-   "title": "IPFS Maintainers Winding Down",
-   "body": "84ポイント / コメント24件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49421489"
+   "url": "https://news.ycombinator.com/item?id=49421554"
   },
   {
    "tag": "WIKI",
-   "title": "岡崎生三",
-   "body": "岡崎 生三 は、日本の陸軍軍人、華族。最終階級は陸軍中将。男爵。",
+   "title": "法善寺 (新宿区)",
+   "body": "法善寺（ほうぜんじ）は、東京都新宿区にある日蓮宗の寺院。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%B2%A1%E5%B4%8E%E7%94%9F%E4%B8%89"
+   "url": "https://ja.wikipedia.org/wiki/%E6%B3%95%E5%96%84%E5%AF%BA_(%E6%96%B0%E5%AE%BF%E5%8C%BA)"
+  },
+  {
+   "tag": "HN",
+   "title": "Hot Chips 2026: Applying High Bandwidth Flash (HBF)",
+   "body": "31ポイント / コメント11件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49420592"
   }
  ]
 }
