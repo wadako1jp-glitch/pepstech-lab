@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-25T05:50:16+09:00",
+ "generated_at": "2026-08-25T06:45:38+09:00",
  "items": [
+  {
+   "tag": "HN",
+   "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster mult…",
+   "body": "628ポイント / コメント415件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49420873"
+  },
+  {
+   "tag": "WIKI",
+   "title": "荒川橋梁 (秩父鉄道秩父本線)",
+   "body": "荒川橋梁（あらかわきょうりょう）は、埼玉県秩父郡長瀞町長瀞と同郡皆野町下田野の間で荒川に架かる秩父鉄道秩父本線（秩父線）の鉄道橋である。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E8%8D%92%E5%B7%9D%E6%A9%8B%E6%A2%81_(%E7%A7%A9%E7%88%B6%E9%89%84%E9%81%93%E7%A7%A9%E7%88%B6%E6%9C%AC%E7%B7%9A)"
+  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "晴れ。最高33.5℃ / 最低23.9℃。いまは24.0℃。",
+   "body": "晴れ。最高33.5℃ / 最低23.9℃。いまは25.2℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "What Is a Syslog Server?",
-   "body": "26ポイント / コメント14件。",
+   "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
+   "body": "172ポイント / コメント86件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49423799"
-  },
-  {
-   "tag": "HN",
-   "title": "Show HN: GlassBox – what the browser reveals, and how identifiable yo…",
-   "body": "68ポイント / コメント35件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49421948"
+   "url": "https://news.ycombinator.com/item?id=49415893"
   },
   {
    "tag": "WIKI",
-   "title": "浜川新田",
-   "body": "浜川新田（はまがわしんでん）は、静岡県掛川市にある大字。",
+   "title": "三重県道19号津停車場線",
+   "body": "三重県道19号津停車場線 は、三重県津市を通る県道（主要地方道）である。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%B5%9C%E5%B7%9D%E6%96%B0%E7%94%B0"
+   "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E9%87%8D%E7%9C%8C%E9%81%9319%E5%8F%B7%E6%B4%A5%E5%81%9C%E8%BB%8A%E5%A0%B4%E7%B7%9A"
   },
   {
    "tag": "HN",
-   "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
-   "body": "235ポイント / コメント205件。",
+   "title": "Vintage Artificial Intelligence: Before It Got Awkward",
+   "body": "11ポイント / コメント1件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49421074"
-  },
-  {
-   "tag": "WIKI",
-   "title": "道の駅じょんのびの里高柳",
-   "body": "道の駅じょんのびの里高柳 は、新潟県柏崎市高柳町高尾にある新潟県道12号松代高柳線の道の駅である。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E9%81%93%E3%81%AE%E9%A7%85%E3%81%98%E3%82%87%E3%82%93%E3%81%AE%E3%81%B3%E3%81%AE%E9%87%8C%E9%AB%98%E6%9F%B3"
+   "url": "https://news.ycombinator.com/item?id=49425800"
   }
  ]
 }
