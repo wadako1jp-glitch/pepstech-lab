@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-24T16:30:33+09:00",
+ "generated_at": "2026-08-24T18:06:32+09:00",
  "items": [
-  {
-   "tag": "WIKI",
-   "title": "くわがた心",
-   "body": "くわがた 心 は、日本のお笑いタレント（ピン芸人）。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%81%8F%E3%82%8F%E3%81%8C%E3%81%9F%E5%BF%83"
-  },
-  {
-   "tag": "WIKI",
-   "title": "西荻窪",
-   "body": "西荻窪 は、東京都杉並区の旧地名、および西荻窪駅周辺の通称である。略称は、西荻（にしおぎ）。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E8%8D%BB%E7%AA%AA"
-  },
-  {
-   "tag": "HN",
-   "title": "Everything I own, owned",
-   "body": "712ポイント / コメント208件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49413320"
-  },
-  {
-   "tag": "HN",
-   "title": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
-   "body": "3ポイント / コメント1件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49415695"
-  },
-  {
-   "tag": "HN",
-   "title": "My agent.md to improve LLM-assisted code quality",
-   "body": "289ポイント / コメント115件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49410932"
-  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "曇り。最高32.5℃ / 最低23.9℃。いまは30.2℃。",
+   "body": "曇り。最高32.5℃ / 最低23.9℃。いまは28.4℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
+  },
+  {
+   "tag": "HN",
+   "title": "How I find problems to solve as a staff engineer",
+   "body": "404ポイント / コメント129件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49411643"
+  },
+  {
+   "tag": "HN",
+   "title": "How Complex Systems Fail (1998)",
+   "body": "310ポイント / コメント72件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49409473"
+  },
+  {
+   "tag": "WIKI",
+   "title": "ロードン卿の肖像",
+   "body": "『ロードン卿の肖像』 、または『初代ヘイスティングズ侯爵、第2代モイラ伯爵フランシス・ロードン』 は、18世紀イギリスの巨匠トマス・ゲインズバラが1784年にキャンバス上に油彩で制作…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%83%89%E3%83%B3%E5%8D%BF%E3%81%AE%E8%82%96%E5%83%8F"
+  },
+  {
+   "tag": "HN",
+   "title": "Google Workspace thinks my domain is an email provider (2025)",
+   "body": "291ポイント / コメント88件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49411717"
+  },
+  {
+   "tag": "WIKI",
+   "title": "個人情報保護委員会",
+   "body": "個人情報保護委員会 は、日本の行政機関のひとつ。個人情報の有用性に配慮しつつ個人の権利利益を保護するために個人情報の適正な取扱いの確保を図ることを任務とする行政委員会である。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%80%8B%E4%BA%BA%E6%83%85%E5%A0%B1%E4%BF%9D%E8%AD%B7%E5%A7%94%E5%93%A1%E4%BC%9A"
   }
  ]
 }
