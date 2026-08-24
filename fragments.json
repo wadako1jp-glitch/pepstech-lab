@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-24T22:15:35+09:00",
+ "generated_at": "2026-08-24T23:06:07+09:00",
  "items": [
   {
    "tag": "HN",
-   "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
-   "body": "89ポイント / コメント29件。",
+   "title": "SeL4 security proofs now complete on AArch64",
+   "body": "75ポイント / コメント16件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49415893"
+   "url": "https://news.ycombinator.com/item?id=49418255"
   },
   {
    "tag": "HN",
-   "title": "Malware infects Android-based automotive head unit firmware",
-   "body": "249ポイント / コメント127件。",
+   "title": "Andreessen Horowitz is investing billions into a bleak future",
+   "body": "380ポイント / コメント139件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49408550"
+   "url": "https://news.ycombinator.com/item?id=49416055"
+  },
+  {
+   "tag": "HN",
+   "title": "Fast drilldown dashboards from a single Parquet file",
+   "body": "82ポイント / コメント1件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49416652"
   },
   {
    "tag": "WIKI",
-   "title": "フランス国立宇宙研究センター",
-   "body": "フランス国立宇宙研究センター は、フランスの宇宙開発・研究を行う政府機関である。ヨーロッパ各国が共同で設立した欧州宇宙機関（ESA）で中心的な役割を果たしている。",
+   "title": "福島市立清水小学校",
+   "body": "福島市立清水小学校 は、福島県福島市にある公立小学校。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E5%9B%BD%E7%AB%8B%E5%AE%87%E5%AE%99%E7%A0%94%E7%A9%B6%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC"
+   "url": "https://ja.wikipedia.org/wiki/%E7%A6%8F%E5%B3%B6%E5%B8%82%E7%AB%8B%E6%B8%85%E6%B0%B4%E5%B0%8F%E5%AD%A6%E6%A0%A1"
   },
   {
    "tag": "WIKI",
-   "title": "アルバートソン駅",
-   "body": "アルバートソン駅 とはロングアイランド鉄道 (LIRR) のオイスターベイ支線の駅である。この駅はニューヨーク州アルバートソンのI・U・ウィレッツ・ロードとアルバートソン・アベニュー…",
+   "title": "スペイン海軍",
+   "body": "スペイン海軍 は、スペインの海軍。近世の無敵艦隊時代をも含む長い歴史を有し、現在は軽空母を旗艦とした艦隊を保持している。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%83%90%E3%83%BC%E3%83%88%E3%82%BD%E3%83%B3%E9%A7%85"
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%9A%E3%82%A4%E3%83%B3%E6%B5%B7%E8%BB%8D"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "薄曇り。最高32.5℃ / 最低23.9℃。いまは26.0℃。",
+   "body": "薄曇り。最高32.5℃ / 最低23.9℃。いまは25.8℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
-  },
-  {
-   "tag": "HN",
-   "title": "Anthropic's best AI model struggles to attract users as cheaper tools…",
-   "body": "607ポイント / コメント540件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49411102"
   }
  ]
 }
