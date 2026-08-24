@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-25T04:46:55+09:00",
+ "generated_at": "2026-08-25T05:50:16+09:00",
  "items": [
-  {
-   "tag": "WIKI",
-   "title": "きみえ",
-   "body": "きみえ は、日本のお笑い芸人。かつての所属事務所はオフィスバード。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%81%8D%E3%81%BF%E3%81%88"
-  },
-  {
-   "tag": "WIKI",
-   "title": "吉見百穴",
-   "body": "吉見百穴（よしみひゃくあな/よしみひゃっけつ）は、埼玉県比企郡吉見町にある古墳時代後期の横穴墓群の遺跡。太平洋戦争下の地下軍需工場建設のために破壊された十数基を除いても、219基が現…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%90%89%E8%A6%8B%E7%99%BE%E7%A9%B4"
-  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "晴れ。最高33.5℃ / 最低23.9℃。いまは23.9℃。",
+   "body": "晴れ。最高33.5℃ / 最低23.9℃。いまは24.0℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Oceans hit highest temperature on record",
-   "body": "10ポイント / コメント1件。",
+   "title": "What Is a Syslog Server?",
+   "body": "26ポイント / コメント14件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49424606"
+   "url": "https://news.ycombinator.com/item?id=49423799"
   },
   {
    "tag": "HN",
-   "title": "MS Paint and Photos inivisibly watermark even locally generated outpu…",
-   "body": "343ポイント / コメント143件。",
+   "title": "Show HN: GlassBox – what the browser reveals, and how identifiable yo…",
+   "body": "68ポイント / コメント35件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49421158"
+   "url": "https://news.ycombinator.com/item?id=49421948"
+  },
+  {
+   "tag": "WIKI",
+   "title": "浜川新田",
+   "body": "浜川新田（はまがわしんでん）は、静岡県掛川市にある大字。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E6%B5%9C%E5%B7%9D%E6%96%B0%E7%94%B0"
   },
   {
    "tag": "HN",
-   "title": "Could We Dredge the Netherlands Without Fossil Fuels?",
-   "body": "28ポイント / コメント26件。",
+   "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
+   "body": "235ポイント / コメント205件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49420861"
+   "url": "https://news.ycombinator.com/item?id=49421074"
+  },
+  {
+   "tag": "WIKI",
+   "title": "道の駅じょんのびの里高柳",
+   "body": "道の駅じょんのびの里高柳 は、新潟県柏崎市高柳町高尾にある新潟県道12号松代高柳線の道の駅である。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E9%81%93%E3%81%AE%E9%A7%85%E3%81%98%E3%82%87%E3%82%93%E3%81%AE%E3%81%B3%E3%81%AE%E9%87%8C%E9%AB%98%E6%9F%B3"
   }
  ]
 }
