@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-25T06:45:38+09:00",
+ "generated_at": "2026-08-25T07:46:38+09:00",
  "items": [
   {
    "tag": "HN",
-   "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster mult…",
-   "body": "628ポイント / コメント415件。",
+   "title": "Removed all counters, replies, following/ers, timestamps, from textlog",
+   "body": "38ポイント / コメント20件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49420873"
+   "url": "https://news.ycombinator.com/item?id=49424167"
   },
   {
    "tag": "WIKI",
-   "title": "荒川橋梁 (秩父鉄道秩父本線)",
-   "body": "荒川橋梁（あらかわきょうりょう）は、埼玉県秩父郡長瀞町長瀞と同郡皆野町下田野の間で荒川に架かる秩父鉄道秩父本線（秩父線）の鉄道橋である。",
+   "title": "ソユーズMS-10",
+   "body": "ソユーズMS-10 は2018年10月11日に打ち上げられたロシアの有人宇宙船である。MS-10はソユーズ宇宙船としては139番目の機体である。国際宇宙ステーションに第57次長期滞在…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E8%8D%92%E5%B7%9D%E6%A9%8B%E6%A2%81_(%E7%A7%A9%E7%88%B6%E9%89%84%E9%81%93%E7%A7%A9%E7%88%B6%E6%9C%AC%E7%B7%9A)"
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%A6%E3%83%BC%E3%82%BAMS-10"
+  },
+  {
+   "tag": "WIKI",
+   "title": "レイターノ",
+   "body": "レイターノ は、イタリア共和国シチリア州メッシーナ県にある、人口約800人の基礎自治体（コムーネ）。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%A4%E3%82%BF%E3%83%BC%E3%83%8E"
+  },
+  {
+   "tag": "HN",
+   "title": "Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam",
+   "body": "64ポイント / コメント8件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49422548"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "晴れ。最高33.5℃ / 最低23.9℃。いまは25.2℃。",
+   "body": "晴れ。最高33.5℃ / 最低23.9℃。いまは26.9℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
-   "body": "172ポイント / コメント86件。",
+   "title": "Fences, Not Sandboxes",
+   "body": "34ポイント / コメント20件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49415893"
-  },
-  {
-   "tag": "WIKI",
-   "title": "三重県道19号津停車場線",
-   "body": "三重県道19号津停車場線 は、三重県津市を通る県道（主要地方道）である。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E9%87%8D%E7%9C%8C%E9%81%9319%E5%8F%B7%E6%B4%A5%E5%81%9C%E8%BB%8A%E5%A0%B4%E7%B7%9A"
-  },
-  {
-   "tag": "HN",
-   "title": "Vintage Artificial Intelligence: Before It Got Awkward",
-   "body": "11ポイント / コメント1件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49425800"
+   "url": "https://news.ycombinator.com/item?id=49423146"
   }
  ]
 }
