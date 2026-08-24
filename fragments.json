@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-25T00:02:52+09:00",
+ "generated_at": "2026-08-25T00:57:53+09:00",
  "items": [
   {
-   "tag": "HN",
-   "title": "OCR It – pull text out of un-copyable documents for your LLM",
-   "body": "92ポイント / コメント20件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49415852"
+   "tag": "WIKI",
+   "title": "F-14に関連する作品の一覧",
+   "body": "F-14に関連する作品の一覧（F-14にかんれんするさくひんのいちらん）は、アメリカ合衆国のグラマン社が開発した艦上戦闘機、F-14 トムキャットに関連する作品の一覧である。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/F-14%E3%81%AB%E9%96%A2%E9%80%A3%E3%81%99%E3%82%8B%E4%BD%9C%E5%93%81%E3%81%AE%E4%B8%80%E8%A6%A7"
   },
   {
    "tag": "HN",
-   "title": "Fast drilldown dashboards from a single Parquet file",
-   "body": "107ポイント / コメント7件。",
+   "title": "I were 17, I'd learn how to build LLMs from scratch",
+   "body": "365ポイント / コメント480件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49416652"
+   "url": "https://news.ycombinator.com/item?id=49412396"
   },
   {
    "tag": "WIKI",
-   "title": "リメンブランス・ポピー",
-   "body": "リメンブランス・ポピー は、複数の国々において、戦争で死没した軍人の追悼を目的に着用される造花である。リメンブランス・ポピーは、退役軍人の協会によって生産され、慈善寄付金と引き換えに…",
+   "title": "お化け",
+   "body": "お化け（おばけ）とは、本来あるべき姿や生きるべき姿から大きく逸脱し、変化（へんか）した姿のこと。「変化（へんげ）」や「化け」、「化け物」、「大化け」ともいう。化けて生ることから「化生…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%A1%E3%83%B3%E3%83%96%E3%83%A9%E3%83%B3%E3%82%B9%E3%83%BB%E3%83%9D%E3%83%94%E3%83%BC"
-  },
-  {
-   "tag": "HN",
-   "title": "SeL4 security proofs now complete on AArch64",
-   "body": "95ポイント / コメント21件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49418255"
-  },
-  {
-   "tag": "WIKI",
-   "title": "土橋町 (豊田市)",
-   "body": "土橋町（つちはしちょう）は、愛知県豊田市の町名。現行行政地名は土橋町1丁目から8丁目。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%9C%9F%E6%A9%8B%E7%94%BA_(%E8%B1%8A%E7%94%B0%E5%B8%82)"
+   "url": "https://ja.wikipedia.org/wiki/%E3%81%8A%E5%8C%96%E3%81%91"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "晴れ。最高33.5℃ / 最低24.5℃。いまは25.6℃。",
+   "body": "晴れ。最高33.5℃ / 最低24.5℃。いまは25.5℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
+  },
+  {
+   "tag": "HN",
+   "title": "Mourning Steve French",
+   "body": "62ポイント / コメント2件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49415265"
+  },
+  {
+   "tag": "HN",
+   "title": "Hot Chips 2026: Applying High Bandwidth Flash (HBF)",
+   "body": "21ポイント / コメント4件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49420592"
   }
  ]
 }
