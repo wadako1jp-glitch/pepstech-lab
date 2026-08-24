@@ -1,45 +1,45 @@
 {
- "generated_at": "2026-08-24T14:55:20+09:00",
+ "generated_at": "2026-08-24T16:30:33+09:00",
  "items": [
   {
    "tag": "WIKI",
-   "title": "高新園駅",
-   "body": "高新園駅（こうしんえん-えき）は深圳市南山区に位置する深圳地下鉄1号線の駅。",
+   "title": "くわがた心",
+   "body": "くわがた 心 は、日本のお笑いタレント（ピン芸人）。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E9%AB%98%E6%96%B0%E5%9C%92%E9%A7%85"
-  },
-  {
-   "tag": "HN",
-   "title": "Anthropic's best AI model struggles to attract users as cheaper tools…",
-   "body": "377ポイント / コメント332件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49411102"
-  },
-  {
-   "tag": "HN",
-   "title": "How Complex Systems Fail (1998)",
-   "body": "282ポイント / コメント66件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49409473"
+   "url": "https://ja.wikipedia.org/wiki/%E3%81%8F%E3%82%8F%E3%81%8C%E3%81%9F%E5%BF%83"
   },
   {
    "tag": "WIKI",
-   "title": "1.FCロコモティヴェ・ライプツィヒ",
-   "body": "1.FCロコモティヴェ・ライプツィヒ は、ドイツ・ザクセン州ライプツィヒを本拠地とするサッカークラブ。20世紀初頭にはドイツ・サッカー選手権を3度制した古豪クラブである。",
+   "title": "西荻窪",
+   "body": "西荻窪 は、東京都杉並区の旧地名、および西荻窪駅周辺の通称である。略称は、西荻（にしおぎ）。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/1.FC%E3%83%AD%E3%82%B3%E3%83%A2%E3%83%86%E3%82%A3%E3%83%B4%E3%82%A7%E3%83%BB%E3%83%A9%E3%82%A4%E3%83%97%E3%83%84%E3%82%A3%E3%83%92"
+   "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E8%8D%BB%E7%AA%AA"
   },
   {
    "tag": "HN",
    "title": "Everything I own, owned",
-   "body": "551ポイント / コメント170件。",
+   "body": "712ポイント / コメント208件。",
    "src": "news.ycombinator.com",
    "url": "https://news.ycombinator.com/item?id=49413320"
   },
   {
+   "tag": "HN",
+   "title": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
+   "body": "3ポイント / コメント1件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49415695"
+  },
+  {
+   "tag": "HN",
+   "title": "My agent.md to improve LLM-assisted code quality",
+   "body": "289ポイント / コメント115件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49410932"
+  },
+  {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "薄曇り。最高31.9℃ / 最低23.9℃。いまは31.5℃。",
+   "body": "曇り。最高32.5℃ / 最低23.9℃。いまは30.2℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   }
