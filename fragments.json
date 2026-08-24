@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-24T19:06:18+09:00",
+ "generated_at": "2026-08-24T19:55:29+09:00",
  "items": [
   {
-   "tag": "HN",
-   "title": "The Future Belongs to the Weird",
-   "body": "5ポイント / コメント0件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49416953"
+   "tag": "WIKI",
+   "title": "1998年度新人選手選択会議 (日本プロ野球)",
+   "body": "1998年度新人選手選択会議（1998ねんどしんじんせんしゅせんたくかいぎ）は、1998年に行われた第34回のプロ野球ドラフト会議である。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/1998%E5%B9%B4%E5%BA%A6%E6%96%B0%E4%BA%BA%E9%81%B8%E6%89%8B%E9%81%B8%E6%8A%9E%E4%BC%9A%E8%AD%B0_(%E6%97%A5%E6%9C%AC%E3%83%97%E3%83%AD%E9%87%8E%E7%90%83)"
   },
   {
    "tag": "HN",
    "title": "Executable Is a SQLite Database",
-   "body": "72ポイント / コメント7件。",
+   "body": "103ポイント / コメント13件。",
    "src": "news.ycombinator.com",
    "url": "https://news.ycombinator.com/item?id=49415271"
   },
   {
-   "tag": "WIKI",
-   "title": "古町ルフル",
-   "body": "古町ルフル（ふるまちルフル）は、新潟県新潟市中央区古町通7番町にある複合ビル。百貨店の大和跡地を含む古町通7番町地区市街地再開発事業によって建設された。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%8F%A4%E7%94%BA%E3%83%AB%E3%83%95%E3%83%AB"
-  },
-  {
-   "tag": "HN",
-   "title": "A website for debloated open source alternatives",
-   "body": "340ポイント / コメント105件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49410362"
-  },
-  {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "曇り。最高32.5℃ / 最低23.9℃。いまは27.6℃。",
+   "body": "薄曇り。最高32.5℃ / 最低23.9℃。いまは27.2℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "WIKI",
-   "title": "下瀬美術館",
-   "body": "下瀬美術館（しもせびじゅつかん）は、 2023年に広島県大竹市に開館した美術館である。設計者は坂茂である。この美術館は、厳島と瀬戸内海を見下ろす場所に建てられた。",
+   "title": "松森町",
+   "body": "松森町（まつもりまち）は、江戸期から現在にかけての青森県弘前市の地名。郵便番号は036-8184。2017年6月1日現在の人口は426人、世帯数は269世帯。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E4%B8%8B%E7%80%AC%E7%BE%8E%E8%A1%93%E9%A4%A8"
+   "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%A3%AE%E7%94%BA"
+  },
+  {
+   "tag": "HN",
+   "title": "How Complex Systems Fail (1998)",
+   "body": "325ポイント / コメント72件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49409473"
+  },
+  {
+   "tag": "HN",
+   "title": "Why Sal Khan't: On Learning by Making but Teaching by Telling",
+   "body": "179ポイント / コメント105件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49409862"
   }
  ]
 }
