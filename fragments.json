@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-26T00:08:02+09:00",
+ "generated_at": "2026-08-26T01:02:45+09:00",
  "items": [
   {
-   "tag": "HN",
-   "title": "Anthropic tells staff to work from home due to possible security team…",
-   "body": "47ポイント / コメント39件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49434291"
-  },
-  {
-   "tag": "HN",
-   "title": "SiFive's First Server Platform",
-   "body": "98ポイント / コメント32件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49428638"
+   "tag": "WIKI",
+   "title": "西野田雷電神社",
+   "body": "西野田雷電神社（にしのだらいでんじんじゃ）は栃木県栃木市大平町西野田にある神社。西野田の鎮守。正式名は単に「雷電神社」であるが、栃木県内には複数の雷電神社があるため（平出雷電神社など…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E9%87%8E%E7%94%B0%E9%9B%B7%E9%9B%BB%E7%A5%9E%E7%A4%BE"
   },
   {
    "tag": "WIKI",
-   "title": "ウィンダム・クラーク",
-   "body": "ウィンダム・ロバート・クラーク は、アメリカ合衆国コロラド州デンバー出身のプロゴルファー。世界ランキング最高位は3位。2023年、2026年全米オープン優勝者。",
+   "title": "江別東インターチェンジ",
+   "body": "江別東インターチェンジ（えべつひがしインターチェンジ）は、北海道江別市江別太にある道央自動車道のインターチェンジである。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A3%E3%83%B3%E3%83%80%E3%83%A0%E3%83%BB%E3%82%AF%E3%83%A9%E3%83%BC%E3%82%AF"
+   "url": "https://ja.wikipedia.org/wiki/%E6%B1%9F%E5%88%A5%E6%9D%B1%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%81%E3%82%A7%E3%83%B3%E3%82%B8"
   },
   {
-   "tag": "WIKI",
-   "title": "朕は国家なり",
-   "body": "朕は国家なり は、17世紀フランスの絶対王政（絶対主義、絶対君主制）を象徴する言葉である。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%9C%95%E3%81%AF%E5%9B%BD%E5%AE%B6%E3%81%AA%E3%82%8A"
+   "tag": "HN",
+   "title": "Moon (2024)",
+   "body": "240ポイント / コメント38件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49426466"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "曇り。最高32.9℃ / 最低25.1℃。いまは26.4℃。",
+   "body": "曇り。最高32.9℃ / 最低25.1℃。いまは26.3℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Building a backyard office, the build and cost breakdown",
-   "body": "41ポイント / コメント11件。",
+   "title": "Windows 95 released August 24, 1995",
+   "body": "47ポイント / コメント17件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49434645"
+   "url": "https://news.ycombinator.com/item?id=49430007"
+  },
+  {
+   "tag": "HN",
+   "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
+   "body": "149ポイント / コメント56件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49427001"
   }
  ]
 }
