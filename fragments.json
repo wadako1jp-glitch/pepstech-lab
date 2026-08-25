@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-26T07:47:23+09:00",
+ "generated_at": "2026-08-26T08:40:29+09:00",
  "items": [
+  {
+   "tag": "HN",
+   "title": "Clara (YC P26) is hiring a growth engineer to bring AI doctors to mar…",
+   "body": "1ポイント / コメント0件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49437566"
+  },
+  {
+   "tag": "HN",
+   "title": "More Fucked Today Than Yesterday",
+   "body": "31ポイント / コメント3件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49441781"
+  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "曇り。最高33.2℃ / 最低24.5℃。いまは27.8℃。",
+   "body": "曇り。最高33.5℃ / 最低24.7℃。いまは29.5℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
+   "tag": "WIKI",
+   "title": "シャイ (バンド)",
+   "body": "シャイ（Shy）は、イギリスのメロディアス・ハードロック・バンド。1980年代の初めにトニー・ミルズ（ボーカル）、スティーヴ・ハリス（ギタリスト。アイアン・メイデンのベーシストのステ…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%82%A4_(%E3%83%90%E3%83%B3%E3%83%89)"
+  },
+  {
    "tag": "HN",
-   "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
-   "body": "238ポイント / コメント131件。",
+   "title": "Building a backyard office, the build and cost breakdown",
+   "body": "243ポイント / コメント178件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49434820"
+   "url": "https://news.ycombinator.com/item?id=49434645"
   },
   {
    "tag": "WIKI",
-   "title": "長浜仏壇",
-   "body": "長浜仏壇（ながはまぶつだん）は、滋賀県長浜市およびその周辺で製造される仏壇の総称。浜仏壇（はまぶつだん）または浜壇（はまだん）とも呼ばれている。",
+   "title": "遠賀川水源地ポンプ室",
+   "body": "遠賀川水源地ポンプ室（おんががわすいげんちポンプしつ）は、福岡県中間市土手ノ内1-3-1にある八幡製鐵所のポンプ室である。現在も稼働中であり、八幡製鐵所で必要な水の約7割を送っている。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E9%95%B7%E6%B5%9C%E4%BB%8F%E5%A3%87"
-  },
-  {
-   "tag": "HN",
-   "title": "Tracking Costco gas prices",
-   "body": "60ポイント / コメント58件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49423045"
-  },
-  {
-   "tag": "WIKI",
-   "title": "大阪府立枚方なぎさ高等学校",
-   "body": "大阪府立枚方なぎさ高等学校 は、大阪府枚方市磯島元町にある公立高等学校。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%98%AA%E5%BA%9C%E7%AB%8B%E6%9E%9A%E6%96%B9%E3%81%AA%E3%81%8E%E3%81%95%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1"
-  },
-  {
-   "tag": "HN",
-   "title": "Black hole singularity is a surface not a point",
-   "body": "154ポイント / コメント109件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49437210"
+   "url": "https://ja.wikipedia.org/wiki/%E9%81%A0%E8%B3%80%E5%B7%9D%E6%B0%B4%E6%BA%90%E5%9C%B0%E3%83%9D%E3%83%B3%E3%83%97%E5%AE%A4"
   }
  ]
 }
