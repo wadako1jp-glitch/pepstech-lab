@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-26T01:02:45+09:00",
+ "generated_at": "2026-08-26T01:57:54+09:00",
  "items": [
   {
    "tag": "WIKI",
-   "title": "西野田雷電神社",
-   "body": "西野田雷電神社（にしのだらいでんじんじゃ）は栃木県栃木市大平町西野田にある神社。西野田の鎮守。正式名は単に「雷電神社」であるが、栃木県内には複数の雷電神社があるため（平出雷電神社など…",
+   "title": "ハソックス",
+   "body": "ハソックス（Hassocks）はイギリスのウェスト・サセックス州ミッド・サセックスにあるヴィレッジ、行政教区。名前の由来は、周囲に生えている草の房だと考えられている。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E9%87%8E%E7%94%B0%E9%9B%B7%E9%9B%BB%E7%A5%9E%E7%A4%BE"
-  },
-  {
-   "tag": "WIKI",
-   "title": "江別東インターチェンジ",
-   "body": "江別東インターチェンジ（えべつひがしインターチェンジ）は、北海道江別市江別太にある道央自動車道のインターチェンジである。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%B1%9F%E5%88%A5%E6%9D%B1%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%81%E3%82%A7%E3%83%B3%E3%82%B8"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%BD%E3%83%83%E3%82%AF%E3%82%B9"
   },
   {
    "tag": "HN",
-   "title": "Moon (2024)",
-   "body": "240ポイント / コメント38件。",
+   "title": "What's new in Emacs 31.1",
+   "body": "303ポイント / コメント76件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49426466"
+   "url": "https://news.ycombinator.com/item?id=49419252"
+  },
+  {
+   "tag": "WIKI",
+   "title": "アメーノ",
+   "body": "アメーノ は、イタリア共和国ピエモンテ州ノヴァーラ県にある、人口約1,000人の基礎自治体（コムーネ）。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%BC%E3%83%8E"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "曇り。最高32.9℃ / 最低25.1℃。いまは26.3℃。",
+   "body": "曇り。最高32.9℃ / 最低25.1℃。いまは26.0℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Windows 95 released August 24, 1995",
-   "body": "47ポイント / コメント17件。",
+   "title": "New Mac Studio with M5 Max and M5 Ultra",
+   "body": "462ポイント / コメント291件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49430007"
+   "url": "https://news.ycombinator.com/item?id=49433316"
   },
   {
    "tag": "HN",
-   "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
-   "body": "149ポイント / コメント56件。",
+   "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Sta…",
+   "body": "1ポイント / コメント0件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49427001"
+   "url": "https://news.ycombinator.com/item?id=49423495"
   }
  ]
 }
