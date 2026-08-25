@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-26T06:45:33+09:00",
+ "generated_at": "2026-08-26T07:47:23+09:00",
  "items": [
-  {
-   "tag": "WIKI",
-   "title": "多家神社",
-   "body": "多家神社（たけじんじゃ）は、広島県安芸郡府中町にある神社。式内社（名神大社）後継社、安芸国総社後継社。旧社格は県社。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%A4%9A%E5%AE%B6%E7%A5%9E%E7%A4%BE"
-  },
-  {
-   "tag": "HN",
-   "title": "Show HN: I made a Raspberry with Qwen my local car AI",
-   "body": "61ポイント / コメント14件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49435675"
-  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "曇り。最高33.2℃ / 最低24.5℃。いまは25.7℃。",
+   "body": "曇り。最高33.2℃ / 最低24.5℃。いまは27.8℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Show HN: LatticeDB – Like SQLite but for graph databases",
-   "body": "76ポイント / コメント25件。",
+   "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
+   "body": "238ポイント / コメント131件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49437049"
-  },
-  {
-   "tag": "HN",
-   "title": "C2PA Cameras Do Not Survive Contact with Reality",
-   "body": "19ポイント / コメント5件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49439499"
+   "url": "https://news.ycombinator.com/item?id=49434820"
   },
   {
    "tag": "WIKI",
-   "title": "ティム・キーフ",
-   "body": "ティモシー・ジョン・キーフ は、アメリカ合衆国マサチューセッツ州ケンブリッジ出身のプロ野球選手（投手）。右投げ右打ち。",
+   "title": "長浜仏壇",
+   "body": "長浜仏壇（ながはまぶつだん）は、滋賀県長浜市およびその周辺で製造される仏壇の総称。浜仏壇（はまぶつだん）または浜壇（はまだん）とも呼ばれている。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%A3%E3%83%A0%E3%83%BB%E3%82%AD%E3%83%BC%E3%83%95"
+   "url": "https://ja.wikipedia.org/wiki/%E9%95%B7%E6%B5%9C%E4%BB%8F%E5%A3%87"
+  },
+  {
+   "tag": "HN",
+   "title": "Tracking Costco gas prices",
+   "body": "60ポイント / コメント58件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49423045"
+  },
+  {
+   "tag": "WIKI",
+   "title": "大阪府立枚方なぎさ高等学校",
+   "body": "大阪府立枚方なぎさ高等学校 は、大阪府枚方市磯島元町にある公立高等学校。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%98%AA%E5%BA%9C%E7%AB%8B%E6%9E%9A%E6%96%B9%E3%81%AA%E3%81%8E%E3%81%95%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1"
+  },
+  {
+   "tag": "HN",
+   "title": "Black hole singularity is a surface not a point",
+   "body": "154ポイント / コメント109件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49437210"
   }
  ]
 }
