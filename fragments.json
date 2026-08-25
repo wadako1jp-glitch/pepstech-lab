@@ -1,26 +1,19 @@
 {
- "generated_at": "2026-08-25T13:03:25+09:00",
+ "generated_at": "2026-08-25T13:55:46+09:00",
  "items": [
   {
-   "tag": "WIKI",
-   "title": "日本特殊陶業",
-   "body": "日本特殊陶業株式会社 は、愛知県名古屋市東区に本社を置くスパークプラグ・セラミックス製品を製造するメーカーである。森村グループの一員であり、NGKスパークプラグのメーカーとして広く知…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%89%B9%E6%AE%8A%E9%99%B6%E6%A5%AD"
-  },
-  {
    "tag": "HN",
-   "title": "Was Modern Art a CIA Psy-Op? (2020)",
-   "body": "35ポイント / コメント34件。",
+   "title": "MS Paint and Photos inivisibly watermark even locally generated outpu…",
+   "body": "619ポイント / コメント245件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49428080"
+   "url": "https://news.ycombinator.com/item?id=49421158"
   },
   {
    "tag": "WIKI",
-   "title": "オマール・マスカレル",
-   "body": "オマール・マスカレル・ゴンザレス は、スペイン・サンタ・クルス・デ・テネリフェ出身のサッカー選手。ラ・リーガ・マジョルカ所属。赤道ギニア代表。ポジションはミッドフィールダー。",
+   "title": "妙善寺 (福井県おおい町)",
+   "body": "妙善寺（みょうぜんじ）は、福井県大飯郡おおい町名田庄久坂に所在する日蓮宗の寺院。山号は経王山。旧本山は小浜長源寺(六条門流)。毎年冬至の日にかぼちゃしるこの接待が行われることからかぼ…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%9E%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%AC%E3%83%AB"
+   "url": "https://ja.wikipedia.org/wiki/%E5%A6%99%E5%96%84%E5%AF%BA_(%E7%A6%8F%E4%BA%95%E7%9C%8C%E3%81%8A%E3%81%8A%E3%81%84%E7%94%BA)"
   },
   {
    "tag": "天気",
@@ -31,17 +24,24 @@
   },
   {
    "tag": "HN",
-   "title": "MS Paint and Photos inivisibly watermark even locally generated outpu…",
-   "body": "603ポイント / コメント240件。",
+   "title": "SeL4 security proofs now complete on AArch64",
+   "body": "176ポイント / コメント38件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49421158"
+   "url": "https://news.ycombinator.com/item?id=49418255"
   },
   {
    "tag": "HN",
    "title": "Training AI to Paint with Code",
-   "body": "38ポイント / コメント3件。",
+   "body": "48ポイント / コメント5件。",
    "src": "news.ycombinator.com",
    "url": "https://news.ycombinator.com/item?id=49411800"
+  },
+  {
+   "tag": "WIKI",
+   "title": "何立峰",
+   "body": "何 立峰 は、中華人民共和国の政治家。中国共産党第20期中央政治局委員、現職は党中央財経委員会弁公室主任、国務院副総理。習近平党総書記の側近中の側近として信任が厚い人物の一人とみなさ…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E4%BD%95%E7%AB%8B%E5%B3%B0"
   }
  ]
 }
