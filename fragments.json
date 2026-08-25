@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-25T20:45:58+09:00",
+ "generated_at": "2026-08-25T22:13:22+09:00",
  "items": [
   {
-   "tag": "HN",
-   "title": "Walgit – a Git server that is one binary in front of an object store",
-   "body": "105ポイント / コメント33件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49420598"
+   "tag": "WIKI",
+   "title": "Torpedo torpedo",
+   "body": "Torpedo torpedo は、シビレエイ目のエイの一種。ビスケー湾からアンゴラまでの地中海と大西洋東部に分布し、通常沿岸部の浅い砂地に生息する底魚。体長は60センチメートルに達…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/Torpedo_torpedo"
   },
   {
    "tag": "HN",
-   "title": "Jabber/XMPP: 25 Years of Digital Independence",
-   "body": "236ポイント / コメント140件。",
+   "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster mult…",
+   "body": "920ポイント / コメント658件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49421536"
+   "url": "https://news.ycombinator.com/item?id=49420873"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "晴れ。最高33.6℃ / 最低23.6℃。いまは28.2℃。",
+   "body": "晴れ。最高33.6℃ / 最低23.6℃。いまは27.1℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Moon (2024)",
-   "body": "207ポイント / コメント36件。",
+   "title": "LLMs could control their host machines by exploiting inference engines",
+   "body": "166ポイント / コメント82件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49426466"
+   "url": "https://news.ycombinator.com/item?id=49424387"
   },
   {
    "tag": "WIKI",
-   "title": "ウィリアム・C・デュラント",
-   "body": "ウィリアム・クラポ・“ビリー”・デュラント は、アメリカ合衆国の企業家で米国自動車産業界の先駆者。馬車製造販売事業でミリオネアとなり、自動車産業創成期にゼネラルモーターズ(GM)を創…",
+   "title": "長野県飯田高等学校",
+   "body": "長野県飯田高等学校 は、長野県飯田市上郷黒田にある公立高校。 地元では旧校名である「高松」の名称で呼ばれることもある。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A3%E3%83%AA%E3%82%A2%E3%83%A0%E3%83%BBC%E3%83%BB%E3%83%87%E3%83%A5%E3%83%A9%E3%83%B3%E3%83%88"
+   "url": "https://ja.wikipedia.org/wiki/%E9%95%B7%E9%87%8E%E7%9C%8C%E9%A3%AF%E7%94%B0%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1"
   },
   {
-   "tag": "WIKI",
-   "title": "モンタナ州 (ブルガリア)",
-   "body": "モンタナ州 はブルガリア北西部に位置する州。州都はモンタナ。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%B3%E3%82%BF%E3%83%8A%E5%B7%9E_(%E3%83%96%E3%83%AB%E3%82%AC%E3%83%AA%E3%82%A2)"
+   "tag": "HN",
+   "title": "Show HN: I wrote a BASIC interpreter that boots on UEFI machines",
+   "body": "84ポイント / コメント30件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49410814"
   }
  ]
 }
