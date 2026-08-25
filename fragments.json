@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-26T04:47:21+09:00",
+ "generated_at": "2026-08-26T05:48:11+09:00",
  "items": [
   {
    "tag": "WIKI",
-   "title": "古河虎之助",
-   "body": "古河 虎之助 は、日本の実業家。古河財閥創業者古河市兵衛の実子で、3代目当主。爵位は男爵。位階勲等は正四位勲三等瑞宝章。紺綬褒章受章。号は風可。古河財閥を多角化させ、総合財閥に発展さ…",
+   "title": "コロンビアの都市の一覧",
+   "body": "コロンビアの都市の一覧。 首都・最大都市はボゴタ。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%8F%A4%E6%B2%B3%E8%99%8E%E4%B9%8B%E5%8A%A9"
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%93%E3%82%A2%E3%81%AE%E9%83%BD%E5%B8%82%E3%81%AE%E4%B8%80%E8%A6%A7"
   },
   {
    "tag": "HN",
-   "title": "My Friend Aaron",
-   "body": "194ポイント / コメント43件。",
+   "title": "Clara (YC P26) is hiring a growth engineer to bring AI doctors to mar…",
+   "body": "1ポイント / コメント0件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49437069"
+   "url": "https://news.ycombinator.com/item?id=49437566"
+  },
+  {
+   "tag": "HN",
+   "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
+   "body": "203ポイント / コメント115件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49434820"
   },
   {
    "tag": "WIKI",
-   "title": "TI-89 シリーズ",
-   "body": "TI-89 および TI-89 Titanium はテキサス・インスツルメンツ(TI)が開発したグラフ描画可能なプログラム電卓である。",
+   "title": "今井嘉幸",
+   "body": "今井 嘉幸 は、衆議院議員、弁護士。法学博士。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/TI-89_%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
-  },
-  {
-   "tag": "HN",
-   "title": "Solving the 1+N Query Problem",
-   "body": "35ポイント / コメント22件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49432786"
-  },
-  {
-   "tag": "HN",
-   "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
-   "body": "131ポイント / コメント86件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49434378"
+   "url": "https://ja.wikipedia.org/wiki/%E4%BB%8A%E4%BA%95%E5%98%89%E5%B9%B8"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "曇り。最高33.2℃ / 最低24.5℃。いまは24.5℃。",
+   "body": "曇り。最高33.2℃ / 最低24.5℃。いまは24.6℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
+  },
+  {
+   "tag": "HN",
+   "title": "Black hole singularity is a surface not a point",
+   "body": "122ポイント / コメント66件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49437210"
   }
  ]
 }
