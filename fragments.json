@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-25T22:13:22+09:00",
+ "generated_at": "2026-08-25T23:07:09+09:00",
  "items": [
   {
-   "tag": "WIKI",
-   "title": "Torpedo torpedo",
-   "body": "Torpedo torpedo は、シビレエイ目のエイの一種。ビスケー湾からアンゴラまでの地中海と大西洋東部に分布し、通常沿岸部の浅い砂地に生息する底魚。体長は60センチメートルに達…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/Torpedo_torpedo"
-  },
-  {
    "tag": "HN",
-   "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster mult…",
-   "body": "920ポイント / コメント658件。",
+   "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Sta…",
+   "body": "1ポイント / コメント0件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49420873"
+   "url": "https://news.ycombinator.com/item?id=49423495"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "晴れ。最高33.6℃ / 最低23.6℃。いまは27.1℃。",
+   "body": "晴れ。最高33.6℃ / 最低23.6℃。いまは26.8℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "LLMs could control their host machines by exploiting inference engines",
-   "body": "166ポイント / コメント82件。",
+   "title": "Where did all the public bathrooms go?",
+   "body": "290ポイント / コメント641件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49424387"
-  },
-  {
-   "tag": "WIKI",
-   "title": "長野県飯田高等学校",
-   "body": "長野県飯田高等学校 は、長野県飯田市上郷黒田にある公立高校。 地元では旧校名である「高松」の名称で呼ばれることもある。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E9%95%B7%E9%87%8E%E7%9C%8C%E9%A3%AF%E7%94%B0%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1"
+   "url": "https://news.ycombinator.com/item?id=49422800"
   },
   {
    "tag": "HN",
-   "title": "Show HN: I wrote a BASIC interpreter that boots on UEFI machines",
-   "body": "84ポイント / コメント30件。",
+   "title": "Qwen 3.8-Flash-Next releasing tomorrow (125B a6B)",
+   "body": "70ポイント / コメント19件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49410814"
+   "url": "https://news.ycombinator.com/item?id=49432317"
+  },
+  {
+   "tag": "WIKI",
+   "title": "ダルシマー",
+   "body": "ハンマー・ダルシマー は、ツィター属打弦楽器の英語圏における呼称である。台形の共鳴体に張られた多数の金属製の弦を、ハンマーと呼ばれる撥で打って演奏する。弦を弓などで擦るか、弾いて音を…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%AB%E3%82%B7%E3%83%9E%E3%83%BC"
+  },
+  {
+   "tag": "WIKI",
+   "title": "チアゴ・リベイロ・カルドーソ",
+   "body": "チアゴ・リベイロ・カルドーソ は、ブラジル・サンパウロ州ポンテス・ジェスタウ出身のサッカー選手。グレミオ・ノヴォリゾンチーノ所属。ポジションはフォワード。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%A2%E3%82%B4%E3%83%BB%E3%83%AA%E3%83%99%E3%82%A4%E3%83%AD%E3%83%BB%E3%82%AB%E3%83%AB%E3%83%89%E3%83%BC%E3%82%BD"
   }
  ]
 }
