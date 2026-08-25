@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-25T14:49:14+09:00",
+ "generated_at": "2026-08-25T16:10:24+09:00",
  "items": [
   {
    "tag": "HN",
-   "title": "Show HN: A Modern GUI Library for Ada: CSS Styling, XML UI, SDL3",
-   "body": "37ポイント / コメント15件。",
+   "title": "Nostr is an inclusive communication commons",
+   "body": "96ポイント / コメント33件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49422243"
-  },
-  {
-   "tag": "HN",
-   "title": "Was modern art a CIA psy-op? (2020)",
-   "body": "49ポイント / コメント54件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49428080"
+   "url": "https://news.ycombinator.com/item?id=49399722"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "晴れ。最高33.0℃ / 最低23.6℃。いまは32.8℃。",
+   "body": "晴れ。最高33.6℃ / 最低23.6℃。いまは32.9℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "WIKI",
-   "title": "テイサム・ヒル",
-   "body": "テイサム・ショウン・ヒル は、アメリカ合衆国アイダホ州ポカテッロ出身のアメリカンフットボール選手。現在、NFLのニューオーリンズ・セインツに所属している。ポジションはクォーターバック…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%A4%E3%82%B5%E3%83%A0%E3%83%BB%E3%83%92%E3%83%AB"
-  },
-  {
-   "tag": "WIKI",
-   "title": "マリア・ハウコース・ストレング",
-   "body": "マリア・ハウコース・ストレング は、ノルウェーの歌手。2004年にリアリティ番組『ノルウェー版アイドル』に出演したことでノルウェーで知名度を得て、2008年に第53回のユーロビジョン…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AA%E3%82%A2%E3%83%BB%E3%83%8F%E3%82%A6%E3%82%B3%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%B9%E3%83%88%E3%83%AC%E3%83%B3%E3%82%B0"
+   "tag": "HN",
+   "title": "Jabber/XMPP: 25 Years of Digital Independence",
+   "body": "212ポイント / コメント104件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49421536"
   },
   {
    "tag": "HN",
-   "title": "Thomson Reuters Launches Its Own Frontier Model",
-   "body": "65ポイント / コメント22件。",
+   "title": "Ox-Alpha Is GLM?",
+   "body": "71ポイント / コメント44件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49428318"
+   "url": "https://news.ycombinator.com/item?id=49422226"
+  },
+  {
+   "tag": "WIKI",
+   "title": "ロニー・ウィンクラー",
+   "body": "ロニー・ウィンクラー は、ドイツ、ケムニッツ出身のフィギュアスケート選手（男子シングル）。1990年GPネイションズ杯3位。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%8B%E3%83%BC%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%B3%E3%82%AF%E3%83%A9%E3%83%BC"
+  },
+  {
+   "tag": "WIKI",
+   "title": "三島神社 (台東区)",
+   "body": "三島神社（みしまじんじゃ）は、東京都台東区下谷三丁目にある神社。本社は伊予国一宮で日本総鎮守と称される愛媛県今治市（大三島）の大山祇神社である。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E5%B3%B6%E7%A5%9E%E7%A4%BE_(%E5%8F%B0%E6%9D%B1%E5%8C%BA)"
   }
  ]
 }
