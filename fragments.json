@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-25T19:51:31+09:00",
+ "generated_at": "2026-08-25T20:45:58+09:00",
  "items": [
   {
    "tag": "HN",
-   "title": "Vintage Artificial Intelligence: Before It Got Awkward",
-   "body": "106ポイント / コメント20件。",
+   "title": "Walgit – a Git server that is one binary in front of an object store",
+   "body": "105ポイント / コメント33件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49425800"
-  },
-  {
-   "tag": "WIKI",
-   "title": "愛媛県選挙区",
-   "body": "愛媛県選挙区（えひめけんせんきょく）は、日本の参議院議員通常選挙における選挙区である。参議院一人区の1つ。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%84%9B%E5%AA%9B%E7%9C%8C%E9%81%B8%E6%8C%99%E5%8C%BA"
-  },
-  {
-   "tag": "WIKI",
-   "title": "国道275号",
-   "body": "国道275号（こくどう275ごう）は、北海道札幌市中央区から枝幸郡浜頓別町に至る一般国道である。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%81%93275%E5%8F%B7"
+   "url": "https://news.ycombinator.com/item?id=49420598"
   },
   {
    "tag": "HN",
-   "title": "Training AI to Paint with Code",
-   "body": "102ポイント / コメント12件。",
+   "title": "Jabber/XMPP: 25 Years of Digital Independence",
+   "body": "236ポイント / コメント140件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49411800"
+   "url": "https://news.ycombinator.com/item?id=49421536"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "晴れ。最高33.6℃ / 最低23.6℃。いまは28.8℃。",
+   "body": "晴れ。最高33.6℃ / 最低23.6℃。いまは28.2℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster mult…",
-   "body": "886ポイント / コメント629件。",
+   "title": "Moon (2024)",
+   "body": "207ポイント / コメント36件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49420873"
+   "url": "https://news.ycombinator.com/item?id=49426466"
+  },
+  {
+   "tag": "WIKI",
+   "title": "ウィリアム・C・デュラント",
+   "body": "ウィリアム・クラポ・“ビリー”・デュラント は、アメリカ合衆国の企業家で米国自動車産業界の先駆者。馬車製造販売事業でミリオネアとなり、自動車産業創成期にゼネラルモーターズ(GM)を創…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A3%E3%83%AA%E3%82%A2%E3%83%A0%E3%83%BBC%E3%83%BB%E3%83%87%E3%83%A5%E3%83%A9%E3%83%B3%E3%83%88"
+  },
+  {
+   "tag": "WIKI",
+   "title": "モンタナ州 (ブルガリア)",
+   "body": "モンタナ州 はブルガリア北西部に位置する州。州都はモンタナ。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%B3%E3%82%BF%E3%83%8A%E5%B7%9E_(%E3%83%96%E3%83%AB%E3%82%AC%E3%83%AA%E3%82%A2)"
   }
  ]
 }
