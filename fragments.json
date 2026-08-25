@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-25T16:10:24+09:00",
+ "generated_at": "2026-08-25T17:00:16+09:00",
  "items": [
-  {
-   "tag": "HN",
-   "title": "Nostr is an inclusive communication commons",
-   "body": "96ポイント / コメント33件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49399722"
-  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "晴れ。最高33.6℃ / 最低23.6℃。いまは32.9℃。",
+   "body": "晴れ。最高33.6℃ / 最低23.6℃。いまは31.7℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "HN",
-   "title": "Jabber/XMPP: 25 Years of Digital Independence",
-   "body": "212ポイント / コメント104件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49421536"
-  },
-  {
-   "tag": "HN",
-   "title": "Ox-Alpha Is GLM?",
-   "body": "71ポイント / コメント44件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49422226"
+   "tag": "WIKI",
+   "title": "2005年のヤクルトスワローズ",
+   "body": "2005年のヤクルトスワローズ（2005ねんのヤクルトスワローズ）では、2005年のヤクルトスワローズの動向をまとめる。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/2005%E5%B9%B4%E3%81%AE%E3%83%A4%E3%82%AF%E3%83%AB%E3%83%88%E3%82%B9%E3%83%AF%E3%83%AD%E3%83%BC%E3%82%BA"
   },
   {
    "tag": "WIKI",
-   "title": "ロニー・ウィンクラー",
-   "body": "ロニー・ウィンクラー は、ドイツ、ケムニッツ出身のフィギュアスケート選手（男子シングル）。1990年GPネイションズ杯3位。",
+   "title": "城山町 (三浦市)",
+   "body": "城山町（しろやまちょう）は、神奈川県三浦市にある地名。丁目の設定のない単独町名。住居表示実施済み区域。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%8B%E3%83%BC%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%B3%E3%82%AF%E3%83%A9%E3%83%BC"
+   "url": "https://ja.wikipedia.org/wiki/%E5%9F%8E%E5%B1%B1%E7%94%BA_(%E4%B8%89%E6%B5%A6%E5%B8%82)"
   },
   {
-   "tag": "WIKI",
-   "title": "三島神社 (台東区)",
-   "body": "三島神社（みしまじんじゃ）は、東京都台東区下谷三丁目にある神社。本社は伊予国一宮で日本総鎮守と称される愛媛県今治市（大三島）の大山祇神社である。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E5%B3%B6%E7%A5%9E%E7%A4%BE_(%E5%8F%B0%E6%9D%B1%E5%8C%BA)"
+   "tag": "HN",
+   "title": "Show HN: Screen memory without screenshots, just text to Markdown",
+   "body": "35ポイント / コメント12件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49429095"
+  },
+  {
+   "tag": "HN",
+   "title": "Crafting QR Codes: A deep dive into QR code art (2024)",
+   "body": "56ポイント / コメント1件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49420116"
+  },
+  {
+   "tag": "HN",
+   "title": "LLMs could control their host machines by exploiting inference engines",
+   "body": "133ポイント / コメント64件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49424387"
   }
  ]
 }
