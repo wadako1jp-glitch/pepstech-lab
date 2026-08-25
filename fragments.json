@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-26T03:59:22+09:00",
+ "generated_at": "2026-08-26T04:47:21+09:00",
  "items": [
   {
+   "tag": "WIKI",
+   "title": "古河虎之助",
+   "body": "古河 虎之助 は、日本の実業家。古河財閥創業者古河市兵衛の実子で、3代目当主。爵位は男爵。位階勲等は正四位勲三等瑞宝章。紺綬褒章受章。号は風可。古河財閥を多角化させ、総合財閥に発展さ…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%8F%A4%E6%B2%B3%E8%99%8E%E4%B9%8B%E5%8A%A9"
+  },
+  {
    "tag": "HN",
-   "title": "New Mac Studio with M5 Max and M5 Ultra",
-   "body": "582ポイント / コメント340件。",
+   "title": "My Friend Aaron",
+   "body": "194ポイント / コメント43件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49433316"
+   "url": "https://news.ycombinator.com/item?id=49437069"
   },
   {
    "tag": "WIKI",
-   "title": "ジャパンラグビートップリーグ2009-2010",
-   "body": "ジャパンラグビートップリーグ2009-2010は2009年9月4日から2010年1月9日までレギュラーシーズンが行われた。",
+   "title": "TI-89 シリーズ",
+   "body": "TI-89 および TI-89 Titanium はテキサス・インスツルメンツ(TI)が開発したグラフ描画可能なプログラム電卓である。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%83%A9%E3%82%B0%E3%83%93%E3%83%BC%E3%83%88%E3%83%83%E3%83%97%E3%83%AA%E3%83%BC%E3%82%B02009-2010"
+   "url": "https://ja.wikipedia.org/wiki/TI-89_%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
   },
   {
-   "tag": "WIKI",
-   "title": "ルイ・ルノー (法学者)",
-   "body": "ルイ・ルノー は、フランスの法学者で教育者。1907年にエルネスト・テオドロ・モネータとともにノーベル平和賞を受賞した。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%82%A4%E3%83%BB%E3%83%AB%E3%83%8E%E3%83%BC_(%E6%B3%95%E5%AD%A6%E8%80%85)"
+   "tag": "HN",
+   "title": "Solving the 1+N Query Problem",
+   "body": "35ポイント / コメント22件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49432786"
+  },
+  {
+   "tag": "HN",
+   "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
+   "body": "131ポイント / コメント86件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49434378"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "曇り。最高33.2℃ / 最低24.5℃。いまは24.7℃。",
+   "body": "曇り。最高33.2℃ / 最低24.5℃。いまは24.5℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
-  },
-  {
-   "tag": "HN",
-   "title": "Nitter project received cease and desist",
-   "body": "221ポイント / コメント138件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49437283"
-  },
-  {
-   "tag": "HN",
-   "title": "Show HN: LatticeDB – Like SQLite but for graph databases",
-   "body": "36ポイント / コメント6件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49437049"
   }
  ]
 }
