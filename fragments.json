@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-25T18:01:58+09:00",
+ "generated_at": "2026-08-25T18:53:02+09:00",
  "items": [
+  {
+   "tag": "WIKI",
+   "title": "真庭市立富原小学校",
+   "body": "真庭市立富原小学校 は、岡山県真庭市若代（わかしろ）にある公立小学校。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E7%9C%9F%E5%BA%AD%E5%B8%82%E7%AB%8B%E5%AF%8C%E5%8E%9F%E5%B0%8F%E5%AD%A6%E6%A0%A1"
+  },
+  {
+   "tag": "WIKI",
+   "title": "野村盛秀",
+   "body": "野村 盛秀 は、幕末の薩摩藩藩士。明治維新後に初代埼玉県令となるが、早世した。通称は宗七。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E9%87%8E%E6%9D%91%E7%9B%9B%E7%A7%80"
+  },
   {
    "tag": "HN",
    "title": "Was modern art a CIA psy-op? (2020)",
-   "body": "73ポイント / コメント108件。",
+   "body": "79ポイント / コメント123件。",
    "src": "news.ycombinator.com",
    "url": "https://news.ycombinator.com/item?id=49428080"
   },
   {
-   "tag": "WIKI",
-   "title": "吉見一起",
-   "body": "吉見 一起 は、京都府福知山市出身の元プロ野球選手（投手、右投右打）、野球解説者、YouTuber。現在はトヨタ自動車硬式野球部のテクニカルアドバイザー、野球日本代表の投手コーチを務…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%90%89%E8%A6%8B%E4%B8%80%E8%B5%B7"
+   "tag": "HN",
+   "title": "The entire city of San Francisco as a video game",
+   "body": "466ポイント / コメント141件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49422784"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "晴れ。最高33.6℃ / 最低23.6℃。いまは30.4℃。",
+   "body": "晴れ。最高33.6℃ / 最低23.6℃。いまは29.6℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Headlong: A Microharness for Persistent Agents",
-   "body": "52ポイント / コメント19件。",
+   "title": "Moon (2024)",
+   "body": "189ポイント / コメント33件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49428882"
-  },
-  {
-   "tag": "HN",
-   "title": "How Universities Should Prepare Founders",
-   "body": "113ポイント / コメント136件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49428121"
-  },
-  {
-   "tag": "WIKI",
-   "title": "柳沢香枝",
-   "body": "柳沢 香枝 は、日本の外交官。国連開発計画シニアアドバイザーや、国際緊急援助隊事務局長、女性初の国際協力機構理事を経て、駐マラウイ特命全権大使。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%9F%B3%E6%B2%A2%E9%A6%99%E6%9E%9D"
+   "url": "https://news.ycombinator.com/item?id=49426466"
   }
  ]
 }
