@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-26T12:26:50+09:00",
+ "generated_at": "2026-08-26T13:57:35+09:00",
  "items": [
+  {
+   "tag": "WIKI",
+   "title": "イ (恐竜)",
+   "body": "イ は、中国のジュラ紀の地層から発見されているスカンソリオプテリクス類の恐竜の属の一つ。イ・チ 一種のみで知られる。小型で、恐らく樹上生活者だった。他のスカンソリオプテリクス類のよう…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%A4_(%E6%81%90%E7%AB%9C)"
+  },
+  {
+   "tag": "WIKI",
+   "title": "桑根井空塚古墳",
+   "body": "桑根井空塚古墳（くわねいそらづかこふん）は、長野県長野市松代町豊栄にある古墳。形状は円墳。長野県指定史跡に指定されている（指定名称は「桑根井空塚」）。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E6%A1%91%E6%A0%B9%E4%BA%95%E7%A9%BA%E5%A1%9A%E5%8F%A4%E5%A2%B3"
+  },
+  {
+   "tag": "HN",
+   "title": "Nitter and XCancel receive cease and desist notices",
+   "body": "726ポイント / コメント621件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49437283"
+  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "曇り。最高33.5℃ / 最低24.7℃。いまは33.3℃。",
+   "body": "曇り。最高33.5℃ / 最低24.7℃。いまは33.4℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Show HN: I made a Raspberry with Qwen my local car AI",
-   "body": "113ポイント / コメント28件。",
+   "title": "Clara (YC P26) is hiring a growth engineer to bring AI doctors to mar…",
+   "body": "1ポイント / コメント0件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49435675"
-  },
-  {
-   "tag": "WIKI",
-   "title": "松原インターチェンジ",
-   "body": "松原インターチェンジ（まつばらインターチェンジ）は、大阪府松原市の、阪和自動車道上にあるインターチェンジである。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E5%8E%9F%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%81%E3%82%A7%E3%83%B3%E3%82%B8"
+   "url": "https://news.ycombinator.com/item?id=49437566"
   },
   {
    "tag": "HN",
-   "title": "New Mac mini, featuring M6 and M5 Pro",
-   "body": "449ポイント / コメント276件。",
+   "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, o…",
+   "body": "48ポイント / コメント19件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49433450"
-  },
-  {
-   "tag": "HN",
-   "title": "Show HN: I built self-hosted deployment automation tool for Windows a…",
-   "body": "26ポイント / コメント11件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49430259"
-  },
-  {
-   "tag": "WIKI",
-   "title": "有松駅",
-   "body": "有松駅（ありまつえき）は、愛知県名古屋市緑区有松にある名古屋鉄道名古屋本線の駅である。駅番号はNH25。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%9C%89%E6%9D%BE%E9%A7%85"
+   "url": "https://news.ycombinator.com/item?id=49441666"
   }
  ]
 }
