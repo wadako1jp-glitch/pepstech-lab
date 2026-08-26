@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-26T14:51:48+09:00",
+ "generated_at": "2026-08-26T16:10:54+09:00",
  "items": [
   {
-   "tag": "HN",
-   "title": "Don't Wordle",
-   "body": "327ポイント / コメント117件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49432319"
+   "tag": "WIKI",
+   "title": "アーニー・エルス",
+   "body": "アーニー・エルス は、南アフリカ・ヨハネスブルグ出身のプロゴルファー。ゆったりとした優雅なスイングと、大柄でおっとりした物腰から「The Big Easy（ビッグ・イージー）」という…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%BC%E3%83%8B%E3%83%BC%E3%83%BB%E3%82%A8%E3%83%AB%E3%82%B9"
+  },
+  {
+   "tag": "WIKI",
+   "title": "本堂親久",
+   "body": "本堂 親久 は、江戸時代後期の旗本・大名、明治時代の華族。常陸志筑藩主。男爵。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E6%9C%AC%E5%A0%82%E8%A6%AA%E4%B9%85"
   },
   {
    "tag": "HN",
-   "title": "Dolly Parton has died",
-   "body": "1359ポイント / コメント202件。",
+   "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via…",
+   "body": "77ポイント / コメント16件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49438052"
+   "url": "https://news.ycombinator.com/item?id=49441375"
+  },
+  {
+   "tag": "HN",
+   "title": "Visualizing Binary Files",
+   "body": "103ポイント / コメント18件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49423878"
+  },
+  {
+   "tag": "HN",
+   "title": "Show HN: I made a Raspberry with Qwen my local car AI",
+   "body": "128ポイント / コメント35件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49435675"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "曇り。最高33.7℃ / 最低24.7℃。いまは33.5℃。",
+   "body": "曇り。最高33.9℃ / 最低24.7℃。いまは32.8℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
-  },
-  {
-   "tag": "WIKI",
-   "title": "チャコ戦争",
-   "body": "チャコ戦争 は、1932年から1938年にかけてボリビアとパラグアイの間で行なわれた戦争。グラン・チャコ戦争 とも。両国の未確定国境地帯であったグラン・チャコに石油の埋蔵があるという…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A3%E3%82%B3%E6%88%A6%E4%BA%89"
-  },
-  {
-   "tag": "HN",
-   "title": "Run OpenBSD on DigitalOcean for $4/month",
-   "body": "143ポイント / コメント66件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49437483"
-  },
-  {
-   "tag": "WIKI",
-   "title": "伊集院氏",
-   "body": "伊集院氏（いじゅういんし）は、日本の氏族。著名な一族として薩摩島津氏の一族が挙げられる。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E4%BC%8A%E9%9B%86%E9%99%A2%E6%B0%8F"
   }
  ]
 }
