@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-26T22:18:13+09:00",
+ "generated_at": "2026-08-27T00:53:58+09:00",
  "items": [
+  {
+   "tag": "WIKI",
+   "title": "劉成勲",
+   "body": "劉 成勲 は、中華民国の軍人。川軍（四川軍）の軍指揮官の1人である。同時代の川軍軍人である劉湘・劉文輝と同姓同郷だが、血縁関係にはない。字は禹九。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%8A%89%E6%88%90%E5%8B%B2"
+  },
+  {
+   "tag": "WIKI",
+   "title": "Savage",
+   "body": "Savage（サベージ）は、アメリカのグラフィックチップ設計製造メーカーS3社が販売していたグラフィックチップの製品およびそのシリーズである。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/Savage"
+  },
+  {
+   "tag": "HN",
+   "title": "GLM-5.3-Flash Intelligence, Performance and Price Analysis",
+   "body": "33ポイント / コメント4件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49450353"
+  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "曇り。最高33.9℃ / 最低24.7℃。いまは27.3℃。",
+   "body": "霧雨。最高29.1℃ / 最低24.2℃。いまは26.4℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "New Mac mini, featuring M6 and M5 Pro",
-   "body": "514ポイント / コメント324件。",
+   "title": "Stalking the Wily Hacker: 40 years later – Cliff Stoll [video]",
+   "body": "202ポイント / コメント69件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49433450"
+   "url": "https://news.ycombinator.com/item?id=49395802"
   },
   {
    "tag": "HN",
-   "title": "Nitter and XCancel receive cease and desist notices",
-   "body": "1039ポイント / コメント866件。",
+   "title": "Show HN: How much of Hacker News is AI?",
+   "body": "28ポイント / コメント14件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49437283"
-  },
-  {
-   "tag": "WIKI",
-   "title": "ジョン・ストーンズ",
-   "body": "ジョン・ストーンズ は、イングランド・バーンズリー出身のサッカー選手。セリエA・インテル・ミラノ所属。イングランド代表。ポジションはディフェンダー。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%82%B9%E3%83%88%E3%83%BC%E3%83%B3%E3%82%BA"
-  },
-  {
-   "tag": "WIKI",
-   "title": "秩父鉄道三ヶ尻線",
-   "body": "三ヶ尻線（みかじりせん）は、埼玉県深谷市の武川駅と埼玉県熊谷市の三ヶ尻駅を結ぶ、秩父鉄道の鉄道路線（貨物線）である。『鉄道要覧』における表記は「ヶ」が大文字の「三ケ尻線」となっている…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E7%A7%A9%E7%88%B6%E9%89%84%E9%81%93%E4%B8%89%E3%83%B6%E5%B0%BB%E7%B7%9A"
-  },
-  {
-   "tag": "HN",
-   "title": "Apple introduces M6 and M5 Ultra",
-   "body": "1221ポイント / コメント1173件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49433292"
+   "url": "https://news.ycombinator.com/item?id=49449648"
   }
  ]
 }
