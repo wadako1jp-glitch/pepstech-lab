@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-26T17:01:49+09:00",
+ "generated_at": "2026-08-26T18:04:27+09:00",
  "items": [
-  {
-   "tag": "WIKI",
-   "title": "秩父鉄道テキ100形貨車",
-   "body": "秩父鉄道テキ100形貨車（ちちぶてつどうテキ100がたかしゃ）は、かつて秩父鉄道に在籍していた貨車である。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E7%A7%A9%E7%88%B6%E9%89%84%E9%81%93%E3%83%86%E3%82%AD100%E5%BD%A2%E8%B2%A8%E8%BB%8A"
-  },
-  {
-   "tag": "WIKI",
-   "title": "モンテフィオーレ・コンカ",
-   "body": "モンテフィオーレ・コンカ は、イタリア共和国エミリア＝ロマーニャ州リミニ県にある、人口約2,300人の基礎自治体（コムーネ）。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%B3%E3%83%86%E3%83%95%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AC%E3%83%BB%E3%82%B3%E3%83%B3%E3%82%AB"
-  },
-  {
-   "tag": "HN",
-   "title": "Apple introduces M6 and M5 Ultra",
-   "body": "1106ポイント / コメント1060件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49433292"
-  },
-  {
-   "tag": "HN",
-   "title": "Visualizing Binary Files",
-   "body": "109ポイント / コメント18件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49423878"
-  },
-  {
-   "tag": "HN",
-   "title": "Nitter and XCancel receive cease and desist notices",
-   "body": "862ポイント / コメント708件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49437283"
-  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "曇り。最高33.9℃ / 最低24.7℃。いまは31.9℃。",
+   "body": "曇り。最高33.9℃ / 最低24.7℃。いまは30.9℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
+  },
+  {
+   "tag": "HN",
+   "title": "Show HN: I made a Raspberry with Qwen my local car AI",
+   "body": "137ポイント / コメント39件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49435675"
+  },
+  {
+   "tag": "WIKI",
+   "title": "プエルト・プラタ州",
+   "body": "プエルト・プラタ州 はドミニカ共和国北中部の州。 2017年の人口は33万439人で、国内6位。 州都はプエルト・プラタ。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%97%E3%82%A8%E3%83%AB%E3%83%88%E3%83%BB%E3%83%97%E3%83%A9%E3%82%BF%E5%B7%9E"
+  },
+  {
+   "tag": "HN",
+   "title": "FDA authorizes first wearable device that monitors ketone and blood s…",
+   "body": "389ポイント / コメント189件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49439017"
+  },
+  {
+   "tag": "HN",
+   "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, o…",
+   "body": "78ポイント / コメント44件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49441666"
+  },
+  {
+   "tag": "WIKI",
+   "title": "江利チエミ",
+   "body": "江利 チエミ は、昭和期に活躍した日本の歌手・女優・タレント。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E6%B1%9F%E5%88%A9%E3%83%81%E3%82%A8%E3%83%9F"
   }
  ]
 }
