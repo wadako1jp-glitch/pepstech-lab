@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-26T18:59:24+09:00",
+ "generated_at": "2026-08-26T19:53:13+09:00",
  "items": [
   {
-   "tag": "WIKI",
-   "title": "久米美術館",
-   "body": "久米美術館 は東京都品川区上大崎2丁目にある、日本近代洋画と歴史学者久米邦武の資料を中心に集めている美術館である。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E4%B9%85%E7%B1%B3%E7%BE%8E%E8%A1%93%E9%A4%A8"
+   "tag": "天気",
+   "title": "東京 きょう",
+   "body": "曇り。最高33.9℃ / 最低24.7℃。いまは29.3℃。",
+   "src": "open-meteo.com",
+   "url": "https://open-meteo.com/"
+  },
+  {
+   "tag": "HN",
+   "title": "Tooltips need a delay, and then they need to skip it",
+   "body": "185ポイント / コメント54件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49436786"
   },
   {
    "tag": "HN",
    "title": "RAG Is Simpler Than You Think",
-   "body": "16ポイント / コメント2件。",
+   "body": "58ポイント / コメント29件。",
    "src": "news.ycombinator.com",
    "url": "https://news.ycombinator.com/item?id=49445727"
   },
   {
-   "tag": "HN",
-   "title": "C2PA Cameras Do Not Survive Contact with Reality",
-   "body": "153ポイント / コメント96件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49439499"
+   "tag": "WIKI",
+   "title": "ジェイムズ・コットン",
+   "body": "ジェイムズ・コットン は、米国のブルース・ハーモニカ奏者、シンガー。マディ・ウォーターズのバンドのハーモニカ奏者として頭角を現し、その後ソロ・アーティストとして活躍している。1990…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%82%A4%E3%83%A0%E3%82%BA%E3%83%BB%E3%82%B3%E3%83%83%E3%83%88%E3%83%B3"
   },
   {
    "tag": "WIKI",
-   "title": "シャンティイ",
-   "body": "シャンティイ は、フランス、オー＝ド＝フランス地域圏、オワーズ県のコミューン。",
+   "title": "ジョージア技術大学",
+   "body": "ジョージア技術大学 は、南コーカサスにあるジョージアで最大規模の公立工科大学。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%86%E3%82%A3%E3%82%A4"
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%B8%E3%82%A2%E6%8A%80%E8%A1%93%E5%A4%A7%E5%AD%A6"
   },
   {
    "tag": "HN",
-   "title": "Apple introduces M6 and M5 Ultra",
-   "body": "1143ポイント / コメント1109件。",
+   "title": "Harvest (IBM 7950): Supercomputer for cryptanalysis at the NSA in the…",
+   "body": "43ポイント / コメント12件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49433292"
-  },
-  {
-   "tag": "天気",
-   "title": "東京 きょう",
-   "body": "曇り。最高33.9℃ / 最低24.7℃。いまは30.1℃。",
-   "src": "open-meteo.com",
-   "url": "https://open-meteo.com/"
+   "url": "https://news.ycombinator.com/item?id=49444232"
   }
  ]
 }
