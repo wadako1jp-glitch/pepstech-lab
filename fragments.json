@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-26T20:47:30+09:00",
+ "generated_at": "2026-08-26T22:18:13+09:00",
  "items": [
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "曇り。最高33.9℃ / 最低24.7℃。いまは28.5℃。",
+   "body": "曇り。最高33.9℃ / 最低24.7℃。いまは27.3℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "C2PA Cameras Do Not Survive Contact with Reality",
-   "body": "163ポイント / コメント107件。",
+   "title": "New Mac mini, featuring M6 and M5 Pro",
+   "body": "514ポイント / コメント324件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49439499"
-  },
-  {
-   "tag": "WIKI",
-   "title": "日高栄三郎",
-   "body": "日高 栄三郎 は、明治から昭和時代前期の政治家、漁業家。貴族院多額納税者議員。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E9%AB%98%E6%A0%84%E4%B8%89%E9%83%8E"
-  },
-  {
-   "tag": "WIKI",
-   "title": "ONE札幌ステーションタワー",
-   "body": "ONE札幌ステーションタワー（ワンさっぽろステーションタワー）は、北海道札幌市北区に所在する北海道で一番の高さを誇る超高層建築物及び超高層マンションである。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/ONE%E6%9C%AD%E5%B9%8C%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%BF%E3%83%AF%E3%83%BC"
+   "url": "https://news.ycombinator.com/item?id=49433450"
   },
   {
    "tag": "HN",
    "title": "Nitter and XCancel receive cease and desist notices",
-   "body": "994ポイント / コメント832件。",
+   "body": "1039ポイント / コメント866件。",
    "src": "news.ycombinator.com",
    "url": "https://news.ycombinator.com/item?id=49437283"
   },
   {
+   "tag": "WIKI",
+   "title": "ジョン・ストーンズ",
+   "body": "ジョン・ストーンズ は、イングランド・バーンズリー出身のサッカー選手。セリエA・インテル・ミラノ所属。イングランド代表。ポジションはディフェンダー。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%82%B9%E3%83%88%E3%83%BC%E3%83%B3%E3%82%BA"
+  },
+  {
+   "tag": "WIKI",
+   "title": "秩父鉄道三ヶ尻線",
+   "body": "三ヶ尻線（みかじりせん）は、埼玉県深谷市の武川駅と埼玉県熊谷市の三ヶ尻駅を結ぶ、秩父鉄道の鉄道路線（貨物線）である。『鉄道要覧』における表記は「ヶ」が大文字の「三ケ尻線」となっている…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E7%A7%A9%E7%88%B6%E9%89%84%E9%81%93%E4%B8%89%E3%83%B6%E5%B0%BB%E7%B7%9A"
+  },
+  {
    "tag": "HN",
-   "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
-   "body": "328ポイント / コメント171件。",
+   "title": "Apple introduces M6 and M5 Ultra",
+   "body": "1221ポイント / コメント1173件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49434820"
+   "url": "https://news.ycombinator.com/item?id=49433292"
   }
  ]
 }
