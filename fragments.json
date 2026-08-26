@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-26T18:04:27+09:00",
+ "generated_at": "2026-08-26T18:59:24+09:00",
  "items": [
+  {
+   "tag": "WIKI",
+   "title": "久米美術館",
+   "body": "久米美術館 は東京都品川区上大崎2丁目にある、日本近代洋画と歴史学者久米邦武の資料を中心に集めている美術館である。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E4%B9%85%E7%B1%B3%E7%BE%8E%E8%A1%93%E9%A4%A8"
+  },
+  {
+   "tag": "HN",
+   "title": "RAG Is Simpler Than You Think",
+   "body": "16ポイント / コメント2件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49445727"
+  },
+  {
+   "tag": "HN",
+   "title": "C2PA Cameras Do Not Survive Contact with Reality",
+   "body": "153ポイント / コメント96件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49439499"
+  },
+  {
+   "tag": "WIKI",
+   "title": "シャンティイ",
+   "body": "シャンティイ は、フランス、オー＝ド＝フランス地域圏、オワーズ県のコミューン。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%86%E3%82%A3%E3%82%A4"
+  },
+  {
+   "tag": "HN",
+   "title": "Apple introduces M6 and M5 Ultra",
+   "body": "1143ポイント / コメント1109件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49433292"
+  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "曇り。最高33.9℃ / 最低24.7℃。いまは30.9℃。",
+   "body": "曇り。最高33.9℃ / 最低24.7℃。いまは30.1℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
-  },
-  {
-   "tag": "HN",
-   "title": "Show HN: I made a Raspberry with Qwen my local car AI",
-   "body": "137ポイント / コメント39件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49435675"
-  },
-  {
-   "tag": "WIKI",
-   "title": "プエルト・プラタ州",
-   "body": "プエルト・プラタ州 はドミニカ共和国北中部の州。 2017年の人口は33万439人で、国内6位。 州都はプエルト・プラタ。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%97%E3%82%A8%E3%83%AB%E3%83%88%E3%83%BB%E3%83%97%E3%83%A9%E3%82%BF%E5%B7%9E"
-  },
-  {
-   "tag": "HN",
-   "title": "FDA authorizes first wearable device that monitors ketone and blood s…",
-   "body": "389ポイント / コメント189件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49439017"
-  },
-  {
-   "tag": "HN",
-   "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, o…",
-   "body": "78ポイント / コメント44件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49441666"
-  },
-  {
-   "tag": "WIKI",
-   "title": "江利チエミ",
-   "body": "江利 チエミ は、昭和期に活躍した日本の歌手・女優・タレント。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%B1%9F%E5%88%A9%E3%83%81%E3%82%A8%E3%83%9F"
   }
  ]
 }
