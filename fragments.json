@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-27T08:37:49+09:00",
+ "generated_at": "2026-08-27T18:53:33+09:00",
  "items": [
   {
    "tag": "WIKI",
-   "title": "メイトル・ギムス",
-   "body": "メイトル・ギムス はコンゴ民主共和国出身のフランスのラッパー。",
+   "title": "与板駅",
+   "body": "与板駅（よいたえき）は、かつて新潟県三島郡与板町 に所在した越後交通長岡線の駅（廃駅）である。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%A4%E3%83%88%E3%83%AB%E3%83%BB%E3%82%AE%E3%83%A0%E3%82%B9"
-  },
-  {
-   "tag": "WIKI",
-   "title": "真鍋氏",
-   "body": "真鍋氏（まなべし）は、日本の姓氏のひとつ。平安時代には笠岡諸島の真鍋島を本拠地とした土豪（真鍋水軍）として『平家物語』に真鍋氏（真名辺氏）の名の記述がある。源平合戦では平家方について…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E7%9C%9F%E9%8D%8B%E6%B0%8F"
+   "url": "https://ja.wikipedia.org/wiki/%E4%B8%8E%E6%9D%BF%E9%A7%85"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "強い霧雨。最高29.2℃ / 最低24.3℃。いまは26.2℃。",
+   "body": "雨。最高27.9℃ / 最低24.0℃。いまは24.6℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Just say something people want",
-   "body": "31ポイント / コメント9件。",
+   "title": "Laion Big Video Dataset",
+   "body": "64ポイント / コメント17件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49447054"
+   "url": "https://news.ycombinator.com/item?id=49458478"
+  },
+  {
+   "tag": "WIKI",
+   "title": "蒲焼さん太郎",
+   "body": "蒲焼さん太郎（かばやきさんたろう）は、株式会社菓道が製造・販売する駄菓子である。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E8%92%B2%E7%84%BC%E3%81%95%E3%82%93%E5%A4%AA%E9%83%8E"
   },
   {
    "tag": "HN",
-   "title": "FDA Approves First in Class Targeted Therapy for Metastatic Pancreati…",
-   "body": "144ポイント / コメント32件。",
+   "title": "Tailcat – Like netcat, but over Tailscale’s data plane",
+   "body": "577ポイント / コメント101件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49451675"
+   "url": "https://news.ycombinator.com/item?id=49452990"
   },
   {
    "tag": "HN",
-   "title": "The Harness Is the Thing",
-   "body": "9ポイント / コメント3件。",
+   "title": "Stripe acquires Clerky",
+   "body": "174ポイント / コメント28件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49452346"
+   "url": "https://news.ycombinator.com/item?id=49455956"
   }
  ]
 }
