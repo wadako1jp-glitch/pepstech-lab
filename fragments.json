@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-29T23:30:44+09:00",
+ "generated_at": "2026-08-30T03:33:39+09:00",
  "items": [
-  {
-   "tag": "HN",
-   "title": "TurboKV: Insanely fast Rust key-value store",
-   "body": "136ポイント / コメント64件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49486334"
-  },
-  {
-   "tag": "HN",
-   "title": "Our decision on Cursor following its acquisition by SpaceX",
-   "body": "651ポイント / コメント373件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49486172"
-  },
-  {
-   "tag": "HN",
-   "title": "Queen Caroline turned King Arthur into an 18C royal PR strategy",
-   "body": "31ポイント / コメント6件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49422397"
-  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "雨。最高25.3℃ / 最低20.0℃。いまは19.9℃。",
+   "body": "霧雨。最高25.5℃ / 最低19.7℃。いまは19.8℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "WIKI",
-   "title": "名古屋市立那古野小学校",
-   "body": "名古屋市立那古野小学校 は、かつて愛知県名古屋市西区那古野にあった小学校。",
+   "title": "星田英利",
+   "body": "星田 英利 は、日本の俳優。元お笑いタレント、ピン芸人。旧芸名は「ほっしゃん。」。大阪府泉南郡南海町（現在の阪南市）出身。吉本興業東京本社所属。R-1ぐらんぷり2005優勝者。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E7%AB%8B%E9%82%A3%E5%8F%A4%E9%87%8E%E5%B0%8F%E5%AD%A6%E6%A0%A1"
+   "url": "https://ja.wikipedia.org/wiki/%E6%98%9F%E7%94%B0%E8%8B%B1%E5%88%A9"
+  },
+  {
+   "tag": "HN",
+   "title": "StemDeck, a free, open-source and local AI stem separator",
+   "body": "182ポイント / コメント50件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49486081"
   },
   {
    "tag": "WIKI",
-   "title": "ホセア・サウマキ",
-   "body": "ホセア・サウマキ は、ラグビーユニオンの選手。",
+   "title": "研究学園駅前公園",
+   "body": "研究学園駅前公園（けんきゅうがくえんえきまえこうえん）は、茨城県つくば市学園南二丁目にあるつくば市立の都市公園（地区公園）である。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%82%BB%E3%82%A2%E3%83%BB%E3%82%B5%E3%82%A6%E3%83%9E%E3%82%AD"
+   "url": "https://ja.wikipedia.org/wiki/%E7%A0%94%E7%A9%B6%E5%AD%A6%E5%9C%92%E9%A7%85%E5%89%8D%E5%85%AC%E5%9C%92"
+  },
+  {
+   "tag": "HN",
+   "title": "I accidentally turned LLM memory into program analysis",
+   "body": "250ポイント / コメント69件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49485416"
+  },
+  {
+   "tag": "HN",
+   "title": "Glacier Mice",
+   "body": "185ポイント / コメント35件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49424320"
   }
  ]
 }
