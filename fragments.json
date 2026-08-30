@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-30T21:56:16+09:00",
+ "generated_at": "2026-08-31T02:32:03+09:00",
  "items": [
-  {
-   "tag": "HN",
-   "title": "One Nix flake to rule them all",
-   "body": "3ポイント / コメント0件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49497712"
-  },
-  {
-   "tag": "WIKI",
-   "title": "真夏の大感謝祭 LIVE",
-   "body": "『真夏の大感謝祭 LIVE』 は、サザンオールスターズのライブ・ビデオ。2008年12月3日にDVD、2008年12月17日にBlu-ray Discで発売。発売元はタイシタレーベル…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E7%9C%9F%E5%A4%8F%E3%81%AE%E5%A4%A7%E6%84%9F%E8%AC%9D%E7%A5%AD_LIVE"
-  },
-  {
-   "tag": "HN",
-   "title": "Creating Teensy ELF Executables for Linux (Or, \"Size Is Everything\") …",
-   "body": "59ポイント / コメント15件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49433554"
-  },
-  {
-   "tag": "WIKI",
-   "title": "Rie a.k.a.Suzaku",
-   "body": "Rie a.k.a. Suzaku は、日本の女性ソロハードロック・ヘヴィメタル・ロックフュージョンギタリスト。神奈川県川崎市出身。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/Rie_a.k.a.Suzaku"
-  },
-  {
-   "tag": "HN",
-   "title": "California lawmakers unanimously pass Linux exemption from age-verifi…",
-   "body": "403ポイント / コメント181件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49495372"
-  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高26.7℃ / 最低19.7℃。いまは23.7℃。",
+   "body": "薄曇り。最高29.1℃ / 最低22.6℃。いまは22.8℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
+  },
+  {
+   "tag": "HN",
+   "title": "Casey Muratori – The Root of the Root of All Evil – BSC 2026 [video]",
+   "body": "204ポイント / コメント97件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49463888"
+  },
+  {
+   "tag": "WIKI",
+   "title": "サンステーションテラス倉敷",
+   "body": "サンステーションテラス倉敷 は、岡山県倉敷市のJR西日本倉敷駅構内にある駅ナカ商業施設である。通称「さんすて倉敷」。JR西日本グループの山陽SC開発株式会社（岡山県岡山市北区）が運営…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%86%E3%83%A9%E3%82%B9%E5%80%89%E6%95%B7"
+  },
+  {
+   "tag": "HN",
+   "title": "An implementation of Conway's Game of Life for Windows 3.1x and later",
+   "body": "37ポイント / コメント5件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49497819"
+  },
+  {
+   "tag": "WIKI",
+   "title": "ヴィクトル・エロフェーエフ",
+   "body": "ヴィクトル・ウラジミロヴィッチ・エロフェーエフ は、モスクワ生まれのロシアの作家、評論家。ウラジーミル・ナボコフ、アンドレイ・ビートフの系譜に連なる前衛作家として、実験的手法を駆使し…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A3%E3%82%AF%E3%83%88%E3%83%AB%E3%83%BB%E3%82%A8%E3%83%AD%E3%83%95%E3%82%A7%E3%83%BC%E3%82%A8%E3%83%95"
+  },
+  {
+   "tag": "HN",
+   "title": "Coordination Headwind: How Organizations Are Like Slime Molds",
+   "body": "23ポイント / コメント9件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49499891"
   }
  ]
 }
