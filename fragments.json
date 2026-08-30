@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-30T15:43:02+09:00",
+ "generated_at": "2026-08-30T21:56:16+09:00",
  "items": [
   {
    "tag": "HN",
-   "title": "Glacier Mice",
-   "body": "282ポイント / コメント55件。",
+   "title": "One Nix flake to rule them all",
+   "body": "3ポイント / コメント0件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49424320"
+   "url": "https://news.ycombinator.com/item?id=49497712"
+  },
+  {
+   "tag": "WIKI",
+   "title": "真夏の大感謝祭 LIVE",
+   "body": "『真夏の大感謝祭 LIVE』 は、サザンオールスターズのライブ・ビデオ。2008年12月3日にDVD、2008年12月17日にBlu-ray Discで発売。発売元はタイシタレーベル…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E7%9C%9F%E5%A4%8F%E3%81%AE%E5%A4%A7%E6%84%9F%E8%AC%9D%E7%A5%AD_LIVE"
+  },
+  {
+   "tag": "HN",
+   "title": "Creating Teensy ELF Executables for Linux (Or, \"Size Is Everything\") …",
+   "body": "59ポイント / コメント15件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49433554"
+  },
+  {
+   "tag": "WIKI",
+   "title": "Rie a.k.a.Suzaku",
+   "body": "Rie a.k.a. Suzaku は、日本の女性ソロハードロック・ヘヴィメタル・ロックフュージョンギタリスト。神奈川県川崎市出身。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/Rie_a.k.a.Suzaku"
+  },
+  {
+   "tag": "HN",
+   "title": "California lawmakers unanimously pass Linux exemption from age-verifi…",
+   "body": "403ポイント / コメント181件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49495372"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高25.7℃ / 最低19.7℃。いまは25.7℃。",
+   "body": "霧雨。最高26.7℃ / 最低19.7℃。いまは23.7℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
-  },
-  {
-   "tag": "WIKI",
-   "title": "車",
-   "body": "車（くるま、シャ）輪の形をしており回転するもの。この意味では「輪」とも。代表的なものとしては車輪。ほかには歯車、水車、風車などの例がある。 車輪がついていてそれが回転する荷車や乗り物…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E8%BB%8A"
-  },
-  {
-   "tag": "WIKI",
-   "title": "西区 (台中市)",
-   "body": "西区（シー/にし-く）は台中市の市轄区。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E5%8C%BA_(%E5%8F%B0%E4%B8%AD%E5%B8%82)"
-  },
-  {
-   "tag": "HN",
-   "title": "A few feral cats in an ALGOL trenchcoat.",
-   "body": "10ポイント / コメント1件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49484520"
-  },
-  {
-   "tag": "HN",
-   "title": "RISC-V is now officially supported by CPython",
-   "body": "99ポイント / コメント16件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49425252"
   }
  ]
 }
