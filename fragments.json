@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-30T09:22:46+09:00",
+ "generated_at": "2026-08-30T15:43:02+09:00",
  "items": [
   {
    "tag": "HN",
-   "title": "I co-founded Burning Man. The festival has lost its soul",
-   "body": "51ポイント / コメント33件。",
+   "title": "Glacier Mice",
+   "body": "282ポイント / コメント55件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49494151"
+   "url": "https://news.ycombinator.com/item?id=49424320"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高24.4℃ / 最低19.7℃。いまは20.7℃。",
+   "body": "霧雨。最高25.7℃ / 最低19.7℃。いまは25.7℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "HN",
-   "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
-   "body": "377ポイント / コメント101件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49485267"
-  },
-  {
-   "tag": "HN",
-   "title": "Samsung's Processing-in-Memory (PIM)",
-   "body": "242ポイント / コメント92件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49487341"
+   "tag": "WIKI",
+   "title": "車",
+   "body": "車（くるま、シャ）輪の形をしており回転するもの。この意味では「輪」とも。代表的なものとしては車輪。ほかには歯車、水車、風車などの例がある。 車輪がついていてそれが回転する荷車や乗り物…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E8%BB%8A"
   },
   {
    "tag": "WIKI",
-   "title": "第十八号掃海艇",
-   "body": "第十八号掃海艇（だいじゅうはちごうそうかいてい）は、日本海軍の掃海艇。第十七号型掃海艇の2番艦。",
+   "title": "西区 (台中市)",
+   "body": "西区（シー/にし-く）は台中市の市轄区。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E7%AC%AC%E5%8D%81%E5%85%AB%E5%8F%B7%E6%8E%83%E6%B5%B7%E8%89%87"
+   "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E5%8C%BA_(%E5%8F%B0%E4%B8%AD%E5%B8%82)"
   },
   {
-   "tag": "WIKI",
-   "title": "英賀神社",
-   "body": "英賀神社（あがじんじゃ）は、兵庫県姫路市飾磨区にある神社。国史見在社で、旧社格は県社。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E8%8B%B1%E8%B3%80%E7%A5%9E%E7%A4%BE"
+   "tag": "HN",
+   "title": "A few feral cats in an ALGOL trenchcoat.",
+   "body": "10ポイント / コメント1件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49484520"
+  },
+  {
+   "tag": "HN",
+   "title": "RISC-V is now officially supported by CPython",
+   "body": "99ポイント / コメント16件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49425252"
   }
  ]
 }
