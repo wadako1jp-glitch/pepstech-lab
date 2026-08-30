@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-31T06:09:50+09:00",
+ "generated_at": "2026-08-31T08:32:08+09:00",
  "items": [
   {
+   "tag": "HN",
+   "title": "Haiku R1/beta6 has been released",
+   "body": "230ポイント / コメント66件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49499867"
+  },
+  {
    "tag": "WIKI",
-   "title": "下田次郎",
-   "body": "下田 次郎 は、日本の女子教育家。",
+   "title": "正義",
+   "body": "正義 は、明治以降「義」に代わって使用され、倫理、合理性、法律、自然法、宗教、公正などに基づく道徳的な正しさに関する概念である。対義語は「不義」。正義の実質的な内容を探究する学問分野…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E4%B8%8B%E7%94%B0%E6%AC%A1%E9%83%8E"
-  },
-  {
-   "tag": "HN",
-   "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
-   "body": "154ポイント / コメント93件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49498787"
-  },
-  {
-   "tag": "HN",
-   "title": "The world may have less time than it thinks on climate change",
-   "body": "66ポイント / コメント53件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49501791"
+   "url": "https://ja.wikipedia.org/wiki/%E6%AD%A3%E7%BE%A9"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "薄曇り。最高29.4℃ / 最低22.3℃。いまは22.5℃。",
+   "body": "薄曇り。最高29.5℃ / 最低22.5℃。いまは24.6℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "HN",
-   "title": "Electric rain can eat through metal",
-   "body": "70ポイント / コメント12件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49463397"
+   "tag": "WIKI",
+   "title": "フィリップ・ド・ゴール",
+   "body": "フィリップ・ド・ゴール は、フランスの海軍軍人、政治家。海軍大将、元老院議員。彼は、フランス第五共和政の初代大統領であるシャルル・ド・ゴール将軍と妻イボンヌとの間に生まれた長男である…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A3%E3%83%AA%E3%83%83%E3%83%97%E3%83%BB%E3%83%89%E3%83%BB%E3%82%B4%E3%83%BC%E3%83%AB"
   },
   {
-   "tag": "WIKI",
-   "title": "ベアリング家",
-   "body": "ベアリング家 は、イギリスの財閥・貴族。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E5%AE%B6"
+   "tag": "HN",
+   "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
+   "body": "187ポイント / コメント56件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49496782"
+  },
+  {
+   "tag": "HN",
+   "title": "Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver",
+   "body": "55ポイント / コメント30件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49501611"
   }
  ]
 }
