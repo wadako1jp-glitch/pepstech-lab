@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-08-31T14:40:46+09:00",
+ "generated_at": "2026-08-31T22:56:54+09:00",
  "items": [
   {
-   "tag": "WIKI",
-   "title": "セクシャルハラスメント",
-   "body": "セクシャルハラスメント とは、組織内における虐待行為の類型の一つ。相手方の意に反する性的な行為や言動により相手を不快にさせ、相手の環境を悪化させる行為。世界各国でセクシャルハラスメン…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%82%AF%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%8F%E3%83%A9%E3%82%B9%E3%83%A1%E3%83%B3%E3%83%88"
+   "tag": "HN",
+   "title": "Formalization of the Solution to the Hopf Problem",
+   "body": "15ポイント / コメント11件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49467053"
+  },
+  {
+   "tag": "HN",
+   "title": "Creepy Crawlies",
+   "body": "1269ポイント / コメント635件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49491791"
   },
   {
    "tag": "WIKI",
-   "title": "ステインド",
-   "body": "ステインド（Staind）は、アメリカ合衆国マサチューセッツ州スプリングフィールドで結成された四人組ハードロック・バンド。",
+   "title": "本部港",
+   "body": "本部港（もとぶこう）は、沖縄県国頭郡本部町にある港湾（地方港湾）である。港湾管理者は沖縄県。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%86%E3%82%A4%E3%83%B3%E3%83%89"
+   "url": "https://ja.wikipedia.org/wiki/%E6%9C%AC%E9%83%A8%E6%B8%AF"
+  },
+  {
+   "tag": "HN",
+   "title": "Using floci to emulate Cloud platforms (GCP, AWS, Azure)",
+   "body": "17ポイント / コメント3件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49475568"
+  },
+  {
+   "tag": "WIKI",
+   "title": "ヌクレアーゼ",
+   "body": "ヌクレアーゼ は、核酸のヌクレオチド間のホスホジエステル結合を切断することができる酵素である。古くはヌクレオデポリメラーゼ またはポリヌクレオチダーゼ とも呼ばれた。ヌクレアーゼは、…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%8C%E3%82%AF%E3%83%AC%E3%82%A2%E3%83%BC%E3%82%BC"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "曇り。最高28.0℃ / 最低22.5℃。いまは27.9℃。",
+   "body": "曇り。最高27.5℃ / 最低22.5℃。いまは23.8℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
-  },
-  {
-   "tag": "HN",
-   "title": "Dad’s Custom Atari Peripherals",
-   "body": "120ポイント / コメント16件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49468126"
-  },
-  {
-   "tag": "HN",
-   "title": "How to build a diffusion language model",
-   "body": "43ポイント / コメント3件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49503956"
-  },
-  {
-   "tag": "HN",
-   "title": "Understanding ChatGPT Work",
-   "body": "109ポイント / コメント40件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49504625"
   }
  ]
 }
