@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-01T08:52:53+09:00",
+ "generated_at": "2026-09-01T14:14:28+09:00",
  "items": [
+  {
+   "tag": "HN",
+   "title": "Fastpotify",
+   "body": "109ポイント / コメント40件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49517448"
+  },
+  {
+   "tag": "HN",
+   "title": "Develop Cross-Platform CLI and GUI Tools with Tcl/Tk",
+   "body": "74ポイント / コメント39件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49515662"
+  },
+  {
+   "tag": "WIKI",
+   "title": "鹿児島市立玉江小学校",
+   "body": "鹿児島市立玉江小学校 は、鹿児島県鹿児島市下伊敷一丁目にある公立小学校。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E9%B9%BF%E5%85%90%E5%B3%B6%E5%B8%82%E7%AB%8B%E7%8E%89%E6%B1%9F%E5%B0%8F%E5%AD%A6%E6%A0%A1"
+  },
+  {
+   "tag": "WIKI",
+   "title": "ヘハ山",
+   "body": "ヘハ山 は、ブルンジの山。標高2,670mのブルンジ最高峰である。ブジュンブラの南東30km、タンガニーカ湖の東20kmに位置する。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%98%E3%83%8F%E5%B1%B1"
+  },
+  {
+   "tag": "HN",
+   "title": "ChatGPT Work Tool and Skill Reference",
+   "body": "204ポイント / コメント53件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49510000"
+  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "薄曇り。最高29.3℃ / 最低22.0℃。いまは24.6℃。",
+   "body": "曇り。最高28.6℃ / 最低22.0℃。いまは28.6℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
-  },
-  {
-   "tag": "WIKI",
-   "title": "ブッドゥゾ",
-   "body": "ブッドゥゾ は、イタリア共和国サルデーニャ自治州サッサリ県にある、人口約3,800人の基礎自治体（コムーネ）。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%83%E3%83%89%E3%82%A5%E3%82%BE"
-  },
-  {
-   "tag": "HN",
-   "title": "Dwarf Fortress is getting the mother of all magic updates",
-   "body": "264ポイント / コメント100件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49467636"
-  },
-  {
-   "tag": "HN",
-   "title": "'Mad honey' that can stop your heart is being sold online",
-   "body": "105ポイント / コメント64件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49476239"
-  },
-  {
-   "tag": "HN",
-   "title": "Playa Phone",
-   "body": "468ポイント / コメント175件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49510514"
-  },
-  {
-   "tag": "WIKI",
-   "title": "レンジャー作戦",
-   "body": "レンジャー作戦はアメリカ合衆国が行った第4次の核実験シリーズである。本実験は、ネバダ核実験場で初めての核実験シリーズとして1951年に実施された。全ての実験はB-50爆撃機から投下さ…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC%E4%BD%9C%E6%88%A6"
   }
  ]
 }
