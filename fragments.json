@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-01T14:14:28+09:00",
+ "generated_at": "2026-09-01T19:11:45+09:00",
  "items": [
   {
    "tag": "HN",
+   "title": "GPU World",
+   "body": "240ポイント / コメント122件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49517584"
+  },
+  {
+   "tag": "HN",
    "title": "Fastpotify",
-   "body": "109ポイント / コメント40件。",
+   "body": "401ポイント / コメント209件。",
    "src": "news.ycombinator.com",
    "url": "https://news.ycombinator.com/item?id=49517448"
   },
   {
-   "tag": "HN",
-   "title": "Develop Cross-Platform CLI and GUI Tools with Tcl/Tk",
-   "body": "74ポイント / コメント39件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49515662"
-  },
-  {
    "tag": "WIKI",
-   "title": "鹿児島市立玉江小学校",
-   "body": "鹿児島市立玉江小学校 は、鹿児島県鹿児島市下伊敷一丁目にある公立小学校。",
+   "title": "フクちゃん",
+   "body": "フクちゃんは、横山隆一による日本の漫画作品シリーズと、それを原作とした映画・アニメーション作品および、作品内に登場する架空の人物の名称である。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E9%B9%BF%E5%85%90%E5%B3%B6%E5%B8%82%E7%AB%8B%E7%8E%89%E6%B1%9F%E5%B0%8F%E5%AD%A6%E6%A0%A1"
-  },
-  {
-   "tag": "WIKI",
-   "title": "ヘハ山",
-   "body": "ヘハ山 は、ブルンジの山。標高2,670mのブルンジ最高峰である。ブジュンブラの南東30km、タンガニーカ湖の東20kmに位置する。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%98%E3%83%8F%E5%B1%B1"
-  },
-  {
-   "tag": "HN",
-   "title": "ChatGPT Work Tool and Skill Reference",
-   "body": "204ポイント / コメント53件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49510000"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%AF%E3%81%A1%E3%82%83%E3%82%93"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "曇り。最高28.6℃ / 最低22.0℃。いまは28.6℃。",
+   "body": "薄曇り。最高29.1℃ / 最低22.0℃。いまは26.3℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
+  },
+  {
+   "tag": "WIKI",
+   "title": "アッチェットゥーラ",
+   "body": "アッチェットゥーラ は、イタリア共和国バジリカータ州マテーラ県にある、人口約1,800人の基礎自治体（コムーネ）。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%83%E3%83%81%E3%82%A7%E3%83%83%E3%83%88%E3%82%A5%E3%83%BC%E3%83%A9"
+  },
+  {
+   "tag": "HN",
+   "title": "ChatGPT Work Tool and Skill Reference",
+   "body": "220ポイント / コメント52件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49510000"
   }
  ]
 }
