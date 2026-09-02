@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-02T20:22:57+09:00",
+ "generated_at": "2026-09-03T01:37:12+09:00",
  "items": [
   {
    "tag": "HN",
-   "title": "Ask HN: Who is hiring? (September 2026)",
-   "body": "222ポイント / コメント246件。",
+   "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+   "body": "48ポイント / コメント8件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49522897"
-  },
-  {
-   "tag": "WIKI",
-   "title": "チカソー郡 (ミシシッピ州)",
-   "body": "チカソー郡 は、アメリカ合衆国ミシシッピ州の北部に位置する郡である。2010年国勢調査での人口は17,392人であり、2000年の19,440人から10.5%減少した。郡庁所在地はヒ…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%AB%E3%82%BD%E3%83%BC%E9%83%A1_(%E3%83%9F%E3%82%B7%E3%82%B7%E3%83%83%E3%83%94%E5%B7%9E)"
+   "url": "https://news.ycombinator.com/item?id=49538007"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "薄曇り。最高31.1℃ / 最低22.8℃。いまは26.1℃。",
+   "body": "小雨。最高30.2℃ / 最低24.3℃。いまは24.9℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
+   "tag": "HN",
+   "title": "Mistral now trains on user input by default, except on enterprise tier",
+   "body": "183ポイント / コメント84件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49535284"
+  },
+  {
    "tag": "WIKI",
-   "title": "カロウェイ郡 (ケンタッキー州)",
-   "body": "カロウェイ郡 は、アメリカ合衆国ケンタッキー州の西部に位置する郡である。2010年国勢調査での人口は37,191人であり、2000年の34,177人から8.8%増加した。郡庁所在地は…",
+   "title": "ジャマイカ-179丁目駅",
+   "body": "ジャマイカ-179丁目駅 はクイーンズ区ジャマイカの179丁目-ヒルサイド・アベニューにあるニューヨーク市地下鉄INDクイーンズ・ブールバード線の急行停車駅・終端駅である。終日運転さ…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AD%E3%82%A6%E3%82%A7%E3%82%A4%E9%83%A1_(%E3%82%B1%E3%83%B3%E3%82%BF%E3%83%83%E3%82%AD%E3%83%BC%E5%B7%9E)"
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%9E%E3%82%A4%E3%82%AB-179%E4%B8%81%E7%9B%AE%E9%A7%85"
   },
   {
    "tag": "HN",
-   "title": "My local model setup on an M4 Pro Mac Mini",
-   "body": "224ポイント / コメント136件。",
+   "title": "Aging Brains Blend Memories Together Instead of Just Forgetting Them",
+   "body": "81ポイント / コメント31件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49529132"
+   "url": "https://news.ycombinator.com/item?id=49535548"
   },
   {
-   "tag": "HN",
-   "title": "True Rate of Unemployment",
-   "body": "247ポイント / コメント214件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49530989"
+   "tag": "WIKI",
+   "title": "ソイザウルクロウクル",
+   "body": "ソイザウルクロウクル（Sauðárkrókur）は、北アイスランドの町である。人口は2006年の時点で、2,606人である。アイスランド北部沿岸では2番目に大きな町である。ここの天然…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%BD%E3%82%A4%E3%82%B6%E3%82%A6%E3%83%AB%E3%82%AF%E3%83%AD%E3%82%A6%E3%82%AF%E3%83%AB"
   }
  ]
 }
