@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-02T09:17:24+09:00",
+ "generated_at": "2026-09-02T14:52:00+09:00",
  "items": [
   {
-   "tag": "HN",
-   "title": "Ambient CSS v3 – Blender meets CSS",
-   "body": "186ポイント / コメント68件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49523387"
+   "tag": "WIKI",
+   "title": "イマノル・プラダレス",
+   "body": "イマノル・プラダレス・ヒル は、スペイン・ビスカヤ県サントゥルツィ出身の政治家。バスク民族主義党(PNV)所属。2024年からバスク州政府首相を務めている。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%9E%E3%83%8E%E3%83%AB%E3%83%BB%E3%83%97%E3%83%A9%E3%83%80%E3%83%AC%E3%82%B9"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "薄曇り。最高31.0℃ / 最低22.8℃。いまは27.1℃。",
+   "body": "薄曇り。最高31.2℃ / 最低22.8℃。いまは31.1℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "HN",
-   "title": "My local model setup on an M4 Pro Mac Mini",
-   "body": "30ポイント / コメント4件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49529132"
-  },
-  {
    "tag": "WIKI",
-   "title": "太田清和",
-   "body": "太田 清和 は、日本の外交官。中小企業基盤整備機構業務統括役を経て、駐ルワンダ兼ブルンジ特命全権大使。",
+   "title": "神宮寺 (徳島県つるぎ町)",
+   "body": "神宮寺（じんぐうじ）は、徳島県美馬郡つるぎ町にある真言宗御室派の寺院である。山号は龍頭山。院号は医王福院。本尊は薬師如来。新四国曼荼羅霊場69番札所。阿波西国三十三観音霊場8番札所。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%A4%AA%E7%94%B0%E6%B8%85%E5%92%8C"
-  },
-  {
-   "tag": "WIKI",
-   "title": "キルバーン・パーク駅",
-   "body": "キルバーン・パーク駅 は、ロンドン中心部北西、ブレント区のキルバーンにあるロンドン地下鉄の駅である。当駅はベーカールー線クイーンズ・パーク駅とメイダ・ヴェール駅の間に位置する。トラベ…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%AB%E3%83%90%E3%83%BC%E3%83%B3%E3%83%BB%E3%83%91%E3%83%BC%E3%82%AF%E9%A7%85"
+   "url": "https://ja.wikipedia.org/wiki/%E7%A5%9E%E5%AE%AE%E5%AF%BA_(%E5%BE%B3%E5%B3%B6%E7%9C%8C%E3%81%A4%E3%82%8B%E3%81%8E%E7%94%BA)"
   },
   {
    "tag": "HN",
-   "title": "Ask HN: Who is hiring? (September 2026)",
-   "body": "178ポイント / コメント196件。",
+   "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
+   "body": "120ポイント / コメント41件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49522897"
+   "url": "https://news.ycombinator.com/item?id=49529621"
+  },
+  {
+   "tag": "HN",
+   "title": "The efficient frontier of LLM inference",
+   "body": "81ポイント / コメント20件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49529898"
+  },
+  {
+   "tag": "HN",
+   "title": "Path to Astra: critical capabilities and frontier safeguards",
+   "body": "114ポイント / コメント52件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49527595"
   }
  ]
 }
