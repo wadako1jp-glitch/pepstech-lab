@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-02T06:48:48+09:00",
+ "generated_at": "2026-09-02T09:17:24+09:00",
  "items": [
   {
-   "tag": "WIKI",
-   "title": "ブエリング航空",
-   "body": "ブエリング航空 は、バルセロナを拠点とするスペインの格安航空会社である。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%82%A8%E3%83%AA%E3%83%B3%E3%82%B0%E8%88%AA%E7%A9%BA"
+   "tag": "HN",
+   "title": "Ambient CSS v3 – Blender meets CSS",
+   "body": "186ポイント / コメント68件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49523387"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "薄曇り。最高31.0℃ / 最低22.5℃。いまは23.1℃。",
+   "body": "薄曇り。最高31.0℃ / 最低22.8℃。いまは27.1℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Java is memory efficient [audio]",
-   "body": "8ポイント / コメント3件。",
+   "title": "My local model setup on an M4 Pro Mac Mini",
+   "body": "30ポイント / コメント4件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49496554"
+   "url": "https://news.ycombinator.com/item?id=49529132"
   },
   {
    "tag": "WIKI",
-   "title": "細山田武史",
-   "body": "細山田 武史 は、鹿児島県出水市出身の元プロ野球選手（捕手）。右投右打。",
+   "title": "太田清和",
+   "body": "太田 清和 は、日本の外交官。中小企業基盤整備機構業務統括役を経て、駐ルワンダ兼ブルンジ特命全権大使。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E7%B4%B0%E5%B1%B1%E7%94%B0%E6%AD%A6%E5%8F%B2"
+   "url": "https://ja.wikipedia.org/wiki/%E5%A4%AA%E7%94%B0%E6%B8%85%E5%92%8C"
+  },
+  {
+   "tag": "WIKI",
+   "title": "キルバーン・パーク駅",
+   "body": "キルバーン・パーク駅 は、ロンドン中心部北西、ブレント区のキルバーンにあるロンドン地下鉄の駅である。当駅はベーカールー線クイーンズ・パーク駅とメイダ・ヴェール駅の間に位置する。トラベ…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%AB%E3%83%90%E3%83%BC%E3%83%B3%E3%83%BB%E3%83%91%E3%83%BC%E3%82%AF%E9%A7%85"
   },
   {
    "tag": "HN",
-   "title": "Introducing Ad Blocker for Firefox on iOS",
-   "body": "222ポイント / コメント86件。",
+   "title": "Ask HN: Who is hiring? (September 2026)",
+   "body": "178ポイント / コメント196件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49521973"
-  },
-  {
-   "tag": "HN",
-   "title": "Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who…",
-   "body": "5ポイント / コメント2件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49528057"
+   "url": "https://news.ycombinator.com/item?id=49522897"
   }
  ]
 }
