@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-03T01:37:12+09:00",
+ "generated_at": "2026-09-03T04:48:55+09:00",
  "items": [
-  {
-   "tag": "HN",
-   "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
-   "body": "48ポイント / コメント8件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49538007"
-  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "小雨。最高30.2℃ / 最低24.3℃。いまは24.9℃。",
+   "body": "小雨。最高30.2℃ / 最低24.3℃。いまは24.3℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "HN",
-   "title": "Mistral now trains on user input by default, except on enterprise tier",
-   "body": "183ポイント / コメント84件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49535284"
-  },
-  {
    "tag": "WIKI",
-   "title": "ジャマイカ-179丁目駅",
-   "body": "ジャマイカ-179丁目駅 はクイーンズ区ジャマイカの179丁目-ヒルサイド・アベニューにあるニューヨーク市地下鉄INDクイーンズ・ブールバード線の急行停車駅・終端駅である。終日運転さ…",
+   "title": "妙見山駅",
+   "body": "妙見山駅（みょうけんさんえき）は、兵庫県川西市大峰にあった能勢電鉄妙見の森リフトの駅である。駅の近くに大阪府との府県境がある。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%9E%E3%82%A4%E3%82%AB-179%E4%B8%81%E7%9B%AE%E9%A7%85"
+   "url": "https://ja.wikipedia.org/wiki/%E5%A6%99%E8%A6%8B%E5%B1%B1%E9%A7%85"
   },
   {
    "tag": "HN",
-   "title": "Aging Brains Blend Memories Together Instead of Just Forgetting Them",
-   "body": "81ポイント / コメント31件。",
+   "title": "The Qantas A380 engine disintegration in 2010",
+   "body": "10ポイント / コメント1件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49535548"
+   "url": "https://news.ycombinator.com/item?id=49540565"
+  },
+  {
+   "tag": "HN",
+   "title": "Making the Internet Boring",
+   "body": "28ポイント / コメント14件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49502367"
+  },
+  {
+   "tag": "HN",
+   "title": "Exit the Cave",
+   "body": "149ポイント / コメント39件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49536606"
   },
   {
    "tag": "WIKI",
-   "title": "ソイザウルクロウクル",
-   "body": "ソイザウルクロウクル（Sauðárkrókur）は、北アイスランドの町である。人口は2006年の時点で、2,606人である。アイスランド北部沿岸では2番目に大きな町である。ここの天然…",
+   "title": "二井田真中インターチェンジ",
+   "body": "二井田真中インターチェンジ（にいだまなかインターチェンジ）は、秋田県大館市櫃崎にある秋田自動車道インターチェンジである。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%BD%E3%82%A4%E3%82%B6%E3%82%A6%E3%83%AB%E3%82%AF%E3%83%AD%E3%82%A6%E3%82%AF%E3%83%AB"
+   "url": "https://ja.wikipedia.org/wiki/%E4%BA%8C%E4%BA%95%E7%94%B0%E7%9C%9F%E4%B8%AD%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%81%E3%82%A7%E3%83%B3%E3%82%B8"
   }
  ]
 }
