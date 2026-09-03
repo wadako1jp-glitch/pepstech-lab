@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-03T10:08:14+09:00",
+ "generated_at": "2026-09-03T14:51:31+09:00",
  "items": [
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "小雨。最高30.2℃ / 最低24.3℃。いまは27.6℃。",
+   "body": "霧雨。最高28.8℃ / 最低23.9℃。いまは28.0℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "WIKI",
-   "title": "城山 (松山市)",
-   "body": "城山（しろやま）は、愛媛県松山市内中心部にある、国の史跡に指定されている山である。正式には、「勝山」（かつやま）であるが、山頂に松山城天守があることから、一般的には「城山」と呼ばれて…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%9F%8E%E5%B1%B1_(%E6%9D%BE%E5%B1%B1%E5%B8%82)"
-  },
-  {
    "tag": "HN",
-   "title": "Poisson Disk Sampling",
-   "body": "125ポイント / コメント18件。",
+   "title": "Muse Spark 1.3",
+   "body": "493ポイント / コメント321件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49536177"
-  },
-  {
-   "tag": "HN",
-   "title": "WebLLM: high-performance in-browser LLM inference engine",
-   "body": "86ポイント / コメント17件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49536411"
-  },
-  {
-   "tag": "HN",
-   "title": "Engineering of the fastest WebAssembly interpreters",
-   "body": "38ポイント / コメント1件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49521031"
+   "url": "https://news.ycombinator.com/item?id=49541256"
   },
   {
    "tag": "WIKI",
-   "title": "レイ・シーレイジ",
-   "body": "レイモンド・マーク・シーレイジ は、アメリカ合衆国ニューヨーク州ナッソー郡フリーポート出身の元プロ野球選手（投手）。左投左打。",
+   "title": "ヴェーダ",
+   "body": "ヴェーダ とは、紀元前1000年頃から紀元前500年頃にかけてインドで編纂された一連の宗教文書の総称。「ヴェーダ」は「知識」の意。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%A4%E3%83%BB%E3%82%B7%E3%83%BC%E3%83%AC%E3%82%A4%E3%82%B8"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A7%E3%83%BC%E3%83%80"
+  },
+  {
+   "tag": "HN",
+   "title": "A Selection of Los Alamos Rolodex Business Cards",
+   "body": "152ポイント / コメント37件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49513856"
+  },
+  {
+   "tag": "WIKI",
+   "title": "太田昭宏",
+   "body": "太田 昭宏 は、日本の政治家。公明党常任顧問。北区ボディビル・フィットネス連盟最高顧問。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%A4%AA%E7%94%B0%E6%98%AD%E5%AE%8F"
+  },
+  {
+   "tag": "HN",
+   "title": "Qantas Airbus A380 engine failure in 2010 (2023)",
+   "body": "106ポイント / コメント64件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49540565"
   }
  ]
 }
