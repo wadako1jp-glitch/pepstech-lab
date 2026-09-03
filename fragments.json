@@ -1,40 +1,26 @@
 {
- "generated_at": "2026-09-04T04:52:13+09:00",
+ "generated_at": "2026-09-04T07:36:57+09:00",
  "items": [
   {
    "tag": "WIKI",
-   "title": "秋田労働局",
-   "body": "秋田労働局（あきたろうどうきょく）は、秋田県秋田市にある日本の都道府県労働局で、秋田県を管轄している。",
+   "title": "永平寺町立志比南小学校",
+   "body": "永平寺町立志比南小学校 は、福井県永平寺町市野々にある公立小学校。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E7%A7%8B%E7%94%B0%E5%8A%B4%E5%83%8D%E5%B1%80"
-  },
-  {
-   "tag": "HN",
-   "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
-   "body": "68ポイント / コメント16件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49544762"
+   "url": "https://ja.wikipedia.org/wiki/%E6%B0%B8%E5%B9%B3%E5%AF%BA%E7%94%BA%E7%AB%8B%E5%BF%97%E6%AF%94%E5%8D%97%E5%B0%8F%E5%AD%A6%E6%A0%A1"
   },
   {
    "tag": "WIKI",
-   "title": "マニパル高等教育アカデミー",
-   "body": "マニパル高等教育アカデミー は、インドのカルナータカ州マニパルにある私立総合研究型大学である。通称マニパル大学。旧マニパル工科大学。",
+   "title": "恩平区",
+   "body": "恩平区（ウンピョンく）は、大韓民国ソウル特別市北西部にある区である。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%8B%E3%83%91%E3%83%AB%E9%AB%98%E7%AD%89%E6%95%99%E8%82%B2%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%BC"
+   "url": "https://ja.wikipedia.org/wiki/%E6%81%A9%E5%B9%B3%E5%8C%BA"
   },
   {
    "tag": "HN",
-   "title": "GPS glitched across the US by as much as 33 feet",
-   "body": "32ポイント / コメント4件。",
+   "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
+   "body": "126ポイント / コメント67件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49544618"
-  },
-  {
-   "tag": "HN",
-   "title": "Any Human Ever – One life, drawn at random from all who have ever liv…",
-   "body": "287ポイント / コメント128件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49550698"
+   "url": "https://news.ycombinator.com/item?id=49555691"
   },
   {
    "tag": "天気",
@@ -42,6 +28,20 @@
    "body": "強い霧雨。最高23.7℃ / 最低21.7℃。いまは22.2℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
+  },
+  {
+   "tag": "HN",
+   "title": "The asteroid currently hitting front end web development",
+   "body": "45ポイント / コメント46件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49555233"
+  },
+  {
+   "tag": "HN",
+   "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
+   "body": "140ポイント / コメント36件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49544762"
   }
  ]
 }
