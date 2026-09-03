@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-03T20:19:09+09:00",
+ "generated_at": "2026-09-04T01:28:24+09:00",
  "items": [
   {
    "tag": "WIKI",
-   "title": "ナリチク国際空港",
-   "body": "ナリチク国際空港 は、ロシア・カバルダ・バルカル共和国にある空港。",
+   "title": "国泰寺 (高岡市)",
+   "body": "国泰寺（こくたいじ）は、富山県高岡市にある禅寺で臨済宗国泰寺派の本山。山号は摩頂山。本尊は釈迦如来。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%AA%E3%83%81%E3%82%AF%E5%9B%BD%E9%9A%9B%E7%A9%BA%E6%B8%AF"
+   "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E6%B3%B0%E5%AF%BA_(%E9%AB%98%E5%B2%A1%E5%B8%82)"
   },
   {
    "tag": "HN",
-   "title": "We could save petabytes of cache storage with Zstandard and Pingora",
-   "body": "118ポイント / コメント53件。",
+   "title": "Any Human Ever – One life, drawn at random from all who have ever liv…",
+   "body": "87ポイント / コメント50件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49521909"
+   "url": "https://news.ycombinator.com/item?id=49550698"
+  },
+  {
+   "tag": "HN",
+   "title": "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
+   "body": "103ポイント / コメント78件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49543530"
+  },
+  {
+   "tag": "WIKI",
+   "title": "得撫島",
+   "body": "得撫島（うるっぷとう）は、千島列島にある島。ロシア名はウループ島 、英語表記はUrup。戦前は日本の得撫郡に属した。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%BE%97%E6%92%AB%E5%B3%B6"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高29.1℃ / 最低24.0℃。いまは25.0℃。",
+   "body": "小雨。最高25.4℃ / 最低21.6℃。いまは22.0℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Biggest dark matter detector spots a single weird particle",
-   "body": "306ポイント / コメント105件。",
+   "title": "Grok Outage",
+   "body": "123ポイント / コメント99件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49536079"
-  },
-  {
-   "tag": "WIKI",
-   "title": "ナニュエット駅",
-   "body": "ナニュエット駅（Nanuet）は、ニューヨーク州ロックランド郡ナニュエットにあるメトロノース鉄道の駅。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%8B%E3%83%A5%E3%82%A8%E3%83%83%E3%83%88%E9%A7%85"
-  },
-  {
-   "tag": "HN",
-   "title": "Qantas Airbus A380 engine failure in 2010 (2023)",
-   "body": "148ポイント / コメント89件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49540565"
+   "url": "https://news.ycombinator.com/item?id=49551589"
   }
  ]
 }
