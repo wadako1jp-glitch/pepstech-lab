@@ -1,45 +1,45 @@
 {
- "generated_at": "2026-09-03T14:51:31+09:00",
+ "generated_at": "2026-09-03T20:19:09+09:00",
  "items": [
+  {
+   "tag": "WIKI",
+   "title": "ナリチク国際空港",
+   "body": "ナリチク国際空港 は、ロシア・カバルダ・バルカル共和国にある空港。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%AA%E3%83%81%E3%82%AF%E5%9B%BD%E9%9A%9B%E7%A9%BA%E6%B8%AF"
+  },
+  {
+   "tag": "HN",
+   "title": "We could save petabytes of cache storage with Zstandard and Pingora",
+   "body": "118ポイント / コメント53件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49521909"
+  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高28.8℃ / 最低23.9℃。いまは28.0℃。",
+   "body": "霧雨。最高29.1℃ / 最低24.0℃。いまは25.0℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Muse Spark 1.3",
-   "body": "493ポイント / コメント321件。",
+   "title": "Biggest dark matter detector spots a single weird particle",
+   "body": "306ポイント / コメント105件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49541256"
+   "url": "https://news.ycombinator.com/item?id=49536079"
   },
   {
    "tag": "WIKI",
-   "title": "ヴェーダ",
-   "body": "ヴェーダ とは、紀元前1000年頃から紀元前500年頃にかけてインドで編纂された一連の宗教文書の総称。「ヴェーダ」は「知識」の意。",
+   "title": "ナニュエット駅",
+   "body": "ナニュエット駅（Nanuet）は、ニューヨーク州ロックランド郡ナニュエットにあるメトロノース鉄道の駅。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A7%E3%83%BC%E3%83%80"
-  },
-  {
-   "tag": "HN",
-   "title": "A Selection of Los Alamos Rolodex Business Cards",
-   "body": "152ポイント / コメント37件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49513856"
-  },
-  {
-   "tag": "WIKI",
-   "title": "太田昭宏",
-   "body": "太田 昭宏 は、日本の政治家。公明党常任顧問。北区ボディビル・フィットネス連盟最高顧問。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%A4%AA%E7%94%B0%E6%98%AD%E5%AE%8F"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%8B%E3%83%A5%E3%82%A8%E3%83%83%E3%83%88%E9%A7%85"
   },
   {
    "tag": "HN",
    "title": "Qantas Airbus A380 engine failure in 2010 (2023)",
-   "body": "106ポイント / コメント64件。",
+   "body": "148ポイント / コメント89件。",
    "src": "news.ycombinator.com",
    "url": "https://news.ycombinator.com/item?id=49540565"
   }
