@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-05T04:38:08+09:00",
+ "generated_at": "2026-09-05T07:22:35+09:00",
  "items": [
   {
    "tag": "HN",
-   "title": "Elevator of the Year Winner Modernization of the Metropolis Trust Bui…",
-   "body": "127ポイント / コメント45件。",
+   "title": "Ok, but does it scale?",
+   "body": "105ポイント / コメント63件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49516312"
-  },
-  {
-   "tag": "WIKI",
-   "title": "ビビアン・マグラス",
-   "body": "ビビアン・マグラス は、オーストラリア・ニューサウスウェールズ州マジー出身の男子テニス選手。1930年代にオーストラリアを代表する選手の1人として活躍し、1937年の全豪選手権男子シ…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%93%E3%83%93%E3%82%A2%E3%83%B3%E3%83%BB%E3%83%9E%E3%82%B0%E3%83%A9%E3%82%B9"
-  },
-  {
-   "tag": "WIKI",
-   "title": "エボニー (雑誌)",
-   "body": "エボニー（Ebony）はアフリカ系アメリカ人向けの月刊誌。本拠はシカゴ、イリノイ州。ジョン・H・ジョンソンが1945年秋に創刊。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%9C%E3%83%8B%E3%83%BC_(%E9%9B%91%E8%AA%8C)"
+   "url": "https://news.ycombinator.com/item?id=49563772"
   },
   {
    "tag": "HN",
-   "title": "People that worked on the same idea for decades",
-   "body": "19ポイント / コメント8件。",
+   "title": "Corporate America is getting hooked on open-source AI",
+   "body": "245ポイント / コメント228件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49547415"
+   "url": "https://news.ycombinator.com/item?id=49566137"
+  },
+  {
+   "tag": "WIKI",
+   "title": "新エネルギー・産業技術総合開発機構",
+   "body": "国立研究開発法人新エネルギー・産業技術総合開発機構（しんエネルギー・さんぎょうぎじゅつそうごうかいはつきこう）は、日本のエネルギー・環境分野と産業技術の一端を担う国立研究開発法人たる…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E6%96%B0%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E3%83%BB%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%B7%8F%E5%90%88%E9%96%8B%E7%99%BA%E6%A9%9F%E6%A7%8B"
+  },
+  {
+   "tag": "WIKI",
+   "title": "カバリュス嬢の肖像",
+   "body": "『カバリュス嬢の肖像』 は、19世紀フランスのロマン主義の画家テオドール・シャセリオーが1848年に制作した肖像画である。油彩。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%90%E3%83%AA%E3%83%A5%E3%82%B9%E5%AC%A2%E3%81%AE%E8%82%96%E5%83%8F"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "雨。最高25.8℃ / 最低20.5℃。いまは20.6℃。",
+   "body": "雨。最高25.8℃ / 最低20.5℃。いまは20.9℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of …",
-   "body": "46ポイント / コメント14件。",
+   "title": "Show HN: TERMy – A fast terminal assistant that does not use LLMs",
+   "body": "78ポイント / コメント25件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49567357"
+   "url": "https://news.ycombinator.com/item?id=49562219"
   }
  ]
 }
