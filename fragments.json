@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-06T04:03:28+09:00",
+ "generated_at": "2026-09-06T06:17:25+09:00",
  "items": [
   {
    "tag": "HN",
-   "title": "Statichost.eu – European static site hosting",
-   "body": "401ポイント / コメント187件。",
+   "title": "Balrogg: Demonically compacting (up to 15%) lossless Vorbis/Opus reco…",
+   "body": "28ポイント / コメント6件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49569896"
+   "url": "https://news.ycombinator.com/item?id=49549778"
+  },
+  {
+   "tag": "HN",
+   "title": "Finite time blowup for an averaged three-dimensional Navier-Stokes eq…",
+   "body": "25ポイント / コメント5件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49580329"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "強い雨。最高24.0℃ / 最低19.6℃。いまは21.0℃。",
+   "body": "強い雨。最高24.0℃ / 最低19.6℃。いまは19.8℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "HN",
-   "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
-   "body": "27ポイント / コメント0件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49576343"
+   "tag": "WIKI",
+   "title": "ダニロ・パンティッチ",
+   "body": "ダニロ・パンティッチ は、セルビア・ルマ出身のプロサッカー選手。FCスパルタク・トルナヴァ所属。ポジションはMF。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%8B%E3%83%AD%E3%83%BB%E3%83%91%E3%83%B3%E3%83%86%E3%82%A3%E3%83%83%E3%83%81"
   },
   {
    "tag": "HN",
-   "title": "Formalizing Fermat's Last Theorem",
-   "body": "714ポイント / コメント454件。",
+   "title": "Statichost.eu – European static site hosting",
+   "body": "425ポイント / コメント191件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49568506"
+   "url": "https://news.ycombinator.com/item?id=49569896"
   },
   {
    "tag": "WIKI",
-   "title": "穂奈伊神社",
-   "body": "穂奈伊神社（ほないじんじゃ）は、新潟県三条市にある神社である。",
+   "title": "青森県立保健大学",
+   "body": "青森県立保健大学 は、青森県青森市大字浜館字間瀬58-1に所在する公立大学。1999年大学設置。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E7%A9%82%E5%A5%88%E4%BC%8A%E7%A5%9E%E7%A4%BE"
-  },
-  {
-   "tag": "WIKI",
-   "title": "関山大滝",
-   "body": "関山大滝（せきやまおおたき）は、山形県東根市関山にある滝。単に大滝とも表記される。最上川水系乱川上流部において、落差10m、幅15mで流れ落ちる。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E9%96%A2%E5%B1%B1%E5%A4%A7%E6%BB%9D"
+   "url": "https://ja.wikipedia.org/wiki/%E9%9D%92%E6%A3%AE%E7%9C%8C%E7%AB%8B%E4%BF%9D%E5%81%A5%E5%A4%A7%E5%AD%A6"
   }
  ]
 }
