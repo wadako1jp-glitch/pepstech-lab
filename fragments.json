@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-05T14:47:28+09:00",
+ "generated_at": "2026-09-05T19:39:17+09:00",
  "items": [
-  {
-   "tag": "HN",
-   "title": "Portal by Spotify cut my Claude Code token usage by 90%",
-   "body": "77ポイント / コメント39件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49571465"
-  },
-  {
-   "tag": "WIKI",
-   "title": "ニーベルンゲン＝ジークフリート街道",
-   "body": "ニーベルンゲン＝ジークフリート街道 は、ドイツ観光街道。本来はニーベルンゲン街道とジークフリート街道は別々の街道で、ともにヴォルムスを起点とし、ロルシュを経てヴェルトハイムまでの街道…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%BC%E3%83%99%E3%83%AB%E3%83%B3%E3%82%B2%E3%83%B3%EF%BC%9D%E3%82%B8%E3%83%BC%E3%82%AF%E3%83%95%E3%83%AA%E3%83%BC%E3%83%88%E8%A1%97%E9%81%93"
-  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "雨。最高24.1℃ / 最低20.6℃。いまは23.8℃。",
+   "body": "雨。最高25.0℃ / 最低20.6℃。いまは23.2℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
+   "tag": "HN",
+   "title": "Can AI design circuit boards yet?",
+   "body": "263ポイント / コメント160件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49569366"
+  },
+  {
+   "tag": "HN",
+   "title": "Sky Map 2000 – Star Atlas and Planetarium",
+   "body": "3ポイント / コメント0件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49548596"
+  },
+  {
+   "tag": "HN",
+   "title": "Git hosting that never leaves Europe",
+   "body": "96ポイント / コメント67件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49573680"
+  },
+  {
    "tag": "WIKI",
-   "title": "デンノ",
-   "body": "デンノ は、イタリア共和国トレンティーノ＝アルト・アディジェ州トレント自治県にある、人口約1,200人の基礎自治体（コムーネ）。",
+   "title": "水原ワールドカップ競技場",
+   "body": "水原ワールドカップ競技場 は、韓国の水原市にあるサッカー専用競技場である。 愛称はビッグバードスタジアム。Kリーグの水原三星ブルーウィングスのホームスタジアムである。2002 FIF…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%B3%E3%83%8E"
+   "url": "https://ja.wikipedia.org/wiki/%E6%B0%B4%E5%8E%9F%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%AB%E3%83%83%E3%83%97%E7%AB%B6%E6%8A%80%E5%A0%B4"
   },
   {
-   "tag": "HN",
-   "title": "Formalizing Fermat's Last Theorem",
-   "body": "565ポイント / コメント348件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49568506"
-  },
-  {
-   "tag": "HN",
-   "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
-   "body": "5ポイント / コメント1件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49572875"
+   "tag": "WIKI",
+   "title": "アイドル共和国",
+   "body": "アイドル共和国（アイドルきょうわこく）は、かつて西武園ゆうえんちにあったイベントステージ、および同施設からの生放送歌謡番組、本項ではテレビ番組を中心に記す。後番組『桜っ子クラブ』も同…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E5%85%B1%E5%92%8C%E5%9B%BD"
   }
  ]
 }
