@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-06T06:17:25+09:00",
+ "generated_at": "2026-09-06T08:55:34+09:00",
  "items": [
   {
-   "tag": "HN",
-   "title": "Balrogg: Demonically compacting (up to 15%) lossless Vorbis/Opus reco…",
-   "body": "28ポイント / コメント6件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49549778"
-  },
-  {
-   "tag": "HN",
-   "title": "Finite time blowup for an averaged three-dimensional Navier-Stokes eq…",
-   "body": "25ポイント / コメント5件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49580329"
+   "tag": "WIKI",
+   "title": "白神岳登山口駅",
+   "body": "白神岳登山口駅（しらかみだけとざんぐちえき）は、青森県西津軽郡深浦町大字黒崎字宮崎にある、東日本旅客鉄道（JR東日本）五能線の駅である。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E7%99%BD%E7%A5%9E%E5%B2%B3%E7%99%BB%E5%B1%B1%E5%8F%A3%E9%A7%85"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "強い雨。最高24.0℃ / 最低19.6℃。いまは19.8℃。",
+   "body": "強い雨。最高22.8℃ / 最低19.8℃。いまは19.8℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "WIKI",
-   "title": "ダニロ・パンティッチ",
-   "body": "ダニロ・パンティッチ は、セルビア・ルマ出身のプロサッカー選手。FCスパルタク・トルナヴァ所属。ポジションはMF。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%8B%E3%83%AD%E3%83%BB%E3%83%91%E3%83%B3%E3%83%86%E3%82%A3%E3%83%83%E3%83%81"
+   "tag": "HN",
+   "title": "ISAR Aerospace 5 Sept Mission Onward and Upward",
+   "body": "12ポイント / コメント1件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49579956"
   },
   {
    "tag": "HN",
-   "title": "Statichost.eu – European static site hosting",
-   "body": "425ポイント / コメント191件。",
+   "title": "Steffen's Polyhedron",
+   "body": "46ポイント / コメント4件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49569896"
+   "url": "https://news.ycombinator.com/item?id=49552615"
+  },
+  {
+   "tag": "HN",
+   "title": "Stopping the Unstoppable: When an unstoppable force meets a dashpot s…",
+   "body": "47ポイント / コメント5件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49525188"
   },
   {
    "tag": "WIKI",
-   "title": "青森県立保健大学",
-   "body": "青森県立保健大学 は、青森県青森市大字浜館字間瀬58-1に所在する公立大学。1999年大学設置。",
+   "title": "偏角の原理",
+   "body": "複素解析において、偏角の原理 は有理型関数の零点と極の個数の差を関数の対数微分の周回積分と結びつける。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E9%9D%92%E6%A3%AE%E7%9C%8C%E7%AB%8B%E4%BF%9D%E5%81%A5%E5%A4%A7%E5%AD%A6"
+   "url": "https://ja.wikipedia.org/wiki/%E5%81%8F%E8%A7%92%E3%81%AE%E5%8E%9F%E7%90%86"
   }
  ]
 }
