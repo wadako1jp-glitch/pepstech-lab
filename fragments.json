@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-05T19:39:17+09:00",
+ "generated_at": "2026-09-05T22:52:56+09:00",
  "items": [
-  {
-   "tag": "天気",
-   "title": "東京 きょう",
-   "body": "雨。最高25.0℃ / 最低20.6℃。いまは23.2℃。",
-   "src": "open-meteo.com",
-   "url": "https://open-meteo.com/"
-  },
   {
    "tag": "HN",
    "title": "Can AI design circuit boards yet?",
-   "body": "263ポイント / コメント160件。",
+   "body": "294ポイント / コメント177件。",
    "src": "news.ycombinator.com",
    "url": "https://news.ycombinator.com/item?id=49569366"
   },
   {
-   "tag": "HN",
-   "title": "Sky Map 2000 – Star Atlas and Planetarium",
-   "body": "3ポイント / コメント0件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49548596"
+   "tag": "WIKI",
+   "title": "メルセデス・ベンツ・バイオニック",
+   "body": "メルセデス・ベンツ バイオニック は、ダイムラー・クライスラー社傘下のメルセデス・ベンツにより製作されたコンセプトカーである。この車は2005年にワシントンD.C.で開催されたダイム…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%AB%E3%82%BB%E3%83%87%E3%82%B9%E3%83%BB%E3%83%99%E3%83%B3%E3%83%84%E3%83%BB%E3%83%90%E3%82%A4%E3%82%AA%E3%83%8B%E3%83%83%E3%82%AF"
   },
   {
    "tag": "HN",
    "title": "Git hosting that never leaves Europe",
-   "body": "96ポイント / コメント67件。",
+   "body": "136ポイント / コメント78件。",
    "src": "news.ycombinator.com",
    "url": "https://news.ycombinator.com/item?id=49573680"
   },
   {
-   "tag": "WIKI",
-   "title": "水原ワールドカップ競技場",
-   "body": "水原ワールドカップ競技場 は、韓国の水原市にあるサッカー専用競技場である。 愛称はビッグバードスタジアム。Kリーグの水原三星ブルーウィングスのホームスタジアムである。2002 FIF…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%B0%B4%E5%8E%9F%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%AB%E3%83%83%E3%83%97%E7%AB%B6%E6%8A%80%E5%A0%B4"
+   "tag": "天気",
+   "title": "東京 きょう",
+   "body": "雨。最高25.5℃ / 最低20.6℃。いまは22.2℃。",
+   "src": "open-meteo.com",
+   "url": "https://open-meteo.com/"
   },
   {
    "tag": "WIKI",
-   "title": "アイドル共和国",
-   "body": "アイドル共和国（アイドルきょうわこく）は、かつて西武園ゆうえんちにあったイベントステージ、および同施設からの生放送歌謡番組、本項ではテレビ番組を中心に記す。後番組『桜っ子クラブ』も同…",
+   "title": "電撃文庫",
+   "body": "電撃文庫（でんげきぶんこ）は、KADOKAWAが発行している、日本の文庫レーベル。1993年6月、旧メディアワークスより創刊した後、株式会社アスキー・メディアワークスが引き継ぎ、20…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E5%85%B1%E5%92%8C%E5%9B%BD"
+   "url": "https://ja.wikipedia.org/wiki/%E9%9B%BB%E6%92%83%E6%96%87%E5%BA%AB"
+  },
+  {
+   "tag": "HN",
+   "title": "Kale: A Transformation-Safe Spreadsheet System",
+   "body": "33ポイント / コメント10件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49516962"
   }
  ]
 }
