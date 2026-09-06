@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-06T22:41:36+09:00",
+ "generated_at": "2026-09-07T02:05:38+09:00",
  "items": [
   {
    "tag": "HN",
-   "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
-   "body": "324ポイント / コメント87件。",
+   "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
+   "body": "545ポイント / コメント271件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49584083"
+   "url": "https://news.ycombinator.com/item?id=49582000"
   },
   {
    "tag": "WIKI",
-   "title": "ロチェスター・フィルハーモニー管弦楽団",
-   "body": "ロチェスター・フィルハーモニー管弦楽団 は、アメリカ合衆国ニューヨーク州ロチェスターを本拠地とするオーケストラである。本拠地ホールは、イーストマン音楽学校のイーストマン劇場である。",
+   "title": "フライトシミュレーション",
+   "body": "フライトシミュレーション とは、航空機などの飛行の操縦訓練、搭乗体験をするために飛行状況を模擬すること。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%81%E3%82%A7%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%BB%E3%83%95%E3%82%A3%E3%83%AB%E3%83%8F%E3%83%BC%E3%83%A2%E3%83%8B%E3%83%BC%E7%AE%A1%E5%BC%A6%E6%A5%BD%E5%9B%A3"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%82%A4%E3%83%88%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3"
+  },
+  {
+   "tag": "WIKI",
+   "title": "エリナー・フォーテスキュー＝ブリックデイル",
+   "body": "エリナー・フォーテスキュー＝ブリックデイル はイギリスの画家、イラストレーターである。多くの書籍の挿絵を描き、後年はステンド・グラスも制作した。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AA%E3%83%8A%E3%83%BC%E3%83%BB%E3%83%95%E3%82%A9%E3%83%BC%E3%83%86%E3%82%B9%E3%82%AD%E3%83%A5%E3%83%BC%EF%BC%9D%E3%83%96%E3%83%AA%E3%83%83%E3%82%AF%E3%83%87%E3%82%A4%E3%83%AB"
   },
   {
    "tag": "HN",
-   "title": "OpenBSD Stories: Strange Medieval Devices",
-   "body": "73ポイント / コメント16件。",
+   "title": "AI, Tools and Transformation",
+   "body": "127ポイント / コメント58件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49539759"
-  },
-  {
-   "tag": "HN",
-   "title": "New all in one 6502 computer (Neo6502kbd)",
-   "body": "16ポイント / コメント3件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49585605"
+   "url": "https://news.ycombinator.com/item?id=49582656"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "強い雨。最高22.2℃ / 最低19.3℃。いまは21.3℃。",
+   "body": "強い雨。最高26.9℃ / 最低21.2℃。いまは22.0℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "WIKI",
-   "title": "ルイ・ブーランジェ",
-   "body": "ルイ・ブーランジェ はフランスの画家、版画家、挿絵画家である。ロマン主義の芸術家のなかで活動した。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%82%A4%E3%83%BB%E3%83%96%E3%83%BC%E3%83%A9%E3%83%B3%E3%82%B8%E3%82%A7"
+   "tag": "HN",
+   "title": "Ganon's Mysterious Origins (Revisited)",
+   "body": "9ポイント / コメント1件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49580389"
   }
  ]
 }
