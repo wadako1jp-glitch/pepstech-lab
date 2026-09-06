@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-06T08:55:34+09:00",
+ "generated_at": "2026-09-06T13:43:29+09:00",
  "items": [
-  {
-   "tag": "WIKI",
-   "title": "白神岳登山口駅",
-   "body": "白神岳登山口駅（しらかみだけとざんぐちえき）は、青森県西津軽郡深浦町大字黒崎字宮崎にある、東日本旅客鉄道（JR東日本）五能線の駅である。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E7%99%BD%E7%A5%9E%E5%B2%B3%E7%99%BB%E5%B1%B1%E5%8F%A3%E9%A7%85"
-  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "強い雨。最高22.8℃ / 最低19.8℃。いまは19.8℃。",
+   "body": "強い雨。最高22.0℃ / 最低19.5℃。いまは20.1℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "ISAR Aerospace 5 Sept Mission Onward and Upward",
-   "body": "12ポイント / コメント1件。",
+   "title": "How Swiss tables work in Go built-in map",
+   "body": "59ポイント / コメント4件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49579956"
-  },
-  {
-   "tag": "HN",
-   "title": "Steffen's Polyhedron",
-   "body": "46ポイント / コメント4件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49552615"
-  },
-  {
-   "tag": "HN",
-   "title": "Stopping the Unstoppable: When an unstoppable force meets a dashpot s…",
-   "body": "47ポイント / コメント5件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49525188"
+   "url": "https://news.ycombinator.com/item?id=49548852"
   },
   {
    "tag": "WIKI",
-   "title": "偏角の原理",
-   "body": "複素解析において、偏角の原理 は有理型関数の零点と極の個数の差を関数の対数微分の周回積分と結びつける。",
+   "title": "コマンダーインチーフ",
+   "body": "コマンダーインチーフ は、イギリスの競走馬である。デビューから2か月でエプソムダービーとアイリッシュダービーを制した。ヨーロッパで活躍した数少ないダンシングブレーヴ産駒の一頭。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%81%8F%E8%A7%92%E3%81%AE%E5%8E%9F%E7%90%86"
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%80%E3%83%BC%E3%82%A4%E3%83%B3%E3%83%81%E3%83%BC%E3%83%95"
+  },
+  {
+   "tag": "HN",
+   "title": "Can AI design circuit boards yet?",
+   "body": "395ポイント / コメント209件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49569366"
+  },
+  {
+   "tag": "HN",
+   "title": "AI, Tools and Transformation",
+   "body": "8ポイント / コメント2件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49582656"
+  },
+  {
+   "tag": "WIKI",
+   "title": "東海 (大田区)",
+   "body": "東海（とうかい）は、東京都大田区の町。住居表示実施済み。現行行政地名は東海一丁目から東海六丁目。人口はごくわずかである。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7_(%E5%A4%A7%E7%94%B0%E5%8C%BA)"
   }
  ]
 }
