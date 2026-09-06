@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-07T04:14:05+09:00",
+ "generated_at": "2026-09-07T06:25:09+09:00",
  "items": [
   {
    "tag": "WIKI",
-   "title": "FinFET",
-   "body": "FinFET とは、ゲートがチャネルの2面、3面、4面またはチャネルを包むように位置しダブルゲート構造を形成している基板上に作られたMOSFETである。FinFETと呼ばれる理由は、…",
+   "title": "平郷町",
+   "body": "平郷町（へいごうちょう）は、愛知県名古屋市瑞穂区の地名。現行行政地名は平郷町1丁目から平郷町6丁目。住居表示未実施地域。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/FinFET"
+   "url": "https://ja.wikipedia.org/wiki/%E5%B9%B3%E9%83%B7%E7%94%BA"
+  },
+  {
+   "tag": "WIKI",
+   "title": "食品サンプル",
+   "body": "食品サンプル（しょくひんサンプル）は、飲食店の店頭あるいは店内に陳列される料理の模型。可塑性のある腐敗しない材料（蝋や合成樹脂など）を主原料として作られ、商品の細部を視覚的に説明する…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E9%A3%9F%E5%93%81%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB"
   },
   {
    "tag": "HN",
-   "title": "IBM Quantum Nighthawk R2",
-   "body": "65ポイント / コメント34件。",
+   "title": "Music Theory for Programmers",
+   "body": "338ポイント / コメント217件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49546198"
+   "url": "https://news.ycombinator.com/item?id=49541888"
   },
   {
    "tag": "HN",
-   "title": "Ganon's Mysterious Origins (Revisited)",
-   "body": "18ポイント / コメント4件。",
+   "title": "There Gonna Be a Shortage of Everything",
+   "body": "25ポイント / コメント24件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49580389"
+   "url": "https://news.ycombinator.com/item?id=49590129"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "強い雨。最高25.6℃ / 最低21.7℃。いまは22.1℃。",
+   "body": "強い雨。最高25.6℃ / 最低21.7℃。いまは21.7℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "WIKI",
-   "title": "アイシャドー",
-   "body": "アイシャドー は、目の周囲、特にまぶたに陰影を付ける化粧法のこと。あるいはその化粧品。アイメークアップ化粧品の一種である。油脂とロウを混ぜたクリームに香料、顔料などを混ぜて作る。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%83%BC"
-  },
-  {
    "tag": "HN",
-   "title": "Is There I/O After Death? What Happens to Io_uring When a Process Dies",
-   "body": "37ポイント / コメント10件。",
+   "title": "Black Hole of Los Alamos Seller of surplus nuclear research materials",
+   "body": "11ポイント / コメント0件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49542471"
+   "url": "https://news.ycombinator.com/item?id=49540637"
   }
  ]
 }
