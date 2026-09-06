@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-06T18:27:48+09:00",
+ "generated_at": "2026-09-06T22:41:36+09:00",
  "items": [
   {
    "tag": "HN",
-   "title": "AI, Tools and Transformation",
-   "body": "53ポイント / コメント18件。",
+   "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
+   "body": "324ポイント / コメント87件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49582656"
-  },
-  {
-   "tag": "HN",
-   "title": "LLMs as a Cognitive Virus",
-   "body": "270ポイント / コメント197件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49580164"
-  },
-  {
-   "tag": "HN",
-   "title": "Music Theory for Programmers",
-   "body": "116ポイント / コメント49件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49541888"
+   "url": "https://news.ycombinator.com/item?id=49584083"
   },
   {
    "tag": "WIKI",
-   "title": "アンダース・フリーデン",
-   "body": "アンダース・フリーデン は、スウェーデンのヘヴィメタルミュージシャン (ボーカリスト)。イン・フレイムスのボーカリストとして著名。また、同バンドでは、作詞、作曲も行っている。この他に…",
+   "title": "ロチェスター・フィルハーモニー管弦楽団",
+   "body": "ロチェスター・フィルハーモニー管弦楽団 は、アメリカ合衆国ニューヨーク州ロチェスターを本拠地とするオーケストラである。本拠地ホールは、イーストマン音楽学校のイーストマン劇場である。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%80%E3%83%BC%E3%82%B9%E3%83%BB%E3%83%95%E3%83%AA%E3%83%BC%E3%83%87%E3%83%B3"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%81%E3%82%A7%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%BB%E3%83%95%E3%82%A3%E3%83%AB%E3%83%8F%E3%83%BC%E3%83%A2%E3%83%8B%E3%83%BC%E7%AE%A1%E5%BC%A6%E6%A5%BD%E5%9B%A3"
   },
   {
-   "tag": "WIKI",
-   "title": "大東町 (静岡県)",
-   "body": "大東町 は、日本にかつて存在した町である。静岡県小笠郡に属した。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%9D%B1%E7%94%BA_(%E9%9D%99%E5%B2%A1%E7%9C%8C)"
+   "tag": "HN",
+   "title": "OpenBSD Stories: Strange Medieval Devices",
+   "body": "73ポイント / コメント16件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49539759"
+  },
+  {
+   "tag": "HN",
+   "title": "New all in one 6502 computer (Neo6502kbd)",
+   "body": "16ポイント / コメント3件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49585605"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "強い雨。最高22.2℃ / 最低19.3℃。いまは22.2℃。",
+   "body": "強い雨。最高22.2℃ / 最低19.3℃。いまは21.3℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
+  },
+  {
+   "tag": "WIKI",
+   "title": "ルイ・ブーランジェ",
+   "body": "ルイ・ブーランジェ はフランスの画家、版画家、挿絵画家である。ロマン主義の芸術家のなかで活動した。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%82%A4%E3%83%BB%E3%83%96%E3%83%BC%E3%83%A9%E3%83%B3%E3%82%B8%E3%82%A7"
   }
  ]
 }
