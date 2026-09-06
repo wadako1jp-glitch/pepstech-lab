@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-06T13:43:29+09:00",
+ "generated_at": "2026-09-06T18:27:48+09:00",
  "items": [
-  {
-   "tag": "天気",
-   "title": "東京 きょう",
-   "body": "強い雨。最高22.0℃ / 最低19.5℃。いまは20.1℃。",
-   "src": "open-meteo.com",
-   "url": "https://open-meteo.com/"
-  },
-  {
-   "tag": "HN",
-   "title": "How Swiss tables work in Go built-in map",
-   "body": "59ポイント / コメント4件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49548852"
-  },
-  {
-   "tag": "WIKI",
-   "title": "コマンダーインチーフ",
-   "body": "コマンダーインチーフ は、イギリスの競走馬である。デビューから2か月でエプソムダービーとアイリッシュダービーを制した。ヨーロッパで活躍した数少ないダンシングブレーヴ産駒の一頭。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%80%E3%83%BC%E3%82%A4%E3%83%B3%E3%83%81%E3%83%BC%E3%83%95"
-  },
-  {
-   "tag": "HN",
-   "title": "Can AI design circuit boards yet?",
-   "body": "395ポイント / コメント209件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49569366"
-  },
   {
    "tag": "HN",
    "title": "AI, Tools and Transformation",
-   "body": "8ポイント / コメント2件。",
+   "body": "53ポイント / コメント18件。",
    "src": "news.ycombinator.com",
    "url": "https://news.ycombinator.com/item?id=49582656"
   },
   {
+   "tag": "HN",
+   "title": "LLMs as a Cognitive Virus",
+   "body": "270ポイント / コメント197件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49580164"
+  },
+  {
+   "tag": "HN",
+   "title": "Music Theory for Programmers",
+   "body": "116ポイント / コメント49件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49541888"
+  },
+  {
    "tag": "WIKI",
-   "title": "東海 (大田区)",
-   "body": "東海（とうかい）は、東京都大田区の町。住居表示実施済み。現行行政地名は東海一丁目から東海六丁目。人口はごくわずかである。",
+   "title": "アンダース・フリーデン",
+   "body": "アンダース・フリーデン は、スウェーデンのヘヴィメタルミュージシャン (ボーカリスト)。イン・フレイムスのボーカリストとして著名。また、同バンドでは、作詞、作曲も行っている。この他に…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7_(%E5%A4%A7%E7%94%B0%E5%8C%BA)"
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%80%E3%83%BC%E3%82%B9%E3%83%BB%E3%83%95%E3%83%AA%E3%83%BC%E3%83%87%E3%83%B3"
+  },
+  {
+   "tag": "WIKI",
+   "title": "大東町 (静岡県)",
+   "body": "大東町 は、日本にかつて存在した町である。静岡県小笠郡に属した。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%9D%B1%E7%94%BA_(%E9%9D%99%E5%B2%A1%E7%9C%8C)"
+  },
+  {
+   "tag": "天気",
+   "title": "東京 きょう",
+   "body": "強い雨。最高22.2℃ / 最低19.3℃。いまは22.2℃。",
+   "src": "open-meteo.com",
+   "url": "https://open-meteo.com/"
   }
  ]
 }
