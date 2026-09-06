@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-07T02:05:38+09:00",
+ "generated_at": "2026-09-07T04:14:05+09:00",
  "items": [
   {
-   "tag": "HN",
-   "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
-   "body": "545ポイント / コメント271件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49582000"
-  },
-  {
    "tag": "WIKI",
-   "title": "フライトシミュレーション",
-   "body": "フライトシミュレーション とは、航空機などの飛行の操縦訓練、搭乗体験をするために飛行状況を模擬すること。",
+   "title": "FinFET",
+   "body": "FinFET とは、ゲートがチャネルの2面、3面、4面またはチャネルを包むように位置しダブルゲート構造を形成している基板上に作られたMOSFETである。FinFETと呼ばれる理由は、…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%82%A4%E3%83%88%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3"
-  },
-  {
-   "tag": "WIKI",
-   "title": "エリナー・フォーテスキュー＝ブリックデイル",
-   "body": "エリナー・フォーテスキュー＝ブリックデイル はイギリスの画家、イラストレーターである。多くの書籍の挿絵を描き、後年はステンド・グラスも制作した。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AA%E3%83%8A%E3%83%BC%E3%83%BB%E3%83%95%E3%82%A9%E3%83%BC%E3%83%86%E3%82%B9%E3%82%AD%E3%83%A5%E3%83%BC%EF%BC%9D%E3%83%96%E3%83%AA%E3%83%83%E3%82%AF%E3%83%87%E3%82%A4%E3%83%AB"
+   "url": "https://ja.wikipedia.org/wiki/FinFET"
   },
   {
    "tag": "HN",
-   "title": "AI, Tools and Transformation",
-   "body": "127ポイント / コメント58件。",
+   "title": "IBM Quantum Nighthawk R2",
+   "body": "65ポイント / コメント34件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49582656"
-  },
-  {
-   "tag": "天気",
-   "title": "東京 きょう",
-   "body": "強い雨。最高26.9℃ / 最低21.2℃。いまは22.0℃。",
-   "src": "open-meteo.com",
-   "url": "https://open-meteo.com/"
+   "url": "https://news.ycombinator.com/item?id=49546198"
   },
   {
    "tag": "HN",
    "title": "Ganon's Mysterious Origins (Revisited)",
-   "body": "9ポイント / コメント1件。",
+   "body": "18ポイント / コメント4件。",
    "src": "news.ycombinator.com",
    "url": "https://news.ycombinator.com/item?id=49580389"
+  },
+  {
+   "tag": "天気",
+   "title": "東京 きょう",
+   "body": "強い雨。最高25.6℃ / 最低21.7℃。いまは22.1℃。",
+   "src": "open-meteo.com",
+   "url": "https://open-meteo.com/"
+  },
+  {
+   "tag": "WIKI",
+   "title": "アイシャドー",
+   "body": "アイシャドー は、目の周囲、特にまぶたに陰影を付ける化粧法のこと。あるいはその化粧品。アイメークアップ化粧品の一種である。油脂とロウを混ぜたクリームに香料、顔料などを混ぜて作る。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%89%E3%83%BC"
+  },
+  {
+   "tag": "HN",
+   "title": "Is There I/O After Death? What Happens to Io_uring When a Process Dies",
+   "body": "37ポイント / コメント10件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49542471"
   }
  ]
 }
