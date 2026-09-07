@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-07T08:57:28+09:00",
+ "generated_at": "2026-09-07T13:46:48+09:00",
  "items": [
+  {
+   "tag": "HN",
+   "title": "Ask HN: How do you manage skills files?",
+   "body": "32ポイント / コメント23件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49589914"
+  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "強い雨。最高25.5℃ / 最低21.5℃。いまは21.7℃。",
+   "body": "強い雨。最高23.8℃ / 最低21.3℃。いまは23.3℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
+   "tag": "HN",
+   "title": "Show HN: GET Together – A social network where you don't need POST to…",
+   "body": "15ポイント / コメント7件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49592840"
+  },
+  {
+   "tag": "HN",
+   "title": "It took a year to ship WebAssembly in Anubis",
+   "body": "189ポイント / コメント103件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49590611"
+  },
+  {
    "tag": "WIKI",
-   "title": "鳥取中央郵便局",
-   "body": "鳥取中央郵便局（とっとりちゅうおうゆうびんきょく）は、鳥取県鳥取市にある郵便局。民営化前の分類では集配普通郵便局であった。",
+   "title": "ザイクロン",
+   "body": "ザイクロン（Zyklon）は、ノルウェーのブラッケンド・デスメタルバンド。1998年に結成され、2010年解散。バンド名は、ツィクロンBとは何の関係もなく、サイクロンという単語がノル…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E9%B3%A5%E5%8F%96%E4%B8%AD%E5%A4%AE%E9%83%B5%E4%BE%BF%E5%B1%80"
-  },
-  {
-   "tag": "HN",
-   "title": "Reverse engineering the storage format for an undocumented database",
-   "body": "13ポイント / コメント0件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49561514"
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%B6%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%B3"
   },
   {
    "tag": "WIKI",
-   "title": "麻生警察署",
-   "body": "麻生警察署（あさおけいさつしょ）は、神奈川県警察が管轄する警察署の一つである。",
+   "title": "醜女の深情け",
+   "body": "『醜女の深情け』 は、1914年公開のサイレント映画。キーストン社による製作で、監督はマック・セネット。映画史上最初の長編喜劇としてその名を残し、のちにアカデミー主演女優賞を受賞する…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E9%BA%BB%E7%94%9F%E8%AD%A6%E5%AF%9F%E7%BD%B2"
-  },
-  {
-   "tag": "HN",
-   "title": "Electronic skin for prosthetics to sense temperature and pressure",
-   "body": "44ポイント / コメント5件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49540090"
-  },
-  {
-   "tag": "HN",
-   "title": "Black Hole of Los Alamos Seller of surplus nuclear research materials…",
-   "body": "32ポイント / コメント6件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49540637"
+   "url": "https://ja.wikipedia.org/wiki/%E9%86%9C%E5%A5%B3%E3%81%AE%E6%B7%B1%E6%83%85%E3%81%91"
   }
  ]
 }
