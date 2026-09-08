@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-08T08:31:48+09:00",
+ "generated_at": "2026-09-08T13:42:08+09:00",
  "items": [
-  {
-   "tag": "HN",
-   "title": "The Education of a Doomer",
-   "body": "44ポイント / コメント34件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49603092"
-  },
-  {
-   "tag": "HN",
-   "title": "Whistle Synth Mac App",
-   "body": "58ポイント / コメント13件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49562440"
-  },
-  {
-   "tag": "WIKI",
-   "title": "水野駅",
-   "body": "水野駅（みずのえき）は、愛知県瀬戸市效範町二丁目にある、名古屋鉄道（名鉄）瀬戸線の駅である。駅番号はST17。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%B0%B4%E9%87%8E%E9%A7%85"
-  },
-  {
-   "tag": "HN",
-   "title": "Keep Our Servers Running",
-   "body": "934ポイント / コメント242件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49593563"
-  },
-  {
-   "tag": "WIKI",
-   "title": "アレクセイ・ヴィノグラドフ",
-   "body": "アレクセイ・ニコラエヴィッチ・ヴィノグラドフ はソビエト連邦の軍人である。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AC%E3%82%AF%E3%82%BB%E3%82%A4%E3%83%BB%E3%83%B4%E3%82%A3%E3%83%8E%E3%82%B0%E3%83%A9%E3%83%89%E3%83%95"
-  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "強い雨。最高27.4℃ / 最低22.6℃。いまは23.3℃。",
+   "body": "強い雨。最高28.1℃ / 最低22.4℃。いまは28.2℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
+  },
+  {
+   "tag": "HN",
+   "title": "216M Spy TVs – The LG Smart TV Problem [video]",
+   "body": "630ポイント / コメント840件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49592375"
+  },
+  {
+   "tag": "HN",
+   "title": "Show HN: Stuxnet – A reconstructed source code of the infamous cyber-…",
+   "body": "131ポイント / コメント45件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49603546"
+  },
+  {
+   "tag": "WIKI",
+   "title": "兵庫県立赤穂特別支援学校",
+   "body": "兵庫県立赤穂特別支援学校 は、兵庫県赤穂市大津にある県立特別支援学校。知的障害がある児童・生徒を教育対象とする。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%AB%8B%E8%B5%A4%E7%A9%82%E7%89%B9%E5%88%A5%E6%94%AF%E6%8F%B4%E5%AD%A6%E6%A0%A1"
+  },
+  {
+   "tag": "WIKI",
+   "title": "レオ14世 (ローマ教皇)",
+   "body": "レオ14世 は、第267代ローマ教皇。出生名、ロバート・フランシス・プレヴォスト。2025年ローマ教皇選挙（コンクラーベ）において、4回目の投票で教皇に選出され、同年5月8日よりカト…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%AA14%E4%B8%96_(%E3%83%AD%E3%83%BC%E3%83%9E%E6%95%99%E7%9A%87)"
+  },
+  {
+   "tag": "HN",
+   "title": "Icy Moons Are Ocean Worlds",
+   "body": "144ポイント / コメント15件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49586207"
   }
  ]
 }
