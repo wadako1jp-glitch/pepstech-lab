@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-09T03:43:27+09:00",
+ "generated_at": "2026-09-09T06:53:16+09:00",
  "items": [
   {
-   "tag": "WIKI",
-   "title": "中央寺 (和泉市)",
-   "body": "中央寺（ちゅうおうじ）は、大阪府和泉市にある黄檗宗の寺院。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%A4%AE%E5%AF%BA_(%E5%92%8C%E6%B3%89%E5%B8%82)"
-  },
-  {
    "tag": "HN",
-   "title": "On the Navier–Stokes Millennium Prize Problem",
-   "body": "482ポイント / コメント332件。",
+   "title": "AlphaGenome Atlas predictive map of every DNA letter change in the hu…",
+   "body": "73ポイント / コメント9件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49613262"
-  },
-  {
-   "tag": "WIKI",
-   "title": "アイシングラス (競走馬)",
-   "body": "アイシングラス (Isinglass) とは、1890年代に活躍したイギリスの競走馬・種牡馬である。史上6頭目、無敗での達成は2頭目となるイギリスクラシック三冠馬である。アイシングラ…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%B3%E3%82%B0%E3%83%A9%E3%82%B9_(%E7%AB%B6%E8%B5%B0%E9%A6%AC)"
-  },
-  {
-   "tag": "HN",
-   "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
-   "body": "589ポイント / コメント321件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49605915"
+   "url": "https://news.ycombinator.com/item?id=49610641"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "雨。最高31.0℃ / 最低19.1℃。いまは26.8℃。",
+   "body": "雨。最高31.0℃ / 最低19.1℃。いまは28.1℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
+   "tag": "WIKI",
+   "title": "ラザル・マルコヴィッチ",
+   "body": "ラザル・マルコヴィッチ は、ユーゴスラビア 出身のサッカー選手。バニーヤースSC所属。ポジションはミッドフィールダー。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%B6%E3%83%AB%E3%83%BB%E3%83%9E%E3%83%AB%E3%82%B3%E3%83%B4%E3%82%A3%E3%83%83%E3%83%81"
+  },
+  {
    "tag": "HN",
-   "title": "There's a new \"Google Jail\" for independent wikis",
-   "body": "457ポイント / コメント195件。",
+   "title": "DaVinci Resolve 21.1",
+   "body": "316ポイント / コメント138件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49604870"
+   "url": "https://news.ycombinator.com/item?id=49610181"
+  },
+  {
+   "tag": "WIKI",
+   "title": "カップヌードル カレー",
+   "body": "カップヌードル カレーとは、日清食品が発売しているカップラーメンで、カップヌードルの一種。「カップヌードル」発売2年後の1973年5月に販売を開始した。通称は「カレーヌードル」。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%83%E3%83%97%E3%83%8C%E3%83%BC%E3%83%89%E3%83%AB_%E3%82%AB%E3%83%AC%E3%83%BC"
+  },
+  {
+   "tag": "HN",
+   "title": "Paramount Caught Using 'Astroturf' Group to Drum Up Fake Support for …",
+   "body": "304ポイント / コメント102件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49610900"
   }
  ]
 }
