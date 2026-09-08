@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-08T18:44:34+09:00",
+ "generated_at": "2026-09-08T23:35:06+09:00",
  "items": [
   {
    "tag": "HN",
-   "title": "The VMs Powering Mobile Agents (Instinct, Claude Code)",
-   "body": "29ポイント / コメント6件。",
+   "title": "Mistral raises €3B",
+   "body": "651ポイント / コメント472件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49605644"
+   "url": "https://news.ycombinator.com/item?id=49605767"
   },
   {
    "tag": "HN",
-   "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
-   "body": "238ポイント / コメント113件。",
+   "title": "An overview of how our family is prepared",
+   "body": "6ポイント / コメント2件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49605915"
+   "url": "https://news.ycombinator.com/item?id=49610734"
   },
   {
    "tag": "WIKI",
-   "title": "メディチ家",
-   "body": "メディチ家 は、ルネサンス期のイタリア・フィレンツェにおいて銀行家、政治家として台頭、フィレンツェの実質的な支配者（僭主）として君臨し、後にトスカーナ大公国の君主となった一族である。",
+   "title": "タルビス",
+   "body": "タルビス は、古代メソポタミア地方の古代都市（紀元前722年から紀元前612年）。新アッシリア帝国の王位継承者の宮殿があった。センナケリブ、エサルハドン、アッシュルバニパルが王太子時…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%87%E3%82%A3%E3%83%81%E5%AE%B6"
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%AB%E3%83%93%E3%82%B9"
+  },
+  {
+   "tag": "HN",
+   "title": "Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare",
+   "body": "305ポイント / コメント250件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49607443"
   },
   {
    "tag": "WIKI",
-   "title": "若山神社",
-   "body": "若山神社（わかやまじんじゃ）は、大阪府三島郡島本町にある神社。旧社格は村社。",
+   "title": "ピオリア郡 (イリノイ州)",
+   "body": "ピオリア郡 は、アメリカ合衆国イリノイ州の郡である。人口は18万1830人（2020年）。郡庁所在地はピオリアであり、同郡で人口最大の都市である。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E8%8B%A5%E5%B1%B1%E7%A5%9E%E7%A4%BE"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%94%E3%82%AA%E3%83%AA%E3%82%A2%E9%83%A1_(%E3%82%A4%E3%83%AA%E3%83%8E%E3%82%A4%E5%B7%9E)"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "強い雨。最高28.5℃ / 最低22.4℃。いまは25.5℃。",
+   "body": "雨。最高28.5℃ / 最低22.4℃。いまは26.9℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
-  },
-  {
-   "tag": "HN",
-   "title": "My Feed, My Way",
-   "body": "117ポイント / コメント85件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49605782"
   }
  ]
 }
