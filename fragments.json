@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-08T23:35:06+09:00",
+ "generated_at": "2026-09-09T03:43:27+09:00",
  "items": [
   {
-   "tag": "HN",
-   "title": "Mistral raises €3B",
-   "body": "651ポイント / コメント472件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49605767"
+   "tag": "WIKI",
+   "title": "中央寺 (和泉市)",
+   "body": "中央寺（ちゅうおうじ）は、大阪府和泉市にある黄檗宗の寺院。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%A4%AE%E5%AF%BA_(%E5%92%8C%E6%B3%89%E5%B8%82)"
   },
   {
    "tag": "HN",
-   "title": "An overview of how our family is prepared",
-   "body": "6ポイント / コメント2件。",
+   "title": "On the Navier–Stokes Millennium Prize Problem",
+   "body": "482ポイント / コメント332件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49610734"
+   "url": "https://news.ycombinator.com/item?id=49613262"
   },
   {
    "tag": "WIKI",
-   "title": "タルビス",
-   "body": "タルビス は、古代メソポタミア地方の古代都市（紀元前722年から紀元前612年）。新アッシリア帝国の王位継承者の宮殿があった。センナケリブ、エサルハドン、アッシュルバニパルが王太子時…",
+   "title": "アイシングラス (競走馬)",
+   "body": "アイシングラス (Isinglass) とは、1890年代に活躍したイギリスの競走馬・種牡馬である。史上6頭目、無敗での達成は2頭目となるイギリスクラシック三冠馬である。アイシングラ…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%AB%E3%83%93%E3%82%B9"
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%B3%E3%82%B0%E3%83%A9%E3%82%B9_(%E7%AB%B6%E8%B5%B0%E9%A6%AC)"
   },
   {
    "tag": "HN",
-   "title": "Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare",
-   "body": "305ポイント / コメント250件。",
+   "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
+   "body": "589ポイント / コメント321件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49607443"
-  },
-  {
-   "tag": "WIKI",
-   "title": "ピオリア郡 (イリノイ州)",
-   "body": "ピオリア郡 は、アメリカ合衆国イリノイ州の郡である。人口は18万1830人（2020年）。郡庁所在地はピオリアであり、同郡で人口最大の都市である。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%94%E3%82%AA%E3%83%AA%E3%82%A2%E9%83%A1_(%E3%82%A4%E3%83%AA%E3%83%8E%E3%82%A4%E5%B7%9E)"
+   "url": "https://news.ycombinator.com/item?id=49605915"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "雨。最高28.5℃ / 最低22.4℃。いまは26.9℃。",
+   "body": "雨。最高31.0℃ / 最低19.1℃。いまは26.8℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
+  },
+  {
+   "tag": "HN",
+   "title": "There's a new \"Google Jail\" for independent wikis",
+   "body": "457ポイント / コメント195件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49604870"
   }
  ]
 }
