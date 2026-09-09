@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-09T09:17:45+09:00",
+ "generated_at": "2026-09-09T15:01:11+09:00",
  "items": [
   {
    "tag": "HN",
-   "title": "The 92-Year-Old Mathematician and the Teenage Apprentice",
-   "body": "130ポイント / コメント11件。",
+   "title": "Mercury 2.5",
+   "body": "163ポイント / コメント25件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49591563"
+   "url": "https://news.ycombinator.com/item?id=49616354"
+  },
+  {
+   "tag": "WIKI",
+   "title": "ザグレブ空中衝突事故",
+   "body": "ザグレブ空中衝突事故（ザグレブくうちゅうしょうとつじこ）は、1976年9月10日にユーゴスラビア（当時）のザグレブ航空管制エリアで発生した、民間航空機同士による空中衝突である。この航…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%B6%E3%82%B0%E3%83%AC%E3%83%96%E7%A9%BA%E4%B8%AD%E8%A1%9D%E7%AA%81%E4%BA%8B%E6%95%85"
+  },
+  {
+   "tag": "HN",
+   "title": "27.5KB language-agnostic WebGPU syntax highlighter",
+   "body": "45ポイント / コメント15件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49619464"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "雨。最高30.6℃ / 最低20.1℃。いまは29.7℃。",
+   "body": "小雨。最高30.8℃ / 最低21.0℃。いまは25.7℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "WIKI",
-   "title": "内閣府 (イギリス)",
-   "body": "内閣府 は、イギリスの行政機関のひとつ。首相および内閣を補佐することを任務としている。内閣委員会を支援して、他の省庁を通じた政府目標の伝達を調整する様々な部門から構成される。2021…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%86%85%E9%96%A3%E5%BA%9C_(%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9)"
-  },
-  {
    "tag": "HN",
-   "title": "Reverse Engineering an ASIC",
-   "body": "20ポイント / コメント5件。",
+   "title": "Science of the Gaps (2025)",
+   "body": "3ポイント / コメント0件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49599825"
+   "url": "https://news.ycombinator.com/item?id=49589130"
   },
   {
    "tag": "WIKI",
-   "title": "エドメン・シャバージアン",
-   "body": "エドメン・シャバージアン はアメリカ合衆国の男性総合格闘家。カリフォルニア州グレンデール出身。エクストリーム・クートゥア所属。",
+   "title": "堀川駅",
+   "body": "堀川駅（ほりかわえき）は、熊本県熊本市北区八景水谷一丁目にある熊本電気鉄道菊池線の駅。駅番号はKD12。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%89%E3%83%A1%E3%83%B3%E3%83%BB%E3%82%B7%E3%83%A3%E3%83%90%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%B3"
-  },
-  {
-   "tag": "HN",
-   "title": "The Helicopter with Radioactive Blades",
-   "body": "144ポイント / コメント41件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49600901"
+   "url": "https://ja.wikipedia.org/wiki/%E5%A0%80%E5%B7%9D%E9%A7%85"
   }
  ]
 }
