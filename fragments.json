@@ -1,45 +1,45 @@
 {
- "generated_at": "2026-09-10T01:41:20+09:00",
+ "generated_at": "2026-09-10T04:47:41+09:00",
  "items": [
-  {
-   "tag": "WIKI",
-   "title": "デンソー",
-   "body": "株式会社デンソー は、愛知県刈谷市を本拠に置く、トヨタグループの自動車部品メーカーである。2009年以来、自動車部品業界では国内最大手である。日経平均株価およびTOPIX Large…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%B3%E3%82%BD%E3%83%BC"
-  },
-  {
-   "tag": "WIKI",
-   "title": "アカナマダ",
-   "body": "アカナマダ は、条鰭綱アカマンボウ目アカナマダ科に属する海水魚。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AB%E3%83%8A%E3%83%9E%E3%83%80"
-  },
-  {
-   "tag": "HN",
-   "title": "Roame (YC S23) Is Hiring Viral Content Editor",
-   "body": "1ポイント / コメント0件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49625110"
-  },
-  {
-   "tag": "HN",
-   "title": "Muse – Meta’s personal AI agent",
-   "body": "599ポイント / コメント652件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49615537"
-  },
   {
    "tag": "HN",
    "title": "Tailwind Labs is joining Shopify",
-   "body": "481ポイント / コメント186件。",
+   "body": "675ポイント / コメント285件。",
    "src": "news.ycombinator.com",
    "url": "https://news.ycombinator.com/item?id=49626190"
   },
   {
+   "tag": "WIKI",
+   "title": "吉田義夫",
+   "body": "吉田 義夫 は、1950年代から1980年代にかけて活躍した日本の俳優である。本名は同じ。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%90%89%E7%94%B0%E7%BE%A9%E5%A4%AB"
+  },
+  {
+   "tag": "HN",
+   "title": "We accidentally built a synthetic cell factory",
+   "body": "55ポイント / コメント4件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49628290"
+  },
+  {
+   "tag": "WIKI",
+   "title": "香坊駅",
+   "body": "香坊駅（こうぼうえき）は、中華人民共和国黒竜江省ハルビン市香坊区に位置する拉浜線、浜綏線の駅。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E9%A6%99%E5%9D%8A%E9%A7%85"
+  },
+  {
+   "tag": "HN",
+   "title": "Bespoke: A programming language for people who say please",
+   "body": "71ポイント / コメント23件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49584361"
+  },
+  {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "小雨。最高20.9℃ / 最低18.9℃。いまは20.0℃。",
+   "body": "小雨。最高21.3℃ / 最低19.4℃。いまは19.7℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   }
