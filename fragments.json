@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-09T20:28:01+09:00",
+ "generated_at": "2026-09-10T01:41:20+09:00",
  "items": [
   {
-   "tag": "HN",
-   "title": "On Really Trying (2009)",
-   "body": "64ポイント / コメント39件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49622305"
+   "tag": "WIKI",
+   "title": "デンソー",
+   "body": "株式会社デンソー は、愛知県刈谷市を本拠に置く、トヨタグループの自動車部品メーカーである。2009年以来、自動車部品業界では国内最大手である。日経平均株価およびTOPIX Large…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%B3%E3%82%BD%E3%83%BC"
   },
   {
    "tag": "WIKI",
-   "title": "マーク・デュプラス",
-   "body": "マーク・デヴィッド・デュプラス は、アメリカ合衆国の映画監督、映画プロデューサー、脚本家、俳優である。兄のジェイ・デュプラスも映画監督であり、共同で映画を製作している。",
+   "title": "アカナマダ",
+   "body": "アカナマダ は、条鰭綱アカマンボウ目アカナマダ科に属する海水魚。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%BC%E3%82%AF%E3%83%BB%E3%83%87%E3%83%A5%E3%83%97%E3%83%A9%E3%82%B9"
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AB%E3%83%8A%E3%83%9E%E3%83%80"
+  },
+  {
+   "tag": "HN",
+   "title": "Roame (YC S23) Is Hiring Viral Content Editor",
+   "body": "1ポイント / コメント0件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49625110"
+  },
+  {
+   "tag": "HN",
+   "title": "Muse – Meta’s personal AI agent",
+   "body": "599ポイント / コメント652件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49615537"
+  },
+  {
+   "tag": "HN",
+   "title": "Tailwind Labs is joining Shopify",
+   "body": "481ポイント / コメント186件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49626190"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "小雨。最高30.8℃ / 最低20.5℃。いまは22.2℃。",
+   "body": "小雨。最高20.9℃ / 最低18.9℃。いまは20.0℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
-  },
-  {
-   "tag": "WIKI",
-   "title": "安堂寺橋",
-   "body": "安堂寺橋（あんどうじばし）は、大阪市の東横堀川に架かる橋。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%AE%89%E5%A0%82%E5%AF%BA%E6%A9%8B"
-  },
-  {
-   "tag": "HN",
-   "title": "Ganon's Mysterious Origins (Revisited)",
-   "body": "34ポイント / コメント18件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49580389"
-  },
-  {
-   "tag": "HN",
-   "title": "Into the depths of C: Elaborating the de facto standards (2016)",
-   "body": "23ポイント / コメント1件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49612089"
   }
  ]
 }
