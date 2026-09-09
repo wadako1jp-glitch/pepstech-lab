@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-09T15:01:11+09:00",
+ "generated_at": "2026-09-09T20:28:01+09:00",
  "items": [
   {
    "tag": "HN",
-   "title": "Mercury 2.5",
-   "body": "163ポイント / コメント25件。",
+   "title": "On Really Trying (2009)",
+   "body": "64ポイント / コメント39件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49616354"
+   "url": "https://news.ycombinator.com/item?id=49622305"
   },
   {
    "tag": "WIKI",
-   "title": "ザグレブ空中衝突事故",
-   "body": "ザグレブ空中衝突事故（ザグレブくうちゅうしょうとつじこ）は、1976年9月10日にユーゴスラビア（当時）のザグレブ航空管制エリアで発生した、民間航空機同士による空中衝突である。この航…",
+   "title": "マーク・デュプラス",
+   "body": "マーク・デヴィッド・デュプラス は、アメリカ合衆国の映画監督、映画プロデューサー、脚本家、俳優である。兄のジェイ・デュプラスも映画監督であり、共同で映画を製作している。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%B6%E3%82%B0%E3%83%AC%E3%83%96%E7%A9%BA%E4%B8%AD%E8%A1%9D%E7%AA%81%E4%BA%8B%E6%95%85"
-  },
-  {
-   "tag": "HN",
-   "title": "27.5KB language-agnostic WebGPU syntax highlighter",
-   "body": "45ポイント / コメント15件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49619464"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%BC%E3%82%AF%E3%83%BB%E3%83%87%E3%83%A5%E3%83%97%E3%83%A9%E3%82%B9"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "小雨。最高30.8℃ / 最低21.0℃。いまは25.7℃。",
+   "body": "小雨。最高30.8℃ / 最低20.5℃。いまは22.2℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "HN",
-   "title": "Science of the Gaps (2025)",
-   "body": "3ポイント / コメント0件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49589130"
+   "tag": "WIKI",
+   "title": "安堂寺橋",
+   "body": "安堂寺橋（あんどうじばし）は、大阪市の東横堀川に架かる橋。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%AE%89%E5%A0%82%E5%AF%BA%E6%A9%8B"
   },
   {
-   "tag": "WIKI",
-   "title": "堀川駅",
-   "body": "堀川駅（ほりかわえき）は、熊本県熊本市北区八景水谷一丁目にある熊本電気鉄道菊池線の駅。駅番号はKD12。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%A0%80%E5%B7%9D%E9%A7%85"
+   "tag": "HN",
+   "title": "Ganon's Mysterious Origins (Revisited)",
+   "body": "34ポイント / コメント18件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49580389"
+  },
+  {
+   "tag": "HN",
+   "title": "Into the depths of C: Elaborating the de facto standards (2016)",
+   "body": "23ポイント / コメント1件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49612089"
   }
  ]
 }
