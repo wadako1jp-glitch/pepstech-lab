@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-10T07:34:58+09:00",
+ "generated_at": "2026-09-10T10:06:33+09:00",
  "items": [
   {
+   "tag": "WIKI",
+   "title": "千葉県庁",
+   "body": "千葉県庁（ちばけんちょう）は、地方公共団体である千葉県の行政機関。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%8D%83%E8%91%89%E7%9C%8C%E5%BA%81"
+  },
+  {
    "tag": "HN",
-   "title": "Generating the P3 Tiling",
-   "body": "34ポイント / コメント5件。",
+   "title": "Use Vsock with Libzmq",
+   "body": "24ポイント / コメント2件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49614575"
+   "url": "https://news.ycombinator.com/item?id=49602615"
+  },
+  {
+   "tag": "HN",
+   "title": "Shopify acquires Tailwind",
+   "body": "877ポイント / コメント349件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49626190"
+  },
+  {
+   "tag": "HN",
+   "title": "Ancient cave art suggests first known humans in Ireland walked over f…",
+   "body": "46ポイント / コメント9件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49600569"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "小雨。最高21.3℃ / 最低19.4℃。いまは19.4℃。",
+   "body": "小雨。最高20.5℃ / 最低18.0℃。いまは19.8℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "WIKI",
-   "title": "山口地域",
-   "body": "山口地域（やまぐちちいき）は、兵庫県西宮市の北西部にある地域。1951年（昭和26年）に西宮市に編入された有馬郡山口村の地域に当たる。閑静な住宅街が多くある。",
+   "title": "宮崎駅東",
+   "body": "宮崎駅東（みやざきえきひがし）とは、宮崎県宮崎市内の地名。郵便番号は880-0879。2023年現在、宮崎駅東1丁目-3丁目が設置されるが、住居表示実施地域ではない。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E5%8F%A3%E5%9C%B0%E5%9F%9F"
-  },
-  {
-   "tag": "WIKI",
-   "title": "中井町",
-   "body": "中井町（なかいまち）は、神奈川県の南西部に位置し、足柄上郡に属する町。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E4%BA%95%E7%94%BA"
-  },
-  {
-   "tag": "HN",
-   "title": "Apple Watch Series 12",
-   "body": "178ポイント / コメント193件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49630566"
-  },
-  {
-   "tag": "HN",
-   "title": "Matt Mullenweg put on 'leave of absence'",
-   "body": "104ポイント / コメント52件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49634650"
+   "url": "https://ja.wikipedia.org/wiki/%E5%AE%AE%E5%B4%8E%E9%A7%85%E6%9D%B1"
   }
  ]
 }
