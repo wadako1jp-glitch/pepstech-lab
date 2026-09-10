@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-11T01:27:06+09:00",
+ "generated_at": "2026-09-11T04:44:35+09:00",
  "items": [
   {
    "tag": "WIKI",
-   "title": "横浜情報文化センター",
-   "body": "横浜情報文化センター（よこはまじょうほうぶんかセンター）は、日本新聞博物館と放送ライブラリーを中核として、多目的ホールやオフィススペースを備えた複合施設である。オフィススペースには情…",
+   "title": "豊中市",
+   "body": "豊中市（とよなかし）は、大阪府の北摂豊能地域に位置する市。中核市に指定されている。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%A8%AA%E6%B5%9C%E6%83%85%E5%A0%B1%E6%96%87%E5%8C%96%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC"
+   "url": "https://ja.wikipedia.org/wiki/%E8%B1%8A%E4%B8%AD%E5%B8%82"
   },
   {
    "tag": "HN",
-   "title": "Growing proof that autonomous cars save lives",
-   "body": "420ポイント / コメント740件。",
+   "title": "Casablanca: How an unproduced play marched into movie history",
+   "body": "35ポイント / コメント12件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49629886"
+   "url": "https://news.ycombinator.com/item?id=49645826"
+  },
+  {
+   "tag": "WIKI",
+   "title": "関市総合福祉会館",
+   "body": "関市総合福祉会館（せきしそうごうふくしかいかん）とは、岐阜県関市にある公共施設（福祉施設）。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E9%96%A2%E5%B8%82%E7%B7%8F%E5%90%88%E7%A6%8F%E7%A5%89%E4%BC%9A%E9%A4%A8"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "強い雨。最高19.6℃ / 最低18.6℃。いまは18.8℃。",
+   "body": "雨。最高20.4℃ / 最低18.7℃。いまは18.7℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Rust Is Tier-1 Language at Microsoft",
-   "body": "243ポイント / コメント114件。",
+   "title": "Schemy Lisp En DOS",
+   "body": "61ポイント / コメント9件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49643546"
-  },
-  {
-   "tag": "WIKI",
-   "title": "予備自衛官",
-   "body": "予備自衛官 は、自衛隊（陸上・海上・航空）が予備要員として任用している非常勤の自衛官のことおよびその官名である。非常勤特別職国家公務員として、有事・訓練等の際に招集され、自衛隊におけ…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E4%BA%88%E5%82%99%E8%87%AA%E8%A1%9B%E5%AE%98"
+   "url": "https://news.ycombinator.com/item?id=49586139"
   },
   {
    "tag": "HN",
-   "title": "Discrete Dipole Approximation Code Ddscat 7.2 (2012)",
-   "body": "8ポイント / コメント1件。",
+   "title": "Genuine Creativity Is Your New Moat (2026)",
+   "body": "17ポイント / コメント6件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49580005"
+   "url": "https://news.ycombinator.com/item?id=49648732"
   }
  ]
 }
