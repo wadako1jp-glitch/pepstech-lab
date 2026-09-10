@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-10T20:24:11+09:00",
+ "generated_at": "2026-09-11T01:27:06+09:00",
  "items": [
+  {
+   "tag": "WIKI",
+   "title": "横浜情報文化センター",
+   "body": "横浜情報文化センター（よこはまじょうほうぶんかセンター）は、日本新聞博物館と放送ライブラリーを中核として、多目的ホールやオフィススペースを備えた複合施設である。オフィススペースには情…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E6%A8%AA%E6%B5%9C%E6%83%85%E5%A0%B1%E6%96%87%E5%8C%96%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC"
+  },
+  {
+   "tag": "HN",
+   "title": "Growing proof that autonomous cars save lives",
+   "body": "420ポイント / コメント740件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49629886"
+  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "雨。最高20.4℃ / 最低18.0℃。いまは18.9℃。",
+   "body": "強い雨。最高19.6℃ / 最低18.6℃。いまは18.8℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Training a 3.8B LLM to 0.384 CORE for $998",
-   "body": "87ポイント / コメント13件。",
+   "title": "Rust Is Tier-1 Language at Microsoft",
+   "body": "243ポイント / コメント114件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49637435"
+   "url": "https://news.ycombinator.com/item?id=49643546"
   },
   {
    "tag": "WIKI",
-   "title": "ジョヴァンニ・ストロッパ",
-   "body": "ジョヴァンニ・ストロッパ は、イタリア・ムラッツァーノ出身の元サッカー選手で指導者。現役時代は優れたテクニックを有し、攻撃的MFや左右の中盤、フォワードとしてもプレーした。",
+   "title": "予備自衛官",
+   "body": "予備自衛官 は、自衛隊（陸上・海上・航空）が予備要員として任用している非常勤の自衛官のことおよびその官名である。非常勤特別職国家公務員として、有事・訓練等の際に招集され、自衛隊におけ…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%B4%E3%82%A1%E3%83%B3%E3%83%8B%E3%83%BB%E3%82%B9%E3%83%88%E3%83%AD%E3%83%83%E3%83%91"
+   "url": "https://ja.wikipedia.org/wiki/%E4%BA%88%E5%82%99%E8%87%AA%E8%A1%9B%E5%AE%98"
   },
   {
    "tag": "HN",
-   "title": "Object storage is all you need",
-   "body": "5ポイント / コメント0件。",
+   "title": "Discrete Dipole Approximation Code Ddscat 7.2 (2012)",
+   "body": "8ポイント / コメント1件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49618450"
-  },
-  {
-   "tag": "WIKI",
-   "title": "上野尻駅",
-   "body": "上野尻駅（かみのじりえき）は、福島県耶麻郡西会津町上野尻にある、東日本旅客鉄道（JR東日本）磐越西線の駅である。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E4%B8%8A%E9%87%8E%E5%B0%BB%E9%A7%85"
-  },
-  {
-   "tag": "HN",
-   "title": "Apple Watch Series 12",
-   "body": "260ポイント / コメント324件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49630566"
+   "url": "https://news.ycombinator.com/item?id=49580005"
   }
  ]
 }
