@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-10T10:06:33+09:00",
+ "generated_at": "2026-09-10T15:00:19+09:00",
  "items": [
   {
    "tag": "WIKI",
-   "title": "千葉県庁",
-   "body": "千葉県庁（ちばけんちょう）は、地方公共団体である千葉県の行政機関。",
+   "title": "小城発着所",
+   "body": "小城発着所（おぎはっちゃくじょ）は、佐賀県小城市小城町北小路にある昭和自動車のバスターミナルである。小城バスセンター（おぎバスセンター）の呼称も用いられる。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%8D%83%E8%91%89%E7%9C%8C%E5%BA%81"
+   "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%9F%8E%E7%99%BA%E7%9D%80%E6%89%80"
   },
   {
    "tag": "HN",
-   "title": "Use Vsock with Libzmq",
-   "body": "24ポイント / コメント2件。",
+   "title": "AirPods 5",
+   "body": "425ポイント / コメント333件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49602615"
+   "url": "https://news.ycombinator.com/item?id=49630253"
   },
   {
    "tag": "HN",
-   "title": "Shopify acquires Tailwind",
-   "body": "877ポイント / コメント349件。",
+   "title": "Blizzard Workers Win Historic Union Contract",
+   "body": "166ポイント / コメント54件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49626190"
-  },
-  {
-   "tag": "HN",
-   "title": "Ancient cave art suggests first known humans in Ireland walked over f…",
-   "body": "46ポイント / コメント9件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49600569"
+   "url": "https://news.ycombinator.com/item?id=49635384"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "小雨。最高20.5℃ / 最低18.0℃。いまは19.8℃。",
+   "body": "小雨。最高20.4℃ / 最低18.0℃。いまは20.4℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "WIKI",
-   "title": "宮崎駅東",
-   "body": "宮崎駅東（みやざきえきひがし）とは、宮崎県宮崎市内の地名。郵便番号は880-0879。2023年現在、宮崎駅東1丁目-3丁目が設置されるが、住居表示実施地域ではない。",
+   "title": "漆山駅 (岐阜県)",
+   "body": "漆山駅（うるしやまえき）は、岐阜県飛騨市神岡町西漆山にあった神岡鉄道神岡線の駅。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%AE%AE%E5%B4%8E%E9%A7%85%E6%9D%B1"
+   "url": "https://ja.wikipedia.org/wiki/%E6%BC%86%E5%B1%B1%E9%A7%85_(%E5%B2%90%E9%98%9C%E7%9C%8C)"
+  },
+  {
+   "tag": "HN",
+   "title": "GNU Radio in the browser",
+   "body": "191ポイント / コメント24件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49628576"
   }
  ]
 }
