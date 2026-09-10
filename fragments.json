@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-10T15:00:19+09:00",
+ "generated_at": "2026-09-10T20:24:11+09:00",
  "items": [
-  {
-   "tag": "WIKI",
-   "title": "小城発着所",
-   "body": "小城発着所（おぎはっちゃくじょ）は、佐賀県小城市小城町北小路にある昭和自動車のバスターミナルである。小城バスセンター（おぎバスセンター）の呼称も用いられる。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%9F%8E%E7%99%BA%E7%9D%80%E6%89%80"
-  },
-  {
-   "tag": "HN",
-   "title": "AirPods 5",
-   "body": "425ポイント / コメント333件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49630253"
-  },
-  {
-   "tag": "HN",
-   "title": "Blizzard Workers Win Historic Union Contract",
-   "body": "166ポイント / コメント54件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49635384"
-  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "小雨。最高20.4℃ / 最低18.0℃。いまは20.4℃。",
+   "body": "雨。最高20.4℃ / 最低18.0℃。いまは18.9℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
+   "tag": "HN",
+   "title": "Training a 3.8B LLM to 0.384 CORE for $998",
+   "body": "87ポイント / コメント13件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49637435"
+  },
+  {
    "tag": "WIKI",
-   "title": "漆山駅 (岐阜県)",
-   "body": "漆山駅（うるしやまえき）は、岐阜県飛騨市神岡町西漆山にあった神岡鉄道神岡線の駅。",
+   "title": "ジョヴァンニ・ストロッパ",
+   "body": "ジョヴァンニ・ストロッパ は、イタリア・ムラッツァーノ出身の元サッカー選手で指導者。現役時代は優れたテクニックを有し、攻撃的MFや左右の中盤、フォワードとしてもプレーした。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%BC%86%E5%B1%B1%E9%A7%85_(%E5%B2%90%E9%98%9C%E7%9C%8C)"
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%B4%E3%82%A1%E3%83%B3%E3%83%8B%E3%83%BB%E3%82%B9%E3%83%88%E3%83%AD%E3%83%83%E3%83%91"
   },
   {
    "tag": "HN",
-   "title": "GNU Radio in the browser",
-   "body": "191ポイント / コメント24件。",
+   "title": "Object storage is all you need",
+   "body": "5ポイント / コメント0件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49628576"
+   "url": "https://news.ycombinator.com/item?id=49618450"
+  },
+  {
+   "tag": "WIKI",
+   "title": "上野尻駅",
+   "body": "上野尻駅（かみのじりえき）は、福島県耶麻郡西会津町上野尻にある、東日本旅客鉄道（JR東日本）磐越西線の駅である。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E4%B8%8A%E9%87%8E%E5%B0%BB%E9%A7%85"
+  },
+  {
+   "tag": "HN",
+   "title": "Apple Watch Series 12",
+   "body": "260ポイント / コメント324件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49630566"
   }
  ]
 }
