@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-11T15:02:50+09:00",
+ "generated_at": "2026-09-11T20:26:15+09:00",
  "items": [
-  {
-   "tag": "WIKI",
-   "title": "稲荷町 (川越市)",
-   "body": "稲荷町（いなりちょう）は、埼玉県川越市の町名。現行行政地名は稲荷町のみ。丁番を持たない単独町名である。住居表示未実施地区。郵便番号は350-1144。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E7%A8%B2%E8%8D%B7%E7%94%BA_(%E5%B7%9D%E8%B6%8A%E5%B8%82)"
-  },
-  {
-   "tag": "HN",
-   "title": "JEP 544: Ahead-of-Time Code Compilation",
-   "body": "86ポイント / コメント30件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49647404"
-  },
-  {
-   "tag": "HN",
-   "title": "Douglas Hofstadter: Analogy as the Core of Cognition [video]",
-   "body": "164ポイント / コメント76件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49587121"
-  },
-  {
-   "tag": "HN",
-   "title": "Rust is tier-1 language at Microsoft",
-   "body": "641ポイント / コメント370件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49643546"
-  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "雨。最高19.7℃ / 最低18.6℃。いまは19.5℃。",
+   "body": "雨。最高20.0℃ / 最低18.6℃。いまは19.6℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
+   "tag": "HN",
+   "title": "Rust is tier-1 language at Microsoft",
+   "body": "687ポイント / コメント439件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49643546"
+  },
+  {
    "tag": "WIKI",
-   "title": "エチオピア軍事史",
-   "body": "エチオピア軍事史（エチオピアぐんじし）は、紀元前980年のエチオピア王国初期の成立時にまで遡る。エチオピアは、アフリカの角で多くの主要な紛争に関与しており、アフリカ分割の際に独立を維…",
+   "title": "神の御子は今宵しも",
+   "body": "神の御子は今宵しも は、イングランド人のジョン・フランシス・ウェードの作曲とされる讃美歌である。しかし、はっきりした作曲者はわかっておらず、今も論争が続いている。歌詞も、誰の手になる…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%81%E3%82%AA%E3%83%94%E3%82%A2%E8%BB%8D%E4%BA%8B%E5%8F%B2"
+   "url": "https://ja.wikipedia.org/wiki/%E7%A5%9E%E3%81%AE%E5%BE%A1%E5%AD%90%E3%81%AF%E4%BB%8A%E5%AE%B5%E3%81%97%E3%82%82"
+  },
+  {
+   "tag": "HN",
+   "title": "Nine coding harnesses vs. your laptop",
+   "body": "114ポイント / コメント36件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49651221"
+  },
+  {
+   "tag": "WIKI",
+   "title": "エマニュエル・ド・グルーシー",
+   "body": "第2代グルーシー侯爵エマニュエル・ド・グルーシー は、フランス革命戦争・ナポレオン戦争期の軍人。帝国元帥。ナポレオン1世が任命した26人の元帥のうち最後に任命された一人で、それも18…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A8%E3%83%AB%E3%83%BB%E3%83%89%E3%83%BB%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%B7%E3%83%BC"
+  },
+  {
+   "tag": "HN",
+   "title": "Shopify is moving from React Native back to Swift and Kotlin",
+   "body": "1091ポイント / コメント789件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49643982"
   }
  ]
 }
