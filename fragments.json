@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-11T20:26:15+09:00",
+ "generated_at": "2026-09-12T01:31:37+09:00",
  "items": [
+  {
+   "tag": "WIKI",
+   "title": "清洲飛行場",
+   "body": "清洲飛行場 は、かつて愛知県海部郡甚目寺町（現・あま市）と西春日井郡清洲町（現・清須市）にまたがる地区に存在した大日本帝国陸軍の飛行場である。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E6%B8%85%E6%B4%B2%E9%A3%9B%E8%A1%8C%E5%A0%B4"
+  },
+  {
+   "tag": "HN",
+   "title": "RISC-V Emulator and Linux System from Scratch",
+   "body": "35ポイント / コメント2件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49603397"
+  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "雨。最高20.0℃ / 最低18.6℃。いまは19.6℃。",
+   "body": "小雨。最高24.7℃ / 最低19.2℃。いまは19.2℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "HN",
-   "title": "Rust is tier-1 language at Microsoft",
-   "body": "687ポイント / コメント439件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49643546"
-  },
-  {
    "tag": "WIKI",
-   "title": "神の御子は今宵しも",
-   "body": "神の御子は今宵しも は、イングランド人のジョン・フランシス・ウェードの作曲とされる讃美歌である。しかし、はっきりした作曲者はわかっておらず、今も論争が続いている。歌詞も、誰の手になる…",
+   "title": "清水第八プレアデス",
+   "body": "清水第八スポーツクラブ（しみずだいはちスポーツクラブ）は静岡県静岡市（旧・清水市）を本拠地とするサッカークラブであるが、 一般には2010年まで日本女子サッカーリーグに所属していた女…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E7%A5%9E%E3%81%AE%E5%BE%A1%E5%AD%90%E3%81%AF%E4%BB%8A%E5%AE%B5%E3%81%97%E3%82%82"
+   "url": "https://ja.wikipedia.org/wiki/%E6%B8%85%E6%B0%B4%E7%AC%AC%E5%85%AB%E3%83%97%E3%83%AC%E3%82%A2%E3%83%87%E3%82%B9"
   },
   {
    "tag": "HN",
-   "title": "Nine coding harnesses vs. your laptop",
-   "body": "114ポイント / コメント36件。",
+   "title": "Matt Mullenweg tells Automattic staff in Slack he's back in control a…",
+   "body": "61ポイント / コメント29件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49651221"
-  },
-  {
-   "tag": "WIKI",
-   "title": "エマニュエル・ド・グルーシー",
-   "body": "第2代グルーシー侯爵エマニュエル・ド・グルーシー は、フランス革命戦争・ナポレオン戦争期の軍人。帝国元帥。ナポレオン1世が任命した26人の元帥のうち最後に任命された一人で、それも18…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A8%E3%83%AB%E3%83%BB%E3%83%89%E3%83%BB%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%B7%E3%83%BC"
+   "url": "https://news.ycombinator.com/item?id=49660104"
   },
   {
    "tag": "HN",
-   "title": "Shopify is moving from React Native back to Swift and Kotlin",
-   "body": "1091ポイント / コメント789件。",
+   "title": "Hacker News with reduced priority for AI driven content",
+   "body": "37ポイント / コメント20件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49643982"
+   "url": "https://news.ycombinator.com/item?id=49660482"
   }
  ]
 }
