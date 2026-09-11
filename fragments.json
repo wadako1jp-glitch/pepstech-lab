@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-12T04:45:10+09:00",
+ "generated_at": "2026-09-12T07:37:23+09:00",
  "items": [
   {
    "tag": "HN",
-   "title": "118M Queries per Second on Neki",
-   "body": "64ポイント / コメント31件。",
+   "title": "I've operated petabyte-scale ClickHouse clusters for 5 years",
+   "body": "161ポイント / コメント59件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49660555"
-  },
-  {
-   "tag": "WIKI",
-   "title": "柳澤光美",
-   "body": "柳澤 光美 は、日本の政治家。元参議院議員（2期）。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%9F%B3%E6%BE%A4%E5%85%89%E7%BE%8E"
-  },
-  {
-   "tag": "HN",
-   "title": "Logo Programming Language",
-   "body": "172ポイント / コメント79件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49622406"
+   "url": "https://news.ycombinator.com/item?id=49601138"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "雨。最高24.3℃ / 最低19.7℃。いまは19.8℃。",
+   "body": "雨。最高24.3℃ / 最低19.7℃。いまは20.3℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
+   "tag": "WIKI",
+   "title": "祖国復帰運動",
+   "body": "祖国復帰運動（そこくふっきうんどう）は、第二次世界大戦（太平洋戦争）の沖縄戦後、アメリカ合衆国の施政権下に置かれた沖縄において、祖国たる日本への復帰を求めて展開された社会運動。197…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E7%A5%96%E5%9B%BD%E5%BE%A9%E5%B8%B0%E9%81%8B%E5%8B%95"
+  },
+  {
    "tag": "HN",
-   "title": "Global Glacier Extinction Explorer",
-   "body": "126ポイント / コメント47件。",
+   "title": "118M Queries per Second on Neki",
+   "body": "82ポイント / コメント38件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49660576"
+   "url": "https://news.ycombinator.com/item?id=49660555"
+  },
+  {
+   "tag": "HN",
+   "title": "The EPA is planning to scrap public review rules for data center poll…",
+   "body": "265ポイント / コメント178件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49662672"
   },
   {
    "tag": "WIKI",
-   "title": "劉雲山",
-   "body": "劉 雲山 は、中華人民共和国の政治家。第18期中国共産党中央政治局常務委員（序列は7人中5位）、中国共産党中央書記処常務書記、中国共産党中央精神文明建設指導委員会主任、中国共産党中央…",
+   "title": "本町 (蟹江町)",
+   "body": "本町（ほんまち）は、愛知県海部郡蟹江町の地名。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%8A%89%E9%9B%B2%E5%B1%B1"
+   "url": "https://ja.wikipedia.org/wiki/%E6%9C%AC%E7%94%BA_(%E8%9F%B9%E6%B1%9F%E7%94%BA)"
   }
  ]
 }
