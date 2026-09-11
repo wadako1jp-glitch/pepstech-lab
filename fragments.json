@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-11T10:08:27+09:00",
+ "generated_at": "2026-09-11T15:02:50+09:00",
  "items": [
   {
+   "tag": "WIKI",
+   "title": "稲荷町 (川越市)",
+   "body": "稲荷町（いなりちょう）は、埼玉県川越市の町名。現行行政地名は稲荷町のみ。丁番を持たない単独町名である。住居表示未実施地区。郵便番号は350-1144。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E7%A8%B2%E8%8D%B7%E7%94%BA_(%E5%B7%9D%E8%B6%8A%E5%B8%82)"
+  },
+  {
    "tag": "HN",
-   "title": "The Deathray: A simple way for an untrusted site to freeze a Mac",
-   "body": "74ポイント / コメント48件。",
+   "title": "JEP 544: Ahead-of-Time Code Compilation",
+   "body": "86ポイント / コメント30件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49649124"
+   "url": "https://news.ycombinator.com/item?id=49647404"
+  },
+  {
+   "tag": "HN",
+   "title": "Douglas Hofstadter: Analogy as the Core of Cognition [video]",
+   "body": "164ポイント / コメント76件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49587121"
+  },
+  {
+   "tag": "HN",
+   "title": "Rust is tier-1 language at Microsoft",
+   "body": "641ポイント / コメント370件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49643546"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "雨。最高20.3℃ / 最低18.6℃。いまは19.4℃。",
+   "body": "雨。最高19.7℃ / 最低18.6℃。いまは19.5℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "HN",
-   "title": "Recursion into madness",
-   "body": "34ポイント / コメント7件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49603335"
-  },
-  {
-   "tag": "HN",
-   "title": "Proof of Capture: Apple Reference Image, but open source and using st…",
-   "body": "64ポイント / コメント47件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49649222"
-  },
-  {
    "tag": "WIKI",
-   "title": "水戸市立第四中学校",
-   "body": "水戸市立第四中学校 は、茨城県水戸市元吉田町にある市立の中学校。1958年（昭和33年）4月1日に、水戸市立吉田中学校と水戸市立酒門中学校を統合して開校した。",
+   "title": "エチオピア軍事史",
+   "body": "エチオピア軍事史（エチオピアぐんじし）は、紀元前980年のエチオピア王国初期の成立時にまで遡る。エチオピアは、アフリカの角で多くの主要な紛争に関与しており、アフリカ分割の際に独立を維…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%B0%B4%E6%88%B8%E5%B8%82%E7%AB%8B%E7%AC%AC%E5%9B%9B%E4%B8%AD%E5%AD%A6%E6%A0%A1"
-  },
-  {
-   "tag": "WIKI",
-   "title": "フンド島",
-   "body": "フンド島 はタンザニア領のザンジバル諸島に属する島。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%B3%E3%83%89%E5%B3%B6"
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%81%E3%82%AA%E3%83%94%E3%82%A2%E8%BB%8D%E4%BA%8B%E5%8F%B2"
   }
  ]
 }
