@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-11T07:37:00+09:00",
+ "generated_at": "2026-09-11T10:08:27+09:00",
  "items": [
   {
-   "tag": "WIKI",
-   "title": "桶川加納インターチェンジ",
-   "body": "桶川加納インターチェンジ（おけがわかのうインターチェンジ）は、埼玉県桶川市加納にある首都圏中央連絡自動車道（圏央道）のインターチェンジである。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%A1%B6%E5%B7%9D%E5%8A%A0%E7%B4%8D%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%81%E3%82%A7%E3%83%B3%E3%82%B8"
-  },
-  {
-   "tag": "WIKI",
-   "title": "蛇田",
-   "body": "蛇田（へびた）は、宮城県石巻市にある大字および地区名（後述）。旧牡鹿郡蛇田村の一部に相当する。郵便番号は986-0861。住民基本台帳に基づく人口は9,619人、世帯数は4,670世…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E8%9B%87%E7%94%B0"
-  },
-  {
    "tag": "HN",
-   "title": "NASA Color Trick Was Meant for Mars. Now It's Unveiling Rock Art on E…",
-   "body": "232ポイント / コメント36件。",
+   "title": "The Deathray: A simple way for an untrusted site to freeze a Mac",
+   "body": "74ポイント / コメント48件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49645437"
+   "url": "https://news.ycombinator.com/item?id=49649124"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "雨。最高20.4℃ / 最低18.7℃。いまは18.8℃。",
+   "body": "雨。最高20.3℃ / 最低18.6℃。いまは19.4℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Rust is tier-1 language at Microsoft",
-   "body": "565ポイント / コメント305件。",
+   "title": "Recursion into madness",
+   "body": "34ポイント / コメント7件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49643546"
+   "url": "https://news.ycombinator.com/item?id=49603335"
   },
   {
    "tag": "HN",
-   "title": "Show HN: Vertumnus – printable posters of farmers' market produce sea…",
-   "body": "15ポイント / コメント5件。",
+   "title": "Proof of Capture: Apple Reference Image, but open source and using st…",
+   "body": "64ポイント / コメント47件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49604581"
+   "url": "https://news.ycombinator.com/item?id=49649222"
+  },
+  {
+   "tag": "WIKI",
+   "title": "水戸市立第四中学校",
+   "body": "水戸市立第四中学校 は、茨城県水戸市元吉田町にある市立の中学校。1958年（昭和33年）4月1日に、水戸市立吉田中学校と水戸市立酒門中学校を統合して開校した。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E6%B0%B4%E6%88%B8%E5%B8%82%E7%AB%8B%E7%AC%AC%E5%9B%9B%E4%B8%AD%E5%AD%A6%E6%A0%A1"
+  },
+  {
+   "tag": "WIKI",
+   "title": "フンド島",
+   "body": "フンド島 はタンザニア領のザンジバル諸島に属する島。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%B3%E3%83%89%E5%B3%B6"
   }
  ]
 }
