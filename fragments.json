@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-12T14:50:47+09:00",
+ "generated_at": "2026-09-12T19:51:24+09:00",
  "items": [
   {
    "tag": "WIKI",
-   "title": "サント・ドミンゴ (エクアドル)",
-   "body": "サント・ドミンゴ は、エクアドル北西部のサント・ドミンゴ・デ・ロス・ツァチラス県の県都。 2010年の人口は27万875人で、同国4位。",
+   "title": "共産主義国家",
+   "body": "共産主義国家 、あるいはマルクス・レーニン主義国家 は、共産主義のイデオロギーの一派であるマルクス・レーニン主義に基づく政党が、国家権力の全体を掌握する一党制国家である。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%88%E3%83%BB%E3%83%89%E3%83%9F%E3%83%B3%E3%82%B4_(%E3%82%A8%E3%82%AF%E3%82%A2%E3%83%89%E3%83%AB)"
+   "url": "https://ja.wikipedia.org/wiki/%E5%85%B1%E7%94%A3%E4%B8%BB%E7%BE%A9%E5%9B%BD%E5%AE%B6"
+  },
+  {
+   "tag": "WIKI",
+   "title": "VHS",
+   "body": "VHS は、日本ビクター が1976年（昭和51年）に開発した家庭用ビデオ規格で、同社の登録商標（日本第1399409号ほか）である。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/VHS"
   },
   {
    "tag": "HN",
-   "title": "AI researchers debate how close we are to recursive self-improvement",
-   "body": "85ポイント / コメント71件。",
+   "title": "Google will buy half the electricity from one of Finland's nuclear po…",
+   "body": "366ポイント / コメント330件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49665711"
-  },
-  {
-   "tag": "HN",
-   "title": "Great Lakes sturgeon may be 400 years old:Scientists rethinking how t…",
-   "body": "35ポイント / コメント2件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49624456"
+   "url": "https://news.ycombinator.com/item?id=49652105"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "雨。最高25.0℃ / 最低19.7℃。いまは25.0℃。",
+   "body": "雨。最高25.2℃ / 最低19.7℃。いまは23.8℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Claude is only available to people over 18 years",
-   "body": "614ポイント / コメント620件。",
+   "title": "Detailed report on the use of solar geoengineering",
+   "body": "13ポイント / コメント3件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49656225"
+   "url": "https://news.ycombinator.com/item?id=49646113"
   },
   {
-   "tag": "WIKI",
-   "title": "富山地方鉄道上滝線",
-   "body": "上滝線（かみだきせん）は、富山県富山市の南富山駅と中新川郡立山町の岩峅寺駅を結ぶ富山地方鉄道の鉄道路線である。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%AF%8C%E5%B1%B1%E5%9C%B0%E6%96%B9%E9%89%84%E9%81%93%E4%B8%8A%E6%BB%9D%E7%B7%9A"
+   "tag": "HN",
+   "title": "GrapheneOS' rewritten Messages app is released",
+   "body": "280ポイント / コメント205件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49663373"
   }
  ]
 }
