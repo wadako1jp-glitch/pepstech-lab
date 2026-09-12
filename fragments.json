@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-12T19:51:24+09:00",
+ "generated_at": "2026-09-12T23:10:35+09:00",
  "items": [
-  {
-   "tag": "WIKI",
-   "title": "共産主義国家",
-   "body": "共産主義国家 、あるいはマルクス・レーニン主義国家 は、共産主義のイデオロギーの一派であるマルクス・レーニン主義に基づく政党が、国家権力の全体を掌握する一党制国家である。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%85%B1%E7%94%A3%E4%B8%BB%E7%BE%A9%E5%9B%BD%E5%AE%B6"
-  },
-  {
-   "tag": "WIKI",
-   "title": "VHS",
-   "body": "VHS は、日本ビクター が1976年（昭和51年）に開発した家庭用ビデオ規格で、同社の登録商標（日本第1399409号ほか）である。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/VHS"
-  },
-  {
-   "tag": "HN",
-   "title": "Google will buy half the electricity from one of Finland's nuclear po…",
-   "body": "366ポイント / コメント330件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49652105"
-  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "雨。最高25.2℃ / 最低19.7℃。いまは23.8℃。",
+   "body": "雨。最高24.8℃ / 最低19.7℃。いまは22.0℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "HN",
-   "title": "Detailed report on the use of solar geoengineering",
-   "body": "13ポイント / コメント3件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49646113"
+   "tag": "WIKI",
+   "title": "ロスチスラフ・ミハイロヴィチ",
+   "body": "ロスチスラフ・ミハイロヴィチ は、チェルニゴフ公ミハイルとオリョーナ（もしくはマリヤ。ガーリチ・ヴォルィーニ公ロマンの娘）との間の子である。ノヴゴロド公：1230年、ガーリチ公：12…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B9%E3%83%81%E3%82%B9%E3%83%A9%E3%83%95%E3%83%BB%E3%83%9F%E3%83%8F%E3%82%A4%E3%83%AD%E3%83%B4%E3%82%A3%E3%83%81"
   },
   {
    "tag": "HN",
-   "title": "GrapheneOS' rewritten Messages app is released",
-   "body": "280ポイント / コメント205件。",
+   "title": "A misalignment of AI in mathematics",
+   "body": "1051ポイント / コメント1012件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49663373"
+   "url": "https://news.ycombinator.com/item?id=49662371"
+  },
+  {
+   "tag": "HN",
+   "title": "Finding Slow Code with Wrapture",
+   "body": "9ポイント / コメント3件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49640729"
+  },
+  {
+   "tag": "HN",
+   "title": "IKEA made a mod for Skyrim [video]",
+   "body": "331ポイント / コメント73件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49639647"
+  },
+  {
+   "tag": "WIKI",
+   "title": "パウル・グルダ",
+   "body": "パウル・グルダ は、オーストリアのピアニスト・作曲家・指揮者。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%A6%E3%83%AB%E3%83%BB%E3%82%B0%E3%83%AB%E3%83%80"
   }
  ]
 }
