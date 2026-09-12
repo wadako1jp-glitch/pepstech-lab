@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-12T23:10:35+09:00",
+ "generated_at": "2026-09-13T02:13:12+09:00",
  "items": [
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "雨。最高24.8℃ / 最低19.7℃。いまは22.0℃。",
+   "body": "霧雨。最高26.5℃ / 最低20.8℃。いまは21.2℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "WIKI",
-   "title": "ロスチスラフ・ミハイロヴィチ",
-   "body": "ロスチスラフ・ミハイロヴィチ は、チェルニゴフ公ミハイルとオリョーナ（もしくはマリヤ。ガーリチ・ヴォルィーニ公ロマンの娘）との間の子である。ノヴゴロド公：1230年、ガーリチ公：12…",
+   "title": "宇佐美勝夫",
+   "body": "宇佐美 勝夫 は、日本の内務官僚、政治家。幼名は慎平。富山県知事、東京府知事、貴族院議員などを歴任した。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B9%E3%83%81%E3%82%B9%E3%83%A9%E3%83%95%E3%83%BB%E3%83%9F%E3%83%8F%E3%82%A4%E3%83%AD%E3%83%B4%E3%82%A3%E3%83%81"
+   "url": "https://ja.wikipedia.org/wiki/%E5%AE%87%E4%BD%90%E7%BE%8E%E5%8B%9D%E5%A4%AB"
   },
   {
    "tag": "HN",
-   "title": "A misalignment of AI in mathematics",
-   "body": "1051ポイント / コメント1012件。",
+   "title": "Reconstructing Concurrency Invariants Through Medieval East Asian Log…",
+   "body": "5ポイント / コメント2件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49662371"
+   "url": "https://news.ycombinator.com/item?id=49653509"
   },
   {
-   "tag": "HN",
-   "title": "Finding Slow Code with Wrapture",
-   "body": "9ポイント / コメント3件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49640729"
+   "tag": "WIKI",
+   "title": "錫杖寺",
+   "body": "錫杖寺（しゃくじょうじ）は、埼玉県川口市にある真言宗智山派の寺院。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E9%8C%AB%E6%9D%96%E5%AF%BA"
   },
   {
    "tag": "HN",
    "title": "IKEA made a mod for Skyrim [video]",
-   "body": "331ポイント / コメント73件。",
+   "body": "436ポイント / コメント105件。",
    "src": "news.ycombinator.com",
    "url": "https://news.ycombinator.com/item?id=49639647"
   },
   {
-   "tag": "WIKI",
-   "title": "パウル・グルダ",
-   "body": "パウル・グルダ は、オーストリアのピアニスト・作曲家・指揮者。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%A6%E3%83%AB%E3%83%BB%E3%82%B0%E3%83%AB%E3%83%80"
+   "tag": "HN",
+   "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction",
+   "body": "17ポイント / コメント2件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49673580"
   }
  ]
 }
