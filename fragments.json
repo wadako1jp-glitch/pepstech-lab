@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-13T02:13:12+09:00",
+ "generated_at": "2026-09-13T04:25:09+09:00",
  "items": [
   {
-   "tag": "天気",
-   "title": "東京 きょう",
-   "body": "霧雨。最高26.5℃ / 最低20.8℃。いまは21.2℃。",
-   "src": "open-meteo.com",
-   "url": "https://open-meteo.com/"
-  },
-  {
    "tag": "WIKI",
-   "title": "宇佐美勝夫",
-   "body": "宇佐美 勝夫 は、日本の内務官僚、政治家。幼名は慎平。富山県知事、東京府知事、貴族院議員などを歴任した。",
+   "title": "奥多摩町立古里小学校",
+   "body": "奥多摩町立古里小学校 は、東京都西多摩郡奥多摩町にある公立（町立）の小学校である。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%AE%87%E4%BD%90%E7%BE%8E%E5%8B%9D%E5%A4%AB"
+   "url": "https://ja.wikipedia.org/wiki/%E5%A5%A5%E5%A4%9A%E6%91%A9%E7%94%BA%E7%AB%8B%E5%8F%A4%E9%87%8C%E5%B0%8F%E5%AD%A6%E6%A0%A1"
   },
   {
    "tag": "HN",
    "title": "Reconstructing Concurrency Invariants Through Medieval East Asian Log…",
-   "body": "5ポイント / コメント2件。",
+   "body": "13ポイント / コメント3件。",
    "src": "news.ycombinator.com",
    "url": "https://news.ycombinator.com/item?id=49653509"
   },
   {
+   "tag": "HN",
+   "title": "LG denies TV spying claims, says tracking and snooping concerns 'not …",
+   "body": "170ポイント / コメント179件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49645480"
+  },
+  {
    "tag": "WIKI",
-   "title": "錫杖寺",
-   "body": "錫杖寺（しゃくじょうじ）は、埼玉県川口市にある真言宗智山派の寺院。",
+   "title": "ガルシニア",
+   "body": "ガルシニアフクギ科（旧分類ではオトギリソウ科）フクギ属のラテン名 Garcinia 上記のフクギ属のガルシニアカンボジア。この植物の別名としてインディアンデイト、ゴラカ、タマリンド等…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E9%8C%AB%E6%9D%96%E5%AF%BA"
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%AB%E3%82%B7%E3%83%8B%E3%82%A2"
+  },
+  {
+   "tag": "天気",
+   "title": "東京 きょう",
+   "body": "曇り。最高26.2℃ / 最低20.9℃。いまは21.0℃。",
+   "src": "open-meteo.com",
+   "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "IKEA made a mod for Skyrim [video]",
-   "body": "436ポイント / コメント105件。",
+   "title": "The worst spam emails: iLands AI agent hustle",
+   "body": "84ポイント / コメント42件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49639647"
-  },
-  {
-   "tag": "HN",
-   "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction",
-   "body": "17ポイント / コメント2件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49673580"
+   "url": "https://news.ycombinator.com/item?id=49671159"
   }
  ]
 }
