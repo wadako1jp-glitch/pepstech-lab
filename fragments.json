@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-13T10:03:11+09:00",
+ "generated_at": "2026-09-13T15:13:52+09:00",
  "items": [
   {
    "tag": "HN",
-   "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction",
-   "body": "88ポイント / コメント24件。",
+   "title": "I made a build visualizer to understand Bun's compile times",
+   "body": "114ポイント / コメント22件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49673580"
-  },
-  {
-   "tag": "HN",
-   "title": "Will There Be a 7G?",
-   "body": "81ポイント / コメント136件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49674498"
-  },
-  {
-   "tag": "WIKI",
-   "title": "上ノ原",
-   "body": "上ノ原（うえのはら）は、埼玉県ふじみ野市の町名。現行行政地名は上ノ原一丁目から三丁目。郵便番号は356-0021。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E4%B8%8A%E3%83%8E%E5%8E%9F"
-  },
-  {
-   "tag": "WIKI",
-   "title": "菅井信也",
-   "body": "菅井 信也 は、山形県南陽市出身のプロ野球選手（投手）。左投左打。埼玉西武ライオンズ所属。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E8%8F%85%E4%BA%95%E4%BF%A1%E4%B9%9F"
-  },
-  {
-   "tag": "HN",
-   "title": "LG Says We're Fake News [video]",
-   "body": "151ポイント / コメント55件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49676324"
+   "url": "https://news.ycombinator.com/item?id=49672842"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "曇り。最高26.5℃ / 最低20.9℃。いまは23.0℃。",
+   "body": "曇り。最高26.1℃ / 最低20.9℃。いまは26.1℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
+  },
+  {
+   "tag": "WIKI",
+   "title": "アレクシ・ブラン",
+   "body": "アレクシ・ブラン は、フランス・ル・マン出身のサッカー選手。セリエA・USレッチェ所属。ポジションはMF。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%BB%E3%83%96%E3%83%A9%E3%83%B3"
+  },
+  {
+   "tag": "HN",
+   "title": "Apple iPod Engraver (2019)",
+   "body": "181ポイント / コメント42件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49619848"
+  },
+  {
+   "tag": "HN",
+   "title": "Linux Zoom client proactively reading everything written to X11 clipb…",
+   "body": "251ポイント / コメント82件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49675902"
+  },
+  {
+   "tag": "WIKI",
+   "title": "哲学堂公園",
+   "body": "哲学堂公園（てつがくどうこうえん）は、東京都中野区にある中野区立の公園である。公園の南東部(面積の7%程度）は新宿区にある。2020年に国の名勝に指定された。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%93%B2%E5%AD%A6%E5%A0%82%E5%85%AC%E5%9C%92"
   }
  ]
 }
