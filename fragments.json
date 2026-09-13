@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-13T20:59:12+09:00",
+ "generated_at": "2026-09-14T01:21:55+09:00",
  "items": [
   {
-   "tag": "HN",
-   "title": "Revolut confirms customer data breach through fake government requests",
-   "body": "32ポイント / コメント18件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49682087"
-  },
-  {
    "tag": "WIKI",
-   "title": "餅",
-   "body": "餅（もち）、モチ、もちとは、もち米を加工して作る食品。丁寧語でお餅、おもちとも。",
+   "title": "舎熊神社",
+   "body": "舎熊神社（しゃくまじんじゃ）は、北海道増毛郡増毛町舎熊に所在する神社。旧社格は村社。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E9%A4%85"
+   "url": "https://ja.wikipedia.org/wiki/%E8%88%8E%E7%86%8A%E7%A5%9E%E7%A4%BE"
   },
   {
    "tag": "HN",
-   "title": "Reverse engineering my e-scooter and rewriting the firmware in Rust",
-   "body": "7ポイント / コメント1件。",
+   "title": "Homebrew 7.0.0",
+   "body": "361ポイント / コメント145件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49638071"
+   "url": "https://news.ycombinator.com/item?id=49681545"
   },
   {
-   "tag": "WIKI",
-   "title": "アルノルト・シェーンベルク",
-   "body": "アルノルト・フランツ・ヴァルター・シェーンベルク は、オーストリアの作曲家、指揮者、教育者。調性音楽を脱し無調に入り、「十二音技法」を創始したことで知られる。アメリカに帰化してから1…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%83%8E%E3%83%AB%E3%83%88%E3%83%BB%E3%82%B7%E3%82%A7%E3%83%BC%E3%83%B3%E3%83%99%E3%83%AB%E3%82%AF"
+   "tag": "HN",
+   "title": "I Added a Non-Wi-Fi Mitsubishi AC to Home Assistant",
+   "body": "134ポイント / コメント66件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49640913"
+  },
+  {
+   "tag": "HN",
+   "title": "Nvidia is the central bank of AI",
+   "body": "533ポイント / コメント382件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49673098"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "曇り。最高25.8℃ / 最低20.9℃。いまは23.0℃。",
+   "body": "薄曇り。最高31.1℃ / 最低23.2℃。いまは23.6℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "HN",
-   "title": "AgentsDock: An IDE designed for agentic AI research",
-   "body": "66ポイント / コメント29件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49678435"
+   "tag": "WIKI",
+   "title": "弘流",
+   "body": "弘流とは寛文年間に創始された剣術の一つである。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%BC%98%E6%B5%81"
   }
  ]
 }
