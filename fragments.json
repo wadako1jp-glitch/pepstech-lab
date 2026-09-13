@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-13T07:20:38+09:00",
+ "generated_at": "2026-09-13T10:03:11+09:00",
  "items": [
   {
-   "tag": "WIKI",
-   "title": "結城晴朝",
-   "body": "結城 晴朝 は、戦国時代から江戸時代初期にかけての武将・戦国大名。下総結城氏17代当主。下総国結城城城主。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E7%B5%90%E5%9F%8E%E6%99%B4%E6%9C%9D"
+   "tag": "HN",
+   "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction",
+   "body": "88ポイント / コメント24件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49673580"
   },
   {
    "tag": "HN",
-   "title": "A Mathematical Framework for Transformer Circuits (2021)",
-   "body": "70ポイント / コメント17件。",
+   "title": "Will There Be a 7G?",
+   "body": "81ポイント / コメント136件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49672365"
+   "url": "https://news.ycombinator.com/item?id=49674498"
   },
   {
    "tag": "WIKI",
-   "title": "オノール駅",
-   "body": "オノール駅 は、ロシア連邦サハリン州オノール村にあるロシア鉄道コルサコフ-ノグリキ線の駅である。",
+   "title": "上ノ原",
+   "body": "上ノ原（うえのはら）は、埼玉県ふじみ野市の町名。現行行政地名は上ノ原一丁目から三丁目。郵便番号は356-0021。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%8E%E3%83%BC%E3%83%AB%E9%A7%85"
+   "url": "https://ja.wikipedia.org/wiki/%E4%B8%8A%E3%83%8E%E5%8E%9F"
+  },
+  {
+   "tag": "WIKI",
+   "title": "菅井信也",
+   "body": "菅井 信也 は、山形県南陽市出身のプロ野球選手（投手）。左投左打。埼玉西武ライオンズ所属。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E8%8F%85%E4%BA%95%E4%BF%A1%E4%B9%9F"
+  },
+  {
+   "tag": "HN",
+   "title": "LG Says We're Fake News [video]",
+   "body": "151ポイント / コメント55件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49676324"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "曇り。最高26.2℃ / 最低20.9℃。いまは21.2℃。",
+   "body": "曇り。最高26.5℃ / 最低20.9℃。いまは23.0℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
-  },
-  {
-   "tag": "HN",
-   "title": "How we manage and engage with our horses shapes their personality",
-   "body": "32ポイント / コメント13件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49637381"
-  },
-  {
-   "tag": "HN",
-   "title": "Eating Fruit Skins",
-   "body": "64ポイント / コメント151件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49625108"
   }
  ]
 }
