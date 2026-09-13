@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-13T15:13:52+09:00",
+ "generated_at": "2026-09-13T20:59:12+09:00",
  "items": [
   {
    "tag": "HN",
-   "title": "I made a build visualizer to understand Bun's compile times",
-   "body": "114ポイント / コメント22件。",
+   "title": "Revolut confirms customer data breach through fake government requests",
+   "body": "32ポイント / コメント18件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49672842"
+   "url": "https://news.ycombinator.com/item?id=49682087"
+  },
+  {
+   "tag": "WIKI",
+   "title": "餅",
+   "body": "餅（もち）、モチ、もちとは、もち米を加工して作る食品。丁寧語でお餅、おもちとも。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E9%A4%85"
+  },
+  {
+   "tag": "HN",
+   "title": "Reverse engineering my e-scooter and rewriting the firmware in Rust",
+   "body": "7ポイント / コメント1件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49638071"
+  },
+  {
+   "tag": "WIKI",
+   "title": "アルノルト・シェーンベルク",
+   "body": "アルノルト・フランツ・ヴァルター・シェーンベルク は、オーストリアの作曲家、指揮者、教育者。調性音楽を脱し無調に入り、「十二音技法」を創始したことで知られる。アメリカに帰化してから1…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%83%8E%E3%83%AB%E3%83%88%E3%83%BB%E3%82%B7%E3%82%A7%E3%83%BC%E3%83%B3%E3%83%99%E3%83%AB%E3%82%AF"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "曇り。最高26.1℃ / 最低20.9℃。いまは26.1℃。",
+   "body": "曇り。最高25.8℃ / 最低20.9℃。いまは23.0℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "WIKI",
-   "title": "アレクシ・ブラン",
-   "body": "アレクシ・ブラン は、フランス・ル・マン出身のサッカー選手。セリエA・USレッチェ所属。ポジションはMF。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%BB%E3%83%96%E3%83%A9%E3%83%B3"
-  },
-  {
    "tag": "HN",
-   "title": "Apple iPod Engraver (2019)",
-   "body": "181ポイント / コメント42件。",
+   "title": "AgentsDock: An IDE designed for agentic AI research",
+   "body": "66ポイント / コメント29件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49619848"
-  },
-  {
-   "tag": "HN",
-   "title": "Linux Zoom client proactively reading everything written to X11 clipb…",
-   "body": "251ポイント / コメント82件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49675902"
-  },
-  {
-   "tag": "WIKI",
-   "title": "哲学堂公園",
-   "body": "哲学堂公園（てつがくどうこうえん）は、東京都中野区にある中野区立の公園である。公園の南東部(面積の7%程度）は新宿区にある。2020年に国の名勝に指定された。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%93%B2%E5%AD%A6%E5%A0%82%E5%85%AC%E5%9C%92"
+   "url": "https://news.ycombinator.com/item?id=49678435"
   }
  ]
 }
