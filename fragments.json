@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-15T04:24:31+09:00",
+ "generated_at": "2026-09-15T08:09:58+09:00",
  "items": [
   {
-   "tag": "HN",
-   "title": "An atlas of periodic solutions to the three-body problem",
-   "body": "276ポイント / コメント64件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49670852"
+   "tag": "WIKI",
+   "title": "ブルックヘイブン (ミシシッピ州)",
+   "body": "ブルックヘイブン は、アメリカ合衆国ミシシッピ州の都市。リンカーン郡の郡庁所在地である。人口は1万1674人（2020年）。州都ジャクソンの南西に位置している。1818年に町の設立者…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AB%E3%83%83%E3%82%AF%E3%83%98%E3%82%A4%E3%83%96%E3%83%B3_(%E3%83%9F%E3%82%B7%E3%82%B7%E3%83%83%E3%83%94%E5%B7%9E)"
   },
   {
    "tag": "WIKI",
-   "title": "カルバラー",
-   "body": "カルバラー (アラビア語: كربلاء; Karbalāʾ）は、イラク中部カルバラー県の都市で、イスラム教シーア派の聖地。カルバラとも表記され、ケルベラーあるいはケルベラとも表記さ…",
+   "title": "韓京国立大学校",
+   "body": "韓京国立大学校 は、大韓民国の京畿道安城市にある国立大学。略称は韓京大、HKNU。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AB%E3%83%90%E3%83%A9%E3%83%BC"
-  },
-  {
-   "tag": "WIKI",
-   "title": "ブリンツィオ",
-   "body": "ブリンツィオ は、イタリア共和国ロンバルディア州ヴァレーゼ県にある、人口約800人の基礎自治体（コムーネ）。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AA%E3%83%B3%E3%83%84%E3%82%A3%E3%82%AA"
+   "url": "https://ja.wikipedia.org/wiki/%E9%9F%93%E4%BA%AC%E5%9B%BD%E7%AB%8B%E5%A4%A7%E5%AD%A6%E6%A0%A1"
   },
   {
    "tag": "HN",
-   "title": "Distributed Systems Classics (2017)",
-   "body": "126ポイント / コメント26件。",
+   "title": "Compressing a Flag to 11 Bits",
+   "body": "24ポイント / コメント8件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49699158"
+   "url": "https://news.ycombinator.com/item?id=49673689"
   },
   {
    "tag": "HN",
-   "title": "A Beginning for Mathematics",
-   "body": "67ポイント / コメント15件。",
+   "title": "Show HN: Neobrutalism.dev – Just added Base UI support and added new …",
+   "body": "126ポイント / コメント57件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49698699"
+   "url": "https://news.ycombinator.com/item?id=49699159"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "強い雨。最高26.3℃ / 最低22.6℃。いまは23.9℃。",
+   "body": "雨。最高25.2℃ / 最低21.7℃。いまは23.6℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
+  },
+  {
+   "tag": "HN",
+   "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
+   "body": "3ポイント / コメント0件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49705442"
   }
  ]
 }
