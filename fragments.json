@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-14T10:09:30+09:00",
+ "generated_at": "2026-09-14T15:21:35+09:00",
  "items": [
   {
+   "tag": "HN",
+   "title": "“Chilling” warning or overreaction? AI bioweapons report divides expe…",
+   "body": "24ポイント / コメント10件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49690139"
+  },
+  {
+   "tag": "HN",
+   "title": "Writing a better reality: The case for optimistic sci-fi (2022)",
+   "body": "49ポイント / コメント24件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49690279"
+  },
+  {
    "tag": "WIKI",
-   "title": "長吉川辺",
-   "body": "長吉川辺（ながよしかわなべ）は、大阪府大阪市平野区にある町名。",
+   "title": "赤根智子",
+   "body": "赤根 智子 は、日本の検察官、裁判官。国際刑事裁判所裁判官、同所長（日本人として初めて同所長に就任した）。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E9%95%B7%E5%90%89%E5%B7%9D%E8%BE%BA"
-  },
-  {
-   "tag": "HN",
-   "title": "CUDA for AMD on Windows",
-   "body": "135ポイント / コメント68件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49684356"
-  },
-  {
-   "tag": "HN",
-   "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Fron…",
-   "body": "241ポイント / コメント184件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49685991"
+   "url": "https://ja.wikipedia.org/wiki/%E8%B5%A4%E6%A0%B9%E6%99%BA%E5%AD%90"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高30.8℃ / 最低23.2℃。いまは29.5℃。",
+   "body": "曇り。最高31.0℃ / 最低23.2℃。いまは29.9℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "HN",
-   "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, …",
-   "body": "349ポイント / コメント185件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49685253"
+   "tag": "WIKI",
+   "title": "SKM Park",
+   "body": "SKM Parkは台湾高雄市前鎮区にある大型ショッピングモールと鈴鹿サーキットパーク（鈴鹿賽道楽園）を含むアミューズメントパークが併設されたアウトレットモールで、2016年5月9日に…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/SKM_Park"
   },
   {
-   "tag": "WIKI",
-   "title": "ミヒャエル・メルツ",
-   "body": "ミヒャエル・メルツ は、オーストリア出身の同国代表サッカー選手。ポジションはミッドフィールダー。身長175cm、体重70kg。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%92%E3%83%A3%E3%82%A8%E3%83%AB%E3%83%BB%E3%83%A1%E3%83%AB%E3%83%84"
+   "tag": "HN",
+   "title": "Mullenweg has returned as CEO after attempted board ouster",
+   "body": "98ポイント / コメント151件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49688259"
   }
  ]
 }
