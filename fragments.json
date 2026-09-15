@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-15T16:47:59+09:00",
+ "generated_at": "2026-09-15T22:36:22+09:00",
  "items": [
   {
+   "tag": "WIKI",
+   "title": "藤村修",
+   "body": "藤村 修 は、日本の政治家。立憲民主党大阪府総支部連合会顧問。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E8%97%A4%E6%9D%91%E4%BF%AE"
+  },
+  {
    "tag": "HN",
-   "title": "Compressing a flag to 11 bits",
-   "body": "126ポイント / コメント53件。",
+   "title": "Alternatives to MinIO for single-node local S3",
+   "body": "103ポイント / コメント53件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49673689"
+   "url": "https://news.ycombinator.com/item?id=49709381"
   },
   {
    "tag": "WIKI",
-   "title": "ブルトン国家党",
-   "body": "ブルトン国家党またはブルトン国民党 は、1931年から1944年まで存在したブルトン（ブルターニュ）の政党。第二次世界大戦のフランス解放後にナチスへの協力（コラボラシオン）を理由とし…",
+   "title": "新潟交通佐渡",
+   "body": "新潟交通佐渡株式会社（にいがたこうつうさど）は、新潟県佐渡市に本社を置き、路線バス・貸切バス・タクシーの運行などを行うバス事業者。新潟交通の地域子会社にあたり、同社の連結子会社である。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AB%E3%83%88%E3%83%B3%E5%9B%BD%E5%AE%B6%E5%85%9A"
-  },
-  {
-   "tag": "WIKI",
-   "title": "愛知県立佐屋高等学校",
-   "body": "愛知県立佐屋高等学校（あいちけんりつさやこうとうがっこう）は、愛知県愛西市にある県立高等学校で、全日制農業系学科と家庭科系学科を併置する農業と家庭の職業高等学校である。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%84%9B%E7%9F%A5%E7%9C%8C%E7%AB%8B%E4%BD%90%E5%B1%8B%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1"
+   "url": "https://ja.wikipedia.org/wiki/%E6%96%B0%E6%BD%9F%E4%BA%A4%E9%80%9A%E4%BD%90%E6%B8%A1"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "小雨。最高26.9℃ / 最低23.7℃。いまは26.4℃。",
+   "body": "小雨。最高27.3℃ / 最低22.7℃。いまは22.8℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
-   "body": "58ポイント / コメント13件。",
+   "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
+   "body": "139ポイント / コメント29件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49705442"
+   "url": "https://news.ycombinator.com/item?id=49697477"
   },
   {
    "tag": "HN",
-   "title": "Linux from Scratch",
-   "body": "116ポイント / コメント39件。",
+   "title": "Forgotten Woodlands",
+   "body": "81ポイント / コメント26件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49707627"
+   "url": "https://news.ycombinator.com/item?id=49665549"
   }
  ]
 }
