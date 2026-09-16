@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-16T09:24:41+09:00",
+ "generated_at": "2026-09-16T15:04:54+09:00",
  "items": [
+  {
+   "tag": "HN",
+   "title": "Show HN: Pizza Bot – An inbox for AI agents that work in the backgrou…",
+   "body": "42ポイント / コメント25件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49713894"
+  },
+  {
+   "tag": "HN",
+   "title": "Datamimic – don't let your coding agent invent its own test world",
+   "body": "9ポイント / コメント2件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49722276"
+  },
+  {
+   "tag": "HN",
+   "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+   "body": "371ポイント / コメント234件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49715947"
+  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "雨。最高22.1℃ / 最低19.0℃。いまは21.7℃。",
+   "body": "雨。最高22.1℃ / 最低19.9℃。いまは21.3℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "HN",
-   "title": "Saving Jet Fuel",
-   "body": "16ポイント / コメント6件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49720164"
-  },
-  {
-   "tag": "HN",
-   "title": "We got admin access to Baseten's production GitHub in 25 minutes",
-   "body": "195ポイント / コメント106件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49716476"
+   "tag": "WIKI",
+   "title": "アルバートドック",
+   "body": "アルバートドック は、日本の競走馬である。2016年の小倉大賞典、七夕賞の勝ち馬で2016年サマー2000シリーズの優勝馬。馬名の由来はイギリス、リヴァプールにある「アルバート・ドッ…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%83%90%E3%83%BC%E3%83%88%E3%83%89%E3%83%83%E3%82%AF"
   },
   {
    "tag": "WIKI",
-   "title": "誓閑寺",
-   "body": "誓閑寺（せいかんじ）は、東京都新宿区にある浄土宗の寺院。",
+   "title": "小金井市立小金井第一小学校",
+   "body": "小金井市立小金井第一小学校 は、東京都小金井市に位置する小学校。市内で最初に開校し、150年以上の歴史を持つ。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E8%AA%93%E9%96%91%E5%AF%BA"
-  },
-  {
-   "tag": "HN",
-   "title": "Chopping up books when they're physically too big",
-   "body": "110ポイント / コメント106件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49716953"
-  },
-  {
-   "tag": "WIKI",
-   "title": "ダイク (スラング)",
-   "body": "ダイク とは、スラングであり、レズビアンを指す名詞、またはレズビアンと関連付けられた物事を指す形容詞である。この言葉は本来、男性的・ブッチ・両性具有的な女子または女性に対する、同性愛…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%82%A4%E3%82%AF_(%E3%82%B9%E3%83%A9%E3%83%B3%E3%82%B0)"
+   "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82%E7%AB%8B%E5%B0%8F%E9%87%91%E4%BA%95%E7%AC%AC%E4%B8%80%E5%B0%8F%E5%AD%A6%E6%A0%A1"
   }
  ]
 }
