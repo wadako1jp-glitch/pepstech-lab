@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-16T20:40:51+09:00",
+ "generated_at": "2026-09-17T02:01:28+09:00",
  "items": [
   {
    "tag": "HN",
-   "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
-   "body": "430ポイント / コメント282件。",
+   "title": "Scaling Golang CI by Replacing actions/setup-go",
+   "body": "44ポイント / コメント5件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49715947"
-  },
-  {
-   "tag": "WIKI",
-   "title": "富士山における鉄道構想",
-   "body": "富士山における鉄道構想（ふじさんにおけるてつどうこうそう）は、富士山周辺での登山鉄道の構想である。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%AF%8C%E5%A3%AB%E5%B1%B1%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E9%89%84%E9%81%93%E6%A7%8B%E6%83%B3"
+   "url": "https://news.ycombinator.com/item?id=49726350"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "雨。最高22.1℃ / 最低19.7℃。いまは20.1℃。",
+   "body": "強い霧雨。最高23.6℃ / 最低18.7℃。いまは19.0℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "WIKI",
-   "title": "本川根町",
-   "body": "本川根町（ほんかわねちょう）は、静岡県榛原郡の最北に位置していた山間の町。",
+   "title": "ポルシェ・919ハイブリッド",
+   "body": "ポルシェ・919ハイブリッド は、ポルシェが2014年から2017年にかけてFIA 世界耐久選手権 (WEC) で使用したプロトタイプ。開発コードナンバーは“9R9”。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%9C%AC%E5%B7%9D%E6%A0%B9%E7%94%BA"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%AB%E3%82%B7%E3%82%A7%E3%83%BB919%E3%83%8F%E3%82%A4%E3%83%96%E3%83%AA%E3%83%83%E3%83%89"
   },
   {
    "tag": "HN",
-   "title": "Datamimic – don't let your coding agent invent its own test world",
-   "body": "44ポイント / コメント7件。",
+   "title": "Show HN: How Stale Is Your AI? Release age and training cutoff for 20…",
+   "body": "31ポイント / コメント21件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49722276"
+   "url": "https://news.ycombinator.com/item?id=49726343"
+  },
+  {
+   "tag": "WIKI",
+   "title": "秋田大学教育文化学部附属小学校",
+   "body": "秋田大学教育文化学部附属小学校（あきただいがくきょういくぶんかがくぶふぞくしょうがっこう）は、秋田県秋田市保戸野原の町にある国立小学校。略称は附小、秋大附など。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E7%A7%8B%E7%94%B0%E5%A4%A7%E5%AD%A6%E6%95%99%E8%82%B2%E6%96%87%E5%8C%96%E5%AD%A6%E9%83%A8%E9%99%84%E5%B1%9E%E5%B0%8F%E5%AD%A6%E6%A0%A1"
   },
   {
    "tag": "HN",
-   "title": "Show HN: I made a flight simulator, except you're just a passenger",
-   "body": "226ポイント / コメント126件。",
+   "title": "Small Programming Tricks",
+   "body": "62ポイント / コメント41件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49693971"
+   "url": "https://news.ycombinator.com/item?id=49729000"
   }
  ]
 }
