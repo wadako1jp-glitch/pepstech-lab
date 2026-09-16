@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-16T15:04:54+09:00",
+ "generated_at": "2026-09-16T20:40:51+09:00",
  "items": [
   {
    "tag": "HN",
-   "title": "Show HN: Pizza Bot – An inbox for AI agents that work in the backgrou…",
-   "body": "42ポイント / コメント25件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49713894"
-  },
-  {
-   "tag": "HN",
-   "title": "Datamimic – don't let your coding agent invent its own test world",
-   "body": "9ポイント / コメント2件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49722276"
-  },
-  {
-   "tag": "HN",
    "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
-   "body": "371ポイント / コメント234件。",
+   "body": "430ポイント / コメント282件。",
    "src": "news.ycombinator.com",
    "url": "https://news.ycombinator.com/item?id=49715947"
   },
   {
+   "tag": "WIKI",
+   "title": "富士山における鉄道構想",
+   "body": "富士山における鉄道構想（ふじさんにおけるてつどうこうそう）は、富士山周辺での登山鉄道の構想である。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%AF%8C%E5%A3%AB%E5%B1%B1%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E9%89%84%E9%81%93%E6%A7%8B%E6%83%B3"
+  },
+  {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "雨。最高22.1℃ / 最低19.9℃。いまは21.3℃。",
+   "body": "雨。最高22.1℃ / 最低19.7℃。いまは20.1℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "WIKI",
-   "title": "アルバートドック",
-   "body": "アルバートドック は、日本の競走馬である。2016年の小倉大賞典、七夕賞の勝ち馬で2016年サマー2000シリーズの優勝馬。馬名の由来はイギリス、リヴァプールにある「アルバート・ドッ…",
+   "title": "本川根町",
+   "body": "本川根町（ほんかわねちょう）は、静岡県榛原郡の最北に位置していた山間の町。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%83%90%E3%83%BC%E3%83%88%E3%83%89%E3%83%83%E3%82%AF"
+   "url": "https://ja.wikipedia.org/wiki/%E6%9C%AC%E5%B7%9D%E6%A0%B9%E7%94%BA"
   },
   {
-   "tag": "WIKI",
-   "title": "小金井市立小金井第一小学校",
-   "body": "小金井市立小金井第一小学校 は、東京都小金井市に位置する小学校。市内で最初に開校し、150年以上の歴史を持つ。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82%E7%AB%8B%E5%B0%8F%E9%87%91%E4%BA%95%E7%AC%AC%E4%B8%80%E5%B0%8F%E5%AD%A6%E6%A0%A1"
+   "tag": "HN",
+   "title": "Datamimic – don't let your coding agent invent its own test world",
+   "body": "44ポイント / コメント7件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49722276"
+  },
+  {
+   "tag": "HN",
+   "title": "Show HN: I made a flight simulator, except you're just a passenger",
+   "body": "226ポイント / コメント126件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49693971"
   }
  ]
 }
