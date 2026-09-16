@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-17T05:10:19+09:00",
+ "generated_at": "2026-09-17T07:58:15+09:00",
  "items": [
-  {
-   "tag": "WIKI",
-   "title": "中華航空140便墜落事故",
-   "body": "中華航空140便墜落事故 は、1994年（平成6年）4月26日20時12分19秒に発生した航空事故。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E8%88%AA%E7%A9%BA140%E4%BE%BF%E5%A2%9C%E8%90%BD%E4%BA%8B%E6%95%85"
-  },
-  {
-   "tag": "HN",
-   "title": "A warning about 'model welfare'",
-   "body": "129ポイント / コメント317件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49727580"
-  },
-  {
-   "tag": "HN",
-   "title": "Introducing System One Models and Jev",
-   "body": "1765ポイント / コメント469件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49717558"
-  },
-  {
-   "tag": "WIKI",
-   "title": "ロバート・ディール",
-   "body": "ロバート・ディール は、カリブ海で活動した海賊。チャールズ・ヴェインの部下として知られる。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%90%E3%83%BC%E3%83%88%E3%83%BB%E3%83%87%E3%82%A3%E3%83%BC%E3%83%AB"
-  },
-  {
-   "tag": "HN",
-   "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illu…",
-   "body": "1961ポイント / コメント230件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49711544"
-  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高23.9℃ / 最低19.1℃。いまは19.2℃。",
+   "body": "霧雨。最高23.9℃ / 最低19.1℃。いまは20.1℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
+  },
+  {
+   "tag": "HN",
+   "title": "Anatomy of a Texture",
+   "body": "64ポイント / コメント11件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49727592"
+  },
+  {
+   "tag": "WIKI",
+   "title": "三保の松原",
+   "body": "三保松原（みほのまつばら）は、静岡県静岡市清水区の三保半島にある景勝地。御穂神社の鎮守の杜として守られてきた。その美しさから日本新三景（大沼、三保松原、耶馬溪）、日本三大松原（三保松…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E4%BF%9D%E3%81%AE%E6%9D%BE%E5%8E%9F"
+  },
+  {
+   "tag": "WIKI",
+   "title": "榊原萌",
+   "body": "榊原 萌 は、日本のAV女優。DINO所属。東京都出身。O型。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E6%A6%8A%E5%8E%9F%E8%90%8C"
+  },
+  {
+   "tag": "HN",
+   "title": "Japan's book scene is moving from bookstores to libraries",
+   "body": "65ポイント / コメント17件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49677916"
+  },
+  {
+   "tag": "HN",
+   "title": "Anecdotally, programmers dislike \"reduce\"",
+   "body": "62ポイント / コメント108件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49692844"
   }
  ]
 }
