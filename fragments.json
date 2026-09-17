@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-17T16:43:42+09:00",
+ "generated_at": "2026-09-17T22:30:53+09:00",
  "items": [
   {
    "tag": "WIKI",
-   "title": "アイバル",
-   "body": "アイバル は、主に赤パプリカと植物油から作る調味料の一種である。他にニンニク、ナス、唐辛子等が含まれることもある。アイバルはバルカン諸国の食文化で用いられる。セルビアでは古くから「セ…",
+   "title": "カーター郡 (ケンタッキー州)",
+   "body": "カーター郡 は、アメリカ合衆国ケンタッキー州内に位置する郡である。人口は26,889人（2000年）。郡庁所在地はグレイソンである。この郡はウィリアム・グレイソン・カーター大佐の名を…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%83%90%E3%83%AB"
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%BC%E3%82%BF%E3%83%BC%E9%83%A1_(%E3%82%B1%E3%83%B3%E3%82%BF%E3%83%83%E3%82%AD%E3%83%BC%E5%B7%9E)"
+  },
+  {
+   "tag": "HN",
+   "title": "OpenSpec – A lightweight and configurable AI spec framework",
+   "body": "165ポイント / コメント76件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49734264"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高25.1℃ / 最低19.3℃。いまは23.7℃。",
+   "body": "霧雨。最高25.0℃ / 最低19.3℃。いまは20.2℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
+   "tag": "WIKI",
+   "title": "専門職短期大学",
+   "body": "専門職短期大学 は、2017年の学校教育法の改正によって設けられた日本の職業大学。なお、（4年制）専門職大学に併設される短期大学については専門職大学短期大学部（せんもんしょくだいがく…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%B0%82%E9%96%80%E8%81%B7%E7%9F%AD%E6%9C%9F%E5%A4%A7%E5%AD%A6"
+  },
+  {
    "tag": "HN",
-   "title": "Small programming tricks",
-   "body": "496ポイント / コメント218件。",
+   "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+   "body": "218ポイント / コメント34件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49729000"
+   "url": "https://news.ycombinator.com/item?id=49732931"
   },
   {
    "tag": "HN",
    "title": "Developing provably correct Rust code with Verus",
-   "body": "95ポイント / コメント12件。",
+   "body": "131ポイント / コメント29件。",
    "src": "news.ycombinator.com",
    "url": "https://news.ycombinator.com/item?id=49700153"
-  },
-  {
-   "tag": "HN",
-   "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illu…",
-   "body": "2143ポイント / コメント243件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49711544"
-  },
-  {
-   "tag": "WIKI",
-   "title": "重山規子",
-   "body": "重山 規子 は、日本のダンサー、女優。本名同じ。東京府東京市（現在の東京都）出身。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E9%87%8D%E5%B1%B1%E8%A6%8F%E5%AD%90"
   }
  ]
 }
