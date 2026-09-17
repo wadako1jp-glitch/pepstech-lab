@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-17T07:58:15+09:00",
+ "generated_at": "2026-09-17T10:28:08+09:00",
  "items": [
+  {
+   "tag": "HN",
+   "title": "I replaced my brown-noise browser tab with a menu bar app",
+   "body": "20ポイント / コメント7件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49726501"
+  },
+  {
+   "tag": "HN",
+   "title": "Backups Aren't Simple",
+   "body": "73ポイント / コメント29件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49732513"
+  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高23.9℃ / 最低19.1℃。いまは20.1℃。",
+   "body": "霧雨。最高24.9℃ / 最低19.3℃。いまは22.3℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Anatomy of a Texture",
-   "body": "64ポイント / コメント11件。",
+   "title": "Hackers Got Inside a Flock Camera",
+   "body": "466ポイント / コメント217件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49727592"
+   "url": "https://news.ycombinator.com/item?id=49726586"
   },
   {
    "tag": "WIKI",
-   "title": "三保の松原",
-   "body": "三保松原（みほのまつばら）は、静岡県静岡市清水区の三保半島にある景勝地。御穂神社の鎮守の杜として守られてきた。その美しさから日本新三景（大沼、三保松原、耶馬溪）、日本三大松原（三保松…",
+   "title": "柳亭小痴楽",
+   "body": "柳亭 小痴楽 は、落語家の名跡。当代は3代目。初代柳亭小痴楽 - 後∶二代目春風亭梅橋 二代目柳亭小痴楽 - 後∶五代目柳亭痴楽 三代目柳亭小痴楽 - 本項にて詳述",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E4%BF%9D%E3%81%AE%E6%9D%BE%E5%8E%9F"
+   "url": "https://ja.wikipedia.org/wiki/%E6%9F%B3%E4%BA%AD%E5%B0%8F%E7%97%B4%E6%A5%BD"
   },
   {
    "tag": "WIKI",
-   "title": "榊原萌",
-   "body": "榊原 萌 は、日本のAV女優。DINO所属。東京都出身。O型。",
+   "title": "ルイス・オバージェ",
+   "body": "ルイス・カルロス・オバージェ・ビクトリア は、パナマ・パナマ市出身の元プロサッカー選手。元サッカーパナマ代表。現役時代のポジションはDF。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%A6%8A%E5%8E%9F%E8%90%8C"
-  },
-  {
-   "tag": "HN",
-   "title": "Japan's book scene is moving from bookstores to libraries",
-   "body": "65ポイント / コメント17件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49677916"
-  },
-  {
-   "tag": "HN",
-   "title": "Anecdotally, programmers dislike \"reduce\"",
-   "body": "62ポイント / コメント108件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49692844"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%82%A4%E3%82%B9%E3%83%BB%E3%82%AA%E3%83%90%E3%83%BC%E3%82%B8%E3%82%A7"
   }
  ]
 }
