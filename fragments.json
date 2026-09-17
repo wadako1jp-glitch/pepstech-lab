@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-17T10:28:08+09:00",
+ "generated_at": "2026-09-17T16:43:42+09:00",
  "items": [
   {
-   "tag": "HN",
-   "title": "I replaced my brown-noise browser tab with a menu bar app",
-   "body": "20ポイント / コメント7件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49726501"
-  },
-  {
-   "tag": "HN",
-   "title": "Backups Aren't Simple",
-   "body": "73ポイント / コメント29件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49732513"
+   "tag": "WIKI",
+   "title": "アイバル",
+   "body": "アイバル は、主に赤パプリカと植物油から作る調味料の一種である。他にニンニク、ナス、唐辛子等が含まれることもある。アイバルはバルカン諸国の食文化で用いられる。セルビアでは古くから「セ…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%83%90%E3%83%AB"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高24.9℃ / 最低19.3℃。いまは22.3℃。",
+   "body": "霧雨。最高25.1℃ / 最低19.3℃。いまは23.7℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Hackers Got Inside a Flock Camera",
-   "body": "466ポイント / コメント217件。",
+   "title": "Small programming tricks",
+   "body": "496ポイント / コメント218件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49726586"
+   "url": "https://news.ycombinator.com/item?id=49729000"
+  },
+  {
+   "tag": "HN",
+   "title": "Developing provably correct Rust code with Verus",
+   "body": "95ポイント / コメント12件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49700153"
+  },
+  {
+   "tag": "HN",
+   "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illu…",
+   "body": "2143ポイント / コメント243件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49711544"
   },
   {
    "tag": "WIKI",
-   "title": "柳亭小痴楽",
-   "body": "柳亭 小痴楽 は、落語家の名跡。当代は3代目。初代柳亭小痴楽 - 後∶二代目春風亭梅橋 二代目柳亭小痴楽 - 後∶五代目柳亭痴楽 三代目柳亭小痴楽 - 本項にて詳述",
+   "title": "重山規子",
+   "body": "重山 規子 は、日本のダンサー、女優。本名同じ。東京府東京市（現在の東京都）出身。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%9F%B3%E4%BA%AD%E5%B0%8F%E7%97%B4%E6%A5%BD"
-  },
-  {
-   "tag": "WIKI",
-   "title": "ルイス・オバージェ",
-   "body": "ルイス・カルロス・オバージェ・ビクトリア は、パナマ・パナマ市出身の元プロサッカー選手。元サッカーパナマ代表。現役時代のポジションはDF。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%82%A4%E3%82%B9%E3%83%BB%E3%82%AA%E3%83%90%E3%83%BC%E3%82%B8%E3%82%A7"
+   "url": "https://ja.wikipedia.org/wiki/%E9%87%8D%E5%B1%B1%E8%A6%8F%E5%AD%90"
   }
  ]
 }
