@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-17T22:30:53+09:00",
+ "generated_at": "2026-09-18T03:16:54+09:00",
  "items": [
   {
    "tag": "WIKI",
-   "title": "カーター郡 (ケンタッキー州)",
-   "body": "カーター郡 は、アメリカ合衆国ケンタッキー州内に位置する郡である。人口は26,889人（2000年）。郡庁所在地はグレイソンである。この郡はウィリアム・グレイソン・カーター大佐の名を…",
+   "title": "広島工業大学高等学校",
+   "body": "広島工業大学高等学校（ひろしまこうぎょうだいがくこうとうがっこう）は、広島県広島市西区井口五丁目にある私立高等学校。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%BC%E3%82%BF%E3%83%BC%E9%83%A1_(%E3%82%B1%E3%83%B3%E3%82%BF%E3%83%83%E3%82%AD%E3%83%BC%E5%B7%9E)"
+   "url": "https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1"
   },
   {
    "tag": "HN",
-   "title": "OpenSpec – A lightweight and configurable AI spec framework",
-   "body": "165ポイント / コメント76件。",
+   "title": "Why I didn’t sign the Fields medallists’ letter",
+   "body": "91ポイント / コメント140件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49734264"
+   "url": "https://news.ycombinator.com/item?id=49738091"
+  },
+  {
+   "tag": "HN",
+   "title": "One Year of Sponsored Servo Development",
+   "body": "301ポイント / コメント125件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49737849"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高25.0℃ / 最低19.3℃。いまは20.2℃。",
+   "body": "曇り。最高22.9℃ / 最低19.0℃。いまは19.1℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
+   "tag": "HN",
+   "title": "Stallman: Thousands Dead, Millions Deprived of Liberties (2001)",
+   "body": "19ポイント / コメント2件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49743756"
+  },
+  {
    "tag": "WIKI",
-   "title": "専門職短期大学",
-   "body": "専門職短期大学 は、2017年の学校教育法の改正によって設けられた日本の職業大学。なお、（4年制）専門職大学に併設される短期大学については専門職大学短期大学部（せんもんしょくだいがく…",
+   "title": "ジェネシー郡 (ニューヨーク州)",
+   "body": "ジェネシー郡 は、アメリカ合衆国ニューヨーク州の西部に位置する郡である。人口は5万8388人（2020年）。郡庁所在地はバタビアであり、同郡で人口最大の都市である。郡名はセネカ族イン…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%B0%82%E9%96%80%E8%81%B7%E7%9F%AD%E6%9C%9F%E5%A4%A7%E5%AD%A6"
-  },
-  {
-   "tag": "HN",
-   "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
-   "body": "218ポイント / コメント34件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49732931"
-  },
-  {
-   "tag": "HN",
-   "title": "Developing provably correct Rust code with Verus",
-   "body": "131ポイント / コメント29件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49700153"
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%83%8D%E3%82%B7%E3%83%BC%E9%83%A1_(%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A8%E3%83%BC%E3%82%AF%E5%B7%9E)"
   }
  ]
 }
