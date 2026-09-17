@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-18T03:16:54+09:00",
+ "generated_at": "2026-09-18T06:30:04+09:00",
  "items": [
   {
+   "tag": "HN",
+   "title": "Towards Self-Driving Codebases",
+   "body": "76ポイント / コメント63件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49743527"
+  },
+  {
+   "tag": "HN",
+   "title": "CrowdSec Source Code Leak",
+   "body": "107ポイント / コメント30件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49742355"
+  },
+  {
+   "tag": "HN",
+   "title": "Vinix – A modern operating system written in V",
+   "body": "82ポイント / コメント55件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49742439"
+  },
+  {
    "tag": "WIKI",
-   "title": "広島工業大学高等学校",
-   "body": "広島工業大学高等学校（ひろしまこうぎょうだいがくこうとうがっこう）は、広島県広島市西区井口五丁目にある私立高等学校。",
+   "title": "レオン・ラッセル",
+   "body": "レオン・ラッセル は、アメリカ合衆国のシンガーソングライターである。キーボーディスト、ギタリストとしても知られる。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%AA%E3%83%B3%E3%83%BB%E3%83%A9%E3%83%83%E3%82%BB%E3%83%AB"
   },
   {
-   "tag": "HN",
-   "title": "Why I didn’t sign the Fields medallists’ letter",
-   "body": "91ポイント / コメント140件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49738091"
-  },
-  {
-   "tag": "HN",
-   "title": "One Year of Sponsored Servo Development",
-   "body": "301ポイント / コメント125件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49737849"
+   "tag": "WIKI",
+   "title": "道後プリンスホテル",
+   "body": "道後プリンスホテル（どうごプリンスホテル）は、愛媛県松山市道後姫塚に所在する温泉旅館。道後温泉地区に位置し、総客室数120室を有する大型旅館の一つである。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E9%81%93%E5%BE%8C%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B9%E3%83%9B%E3%83%86%E3%83%AB"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "曇り。最高22.9℃ / 最低19.0℃。いまは19.1℃。",
+   "body": "曇り。最高22.9℃ / 最低19.0℃。いまは19.3℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
-  },
-  {
-   "tag": "HN",
-   "title": "Stallman: Thousands Dead, Millions Deprived of Liberties (2001)",
-   "body": "19ポイント / コメント2件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49743756"
-  },
-  {
-   "tag": "WIKI",
-   "title": "ジェネシー郡 (ニューヨーク州)",
-   "body": "ジェネシー郡 は、アメリカ合衆国ニューヨーク州の西部に位置する郡である。人口は5万8388人（2020年）。郡庁所在地はバタビアであり、同郡で人口最大の都市である。郡名はセネカ族イン…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%83%8D%E3%82%B7%E3%83%BC%E9%83%A1_(%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A8%E3%83%BC%E3%82%AF%E5%B7%9E)"
   }
  ]
 }
