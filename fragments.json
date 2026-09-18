@@ -1,45 +1,45 @@
 {
- "generated_at": "2026-09-19T04:39:34+09:00",
+ "generated_at": "2026-09-19T07:36:45+09:00",
  "items": [
   {
+   "tag": "HN",
+   "title": "Border agents can search cellphones without a warrant or reasonable s…",
+   "body": "164ポイント / コメント124件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49758028"
+  },
+  {
    "tag": "WIKI",
-   "title": "井上義行",
-   "body": "井上 義行 は、日本の政治家。自由民主党所属の参議院議員（2期）。",
+   "title": "なんこく南インターチェンジ",
+   "body": "なんこく南インターチェンジ（なんこくみなみインターチェンジ）は、高知県南国市伊達野にある高知東部自動車道（高知南国道路）のインターチェンジである。高知市介良・潮見台とは至近の距離にあ…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E4%BA%95%E4%B8%8A%E7%BE%A9%E8%A1%8C"
+   "url": "https://ja.wikipedia.org/wiki/%E3%81%AA%E3%82%93%E3%81%93%E3%81%8F%E5%8D%97%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%81%E3%82%A7%E3%83%B3%E3%82%B8"
+  },
+  {
+   "tag": "WIKI",
+   "title": "式守伊之助 (16代)",
+   "body": "16代 式守 伊之助 は、大相撲の立行司。本名は刀根亀吉、山形県山形市出身。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%BC%8F%E5%AE%88%E4%BC%8A%E4%B9%8B%E5%8A%A9_(16%E4%BB%A3)"
+  },
+  {
+   "tag": "HN",
+   "title": "How to Write with an LLM",
+   "body": "341ポイント / コメント236件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49747070"
   },
   {
    "tag": "HN",
    "title": "OpenJev",
-   "body": "457ポイント / コメント227件。",
+   "body": "512ポイント / コメント234件。",
    "src": "news.ycombinator.com",
    "url": "https://news.ycombinator.com/item?id=49752041"
   },
   {
-   "tag": "HN",
-   "title": "A search-and-inference database from scratch in pure Zig",
-   "body": "23ポイント / コメント4件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49714157"
-  },
-  {
-   "tag": "WIKI",
-   "title": "春日正一",
-   "body": "春日 正一 は、日本の政治家。日本共産党から、衆議院議員1期、参議院議員2期を務めた。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%98%A5%E6%97%A5%E6%AD%A3%E4%B8%80"
-  },
-  {
-   "tag": "HN",
-   "title": "A heap overflow and SSO misconfiguration to compromise OpenAI interna…",
-   "body": "444ポイント / コメント189件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49749656"
-  },
-  {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高22.7℃ / 最低20.2℃。いまは20.2℃。",
+   "body": "霧雨。最高22.7℃ / 最低20.2℃。いまは20.9℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   }
