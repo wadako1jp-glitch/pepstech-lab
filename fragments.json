@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-18T09:23:01+09:00",
+ "generated_at": "2026-09-18T14:58:07+09:00",
  "items": [
   {
    "tag": "HN",
-   "title": "Show HN: Share your AI Setup, Learn from others",
-   "body": "173ポイント / コメント88件。",
+   "title": "CrowdSec Source Code Leak",
+   "body": "142ポイント / コメント43件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49740105"
-  },
-  {
-   "tag": "HN",
-   "title": "Towards Self-Driving Codebases",
-   "body": "96ポイント / コメント80件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49743527"
+   "url": "https://news.ycombinator.com/item?id=49742355"
   },
   {
    "tag": "WIKI",
-   "title": "梅窓院",
-   "body": "梅窓院（ばいそういん）は、東京都港区南青山二丁目にある浄土宗の寺院。青山通り（国道246号）沿いに面している。江戸三十三観音札所の第24番札所。摂津尼崎城主の青山幸成の死後、法号の梅…",
+   "title": "青柳種信",
+   "body": "青柳 種信 は江戸時代後期の国学者、福岡藩士。沖ノ島御番中に記した『瀛津島防人日記』、藩公式の地誌『筑前国続風土記拾遺』の編纂、三雲南小路遺跡出土物の研究等で知られる。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%A2%85%E7%AA%93%E9%99%A2"
-  },
-  {
-   "tag": "WIKI",
-   "title": "小川虎之助",
-   "body": "小川 虎之助（おがわ とらのすけ、 は、日本の俳優。本名は小川 寅次。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%B7%9D%E8%99%8E%E4%B9%8B%E5%8A%A9"
+   "url": "https://ja.wikipedia.org/wiki/%E9%9D%92%E6%9F%B3%E7%A8%AE%E4%BF%A1"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高23.2℃ / 最低19.2℃。いまは21.0℃。",
+   "body": "霧雨。最高22.8℃ / 最低19.2℃。いまは22.6℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "TSMC revealing details about next gen A14 node",
-   "body": "83ポイント / コメント30件。",
+   "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
+   "body": "554ポイント / コメント208件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49714096"
+   "url": "https://news.ycombinator.com/item?id=49715813"
+  },
+  {
+   "tag": "WIKI",
+   "title": "飯盛山 (生駒山地)",
+   "body": "飯盛山（いいもりやま）は、大阪府生駒山地北西枝にある山。大東市と四條畷市にまたがっており、山頂は大東市にある。標高は314.3m。河内飯盛山と表記する文献もある。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E9%A3%AF%E7%9B%9B%E5%B1%B1_(%E7%94%9F%E9%A7%92%E5%B1%B1%E5%9C%B0)"
+  },
+  {
+   "tag": "HN",
+   "title": "How do we prevent mathemathics from devolving into the Medieval Era o…",
+   "body": "101ポイント / コメント81件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49715936"
   }
  ]
 }
