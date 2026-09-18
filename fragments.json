@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-18T06:30:04+09:00",
+ "generated_at": "2026-09-18T09:23:01+09:00",
  "items": [
   {
    "tag": "HN",
+   "title": "Show HN: Share your AI Setup, Learn from others",
+   "body": "173ポイント / コメント88件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49740105"
+  },
+  {
+   "tag": "HN",
    "title": "Towards Self-Driving Codebases",
-   "body": "76ポイント / コメント63件。",
+   "body": "96ポイント / コメント80件。",
    "src": "news.ycombinator.com",
    "url": "https://news.ycombinator.com/item?id=49743527"
   },
   {
-   "tag": "HN",
-   "title": "CrowdSec Source Code Leak",
-   "body": "107ポイント / コメント30件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49742355"
-  },
-  {
-   "tag": "HN",
-   "title": "Vinix – A modern operating system written in V",
-   "body": "82ポイント / コメント55件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49742439"
+   "tag": "WIKI",
+   "title": "梅窓院",
+   "body": "梅窓院（ばいそういん）は、東京都港区南青山二丁目にある浄土宗の寺院。青山通り（国道246号）沿いに面している。江戸三十三観音札所の第24番札所。摂津尼崎城主の青山幸成の死後、法号の梅…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E6%A2%85%E7%AA%93%E9%99%A2"
   },
   {
    "tag": "WIKI",
-   "title": "レオン・ラッセル",
-   "body": "レオン・ラッセル は、アメリカ合衆国のシンガーソングライターである。キーボーディスト、ギタリストとしても知られる。",
+   "title": "小川虎之助",
+   "body": "小川 虎之助（おがわ とらのすけ、 は、日本の俳優。本名は小川 寅次。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%AA%E3%83%B3%E3%83%BB%E3%83%A9%E3%83%83%E3%82%BB%E3%83%AB"
-  },
-  {
-   "tag": "WIKI",
-   "title": "道後プリンスホテル",
-   "body": "道後プリンスホテル（どうごプリンスホテル）は、愛媛県松山市道後姫塚に所在する温泉旅館。道後温泉地区に位置し、総客室数120室を有する大型旅館の一つである。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E9%81%93%E5%BE%8C%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B9%E3%83%9B%E3%83%86%E3%83%AB"
+   "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%B7%9D%E8%99%8E%E4%B9%8B%E5%8A%A9"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "曇り。最高22.9℃ / 最低19.0℃。いまは19.3℃。",
+   "body": "霧雨。最高23.2℃ / 最低19.2℃。いまは21.0℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
+  },
+  {
+   "tag": "HN",
+   "title": "TSMC revealing details about next gen A14 node",
+   "body": "83ポイント / コメント30件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49714096"
   }
  ]
 }
