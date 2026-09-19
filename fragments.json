@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-19T07:36:45+09:00",
+ "generated_at": "2026-09-19T10:12:43+09:00",
  "items": [
   {
-   "tag": "HN",
-   "title": "Border agents can search cellphones without a warrant or reasonable s…",
-   "body": "164ポイント / コメント124件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49758028"
+   "tag": "WIKI",
+   "title": "サンドロ・サルヴァドーレ",
+   "body": "サンドロ・サルヴァドーレ は、イタリア・ミラノ出身の元サッカー選手。ポジションはリベロ。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BB%E3%82%B5%E3%83%AB%E3%83%B4%E3%82%A1%E3%83%89%E3%83%BC%E3%83%AC"
   },
   {
    "tag": "WIKI",
-   "title": "なんこく南インターチェンジ",
-   "body": "なんこく南インターチェンジ（なんこくみなみインターチェンジ）は、高知県南国市伊達野にある高知東部自動車道（高知南国道路）のインターチェンジである。高知市介良・潮見台とは至近の距離にあ…",
+   "title": "バーミンガム",
+   "body": "バーミンガム は、イングランド、ウェスト・ミッドランズ に属す工業都市である。人口は114万人。近郊を含む都市的地域の人口は229万人であり、同国第2位である。地元では首都ロンドンに…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%81%AA%E3%82%93%E3%81%93%E3%81%8F%E5%8D%97%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%81%E3%82%A7%E3%83%B3%E3%82%B8"
-  },
-  {
-   "tag": "WIKI",
-   "title": "式守伊之助 (16代)",
-   "body": "16代 式守 伊之助 は、大相撲の立行司。本名は刀根亀吉、山形県山形市出身。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%BC%8F%E5%AE%88%E4%BC%8A%E4%B9%8B%E5%8A%A9_(16%E4%BB%A3)"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%AC%E3%83%A0"
   },
   {
    "tag": "HN",
-   "title": "How to Write with an LLM",
-   "body": "341ポイント / コメント236件。",
+   "title": "I vibed a proof of Conway's conjecture",
+   "body": "208ポイント / コメント181件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49747070"
-  },
-  {
-   "tag": "HN",
-   "title": "OpenJev",
-   "body": "512ポイント / コメント234件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49752041"
+   "url": "https://news.ycombinator.com/item?id=49755024"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高22.7℃ / 最低20.2℃。いまは20.9℃。",
+   "body": "雨。最高22.4℃ / 最低20.0℃。いまは22.1℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
+  },
+  {
+   "tag": "HN",
+   "title": "Android 17 is the first since 3.x to add new APIs without releasing t…",
+   "body": "497ポイント / コメント241件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49758736"
+  },
+  {
+   "tag": "HN",
+   "title": "OpenJev",
+   "body": "550ポイント / コメント245件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49752041"
   }
  ]
 }
