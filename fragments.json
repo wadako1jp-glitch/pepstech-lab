@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-20T05:44:21+09:00",
+ "generated_at": "2026-09-20T08:09:42+09:00",
  "items": [
   {
-   "tag": "HN",
-   "title": "The Railways Killed a Medieval Law [the Deodand]",
-   "body": "5ポイント / コメント1件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49731996"
-  },
-  {
-   "tag": "HN",
-   "title": "If math is more than proof, we need to better celebrate the rest of it",
-   "body": "271ポイント / コメント225件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49763928"
-  },
-  {
    "tag": "WIKI",
-   "title": "リッチー・ヘブンス",
-   "body": "リッチー・ヘヴンス は、アメリカ合衆国ニューヨーク出身のフォーク・シンガー、ギタリスト。",
+   "title": "日比野貴之",
+   "body": "日比野 貴之 は、セルフトートアーティスト、ホログラム・コラージュのパイオニアであり研究者。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%83%E3%83%81%E3%83%BC%E3%83%BB%E3%83%98%E3%83%96%E3%83%B3%E3%82%B9"
+   "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%AF%94%E9%87%8E%E8%B2%B4%E4%B9%8B"
   },
   {
    "tag": "HN",
-   "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
-   "body": "318ポイント / コメント152件。",
+   "title": "English: A vs. An",
+   "body": "86ポイント / コメント80件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49763987"
-  },
-  {
-   "tag": "WIKI",
-   "title": "神辺町",
-   "body": "神辺町（かんなべちょう）は、広島県の東部に存在する町。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E7%A5%9E%E8%BE%BA%E7%94%BA"
+   "url": "https://news.ycombinator.com/item?id=49769944"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "雨。最高22.9℃ / 最低21.3℃。いまは21.8℃。",
+   "body": "強い雨。最高23.2℃ / 最低21.3℃。いまは22.1℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
+  },
+  {
+   "tag": "WIKI",
+   "title": "ツァスタバ M70",
+   "body": "ツァスタバ M70 とは、1960年代にユーゴスラビア（セルビア）のツァスタバ・アームズがリバースエンジニアリングによって開発したAK-47の派生形である。以後、M70と呼称する。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%84%E3%82%A1%E3%82%B9%E3%82%BF%E3%83%90_M70"
+  },
+  {
+   "tag": "HN",
+   "title": "Two parallel neural ectoderm progenitors contribute to the developing…",
+   "body": "599ポイント / コメント229件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49763697"
+  },
+  {
+   "tag": "HN",
+   "title": "Show HN: CUA-S1 – A System One Model for Computer Use",
+   "body": "49ポイント / コメント6件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49767564"
   }
  ]
 }
