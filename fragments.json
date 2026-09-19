@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-19T20:04:22+09:00",
+ "generated_at": "2026-09-19T23:27:25+09:00",
  "items": [
-  {
-   "tag": "WIKI",
-   "title": "アックアフォルモーザ",
-   "body": "アックアフォルモーザ は、イタリア共和国カラブリア州コゼンツァ県にある、人口約1,100人の基礎自治体（コムーネ）。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%83%E3%82%AF%E3%82%A2%E3%83%95%E3%82%A9%E3%83%AB%E3%83%A2%E3%83%BC%E3%82%B6"
-  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "小雨。最高22.3℃ / 最低20.0℃。いまは21.1℃。",
+   "body": "小雨。最高22.3℃ / 最低20.0℃。いまは21.3℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Typesafe-computer-use drives a Mac toward a goal for 1/50th of a cent…",
-   "body": "82ポイント / コメント54件。",
+   "title": "OpenJev",
+   "body": "649ポイント / コメント274件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49733647"
-  },
-  {
-   "tag": "HN",
-   "title": "Cyclomatic Complexity in C#",
-   "body": "65ポイント / コメント24件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49731413"
-  },
-  {
-   "tag": "HN",
-   "title": "You can run Git on object storage if you re-make packfiles",
-   "body": "50ポイント / コメント15件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49730069"
+   "url": "https://news.ycombinator.com/item?id=49752041"
   },
   {
    "tag": "WIKI",
-   "title": "柴田昌吉",
-   "body": "柴田 昌吉 は、日本の英語学者。長崎生まれ。長崎英語伝習所で学び、幕府、明治政府で通訳を務めた。本姓は馬田、通称は大介、大助。号は榎江。本野盛亨、子安峻とともに読売新聞創業者の一人。",
+   "title": "ルビー",
+   "body": "ルビー（英: Ruby、、紅玉）は、コランダム（鋼玉、Al2O3）の変種である。 ダイヤモンドに次ぐ硬度を持ち、赤色が特徴的な宝石である。語源はラテン語で「赤」を意味する「ルベウス」…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%9F%B4%E7%94%B0%E6%98%8C%E5%90%89"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%93%E3%83%BC"
+  },
+  {
+   "tag": "HN",
+   "title": "Tin: full-text search for Postgres",
+   "body": "9ポイント / コメント1件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49766611"
+  },
+  {
+   "tag": "WIKI",
+   "title": "阿久根市立大川中学校",
+   "body": "阿久根市立大川中学校（あくねしりつおおかわちゅうがっこう）は、鹿児島県阿久根市大川にあった市立中学校。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E9%98%BF%E4%B9%85%E6%A0%B9%E5%B8%82%E7%AB%8B%E5%A4%A7%E5%B7%9D%E4%B8%AD%E5%AD%A6%E6%A0%A1"
+  },
+  {
+   "tag": "HN",
+   "title": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+   "body": "46ポイント / コメント5件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49763379"
   }
  ]
 }
