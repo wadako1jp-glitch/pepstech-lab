@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-19T23:27:25+09:00",
+ "generated_at": "2026-09-20T03:03:48+09:00",
  "items": [
+  {
+   "tag": "WIKI",
+   "title": "醍醐安之助",
+   "body": "醍醐 安之助 は、日本の政治家。東京都議会議員（11期、自由民主党）、第18代東京都議会副議長、第24代東京都議会議長。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E9%86%8D%E9%86%90%E5%AE%89%E4%B9%8B%E5%8A%A9"
+  },
+  {
+   "tag": "HN",
+   "title": "Cloudflare Quick Tunnels",
+   "body": "783ポイント / コメント301件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49754785"
+  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "小雨。最高22.3℃ / 最低20.0℃。いまは21.3℃。",
+   "body": "強い雨。最高22.9℃ / 最低21.4℃。いまは21.5℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "OpenJev",
-   "body": "649ポイント / コメント274件。",
+   "title": "Human brain is two separate organs, Stanford Medicine-led research fi…",
+   "body": "523ポイント / コメント192件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49752041"
-  },
-  {
-   "tag": "WIKI",
-   "title": "ルビー",
-   "body": "ルビー（英: Ruby、、紅玉）は、コランダム（鋼玉、Al2O3）の変種である。 ダイヤモンドに次ぐ硬度を持ち、赤色が特徴的な宝石である。語源はラテン語で「赤」を意味する「ルベウス」…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%93%E3%83%BC"
+   "url": "https://news.ycombinator.com/item?id=49763697"
   },
   {
    "tag": "HN",
-   "title": "Tin: full-text search for Postgres",
-   "body": "9ポイント / コメント1件。",
+   "title": "I Built Non-Autoregressive Decision Models with RL a Year Ago",
+   "body": "663ポイント / コメント156件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49766611"
+   "url": "https://news.ycombinator.com/item?id=49765348"
   },
   {
    "tag": "WIKI",
-   "title": "阿久根市立大川中学校",
-   "body": "阿久根市立大川中学校（あくねしりつおおかわちゅうがっこう）は、鹿児島県阿久根市大川にあった市立中学校。",
+   "title": "内閣総理大臣指名選挙",
+   "body": "内閣総理大臣指名選挙（ないかくそうりだいじんしめいせんきょ）とは、日本の内閣の首長たる内閣総理大臣を指名する選挙である。首相指名選挙、首班指名選挙とも呼ばれる。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E9%98%BF%E4%B9%85%E6%A0%B9%E5%B8%82%E7%AB%8B%E5%A4%A7%E5%B7%9D%E4%B8%AD%E5%AD%A6%E6%A0%A1"
-  },
-  {
-   "tag": "HN",
-   "title": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
-   "body": "46ポイント / コメント5件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49763379"
+   "url": "https://ja.wikipedia.org/wiki/%E5%86%85%E9%96%A3%E7%B7%8F%E7%90%86%E5%A4%A7%E8%87%A3%E6%8C%87%E5%90%8D%E9%81%B8%E6%8C%99"
   }
  ]
 }
