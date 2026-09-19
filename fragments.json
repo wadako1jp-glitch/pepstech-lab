@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-19T10:12:43+09:00",
+ "generated_at": "2026-09-19T14:57:16+09:00",
  "items": [
-  {
-   "tag": "WIKI",
-   "title": "サンドロ・サルヴァドーレ",
-   "body": "サンドロ・サルヴァドーレ は、イタリア・ミラノ出身の元サッカー選手。ポジションはリベロ。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BB%E3%82%B5%E3%83%AB%E3%83%B4%E3%82%A1%E3%83%89%E3%83%BC%E3%83%AC"
-  },
-  {
-   "tag": "WIKI",
-   "title": "バーミンガム",
-   "body": "バーミンガム は、イングランド、ウェスト・ミッドランズ に属す工業都市である。人口は114万人。近郊を含む都市的地域の人口は229万人であり、同国第2位である。地元では首都ロンドンに…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%AC%E3%83%A0"
-  },
-  {
-   "tag": "HN",
-   "title": "I vibed a proof of Conway's conjecture",
-   "body": "208ポイント / コメント181件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49755024"
-  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "雨。最高22.4℃ / 最低20.0℃。いまは22.1℃。",
+   "body": "雨。最高22.0℃ / 最低20.0℃。いまは21.2℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "HN",
-   "title": "Android 17 is the first since 3.x to add new APIs without releasing t…",
-   "body": "497ポイント / コメント241件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49758736"
+   "tag": "WIKI",
+   "title": "カロリナ・ロドリゲス (ボクサー)",
+   "body": "カロリナ・ロドリゲス・ソロルサ は、チリのプロボクサーである。サンティアゴ出身。元IBF女子世界バンタム級王者。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AD%E3%83%AA%E3%83%8A%E3%83%BB%E3%83%AD%E3%83%89%E3%83%AA%E3%82%B2%E3%82%B9_(%E3%83%9C%E3%82%AF%E3%82%B5%E3%83%BC)"
   },
   {
    "tag": "HN",
-   "title": "OpenJev",
-   "body": "550ポイント / コメント245件。",
+   "title": "How SpaceX streamlined the Raptor engine",
+   "body": "190ポイント / コメント67件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49752041"
+   "url": "https://news.ycombinator.com/item?id=49746626"
+  },
+  {
+   "tag": "WIKI",
+   "title": "趙源震",
+   "body": "趙 源震 は、大韓民国の政治家。ウリ共和党代表、第18・19・20代国会議員。大韓愛国党共同代表などを歴任。親朴派（親朴槿恵系）の中心人物。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E8%B6%99%E6%BA%90%E9%9C%87"
+  },
+  {
+   "tag": "HN",
+   "title": "Minimal Phone 2",
+   "body": "230ポイント / コメント201件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49749369"
+  },
+  {
+   "tag": "HN",
+   "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
+   "body": "78ポイント / コメント12件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49758615"
   }
  ]
 }
