@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-20T21:25:19+09:00",
+ "generated_at": "2026-09-21T01:50:01+09:00",
  "items": [
+  {
+   "tag": "WIKI",
+   "title": "ラグラム・ラジャン",
+   "body": "ラグラム・ゴヴィンダ・ラジャン は、インドの経済学者。シカゴ大学経営大学院教授 や、インドの中央銀行であるインド準備銀行の総裁を務めた。専門は金融論、銀行論。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%A0%E3%83%BB%E3%83%A9%E3%82%B8%E3%83%A3%E3%83%B3"
+  },
+  {
+   "tag": "WIKI",
+   "title": "神田須田町",
+   "body": "神田須田町（かんだすだちょう）は、東京都千代田区の地名。現行行政地名は神田須田町一丁目および神田須田町二丁目。住居表示に関する法律に基づく住居表示は未実施である。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E7%A5%9E%E7%94%B0%E9%A0%88%E7%94%B0%E7%94%BA"
+  },
+  {
+   "tag": "HN",
+   "title": "Prompts Aren't Real",
+   "body": "4ポイント / コメント0件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49777111"
+  },
+  {
+   "tag": "HN",
+   "title": "UTF-8000: Unlimited UTF-8",
+   "body": "100ポイント / コメント75件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49772677"
+  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "雨。最高22.9℃ / 最低21.5℃。いまは21.6℃。",
+   "body": "強い雨。最高26.0℃ / 最低21.4℃。いまは21.4℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Regeneration of used batteries via electrode–electrolyte interphase d…",
-   "body": "61ポイント / コメント4件。",
+   "title": "Custom home server built from spare parts",
+   "body": "4ポイント / コメント0件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49754055"
-  },
-  {
-   "tag": "WIKI",
-   "title": "戸室山 (宇都宮市)",
-   "body": "戸室山（とむろさん、とむろやま）は、栃木県宇都宮市大谷町にある標高228mの山。大谷七名山のうちの1つとされている。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%88%B8%E5%AE%A4%E5%B1%B1_(%E5%AE%87%E9%83%BD%E5%AE%AE%E5%B8%82)"
-  },
-  {
-   "tag": "HN",
-   "title": "What Zig felt like, coming from Rust",
-   "body": "234ポイント / コメント284件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49766637"
-  },
-  {
-   "tag": "WIKI",
-   "title": "マンシュ県",
-   "body": "マンシュ県 は、フランスのノルマンディー地域圏の県である。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A5%E7%9C%8C"
-  },
-  {
-   "tag": "HN",
-   "title": "The Lamentable Later Life of Lemmings",
-   "body": "106ポイント / コメント18件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49767242"
+   "url": "https://news.ycombinator.com/item?id=49776960"
   }
  ]
 }
