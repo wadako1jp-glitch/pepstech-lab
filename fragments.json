@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-20T15:21:23+09:00",
+ "generated_at": "2026-09-20T21:25:19+09:00",
  "items": [
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "雨。最高22.7℃ / 最低21.5℃。いまは22.3℃。",
+   "body": "雨。最高22.9℃ / 最低21.5℃。いまは21.6℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "WIKI",
-   "title": "西尾末広",
-   "body": "西尾 末広 は、日本の労働運動家・政治家。位階は正三位。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E5%B0%BE%E6%9C%AB%E5%BA%83"
-  },
-  {
    "tag": "HN",
-   "title": "UFO Series Home Page: \"UFO\" TV Series from 1970",
-   "body": "71ポイント / コメント33件。",
+   "title": "Regeneration of used batteries via electrode–electrolyte interphase d…",
+   "body": "61ポイント / コメント4件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49754194"
+   "url": "https://news.ycombinator.com/item?id=49754055"
   },
   {
    "tag": "WIKI",
-   "title": "真弓鑵子塚古墳",
-   "body": "真弓鑵子塚古墳（まゆみかんすづかこふん）は、奈良県高市郡明日香村真弓にある古墳。形状は円墳。史跡指定はされていない。",
+   "title": "戸室山 (宇都宮市)",
+   "body": "戸室山（とむろさん、とむろやま）は、栃木県宇都宮市大谷町にある標高228mの山。大谷七名山のうちの1つとされている。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E7%9C%9F%E5%BC%93%E9%91%B5%E5%AD%90%E5%A1%9A%E5%8F%A4%E5%A2%B3"
+   "url": "https://ja.wikipedia.org/wiki/%E6%88%B8%E5%AE%A4%E5%B1%B1_(%E5%AE%87%E9%83%BD%E5%AE%AE%E5%B8%82)"
   },
   {
    "tag": "HN",
-   "title": "Step 5 Preview: Advancing the Pareto Frontier",
-   "body": "26ポイント / コメント4件。",
+   "title": "What Zig felt like, coming from Rust",
+   "body": "234ポイント / コメント284件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49772532"
+   "url": "https://news.ycombinator.com/item?id=49766637"
+  },
+  {
+   "tag": "WIKI",
+   "title": "マンシュ県",
+   "body": "マンシュ県 は、フランスのノルマンディー地域圏の県である。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A5%E7%9C%8C"
   },
   {
    "tag": "HN",
-   "title": "Compiler-style optimization for drawing via Skia",
-   "body": "98ポイント / コメント21件。",
+   "title": "The Lamentable Later Life of Lemmings",
+   "body": "106ポイント / コメント18件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49743934"
+   "url": "https://news.ycombinator.com/item?id=49767242"
   }
  ]
 }
