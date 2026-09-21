@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-21T23:13:59+09:00",
+ "generated_at": "2026-09-22T04:32:12+09:00",
  "items": [
   {
    "tag": "WIKI",
-   "title": "通化市",
-   "body": "通化市（つうか-し）は、中華人民共和国吉林省西南部に位置する地級市で集安市も含んでいる。1985年通化地区所署から省轄市に昇格した。国家歴史文化名城である。 なお、1945年8月9日…",
+   "title": "アーニー・エルス",
+   "body": "アーニー・エルス は、南アフリカ・ヨハネスブルグ出身のプロゴルファー。ゆったりとした優雅なスイングと、大柄でおっとりした物腰から「The Big Easy（ビッグ・イージー）」という…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E9%80%9A%E5%8C%96%E5%B8%82"
-  },
-  {
-   "tag": "天気",
-   "title": "東京 きょう",
-   "body": "強い雨。最高26.0℃ / 最低21.1℃。いまは26.0℃。",
-   "src": "open-meteo.com",
-   "url": "https://open-meteo.com/"
-  },
-  {
-   "tag": "HN",
-   "title": "ZuckOff Know when a camera is in the room",
-   "body": "499ポイント / コメント209件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49785429"
-  },
-  {
-   "tag": "HN",
-   "title": "Disney+: New user agreement allows ads before movies in all subscript…",
-   "body": "261ポイント / コメント184件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49784336"
-  },
-  {
-   "tag": "WIKI",
-   "title": "ハンス・クリスチャン・ヘグ",
-   "body": "ハンス・クリスチャン・ヘグ は、ノルウェー系アメリカ人のジャーナリストで、反奴隷制活動家、政治家、兵士。アメリカ南北戦争では北欧人による第15ウィスコンシン義勇連隊を率いたことで有名…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%B3%E3%82%B9%E3%83%BB%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%81%E3%83%A3%E3%83%B3%E3%83%BB%E3%83%98%E3%82%B0"
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%BC%E3%83%8B%E3%83%BC%E3%83%BB%E3%82%A8%E3%83%AB%E3%82%B9"
   },
   {
    "tag": "HN",
    "title": "Raspberry Pi blocks changing RAM chips",
-   "body": "78ポイント / コメント58件。",
+   "body": "182ポイント / コメント144件。",
    "src": "news.ycombinator.com",
    "url": "https://news.ycombinator.com/item?id=49786689"
+  },
+  {
+   "tag": "HN",
+   "title": "Grok 4.7",
+   "body": "340ポイント / コメント283件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49788838"
+  },
+  {
+   "tag": "天気",
+   "title": "東京 きょう",
+   "body": "薄曇り。最高30.9℃ / 最低23.8℃。いまは25.8℃。",
+   "src": "open-meteo.com",
+   "url": "https://open-meteo.com/"
+  },
+  {
+   "tag": "WIKI",
+   "title": "バラク・オバマ",
+   "body": "バラク・フセイン・オバマ2世 は、アメリカ合衆国の政治家。同国第44代大統領。民主党に所属し、イリノイ州議会上院議員、同州選出連邦上院議員を歴任した。2009年1月20日、初のアフリ…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%A9%E3%82%AF%E3%83%BB%E3%82%AA%E3%83%90%E3%83%9E"
+  },
+  {
+   "tag": "HN",
+   "title": "A restored PDP-11/83 serving this page on 211BSD Unix",
+   "body": "58ポイント / コメント25件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49788773"
   }
  ]
 }
