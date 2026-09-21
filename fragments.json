@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-21T15:24:45+09:00",
+ "generated_at": "2026-09-21T23:13:59+09:00",
  "items": [
+  {
+   "tag": "WIKI",
+   "title": "通化市",
+   "body": "通化市（つうか-し）は、中華人民共和国吉林省西南部に位置する地級市で集安市も含んでいる。1985年通化地区所署から省轄市に昇格した。国家歴史文化名城である。 なお、1945年8月9日…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E9%80%9A%E5%8C%96%E5%B8%82"
+  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "強い雨。最高25.6℃ / 最低21.1℃。いまは25.1℃。",
+   "body": "強い雨。最高26.0℃ / 最低21.1℃。いまは26.0℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Deterministic Core, Non-Deterministic Shell",
-   "body": "29ポイント / コメント2件。",
+   "title": "ZuckOff Know when a camera is in the room",
+   "body": "499ポイント / コメント209件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49782220"
+   "url": "https://news.ycombinator.com/item?id=49785429"
   },
   {
    "tag": "HN",
-   "title": "A Necessary History of the Oddest Letter: W",
-   "body": "124ポイント / コメント61件。",
+   "title": "Disney+: New user agreement allows ads before movies in all subscript…",
+   "body": "261ポイント / コメント184件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49778195"
+   "url": "https://news.ycombinator.com/item?id=49784336"
+  },
+  {
+   "tag": "WIKI",
+   "title": "ハンス・クリスチャン・ヘグ",
+   "body": "ハンス・クリスチャン・ヘグ は、ノルウェー系アメリカ人のジャーナリストで、反奴隷制活動家、政治家、兵士。アメリカ南北戦争では北欧人による第15ウィスコンシン義勇連隊を率いたことで有名…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%B3%E3%82%B9%E3%83%BB%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%81%E3%83%A3%E3%83%B3%E3%83%BB%E3%83%98%E3%82%B0"
   },
   {
    "tag": "HN",
-   "title": "Qwen Image 2.1",
-   "body": "583ポイント / コメント162件。",
+   "title": "Raspberry Pi blocks changing RAM chips",
+   "body": "78ポイント / コメント58件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49775499"
-  },
-  {
-   "tag": "WIKI",
-   "title": "ピッサヌローク駅",
-   "body": "ピッサヌローク駅 は、タイ王国北部ピッサヌローク県ムアンピッサヌローク郡にある、タイ国有鉄道北本線の駅である。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%94%E3%83%83%E3%82%B5%E3%83%8C%E3%83%AD%E3%83%BC%E3%82%AF%E9%A7%85"
-  },
-  {
-   "tag": "WIKI",
-   "title": "エマ・マッキー",
-   "body": "エマ・マッキー は、イギリスの女優。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%9E%E3%83%BB%E3%83%9E%E3%83%83%E3%82%AD%E3%83%BC"
+   "url": "https://news.ycombinator.com/item?id=49786689"
   }
  ]
 }
