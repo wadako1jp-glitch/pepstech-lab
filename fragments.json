@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-21T10:09:18+09:00",
+ "generated_at": "2026-09-21T15:24:45+09:00",
  "items": [
-  {
-   "tag": "HN",
-   "title": "Nobody pays for FOSS, we can force them to",
-   "body": "134ポイント / コメント99件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49780064"
-  },
-  {
-   "tag": "HN",
-   "title": "Why MCP Was Always a Bad Idea?",
-   "body": "34ポイント / コメント59件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49779329"
-  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "強い雨。最高25.7℃ / 最低21.1℃。いまは22.2℃。",
+   "body": "強い雨。最高25.6℃ / 最低21.1℃。いまは25.1℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "WIKI",
-   "title": "老人福祉法",
-   "body": "老人福祉法 は、老人の福祉に関する原理を明らかにするとともに、老人に対し、その心身の健康の保持及び生活の安定のために必要な措置を講じ、もって老人の福祉を図ることに関する法律である。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E8%80%81%E4%BA%BA%E7%A6%8F%E7%A5%89%E6%B3%95"
+   "tag": "HN",
+   "title": "Deterministic Core, Non-Deterministic Shell",
+   "body": "29ポイント / コメント2件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49782220"
   },
   {
    "tag": "HN",
-   "title": "Software sandboxing: The basics (2025)",
-   "body": "64ポイント / コメント8件。",
+   "title": "A Necessary History of the Oddest Letter: W",
+   "body": "124ポイント / コメント61件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49778670"
+   "url": "https://news.ycombinator.com/item?id=49778195"
+  },
+  {
+   "tag": "HN",
+   "title": "Qwen Image 2.1",
+   "body": "583ポイント / コメント162件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49775499"
   },
   {
    "tag": "WIKI",
-   "title": "教科用図書",
-   "body": "教科用図書（きょうかようとしょ）は、日本の学校教育法に基づいて、初等教育・中等教育・高等教育において主たる教材として使用される図書のことである。「教科書」とも呼ばれるが、「教科書」に…",
+   "title": "ピッサヌローク駅",
+   "body": "ピッサヌローク駅 は、タイ王国北部ピッサヌローク県ムアンピッサヌローク郡にある、タイ国有鉄道北本線の駅である。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%95%99%E7%A7%91%E7%94%A8%E5%9B%B3%E6%9B%B8"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%94%E3%83%83%E3%82%B5%E3%83%8C%E3%83%AD%E3%83%BC%E3%82%AF%E9%A7%85"
+  },
+  {
+   "tag": "WIKI",
+   "title": "エマ・マッキー",
+   "body": "エマ・マッキー は、イギリスの女優。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%9E%E3%83%BB%E3%83%9E%E3%83%83%E3%82%AD%E3%83%BC"
   }
  ]
 }
