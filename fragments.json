@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-22T23:57:41+09:00",
+ "generated_at": "2026-09-23T03:57:02+09:00",
  "items": [
   {
-   "tag": "WIKI",
-   "title": "森正",
-   "body": "森 正 は、日本の指揮者・フルート奏者。日本指揮者協会設立メンバー。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%A3%AE%E6%AD%A3"
-  },
-  {
    "tag": "HN",
-   "title": "Texas police department ordered to close for failing to provide publi…",
-   "body": "31ポイント / コメント11件。",
+   "title": "Training a model to identify AI-generated web content from structure …",
+   "body": "11ポイント / コメント2件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49801190"
-  },
-  {
-   "tag": "WIKI",
-   "title": "サルバドール・エドワード・ルリア",
-   "body": "サルバドール・エドワード・ルリア は、イタリアの微生物学者。ファージの研究の草分けであり、分子生物学を創始した一人でもある。マックス・デルブリュック、アルフレッド・ハーシーとともに1…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%AB%E3%83%90%E3%83%89%E3%83%BC%E3%83%AB%E3%83%BB%E3%82%A8%E3%83%89%E3%83%AF%E3%83%BC%E3%83%89%E3%83%BB%E3%83%AB%E3%83%AA%E3%82%A2"
-  },
-  {
-   "tag": "HN",
-   "title": "AI Has No Wisdom and Neither Will You",
-   "body": "269ポイント / コメント383件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49799965"
+   "url": "https://news.ycombinator.com/item?id=49800566"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "薄曇り。最高30.4℃ / 最低23.2℃。いまは23.1℃。",
+   "body": "曇り。最高22.8℃ / 最低20.6℃。いまは21.7℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
+   "tag": "WIKI",
+   "title": "ジャン・デ・クラーク",
+   "body": "ジャン・デ・クラーク は、南アフリカのラグビーユニオン選手。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%BB%E3%83%87%E3%83%BB%E3%82%AF%E3%83%A9%E3%83%BC%E3%82%AF"
+  },
+  {
+   "tag": "WIKI",
+   "title": "鹿児島県庁舎",
+   "body": "鹿児島県庁舎（かごしまけんちょうしゃ）は、鹿児島県鹿児島市鴨池新町にある広域自治体である鹿児島県の役所（鹿児島県庁）が入居する施設。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%E5%BA%81%E8%88%8E"
+  },
+  {
    "tag": "HN",
-   "title": "9 Ads per Minute: FIFA Cup 26 – \"the price of the beautiful game\"",
-   "body": "136ポイント / コメント171件。",
+   "title": "Side-stepping the Secretary Problem, unwittingly",
+   "body": "20ポイント / コメント1件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49799083"
+   "url": "https://news.ycombinator.com/item?id=49796260"
+  },
+  {
+   "tag": "HN",
+   "title": "Show HN: Drop – A rootless Linux sandbox with gVisor support",
+   "body": "122ポイント / コメント40件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49801329"
   }
  ]
 }
