@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-22T08:19:05+09:00",
+ "generated_at": "2026-09-22T14:01:50+09:00",
  "items": [
   {
-   "tag": "WIKI",
-   "title": "長興寺 (埼玉県横瀬町)",
-   "body": "長興寺（ちょうこうじ）は、埼玉県秩父郡横瀬町にある臨済宗南禅寺派の寺院。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E9%95%B7%E8%88%88%E5%AF%BA_(%E5%9F%BC%E7%8E%89%E7%9C%8C%E6%A8%AA%E7%80%AC%E7%94%BA)"
-  },
-  {
    "tag": "HN",
-   "title": "Python Workers are now generally available",
-   "body": "171ポイント / コメント28件。",
+   "title": "I don't want to read what you didn't write",
+   "body": "459ポイント / コメント156件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49787142"
-  },
-  {
-   "tag": "HN",
-   "title": "Turn off and restrict access to Apple Intelligence features on Mac",
-   "body": "216ポイント / コメント145件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49790409"
+   "url": "https://news.ycombinator.com/item?id=49794330"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "薄曇り。最高30.9℃ / 最低23.8℃。いまは26.6℃。",
+   "body": "曇り。最高30.3℃ / 最低24.0℃。いまは30.3℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
+   "tag": "HN",
+   "title": "Python Workers are now generally available",
+   "body": "200ポイント / コメント34件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49787142"
+  },
+  {
    "tag": "WIKI",
-   "title": "コメット巡航戦車",
-   "body": "コメット巡航戦車 は、第二次世界大戦後期に登場したイギリスの巡航戦車（35トン級）である。",
+   "title": "長野県立美術館",
+   "body": "長野県立美術館 は、長野県長野市にある県立美術館。善光寺東側の城山公園内に立地する。前身は長野県信濃美術館（ながのけんしなのびじゅつかん）。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%A1%E3%83%83%E3%83%88%E5%B7%A1%E8%88%AA%E6%88%A6%E8%BB%8A"
+   "url": "https://ja.wikipedia.org/wiki/%E9%95%B7%E9%87%8E%E7%9C%8C%E7%AB%8B%E7%BE%8E%E8%A1%93%E9%A4%A8"
+  },
+  {
+   "tag": "WIKI",
+   "title": "オルペウスとエウリュディケ (ルーベンス)",
+   "body": "『オルペウスとエウリュディケ』 は、バロック期のフランドルの巨匠ピーテル・パウル・ルーベンスが1636年から1638年に制作した絵画である。油彩。オウィディウスの『変身物語』でも言及…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%AB%E3%83%9A%E3%82%A6%E3%82%B9%E3%81%A8%E3%82%A8%E3%82%A6%E3%83%AA%E3%83%A5%E3%83%87%E3%82%A3%E3%82%B1_(%E3%83%AB%E3%83%BC%E3%83%99%E3%83%B3%E3%82%B9)"
   },
   {
    "tag": "HN",
-   "title": "TXR: An Original, New Programming Language for Convenient Data Munging",
-   "body": "13ポイント / コメント0件。",
+   "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+   "body": "420ポイント / コメント191件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49783274"
+   "url": "https://news.ycombinator.com/item?id=49783999"
   }
  ]
 }
