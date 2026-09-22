@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-23T03:57:02+09:00",
+ "generated_at": "2026-09-23T07:12:53+09:00",
  "items": [
   {
+   "tag": "WIKI",
+   "title": "タングラムスキーサーカス",
+   "body": "タングラムスキーサーカスは、長野県上水内郡信濃町大字古海にあるスキー場で、東急不動産が1989年に開業させた複合リゾート施設。株式会社タングラム斑尾により運営される。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%A0%E3%82%B9%E3%82%AD%E3%83%BC%E3%82%B5%E3%83%BC%E3%82%AB%E3%82%B9"
+  },
+  {
    "tag": "HN",
-   "title": "Training a model to identify AI-generated web content from structure …",
-   "body": "11ポイント / コメント2件。",
+   "title": "Did OpenAI solve the wrong Navier-Stokes problem?",
+   "body": "69ポイント / コメント31件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49800566"
+   "url": "https://news.ycombinator.com/item?id=49795260"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "曇り。最高22.8℃ / 最低20.6℃。いまは21.7℃。",
+   "body": "曇り。最高23.1℃ / 最低20.5℃。いまは21.6℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "WIKI",
-   "title": "ジャン・デ・クラーク",
-   "body": "ジャン・デ・クラーク は、南アフリカのラグビーユニオン選手。",
+   "title": "鹿屋市立第一鹿屋中学校",
+   "body": "鹿屋市立第一鹿屋中学校 は、鹿児島県鹿屋市西原二丁目にある公立中学校。略称は「一中」（いっちゅう）。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%BB%E3%83%87%E3%83%BB%E3%82%AF%E3%83%A9%E3%83%BC%E3%82%AF"
-  },
-  {
-   "tag": "WIKI",
-   "title": "鹿児島県庁舎",
-   "body": "鹿児島県庁舎（かごしまけんちょうしゃ）は、鹿児島県鹿児島市鴨池新町にある広域自治体である鹿児島県の役所（鹿児島県庁）が入居する施設。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%E5%BA%81%E8%88%8E"
+   "url": "https://ja.wikipedia.org/wiki/%E9%B9%BF%E5%B1%8B%E5%B8%82%E7%AB%8B%E7%AC%AC%E4%B8%80%E9%B9%BF%E5%B1%8B%E4%B8%AD%E5%AD%A6%E6%A0%A1"
   },
   {
    "tag": "HN",
-   "title": "Side-stepping the Secretary Problem, unwittingly",
-   "body": "20ポイント / コメント1件。",
+   "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
+   "body": "69ポイント / コメント41件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49796260"
+   "url": "https://news.ycombinator.com/item?id=49808023"
   },
   {
    "tag": "HN",
-   "title": "Show HN: Drop – A rootless Linux sandbox with gVisor support",
-   "body": "122ポイント / コメント40件。",
+   "title": "WordPress: Unauthenticated path traversal leading to conditional RCE",
+   "body": "130ポイント / コメント66件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49801329"
+   "url": "https://news.ycombinator.com/item?id=49803959"
   }
  ]
 }
