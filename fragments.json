@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-23T07:12:53+09:00",
+ "generated_at": "2026-09-23T09:38:14+09:00",
  "items": [
   {
    "tag": "WIKI",
-   "title": "タングラムスキーサーカス",
-   "body": "タングラムスキーサーカスは、長野県上水内郡信濃町大字古海にあるスキー場で、東急不動産が1989年に開業させた複合リゾート施設。株式会社タングラム斑尾により運営される。",
+   "title": "フランス領ソマリランド",
+   "body": "フランス領ソマリランド は、1884年から1967年まで存在したアフリカの角にあるフランスの植民地である。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%A0%E3%82%B9%E3%82%AD%E3%83%BC%E3%82%B5%E3%83%BC%E3%82%AB%E3%82%B9"
-  },
-  {
-   "tag": "HN",
-   "title": "Did OpenAI solve the wrong Navier-Stokes problem?",
-   "body": "69ポイント / コメント31件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49795260"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E9%A0%98%E3%82%BD%E3%83%9E%E3%83%AA%E3%83%A9%E3%83%B3%E3%83%89"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "曇り。最高23.1℃ / 最低20.5℃。いまは21.6℃。",
+   "body": "霧雨。最高22.7℃ / 最低19.7℃。いまは22.1℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
+   "tag": "HN",
+   "title": "SAML: A fractal of bad design",
+   "body": "135ポイント / コメント80件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49806335"
+  },
+  {
+   "tag": "HN",
+   "title": "Obscura: VPN that can't log your activity",
+   "body": "71ポイント / コメント71件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49807003"
+  },
+  {
+   "tag": "HN",
+   "title": "Pentagon says overreliance on AI contributed to missile strike on Ira…",
+   "body": "371ポイント / コメント191件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49806430"
+  },
+  {
    "tag": "WIKI",
-   "title": "鹿屋市立第一鹿屋中学校",
-   "body": "鹿屋市立第一鹿屋中学校 は、鹿児島県鹿屋市西原二丁目にある公立中学校。略称は「一中」（いっちゅう）。",
+   "title": "槇尾山明神社",
+   "body": "槙尾山明神社（まきおさんみょうじんしゃ）は和歌山県九度山町九度山にある社。旧伊都郡官省符荘九度山村の東3町程の槇尾山に鎮座する九度山村の氏神。現在の住所は和歌山県伊都郡九度山町九度山…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E9%B9%BF%E5%B1%8B%E5%B8%82%E7%AB%8B%E7%AC%AC%E4%B8%80%E9%B9%BF%E5%B1%8B%E4%B8%AD%E5%AD%A6%E6%A0%A1"
-  },
-  {
-   "tag": "HN",
-   "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
-   "body": "69ポイント / コメント41件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49808023"
-  },
-  {
-   "tag": "HN",
-   "title": "WordPress: Unauthenticated path traversal leading to conditional RCE",
-   "body": "130ポイント / コメント66件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49803959"
+   "url": "https://ja.wikipedia.org/wiki/%E6%A7%87%E5%B0%BE%E5%B1%B1%E6%98%8E%E7%A5%9E%E7%A4%BE"
   }
  ]
 }
