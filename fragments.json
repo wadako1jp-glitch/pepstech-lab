@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-23T09:38:14+09:00",
+ "generated_at": "2026-09-23T15:01:07+09:00",
  "items": [
   {
    "tag": "WIKI",
-   "title": "フランス領ソマリランド",
-   "body": "フランス領ソマリランド は、1884年から1967年まで存在したアフリカの角にあるフランスの植民地である。",
+   "title": "PICO-8",
+   "body": "PICO-8（ピコエイト）は、Lexaloffle Gamesが製作した仮想マシンおよびゲームエンジンである。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E9%A0%98%E3%82%BD%E3%83%9E%E3%83%AA%E3%83%A9%E3%83%B3%E3%83%89"
+   "url": "https://ja.wikipedia.org/wiki/PICO-8"
+  },
+  {
+   "tag": "HN",
+   "title": "No Easy Fix for Bogus Respondents in Online Opt-In Polls",
+   "body": "13ポイント / コメント1件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49795337"
+  },
+  {
+   "tag": "HN",
+   "title": "Transit rewards (Waymo pays you to take the train)",
+   "body": "89ポイント / コメント62件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49811065"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高22.7℃ / 最低19.7℃。いまは22.1℃。",
+   "body": "霧雨。最高22.7℃ / 最低19.5℃。いまは20.5℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "SAML: A fractal of bad design",
-   "body": "135ポイント / コメント80件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49806335"
-  },
-  {
-   "tag": "HN",
-   "title": "Obscura: VPN that can't log your activity",
-   "body": "71ポイント / コメント71件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49807003"
-  },
-  {
-   "tag": "HN",
    "title": "Pentagon says overreliance on AI contributed to missile strike on Ira…",
-   "body": "371ポイント / コメント191件。",
+   "body": "548ポイント / コメント267件。",
    "src": "news.ycombinator.com",
    "url": "https://news.ycombinator.com/item?id=49806430"
   },
   {
    "tag": "WIKI",
-   "title": "槇尾山明神社",
-   "body": "槙尾山明神社（まきおさんみょうじんしゃ）は和歌山県九度山町九度山にある社。旧伊都郡官省符荘九度山村の東3町程の槇尾山に鎮座する九度山村の氏神。現在の住所は和歌山県伊都郡九度山町九度山…",
+   "title": "ラリー・ドイル",
+   "body": "ローレンス・ジョゼフ・\"ラリー\"・ドイル は、アメリカ合衆国イリノイ州ケイシーヴィル出身の元プロ野球選手（二塁手）。右投げ左打ち。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%A7%87%E5%B0%BE%E5%B1%B1%E6%98%8E%E7%A5%9E%E7%A4%BE"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%89%E3%82%A4%E3%83%AB"
   }
  ]
 }
