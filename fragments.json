@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-23T20:42:29+09:00",
+ "generated_at": "2026-09-24T02:06:13+09:00",
  "items": [
   {
    "tag": "HN",
-   "title": "ReBarUEFI: Resizable BAR for almost any UEFI system",
-   "body": "171ポイント / コメント52件。",
+   "title": "GPT-6 Sol and Luna",
+   "body": "1678ポイント / コメント804件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49781862"
+   "url": "https://news.ycombinator.com/item?id=49805509"
   },
   {
    "tag": "HN",
-   "title": "The current balance of power in open models",
-   "body": "96ポイント / コメント37件。",
+   "title": "Stripe's Knowledge AI Platform",
+   "body": "105ポイント / コメント60件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49808816"
+   "url": "https://news.ycombinator.com/item?id=49815982"
   },
   {
    "tag": "WIKI",
-   "title": "北大阪ほうせんか病院",
-   "body": "北大阪ほうせんか病院（きたおおさかほうせんかびょういん）は、医療法人成和会が大阪府茨木市室山に設置する病院。",
+   "title": "川辺大橋",
+   "body": "川辺大橋（かわべおおはし）は、岐阜県加茂郡川辺町の飛騨川に架かる、岐阜県道64号可児金山線の橋である。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%8C%97%E5%A4%A7%E9%98%AA%E3%81%BB%E3%81%86%E3%81%9B%E3%82%93%E3%81%8B%E7%97%85%E9%99%A2"
-  },
-  {
-   "tag": "HN",
-   "title": "WordPress: Unauthenticated path traversal leading to conditional RCE",
-   "body": "199ポイント / コメント102件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49803959"
+   "url": "https://ja.wikipedia.org/wiki/%E5%B7%9D%E8%BE%BA%E5%A4%A7%E6%A9%8B"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高22.7℃ / 最低19.0℃。いまは19.1℃。",
+   "body": "霧雨。最高28.6℃ / 最低18.7℃。いまは18.9℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
+   "tag": "HN",
+   "title": "Gemini 3.8 text-to-speech",
+   "body": "74ポイント / コメント37件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49817615"
+  },
+  {
    "tag": "WIKI",
-   "title": "チェーヴァ",
-   "body": "チェーヴァ は、イタリア共和国ピエモンテ州クーネオ県にある、人口約5,800人の基礎自治体（コムーネ）。",
+   "title": "渋谷向山古墳",
+   "body": "渋谷向山古墳（しぶたにむかいやまこふん）は、奈良県天理市渋谷町にある古墳。形状は前方後円墳。オオヤマト古墳群（うち柳本古墳群）を構成する古墳の1つ。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B4%E3%82%A1"
+   "url": "https://ja.wikipedia.org/wiki/%E6%B8%8B%E8%B0%B7%E5%90%91%E5%B1%B1%E5%8F%A4%E5%A2%B3"
   }
  ]
 }
