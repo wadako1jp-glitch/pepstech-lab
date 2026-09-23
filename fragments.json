@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-24T05:25:39+09:00",
+ "generated_at": "2026-09-24T08:44:27+09:00",
  "items": [
   {
-   "tag": "HN",
-   "title": "Tokens too cheap to meter",
-   "body": "179ポイント / コメント151件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49813482"
+   "tag": "WIKI",
+   "title": "カオス理論",
+   "body": "カオス理論 とは、力学系の一部に見られる、数的誤差により予測できないとされている複雑な様子を示す現象を扱う理論である。カオス力学ともいう。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%AA%E3%82%B9%E7%90%86%E8%AB%96"
   },
   {
-   "tag": "WIKI",
-   "title": "垂井町",
-   "body": "垂井町（たるいちょう）は、岐阜県西部（西濃）の不破郡に属する町。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%9E%82%E4%BA%95%E7%94%BA"
+   "tag": "HN",
+   "title": "LensVLM: Compressing long context as images, expanding only relevant …",
+   "body": "39ポイント / コメント3件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49820496"
+  },
+  {
+   "tag": "HN",
+   "title": "Seattle City Council votes to ban surveillance pricing in sale of gro…",
+   "body": "282ポイント / コメント175件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49816374"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高28.6℃ / 最低19.1℃。いまは19.1℃。",
+   "body": "霧雨。最高28.4℃ / 最低19.3℃。いまは21.9℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "HN",
-   "title": "Italian parliament votes for return to nuclear energy",
-   "body": "305ポイント / コメント175件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49819221"
-  },
-  {
    "tag": "WIKI",
-   "title": "サントドミンゴ地下鉄",
-   "body": "サントドミンゴ地下鉄 とは、ドミニカ共和国の首都サントドミンゴ市で運営されている地下鉄である。スペインのマドリード地下鉄の技術協力を得て建設が行われ、2009年1月30日、シャルル・…",
+   "title": "ダブリンバイク",
+   "body": "ダブリンバイク（Dublinbikes）はアイルランドのダブリンで利用できる自転車シェアリング。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%88%E3%83%89%E3%83%9F%E3%83%B3%E3%82%B4%E5%9C%B0%E4%B8%8B%E9%89%84"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%96%E3%83%AA%E3%83%B3%E3%83%90%E3%82%A4%E3%82%AF"
   },
   {
    "tag": "HN",
-   "title": "DoorDash Spent $1.4M Trying to Stop Mamdani from Becoming Mayor. Now …",
-   "body": "46ポイント / コメント5件。",
+   "title": "A brief history of Windows scroll bar shortcuts",
+   "body": "101ポイント / コメント42件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49821608"
+   "url": "https://news.ycombinator.com/item?id=49820065"
   }
  ]
 }
