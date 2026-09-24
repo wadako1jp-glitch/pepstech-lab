@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-24T13:56:26+09:00",
+ "generated_at": "2026-09-24T19:04:46+09:00",
  "items": [
   {
-   "tag": "WIKI",
-   "title": "リトアニア語版ウィキペディア",
-   "body": "リトアニア語版ウィキペディア は、リトアニア語で編集されているウィキペディアである。2003年2月20日設立されたが、記事が充実し始めるのは2004年に入ってからのことであった。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%88%E3%82%A2%E3%83%8B%E3%82%A2%E8%AA%9E%E7%89%88%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%9A%E3%83%87%E3%82%A3%E3%82%A2"
-  },
-  {
    "tag": "HN",
-   "title": "Fixing the Portobello Police Station Clock",
-   "body": "395ポイント / コメント94件。",
+   "title": "Tokens too cheap to meter",
+   "body": "298ポイント / コメント204件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49817469"
-  },
-  {
-   "tag": "HN",
-   "title": "Australia says OpenAI agent hacked into government website",
-   "body": "68ポイント / コメント47件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49825024"
+   "url": "https://news.ycombinator.com/item?id=49813482"
   },
   {
    "tag": "WIKI",
-   "title": "中央林間駅",
-   "body": "中央林間駅（ちゅうおうりんかんえき）は、神奈川県大和市中央林間にある、小田急電鉄・東急電鉄の駅。大和市北部の中心駅となっている。",
+   "title": "太市駅",
+   "body": "太市駅（おおいちえき）は、兵庫県姫路市相野にある、西日本旅客鉄道（JR西日本）姫新線の駅である。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%A4%AE%E6%9E%97%E9%96%93%E9%A7%85"
-  },
-  {
-   "tag": "HN",
-   "title": "Augustofaces: Pareidolia Fine Art",
-   "body": "22ポイント / コメント3件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49809404"
+   "url": "https://ja.wikipedia.org/wiki/%E5%A4%AA%E5%B8%82%E9%A7%85"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高28.5℃ / 最低19.3℃。いまは28.4℃。",
+   "body": "霧雨。最高28.6℃ / 最低19.3℃。いまは24.8℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
+  },
+  {
+   "tag": "HN",
+   "title": "Women Who Sold Books Door to Door",
+   "body": "22ポイント / コメント0件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49793249"
+  },
+  {
+   "tag": "HN",
+   "title": "Data liberation: Apache Kafka's native cluster mirroring",
+   "body": "14ポイント / コメント1件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49801700"
+  },
+  {
+   "tag": "WIKI",
+   "title": "50000",
+   "body": "50000（五万、ごまん）は自然数、また整数において、49999の次で50001の前の数である。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/50000"
   }
  ]
 }
