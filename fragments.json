@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-24T08:44:27+09:00",
+ "generated_at": "2026-09-24T13:56:26+09:00",
  "items": [
   {
    "tag": "WIKI",
-   "title": "カオス理論",
-   "body": "カオス理論 とは、力学系の一部に見られる、数的誤差により予測できないとされている複雑な様子を示す現象を扱う理論である。カオス力学ともいう。",
+   "title": "リトアニア語版ウィキペディア",
+   "body": "リトアニア語版ウィキペディア は、リトアニア語で編集されているウィキペディアである。2003年2月20日設立されたが、記事が充実し始めるのは2004年に入ってからのことであった。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%AA%E3%82%B9%E7%90%86%E8%AB%96"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%88%E3%82%A2%E3%83%8B%E3%82%A2%E8%AA%9E%E7%89%88%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%9A%E3%83%87%E3%82%A3%E3%82%A2"
   },
   {
    "tag": "HN",
-   "title": "LensVLM: Compressing long context as images, expanding only relevant …",
-   "body": "39ポイント / コメント3件。",
+   "title": "Fixing the Portobello Police Station Clock",
+   "body": "395ポイント / コメント94件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49820496"
+   "url": "https://news.ycombinator.com/item?id=49817469"
   },
   {
    "tag": "HN",
-   "title": "Seattle City Council votes to ban surveillance pricing in sale of gro…",
-   "body": "282ポイント / コメント175件。",
+   "title": "Australia says OpenAI agent hacked into government website",
+   "body": "68ポイント / コメント47件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49816374"
+   "url": "https://news.ycombinator.com/item?id=49825024"
+  },
+  {
+   "tag": "WIKI",
+   "title": "中央林間駅",
+   "body": "中央林間駅（ちゅうおうりんかんえき）は、神奈川県大和市中央林間にある、小田急電鉄・東急電鉄の駅。大和市北部の中心駅となっている。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%A4%AE%E6%9E%97%E9%96%93%E9%A7%85"
+  },
+  {
+   "tag": "HN",
+   "title": "Augustofaces: Pareidolia Fine Art",
+   "body": "22ポイント / コメント3件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49809404"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高28.4℃ / 最低19.3℃。いまは21.9℃。",
+   "body": "霧雨。最高28.5℃ / 最低19.3℃。いまは28.4℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
-  },
-  {
-   "tag": "WIKI",
-   "title": "ダブリンバイク",
-   "body": "ダブリンバイク（Dublinbikes）はアイルランドのダブリンで利用できる自転車シェアリング。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%96%E3%83%AA%E3%83%B3%E3%83%90%E3%82%A4%E3%82%AF"
-  },
-  {
-   "tag": "HN",
-   "title": "A brief history of Windows scroll bar shortcuts",
-   "body": "101ポイント / コメント42件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49820065"
   }
  ]
 }
