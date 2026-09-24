@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-25T00:09:40+09:00",
+ "generated_at": "2026-09-25T04:12:59+09:00",
  "items": [
+  {
+   "tag": "WIKI",
+   "title": "ジャック・ヘンドリー",
+   "body": "ジャック・ウィリアム・ヘンドリー は、スコットランド・グラスゴー出身のプロサッカー選手。スコットランド代表。アル・イテファク所属。ポジションはDF。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%83%BB%E3%83%98%E3%83%B3%E3%83%89%E3%83%AA%E3%83%BC"
+  },
+  {
+   "tag": "HN",
+   "title": "Book review: Is parallel programming hard, and, if so, what can you d…",
+   "body": "29ポイント / コメント1件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49787759"
+  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高26.1℃ / 最低20.6℃。いまは22.4℃。",
+   "body": "雨。最高26.7℃ / 最低20.4℃。いまは21.2℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "OpenAI agent hacked Australian government website, PM says",
-   "body": "209ポイント / コメント132件。",
+   "title": "F-Droid 2.0",
+   "body": "526ポイント / コメント156件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49825580"
-  },
-  {
-   "tag": "WIKI",
-   "title": "ポルト・チェレージオ",
-   "body": "ポルト・チェレージオ は、イタリア共和国ロンバルディア州ヴァレーゼ県にある、人口約2,800人の基礎自治体（コムーネ）。ルガーノ湖に面している。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%AB%E3%83%88%E3%83%BB%E3%83%81%E3%82%A7%E3%83%AC%E3%83%BC%E3%82%B8%E3%82%AA"
+   "url": "https://news.ycombinator.com/item?id=49831968"
   },
   {
    "tag": "HN",
-   "title": "The newest ESP32 can run Linux and it's getting close to a Raspberry …",
-   "body": "116ポイント / コメント44件。",
+   "title": "Show HN: Make cursed fonts like Times New Bastard",
+   "body": "96ポイント / コメント20件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49828969"
-  },
-  {
-   "tag": "HN",
-   "title": "Linux support is coming to Snapdragon X2 Series",
-   "body": "540ポイント / コメント221件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49823582"
+   "url": "https://news.ycombinator.com/item?id=49823738"
   },
   {
    "tag": "WIKI",
-   "title": "ボリビア国立美術館",
-   "body": "ボリビア国立美術館 は、ボリビアのラパスにある国立美術館である。ラパス旧市街中心部のコメルシオ通りとソカバヤ通りの角に位置し、18世紀に建てられたディエス・デ・メディナ邸 を館舎とし…",
+   "title": "村田諒太",
+   "body": "村田 諒太 は、日本の元プロボクサー。奈良県奈良市出身。元WBA世界ミドル級スーパー王者。ロンドンオリンピックミドル級金メダリスト。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%AA%E3%83%93%E3%82%A2%E5%9B%BD%E7%AB%8B%E7%BE%8E%E8%A1%93%E9%A4%A8"
+   "url": "https://ja.wikipedia.org/wiki/%E6%9D%91%E7%94%B0%E8%AB%92%E5%A4%AA"
   }
  ]
 }
