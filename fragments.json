@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-26T03:39:57+09:00",
+ "generated_at": "2026-09-26T07:24:02+09:00",
  "items": [
+  {
+   "tag": "HN",
+   "title": "First Principles Thinking",
+   "body": "190ポイント / コメント87件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49844736"
+  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "雨。最高21.9℃ / 最低17.7℃。いまは20.8℃。",
+   "body": "雨。最高21.9℃ / 最低17.7℃。いまは20.2℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "HN",
-   "title": "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
-   "body": "138ポイント / コメント72件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49845952"
+   "tag": "WIKI",
+   "title": "七ツ屋町",
+   "body": "七ツ屋町（ななつやまち）は、石川県金沢市の町名。現行行政地名。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E4%B8%83%E3%83%84%E5%B1%8B%E7%94%BA"
   },
   {
    "tag": "WIKI",
-   "title": "西阿知地区",
-   "body": "西阿知地区（にしあちちく）は、岡山県倉敷市倉敷地域にある地区である。かつての浅口郡西阿知町（にしあちちょう）にあたる。",
+   "title": "小池和男",
+   "body": "小池 和男 は、日本の経済学者。労働経済学専攻。学位は、経済学博士（東京大学・論文博士・1963年）。名古屋大学教授・京都大学教授・法政大学教授などを経て、法政大学名誉教授。新潟県出…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E9%98%BF%E7%9F%A5%E5%9C%B0%E5%8C%BA"
-  },
-  {
-   "tag": "WIKI",
-   "title": "二上山 (岡山県)",
-   "body": "二上山（ふたかみさん）は岡山県久米郡美咲町両山寺にある山。標高は689mである。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E4%BA%8C%E4%B8%8A%E5%B1%B1_(%E5%B2%A1%E5%B1%B1%E7%9C%8C)"
+   "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%B1%A0%E5%92%8C%E7%94%B7"
   },
   {
    "tag": "HN",
-   "title": "Toyota is taking the Corolla electric",
-   "body": "417ポイント / コメント760件。",
+   "title": "Excel now supports multiple values in a single cell",
+   "body": "7ポイント / コメント1件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49823568"
+   "url": "https://news.ycombinator.com/item?id=49849832"
   },
   {
    "tag": "HN",
-   "title": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
-   "body": "226ポイント / コメント74件。",
+   "title": "Show HN: Make math automatic with Mathy",
+   "body": "54ポイント / コメント9件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49843174"
+   "url": "https://news.ycombinator.com/item?id=49788014"
   }
  ]
 }
