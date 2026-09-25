@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-25T10:33:21+09:00",
+ "generated_at": "2026-09-25T16:52:49+09:00",
  "items": [
   {
-   "tag": "HN",
-   "title": "Show HN: Koi.rest – watch some fish and regain your balance",
-   "body": "125ポイント / コメント29件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49837006"
-  },
-  {
-   "tag": "HN",
-   "title": "Early rogue AI agent activity and attempts to hack found on urlquery.…",
-   "body": "244ポイント / コメント238件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49826565"
-  },
-  {
    "tag": "WIKI",
-   "title": "広江美奈",
-   "body": "広江 美奈 は、日本の女優、声優。所属：エムキューブ・デザイン。東京都立川市出身。",
+   "title": "栃木県道131号金崎停車場線",
+   "body": "栃木県道131号金崎停車場線 は、栃木県栃木市内を通る一般県道である。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%BA%83%E6%B1%9F%E7%BE%8E%E5%A5%88"
+   "url": "https://ja.wikipedia.org/wiki/%E6%A0%83%E6%9C%A8%E7%9C%8C%E9%81%93131%E5%8F%B7%E9%87%91%E5%B4%8E%E5%81%9C%E8%BB%8A%E5%A0%B4%E7%B7%9A"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "雨。最高26.8℃ / 最低21.2℃。いまは24.9℃。",
+   "body": "雨。最高26.6℃ / 最低21.2℃。いまは25.2℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "F-Droid 2.0",
-   "body": "929ポイント / コメント263件。",
+   "title": "Security auditing in the age of (good enough) AI",
+   "body": "85ポイント / コメント12件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49831968"
+   "url": "https://news.ycombinator.com/item?id=49793957"
   },
   {
    "tag": "WIKI",
-   "title": "ベック (ゲーム会社)",
-   "body": "株式会社ベック は、かつて存在した日本のゲーム会社。株式会社バンダイナムコゲームス（後のバンダイナムコエンターテインメント）の完全子会社であった。",
+   "title": "モシュチェナ",
+   "body": "モシュチェナ は、ウクライナのヴォルィーニ州にある村である。人口は581人。村の発足は1543年である。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%83%E3%82%AF_(%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE)"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%82%B7%E3%83%A5%E3%83%81%E3%82%A7%E3%83%8A"
+  },
+  {
+   "tag": "HN",
+   "title": "Writing Parquet files using Haskell",
+   "body": "54ポイント / コメント9件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49802510"
+  },
+  {
+   "tag": "HN",
+   "title": "The Efficiency-Throughput Gap with GitHub Copilot",
+   "body": "4ポイント / コメント2件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49841103"
   }
  ]
 }
