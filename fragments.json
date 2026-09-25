@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-25T16:52:49+09:00",
+ "generated_at": "2026-09-25T22:51:31+09:00",
  "items": [
   {
+   "tag": "HN",
+   "title": "What About Rails?",
+   "body": "135ポイント / コメント78件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49839664"
+  },
+  {
    "tag": "WIKI",
-   "title": "栃木県道131号金崎停車場線",
-   "body": "栃木県道131号金崎停車場線 は、栃木県栃木市内を通る一般県道である。",
+   "title": "Memtest86",
+   "body": "Memtest86 または Memtest86+ とは、PC/AT互換機向けの、主記憶装置（ランダムアクセスメモリ ）のテストツールである。オープンソース方式で開発が進められている。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%A0%83%E6%9C%A8%E7%9C%8C%E9%81%93131%E5%8F%B7%E9%87%91%E5%B4%8E%E5%81%9C%E8%BB%8A%E5%A0%B4%E7%B7%9A"
+   "url": "https://ja.wikipedia.org/wiki/Memtest86"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "雨。最高26.6℃ / 最低21.2℃。いまは25.2℃。",
+   "body": "雨。最高26.6℃ / 最低21.2℃。いまは22.2℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "HN",
-   "title": "Security auditing in the age of (good enough) AI",
-   "body": "85ポイント / コメント12件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49793957"
-  },
-  {
    "tag": "WIKI",
-   "title": "モシュチェナ",
-   "body": "モシュチェナ は、ウクライナのヴォルィーニ州にある村である。人口は581人。村の発足は1543年である。",
+   "title": "北九州市立葛原小学校",
+   "body": "北九州市立葛原小学校（きたきゅうしゅうしりつくずはらしょうがっこう）は、福岡県北九州市小倉南区葛原にある公立小学校。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%82%B7%E3%83%A5%E3%83%81%E3%82%A7%E3%83%8A"
+   "url": "https://ja.wikipedia.org/wiki/%E5%8C%97%E4%B9%9D%E5%B7%9E%E5%B8%82%E7%AB%8B%E8%91%9B%E5%8E%9F%E5%B0%8F%E5%AD%A6%E6%A0%A1"
   },
   {
    "tag": "HN",
-   "title": "Writing Parquet files using Haskell",
-   "body": "54ポイント / コメント9件。",
+   "title": "F-Droid 2.0",
+   "body": "1324ポイント / コメント380件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49802510"
+   "url": "https://news.ycombinator.com/item?id=49831968"
   },
   {
    "tag": "HN",
-   "title": "The Efficiency-Throughput Gap with GitHub Copilot",
-   "body": "4ポイント / コメント2件。",
+   "title": "Rails World 2026 Opening Keynote [video]",
+   "body": "367ポイント / コメント398件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49841103"
+   "url": "https://news.ycombinator.com/item?id=49817680"
   }
  ]
 }
