@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-25T07:27:42+09:00",
+ "generated_at": "2026-09-25T10:33:21+09:00",
  "items": [
   {
    "tag": "HN",
-   "title": "My weird new hobby: Wandering around Tokyo on Google Maps",
-   "body": "162ポイント / コメント70件。",
+   "title": "Show HN: Koi.rest – watch some fish and regain your balance",
+   "body": "125ポイント / コメント29件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49805344"
+   "url": "https://news.ycombinator.com/item?id=49837006"
+  },
+  {
+   "tag": "HN",
+   "title": "Early rogue AI agent activity and attempts to hack found on urlquery.…",
+   "body": "244ポイント / コメント238件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49826565"
+  },
+  {
+   "tag": "WIKI",
+   "title": "広江美奈",
+   "body": "広江 美奈 は、日本の女優、声優。所属：エムキューブ・デザイン。東京都立川市出身。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%BA%83%E6%B1%9F%E7%BE%8E%E5%A5%88"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "雨。最高26.7℃ / 最低20.4℃。いまは21.2℃。",
+   "body": "雨。最高26.8℃ / 最低21.2℃。いまは24.9℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "WIKI",
-   "title": "東城王",
-   "body": "東城王 は百済の第24代王 である。『三国史記』によれば、諱を牟大、あるいは摩帝とし、第22代の文周王の弟・昆支の子とする。名と系譜については以下の異説がある。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%9F%8E%E7%8E%8B"
-  },
-  {
-   "tag": "WIKI",
-   "title": "コワフュール・ア・ラ・フォンタンジュ",
-   "body": "コワフュール・ア・ラ・フォンタンジュ とは、17世紀後半から18世紀初頭にフランス上流階級を中心に流行した女性の髪飾りおよび髪型のこと。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AF%E3%83%95%E3%83%A5%E3%83%BC%E3%83%AB%E3%83%BB%E3%82%A2%E3%83%BB%E3%83%A9%E3%83%BB%E3%83%95%E3%82%A9%E3%83%B3%E3%82%BF%E3%83%B3%E3%82%B8%E3%83%A5"
-  },
-  {
    "tag": "HN",
-   "title": "2DWillNeverDie",
-   "body": "43ポイント / コメント2件。",
+   "title": "F-Droid 2.0",
+   "body": "929ポイント / コメント263件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49801436"
+   "url": "https://news.ycombinator.com/item?id=49831968"
   },
   {
-   "tag": "HN",
-   "title": "The Board Game of the Alpha Nerds (2014)",
-   "body": "23ポイント / コメント16件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49836590"
+   "tag": "WIKI",
+   "title": "ベック (ゲーム会社)",
+   "body": "株式会社ベック は、かつて存在した日本のゲーム会社。株式会社バンダイナムコゲームス（後のバンダイナムコエンターテインメント）の完全子会社であった。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%83%E3%82%AF_(%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE)"
   }
  ]
 }
