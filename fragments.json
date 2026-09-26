@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-26T10:36:48+09:00",
+ "generated_at": "2026-09-26T16:46:07+09:00",
  "items": [
   {
+   "tag": "WIKI",
+   "title": "ルーカス・ヒンテルゼーア",
+   "body": "ルーカス・ヒンテルゼーア は、オーストリア・チロル州キッツビュール出身のサッカー選手。元オーストリア代表。ポジションは、フォワード。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%BC%E3%82%AB%E3%82%B9%E3%83%BB%E3%83%92%E3%83%B3%E3%83%86%E3%83%AB%E3%82%BC%E3%83%BC%E3%82%A2"
+  },
+  {
    "tag": "HN",
-   "title": "What even is an OS now?",
-   "body": "74ポイント / コメント99件。",
+   "title": "The Murky History of Soviet-Born Tetris",
+   "body": "31ポイント / コメント8件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49850305"
+   "url": "https://news.ycombinator.com/item?id=49838040"
+  },
+  {
+   "tag": "HN",
+   "title": "Scientists build most accurate atomic clock",
+   "body": "5ポイント / コメント2件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49824846"
   },
   {
    "tag": "WIKI",
-   "title": "道臣命",
-   "body": "道臣命（みちのおみのみこと）は、記紀に登場する古代日本の人物。初名は日臣命（ひのおみのみこと）。天忍日命（あまのおしひのみこと）の後裔で大伴氏の祖。神武天皇の東征の先鋒を務め、神武天…",
+   "title": "六条通",
+   "body": "六条通（ろくじょうどおり）は京都市の東西の通りの一つ。東は河原町通から西は堀川通まで、楊梅通や的場通の南で花屋町通の北にある。平安京の六条大路にあたる。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E9%81%93%E8%87%A3%E5%91%BD"
+   "url": "https://ja.wikipedia.org/wiki/%E5%85%AD%E6%9D%A1%E9%80%9A"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "強い雨。最高21.9℃ / 最低17.9℃。いまは19.1℃。",
+   "body": "強い雨。最高21.9℃ / 最低18.5℃。いまは19.1℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "WIKI",
-   "title": "オニナルコスゲ",
-   "body": "オニナルコスゲ Carex vesicaria L. はカヤツリグサ科スゲ属の植物の1つ。果胞は大きく、その先端には鋭い2本の歯状突起がある。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%8B%E3%83%8A%E3%83%AB%E3%82%B3%E3%82%B9%E3%82%B2"
-  },
-  {
    "tag": "HN",
-   "title": "Why didn't anybody tell me about Redis hash slots?",
-   "body": "13ポイント / コメント3件。",
+   "title": "Gravity seems holographic. What does that mean for reality?",
+   "body": "177ポイント / コメント160件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49819244"
-  },
-  {
-   "tag": "HN",
-   "title": "Meta's Muse appears to use an OpenAI model labeled muse-special",
-   "body": "111ポイント / コメント46件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49848095"
+   "url": "https://news.ycombinator.com/item?id=49845998"
   }
  ]
 }
