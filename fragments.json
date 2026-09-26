@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-26T16:46:07+09:00",
+ "generated_at": "2026-09-26T22:08:36+09:00",
  "items": [
   {
    "tag": "WIKI",
-   "title": "ルーカス・ヒンテルゼーア",
-   "body": "ルーカス・ヒンテルゼーア は、オーストリア・チロル州キッツビュール出身のサッカー選手。元オーストリア代表。ポジションは、フォワード。",
+   "title": "ヘリコプター弦楽四重奏曲",
+   "body": "ヘリコプター弦楽四重奏曲（Helikopter-Streichquartett）は、ドイツの作曲家、カールハインツ・シュトックハウゼンが作曲した弦楽四重奏曲。彼の長大なオペラ「光」の…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%BC%E3%82%AB%E3%82%B9%E3%83%BB%E3%83%92%E3%83%B3%E3%83%86%E3%83%AB%E3%82%BC%E3%83%BC%E3%82%A2"
-  },
-  {
-   "tag": "HN",
-   "title": "The Murky History of Soviet-Born Tetris",
-   "body": "31ポイント / コメント8件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49838040"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%98%E3%83%AA%E3%82%B3%E3%83%97%E3%82%BF%E3%83%BC%E5%BC%A6%E6%A5%BD%E5%9B%9B%E9%87%8D%E5%A5%8F%E6%9B%B2"
   },
   {
    "tag": "HN",
    "title": "Scientists build most accurate atomic clock",
-   "body": "5ポイント / コメント2件。",
+   "body": "25ポイント / コメント11件。",
    "src": "news.ycombinator.com",
    "url": "https://news.ycombinator.com/item?id=49824846"
   },
   {
+   "tag": "HN",
+   "title": "HomelabFest will be in St. Louis in September 2027",
+   "body": "52ポイント / コメント28件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49852462"
+  },
+  {
    "tag": "WIKI",
-   "title": "六条通",
-   "body": "六条通（ろくじょうどおり）は京都市の東西の通りの一つ。東は河原町通から西は堀川通まで、楊梅通や的場通の南で花屋町通の北にある。平安京の六条大路にあたる。",
+   "title": "ティラスポリ",
+   "body": "ティラスポリ は、モルドバより事実上独立している沿ドニエストル共和国の首都。ティラスポールとも表記される。ただし、沿ドニエストルの独立は国際的には承認されておらず、モルドバの一部とさ…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%85%AD%E6%9D%A1%E9%80%9A"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%A3%E3%83%A9%E3%82%B9%E3%83%9D%E3%83%AA"
+  },
+  {
+   "tag": "HN",
+   "title": "What even is an OS now?",
+   "body": "217ポイント / コメント306件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49850305"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "強い雨。最高21.9℃ / 最低18.5℃。いまは19.1℃。",
+   "body": "強い雨。最高21.9℃ / 最低17.8℃。いまは17.9℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
-  },
-  {
-   "tag": "HN",
-   "title": "Gravity seems holographic. What does that mean for reality?",
-   "body": "177ポイント / コメント160件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49845998"
   }
  ]
 }
