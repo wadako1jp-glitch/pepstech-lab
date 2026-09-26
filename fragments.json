@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-27T02:12:53+09:00",
+ "generated_at": "2026-09-27T04:54:17+09:00",
  "items": [
+  {
+   "tag": "WIKI",
+   "title": "シーソー",
+   "body": "シーソー（Seesaw）とは、長い板の中心を支点にして遊具の両端にそれぞれ人が乗り（腰かけまたは両手でぶら下がり）上下運動を繰りかえして遊ぶ遊具。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%BC%E3%82%BD%E3%83%BC"
+  },
+  {
+   "tag": "HN",
+   "title": "What even is an OS now?",
+   "body": "276ポイント / コメント410件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49850305"
+  },
+  {
+   "tag": "WIKI",
+   "title": "妙乗院",
+   "body": "妙乗院（みょうじょういん）は、愛知県東海市にある天台宗の寺院。山号は仙養山。本尊は釈迦如来。現住職は酒井圓弘。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%A6%99%E4%B9%97%E9%99%A2"
+  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "小雨。最高22.9℃ / 最低17.7℃。いまは17.8℃。",
+   "body": "霧雨。最高23.1℃ / 最低18.0℃。いまは18.0℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Fifteen years later, the Apple Cards origin story",
-   "body": "228ポイント / コメント38件。",
+   "title": "A searchable library of forgotten public-domain film clips from 1915 …",
+   "body": "29ポイント / コメント9件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49854693"
+   "url": "https://news.ycombinator.com/item?id=49832768"
   },
   {
    "tag": "HN",
-   "title": "The Lost Atomic Update on Loongson CPU",
-   "body": "18ポイント / コメント0件。",
+   "title": "I'm the mom in that viral Giants clip. Let me tell you about my husba…",
+   "body": "305ポイント / コメント132件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49827900"
-  },
-  {
-   "tag": "WIKI",
-   "title": "ヨシヒロ・ウチダ",
-   "body": "ヨシ・ウチダ(Yosh Uchida)ことヨシヒロ・ウチダ は、アメリカ合衆国の柔道指導者、実業家、教育者である。70年以上にわたりサンノゼ州立大学で柔道の指導を行うなど、アメリカで…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%A8%E3%82%B7%E3%83%92%E3%83%AD%E3%83%BB%E3%82%A6%E3%83%81%E3%83%80"
-  },
-  {
-   "tag": "HN",
-   "title": "A single function Jev-like wrapper for LLMs, including vision models",
-   "body": "116ポイント / コメント36件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49853175"
-  },
-  {
-   "tag": "WIKI",
-   "title": "ポワントノワール",
-   "body": "ポワントノワール（ポワント＝ノワール、ポワント・ノワール、Pointe-Noire）は、アフリカ大陸中西部、コンゴ共和国南西部のポワントノワール県の都市。コンゴ最大の港湾都市である。…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%AF%E3%83%B3%E3%83%88%E3%83%8E%E3%83%AF%E3%83%BC%E3%83%AB"
+   "url": "https://news.ycombinator.com/item?id=49857899"
   }
  ]
 }
