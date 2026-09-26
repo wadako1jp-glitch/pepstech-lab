@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-26T22:08:36+09:00",
+ "generated_at": "2026-09-27T02:12:53+09:00",
  "items": [
-  {
-   "tag": "WIKI",
-   "title": "ヘリコプター弦楽四重奏曲",
-   "body": "ヘリコプター弦楽四重奏曲（Helikopter-Streichquartett）は、ドイツの作曲家、カールハインツ・シュトックハウゼンが作曲した弦楽四重奏曲。彼の長大なオペラ「光」の…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%98%E3%83%AA%E3%82%B3%E3%83%97%E3%82%BF%E3%83%BC%E5%BC%A6%E6%A5%BD%E5%9B%9B%E9%87%8D%E5%A5%8F%E6%9B%B2"
-  },
-  {
-   "tag": "HN",
-   "title": "Scientists build most accurate atomic clock",
-   "body": "25ポイント / コメント11件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49824846"
-  },
-  {
-   "tag": "HN",
-   "title": "HomelabFest will be in St. Louis in September 2027",
-   "body": "52ポイント / コメント28件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49852462"
-  },
-  {
-   "tag": "WIKI",
-   "title": "ティラスポリ",
-   "body": "ティラスポリ は、モルドバより事実上独立している沿ドニエストル共和国の首都。ティラスポールとも表記される。ただし、沿ドニエストルの独立は国際的には承認されておらず、モルドバの一部とさ…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%A3%E3%83%A9%E3%82%B9%E3%83%9D%E3%83%AA"
-  },
-  {
-   "tag": "HN",
-   "title": "What even is an OS now?",
-   "body": "217ポイント / コメント306件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49850305"
-  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "強い雨。最高21.9℃ / 最低17.8℃。いまは17.9℃。",
+   "body": "小雨。最高22.9℃ / 最低17.7℃。いまは17.8℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
+  },
+  {
+   "tag": "HN",
+   "title": "Fifteen years later, the Apple Cards origin story",
+   "body": "228ポイント / コメント38件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49854693"
+  },
+  {
+   "tag": "HN",
+   "title": "The Lost Atomic Update on Loongson CPU",
+   "body": "18ポイント / コメント0件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49827900"
+  },
+  {
+   "tag": "WIKI",
+   "title": "ヨシヒロ・ウチダ",
+   "body": "ヨシ・ウチダ(Yosh Uchida)ことヨシヒロ・ウチダ は、アメリカ合衆国の柔道指導者、実業家、教育者である。70年以上にわたりサンノゼ州立大学で柔道の指導を行うなど、アメリカで…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%A8%E3%82%B7%E3%83%92%E3%83%AD%E3%83%BB%E3%82%A6%E3%83%81%E3%83%80"
+  },
+  {
+   "tag": "HN",
+   "title": "A single function Jev-like wrapper for LLMs, including vision models",
+   "body": "116ポイント / コメント36件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49853175"
+  },
+  {
+   "tag": "WIKI",
+   "title": "ポワントノワール",
+   "body": "ポワントノワール（ポワント＝ノワール、ポワント・ノワール、Pointe-Noire）は、アフリカ大陸中西部、コンゴ共和国南西部のポワントノワール県の都市。コンゴ最大の港湾都市である。…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%AF%E3%83%B3%E3%83%88%E3%83%8E%E3%83%AF%E3%83%BC%E3%83%AB"
   }
  ]
 }
