@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-27T10:30:33+09:00",
+ "generated_at": "2026-09-27T17:14:51+09:00",
  "items": [
-  {
-   "tag": "WIKI",
-   "title": "庄川口駅",
-   "body": "庄川口駅（しょうがわぐちえき）は、富山県射水市庄川本町にある万葉線の駅。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%BA%84%E5%B7%9D%E5%8F%A3%E9%A7%85"
-  },
-  {
-   "tag": "HN",
-   "title": "Does Georgism work? Five years later",
-   "body": "103ポイント / コメント56件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49844657"
-  },
-  {
-   "tag": "HN",
-   "title": "Drawgent: Coding agent on a live Excalidraw canvas",
-   "body": "107ポイント / コメント32件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49857729"
-  },
-  {
-   "tag": "WIKI",
-   "title": "マット・ウインタース",
-   "body": "マット・リトルトン・ウインタース は、アメリカ合衆国ニューヨーク州バッファロー出身の元プロ野球選手（外野手）。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%83%E3%83%88%E3%83%BB%E3%82%A6%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%B9"
-  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "強い霧雨。最高22.5℃ / 最低18.1℃。いまは21.0℃。",
+   "body": "強い霧雨。最高23.3℃ / 最低18.1℃。いまは22.2℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Fifteen years later, the Apple Cards origin story",
-   "body": "340ポイント / コメント88件。",
+   "title": "C's Flexible Integer Sizes Were Not a Design Mistake",
+   "body": "7ポイント / コメント1件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49854693"
+   "url": "https://news.ycombinator.com/item?id=49845114"
+  },
+  {
+   "tag": "WIKI",
+   "title": "レイヴァン・クルザワ",
+   "body": "レイヴァン・マルク・クルザワ は、フランス・フレジュス出身のサッカー選手。元フランス代表。スーパーリーグ・プルシブ・バンドン所属。ポジションはディフェンダー。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%A4%E3%83%B4%E3%82%A1%E3%83%B3%E3%83%BB%E3%82%AF%E3%83%AB%E3%82%B6%E3%83%AF"
+  },
+  {
+   "tag": "WIKI",
+   "title": "神呪寺",
+   "body": "神呪寺（かんのうじ、神咒寺）は、兵庫県西宮市甲山町にある真言宗御室派の別格本山の寺院。山号は甲山。本尊は如意輪観音。甲山の山麓にあり、通称・甲山大師（かぶとやまだいし）と呼ばれる。新…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E7%A5%9E%E5%91%AA%E5%AF%BA"
+  },
+  {
+   "tag": "HN",
+   "title": "Promising discoveries about the potential for life on one of Saturn’s…",
+   "body": "52ポイント / コメント25件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49852905"
+  },
+  {
+   "tag": "HN",
+   "title": "Does Georgism work? Five years later",
+   "body": "303ポイント / コメント211件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49844657"
   }
  ]
 }
