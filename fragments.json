@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-27T23:03:47+09:00",
+ "generated_at": "2026-09-28T03:27:31+09:00",
  "items": [
-  {
-   "tag": "HN",
-   "title": "Promising discoveries about the potential for life on one of Saturn’s…",
-   "body": "77ポイント / コメント41件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49852905"
-  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "強い霧雨。最高23.3℃ / 最低18.1℃。いまは20.8℃。",
+   "body": "強い雨。最高22.0℃ / 最低20.0℃。いまは20.7℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "WIKI",
-   "title": "大稲荷古墳群",
-   "body": "大稲荷古墳群（おおとうかこふんぐん）は、埼玉県行田市須加にある古墳群である。直径20メートルの浅間塚古墳以外の古墳は削平され、1号墳・2号墳所在地点は水田となっている。",
+   "title": "茨城県道・栃木県道291号下伊勢畑増井線",
+   "body": "茨城県道・栃木県道291号下伊勢畑増井線 は、茨城県常陸大宮市から栃木県芳賀郡茂木町に至る一般県道である。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E7%A8%B2%E8%8D%B7%E5%8F%A4%E5%A2%B3%E7%BE%A4"
+   "url": "https://ja.wikipedia.org/wiki/%E8%8C%A8%E5%9F%8E%E7%9C%8C%E9%81%93%E3%83%BB%E6%A0%83%E6%9C%A8%E7%9C%8C%E9%81%93291%E5%8F%B7%E4%B8%8B%E4%BC%8A%E5%8B%A2%E7%95%91%E5%A2%97%E4%BA%95%E7%B7%9A"
   },
   {
    "tag": "HN",
-   "title": "An agent used DNS to reach an external chatbot",
-   "body": "124ポイント / コメント120件。",
+   "title": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Hu…",
+   "body": "75ポイント / コメント9件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49853137"
+   "url": "https://news.ycombinator.com/item?id=49868831"
+  },
+  {
+   "tag": "HN",
+   "title": "Show HN: A CC0 museum of retro 3D tricks you can paste into a page",
+   "body": "55ポイント / コメント10件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49824144"
+  },
+  {
+   "tag": "HN",
+   "title": "Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 7…",
+   "body": "18ポイント / コメント3件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49868753"
   },
   {
    "tag": "WIKI",
-   "title": "GUITARFREAKS",
-   "body": "GUITARFREAKS（GuitarFreaks、ギターフリークス）は1999年にBEMANIシリーズの第4弾としてコナミ（現・コナミデジタルエンタテインメント）より発売された音楽…",
+   "title": "広島県立竹原高等学校",
+   "body": "広島県立竹原高等学校 は、広島県竹原市竹原町にある県立の高等学校。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/GUITARFREAKS"
-  },
-  {
-   "tag": "HN",
-   "title": "Generate fonts where every LLM token is the same width",
-   "body": "79ポイント / コメント15件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49851883"
+   "url": "https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E7%9C%8C%E7%AB%8B%E7%AB%B9%E5%8E%9F%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1"
   }
  ]
 }
