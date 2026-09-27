@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-27T17:14:51+09:00",
+ "generated_at": "2026-09-27T23:03:47+09:00",
  "items": [
-  {
-   "tag": "天気",
-   "title": "東京 きょう",
-   "body": "強い霧雨。最高23.3℃ / 最低18.1℃。いまは22.2℃。",
-   "src": "open-meteo.com",
-   "url": "https://open-meteo.com/"
-  },
-  {
-   "tag": "HN",
-   "title": "C's Flexible Integer Sizes Were Not a Design Mistake",
-   "body": "7ポイント / コメント1件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49845114"
-  },
-  {
-   "tag": "WIKI",
-   "title": "レイヴァン・クルザワ",
-   "body": "レイヴァン・マルク・クルザワ は、フランス・フレジュス出身のサッカー選手。元フランス代表。スーパーリーグ・プルシブ・バンドン所属。ポジションはディフェンダー。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%A4%E3%83%B4%E3%82%A1%E3%83%B3%E3%83%BB%E3%82%AF%E3%83%AB%E3%82%B6%E3%83%AF"
-  },
-  {
-   "tag": "WIKI",
-   "title": "神呪寺",
-   "body": "神呪寺（かんのうじ、神咒寺）は、兵庫県西宮市甲山町にある真言宗御室派の別格本山の寺院。山号は甲山。本尊は如意輪観音。甲山の山麓にあり、通称・甲山大師（かぶとやまだいし）と呼ばれる。新…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E7%A5%9E%E5%91%AA%E5%AF%BA"
-  },
   {
    "tag": "HN",
    "title": "Promising discoveries about the potential for life on one of Saturn’s…",
-   "body": "52ポイント / コメント25件。",
+   "body": "77ポイント / コメント41件。",
    "src": "news.ycombinator.com",
    "url": "https://news.ycombinator.com/item?id=49852905"
   },
   {
+   "tag": "天気",
+   "title": "東京 きょう",
+   "body": "強い霧雨。最高23.3℃ / 最低18.1℃。いまは20.8℃。",
+   "src": "open-meteo.com",
+   "url": "https://open-meteo.com/"
+  },
+  {
+   "tag": "WIKI",
+   "title": "大稲荷古墳群",
+   "body": "大稲荷古墳群（おおとうかこふんぐん）は、埼玉県行田市須加にある古墳群である。直径20メートルの浅間塚古墳以外の古墳は削平され、1号墳・2号墳所在地点は水田となっている。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E7%A8%B2%E8%8D%B7%E5%8F%A4%E5%A2%B3%E7%BE%A4"
+  },
+  {
    "tag": "HN",
-   "title": "Does Georgism work? Five years later",
-   "body": "303ポイント / コメント211件。",
+   "title": "An agent used DNS to reach an external chatbot",
+   "body": "124ポイント / コメント120件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49844657"
+   "url": "https://news.ycombinator.com/item?id=49853137"
+  },
+  {
+   "tag": "WIKI",
+   "title": "GUITARFREAKS",
+   "body": "GUITARFREAKS（GuitarFreaks、ギターフリークス）は1999年にBEMANIシリーズの第4弾としてコナミ（現・コナミデジタルエンタテインメント）より発売された音楽…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/GUITARFREAKS"
+  },
+  {
+   "tag": "HN",
+   "title": "Generate fonts where every LLM token is the same width",
+   "body": "79ポイント / コメント15件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49851883"
   }
  ]
 }
