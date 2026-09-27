@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-27T07:54:49+09:00",
+ "generated_at": "2026-09-27T10:30:33+09:00",
  "items": [
   {
-   "tag": "HN",
-   "title": "Experiencing writing at our recent Chinese calligraphy workshop",
-   "body": "32ポイント / コメント1件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49832231"
+   "tag": "WIKI",
+   "title": "庄川口駅",
+   "body": "庄川口駅（しょうがわぐちえき）は、富山県射水市庄川本町にある万葉線の駅。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%BA%84%E5%B7%9D%E5%8F%A3%E9%A7%85"
   },
   {
    "tag": "HN",
-   "title": "Advice to a Beginning Graduate Student (2001)",
-   "body": "47ポイント / コメント16件。",
+   "title": "Does Georgism work? Five years later",
+   "body": "103ポイント / コメント56件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49848680"
+   "url": "https://news.ycombinator.com/item?id=49844657"
+  },
+  {
+   "tag": "HN",
+   "title": "Drawgent: Coding agent on a live Excalidraw canvas",
+   "body": "107ポイント / コメント32件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49857729"
   },
   {
    "tag": "WIKI",
-   "title": "タタバーニャ",
-   "body": "タタバーニャ（ハンガリー語:Tatabánya、ドイツ語:Totiserkolonie）は、ハンガリーの都市。コマーロム・エステルゴム県の県都。",
+   "title": "マット・ウインタース",
+   "body": "マット・リトルトン・ウインタース は、アメリカ合衆国ニューヨーク州バッファロー出身の元プロ野球選手（外野手）。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%BF%E3%83%90%E3%83%BC%E3%83%8B%E3%83%A3"
-  },
-  {
-   "tag": "HN",
-   "title": "Show HN: Jev Plays Pokémon Red",
-   "body": "256ポイント / コメント109件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49845172"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%83%E3%83%88%E3%83%BB%E3%82%A6%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%B9"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高23.1℃ / 最低18.0℃。いまは18.4℃。",
+   "body": "強い霧雨。最高22.5℃ / 最低18.1℃。いまは21.0℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "WIKI",
-   "title": "井上裕介 (お笑い芸人)",
-   "body": "井上 裕介 は、吉本興業に所属する日本のお笑いタレント、シンガーソングライター、YouTuber。お笑いコンビ・NON STYLEのツッコミ（稀にボケ）担当。また、「Day of t…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E4%BA%95%E4%B8%8A%E8%A3%95%E4%BB%8B_(%E3%81%8A%E7%AC%91%E3%81%84%E8%8A%B8%E4%BA%BA)"
+   "tag": "HN",
+   "title": "Fifteen years later, the Apple Cards origin story",
+   "body": "340ポイント / コメント88件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49854693"
   }
  ]
 }
