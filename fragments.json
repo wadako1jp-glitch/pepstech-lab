@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-28T07:15:03+09:00",
+ "generated_at": "2026-09-28T09:52:12+09:00",
  "items": [
+  {
+   "tag": "WIKI",
+   "title": "一橋大学附属図書館",
+   "body": "一橋大学附属図書館（ひとつばしだいがくふぞくとしょかん）は、東京都国立市中に位置する国立大学法人一橋大学により設置・運営されている図書館である。商法講習所ならびに東京商科大学を前身と…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E4%B8%80%E6%A9%8B%E5%A4%A7%E5%AD%A6%E9%99%84%E5%B1%9E%E5%9B%B3%E6%9B%B8%E9%A4%A8"
+  },
+  {
+   "tag": "HN",
+   "title": "S3 Is the Future, S3 Is the Past",
+   "body": "47ポイント / コメント37件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49851693"
+  },
+  {
+   "tag": "HN",
+   "title": "Don't couple your Go code to GitHub",
+   "body": "134ポイント / コメント69件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49868404"
+  },
+  {
+   "tag": "WIKI",
+   "title": "ジェシー・カペリ",
+   "body": "ジェシー・カペリ は、カナダのポルノ女優。ブリティッシュコロンビア州バンクーバー出身。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%82%B7%E3%83%BC%E3%83%BB%E3%82%AB%E3%83%9A%E3%83%AA"
+  },
+  {
+   "tag": "HN",
+   "title": "Previously unheard recordings of John Coltrane, captured by Frank Tib…",
+   "body": "57ポイント / コメント18件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49845284"
+  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "雨。最高22.1℃ / 最低20.5℃。いまは20.5℃。",
+   "body": "小雨。最高25.6℃ / 最低20.6℃。いまは21.9℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
-  },
-  {
-   "tag": "HN",
-   "title": "There is more to code review than (automatable) detection",
-   "body": "16ポイント / コメント7件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49857281"
-  },
-  {
-   "tag": "HN",
-   "title": "What I did at Recurse Center",
-   "body": "28ポイント / コメント13件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49869773"
-  },
-  {
-   "tag": "HN",
-   "title": "In an $80 motel room, a discovery to shed light on the origins of life",
-   "body": "181ポイント / コメント68件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49866951"
-  },
-  {
-   "tag": "WIKI",
-   "title": "セツブンソウ属",
-   "body": "セツブンソウ属 は、キンポウゲ科の属の1つ。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%84%E3%83%96%E3%83%B3%E3%82%BD%E3%82%A6%E5%B1%9E"
-  },
-  {
-   "tag": "WIKI",
-   "title": "名古屋市立牧野小学校",
-   "body": "名古屋市立牧野小学校 は、名古屋市中村区竹橋町にある公立小学校。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E7%AB%8B%E7%89%A7%E9%87%8E%E5%B0%8F%E5%AD%A6%E6%A0%A1"
   }
  ]
 }
