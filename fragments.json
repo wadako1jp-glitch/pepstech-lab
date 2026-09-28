@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-28T09:52:12+09:00",
+ "generated_at": "2026-09-28T15:58:48+09:00",
  "items": [
   {
-   "tag": "WIKI",
-   "title": "一橋大学附属図書館",
-   "body": "一橋大学附属図書館（ひとつばしだいがくふぞくとしょかん）は、東京都国立市中に位置する国立大学法人一橋大学により設置・運営されている図書館である。商法講習所ならびに東京商科大学を前身と…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E4%B8%80%E6%A9%8B%E5%A4%A7%E5%AD%A6%E9%99%84%E5%B1%9E%E5%9B%B3%E6%9B%B8%E9%A4%A8"
-  },
-  {
    "tag": "HN",
-   "title": "S3 Is the Future, S3 Is the Past",
-   "body": "47ポイント / コメント37件。",
+   "title": "Fakecloud: Local AWS cloud emulator for integration tests",
+   "body": "131ポイント / コメント64件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49851693"
-  },
-  {
-   "tag": "HN",
-   "title": "Don't couple your Go code to GitHub",
-   "body": "134ポイント / コメント69件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49868404"
+   "url": "https://news.ycombinator.com/item?id=49856885"
   },
   {
    "tag": "WIKI",
-   "title": "ジェシー・カペリ",
-   "body": "ジェシー・カペリ は、カナダのポルノ女優。ブリティッシュコロンビア州バンクーバー出身。",
+   "title": "UltraDefrag",
+   "body": "UltraDefragとはWindows対応のディスクデフラグメンテーションユーティリティである。8.0.0バージョンより前にGNU General Public Licenseライ…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%82%B7%E3%83%BC%E3%83%BB%E3%82%AB%E3%83%9A%E3%83%AA"
-  },
-  {
-   "tag": "HN",
-   "title": "Previously unheard recordings of John Coltrane, captured by Frank Tib…",
-   "body": "57ポイント / コメント18件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49845284"
+   "url": "https://ja.wikipedia.org/wiki/UltraDefrag"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "小雨。最高25.6℃ / 最低20.6℃。いまは21.9℃。",
+   "body": "小雨。最高24.3℃ / 最低20.6℃。いまは23.8℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
+  },
+  {
+   "tag": "WIKI",
+   "title": "下の月駅",
+   "body": "下の月駅（しものつきえき）は、かつて北海道江別市東野幌にあった夕張鉄道の駅（廃駅）。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E4%B8%8B%E3%81%AE%E6%9C%88%E9%A7%85"
+  },
+  {
+   "tag": "HN",
+   "title": "A New Experiment Meta-Strategy",
+   "body": "21ポイント / コメント1件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49844266"
+  },
+  {
+   "tag": "HN",
+   "title": "The state of SIMD in Rust in 2026",
+   "body": "130ポイント / コメント27件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49844629"
   }
  ]
 }
