@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-29T11:00:35+09:00",
+ "generated_at": "2026-09-29T17:35:34+09:00",
  "items": [
+  {
+   "tag": "HN",
+   "title": "Hijacking the PS5's RTMP stream",
+   "body": "250ポイント / コメント79件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49879702"
+  },
+  {
+   "tag": "WIKI",
+   "title": "十字街 (函館市)",
+   "body": "十字街（じゅうじがい）は、北海道函館市末広町の繁華街である。正式な町丁名ではない。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%8D%81%E5%AD%97%E8%A1%97_(%E5%87%BD%E9%A4%A8%E5%B8%82)"
+  },
+  {
+   "tag": "WIKI",
+   "title": "ONE WORD",
+   "body": "『ONE WORD』 は、財津和夫の通算8枚目のアルバム。1998年10月21日にビクターエンタテインメントから発売された。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/ONE_WORD"
+  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "雨。最高21.4℃ / 最低18.5℃。いまは21.2℃。",
+   "body": "雨。最高21.7℃ / 最低18.7℃。いまは20.1℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
    "title": "Updated Google Maps shows destruction of the city of Rafah",
-   "body": "216ポイント / コメント112件。",
+   "body": "505ポイント / コメント306件。",
    "src": "news.ycombinator.com",
    "url": "https://news.ycombinator.com/item?id=49879645"
   },
   {
-   "tag": "WIKI",
-   "title": "国道154号",
-   "body": "国道154号（こくどう154ごう）は、愛知県名古屋市港区から名古屋市熱田区に至る一般国道である。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%81%93154%E5%8F%B7"
-  },
-  {
    "tag": "HN",
-   "title": "World Labs Is Joining AMD",
-   "body": "187ポイント / コメント73件。",
+   "title": "It's Time to Investigate the AI Labs",
+   "body": "464ポイント / コメント184件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49883760"
-  },
-  {
-   "tag": "WIKI",
-   "title": "紅海",
-   "body": "紅海 は、アフリカ東北部と、アラビア半島に挟まれた湾である。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E7%B4%85%E6%B5%B7"
-  },
-  {
-   "tag": "HN",
-   "title": "Does Reddit have an astroturfing problem? What the data suggests",
-   "body": "115ポイント / コメント142件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49877678"
+   "url": "https://news.ycombinator.com/item?id=49883471"
   }
  ]
 }
