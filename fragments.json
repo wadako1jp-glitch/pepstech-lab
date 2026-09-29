@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-29T07:04:32+09:00",
+ "generated_at": "2026-09-29T11:00:35+09:00",
  "items": [
-  {
-   "tag": "HN",
-   "title": "Cf: The Agentic CLI for the Cloudflare API",
-   "body": "83ポイント / コメント37件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49879577"
-  },
-  {
-   "tag": "HN",
-   "title": "Pirating the Pirates",
-   "body": "348ポイント / コメント168件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49880036"
-  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "雨。最高21.3℃ / 最低18.8℃。いまは21.1℃。",
+   "body": "雨。最高21.4℃ / 最低18.5℃。いまは21.2℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
+   "tag": "HN",
+   "title": "Updated Google Maps shows destruction of the city of Rafah",
+   "body": "216ポイント / コメント112件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49879645"
+  },
+  {
    "tag": "WIKI",
-   "title": "古川卓巳",
-   "body": "古川 卓巳 は、日本の映画監督。本名：岩崎卓己。香港では戴高美（タイ・カオメイ）名義で活動した。",
+   "title": "国道154号",
+   "body": "国道154号（こくどう154ごう）は、愛知県名古屋市港区から名古屋市熱田区に至る一般国道である。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%8F%A4%E5%B7%9D%E5%8D%93%E5%B7%B3"
+   "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%81%93154%E5%8F%B7"
   },
   {
    "tag": "HN",
-   "title": "First Steps of the PLC Organization – Independent Public Ledger of Cr…",
-   "body": "30ポイント / コメント16件。",
+   "title": "World Labs Is Joining AMD",
+   "body": "187ポイント / コメント73件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49883159"
+   "url": "https://news.ycombinator.com/item?id=49883760"
   },
   {
    "tag": "WIKI",
-   "title": "下妻郡",
-   "body": "下妻郡（しもつまぐん）は、福岡県（筑後国）にあった郡。",
+   "title": "紅海",
+   "body": "紅海 は、アフリカ東北部と、アラビア半島に挟まれた湾である。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E4%B8%8B%E5%A6%BB%E9%83%A1"
+   "url": "https://ja.wikipedia.org/wiki/%E7%B4%85%E6%B5%B7"
+  },
+  {
+   "tag": "HN",
+   "title": "Does Reddit have an astroturfing problem? What the data suggests",
+   "body": "115ポイント / コメント142件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49877678"
   }
  ]
 }
