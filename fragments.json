@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-30T15:46:26+09:00",
+ "generated_at": "2026-09-30T22:47:51+09:00",
  "items": [
-  {
-   "tag": "WIKI",
-   "title": "江川横町",
-   "body": "江川横町（えがわよこまち）は、愛知県名古屋市西区にあった地名。当地域の人口は108世帯、361人（1975年当時）。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%B1%9F%E5%B7%9D%E6%A8%AA%E7%94%BA"
-  },
-  {
-   "tag": "HN",
-   "title": "RSS Feeds for Last.fm",
-   "body": "32ポイント / コメント5件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49903862"
-  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "雨。最高21.0℃ / 最低17.7℃。いまは21.0℃。",
+   "body": "雨。最高21.0℃ / 最低17.7℃。いまは18.4℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "U.S. postal inspectors shut down website selling counterfeit postage …",
-   "body": "206ポイント / コメント122件。",
+   "title": "September 2026: The world today, as seen by one Polish guy",
+   "body": "382ポイント / コメント261件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49899090"
+   "url": "https://news.ycombinator.com/item?id=49905487"
   },
   {
    "tag": "WIKI",
-   "title": "堺市立若松台中学校",
-   "body": "堺市立若松台中学校 は、大阪府堺市南区にある公立中学校。",
+   "title": "カルペリジン",
+   "body": "カルペリジン または、カルバメチジン は、メペリジンに関連するオピオイド鎮痛薬である。コデインと同様の鎮痛・鎮咳作用を持つが、いくつかの関連化合物はより強力である。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%A0%BA%E5%B8%82%E7%AB%8B%E8%8B%A5%E6%9D%BE%E5%8F%B0%E4%B8%AD%E5%AD%A6%E6%A0%A1"
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AB%E3%83%9A%E3%83%AA%E3%82%B8%E3%83%B3"
   },
   {
    "tag": "HN",
-   "title": "Show HN: Using 2D DFT, dithering, etc. to maximize eInk manga image q…",
-   "body": "5ポイント / コメント1件。",
+   "title": "Testing WebGPU data layouts with Facet",
+   "body": "60ポイント / コメント6件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49879758"
+   "url": "https://news.ycombinator.com/item?id=49883913"
+  },
+  {
+   "tag": "WIKI",
+   "title": "第52回スーパーボウル",
+   "body": "第52回スーパーボウル は、2018年2月4日にミネソタ州ミネアポリスのUSバンク・スタジアムで開催されたアメリカンフットボール（NFL）の試合。2017年シーズンのNFLチャンピオ…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E7%AC%AC52%E5%9B%9E%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%9C%E3%82%A6%E3%83%AB"
+  },
+  {
+   "tag": "HN",
+   "title": "Mathematical Origami",
+   "body": "23ポイント / コメント4件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49889140"
   }
  ]
 }
