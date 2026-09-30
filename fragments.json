@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-30T05:50:41+09:00",
+ "generated_at": "2026-09-30T09:30:23+09:00",
  "items": [
   {
+   "tag": "WIKI",
+   "title": "アルフレート・プリングスハイム",
+   "body": "アルフレート・プリングスハイム は、ドイツの数学者で、芸術のパトロンである。彼は作家でノーベル賞受賞者であるトーマス・マンの、義理の父親である。愛称オーファイ (Ofey)。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%83%95%E3%83%AC%E3%83%BC%E3%83%88%E3%83%BB%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%8F%E3%82%A4%E3%83%A0"
+  },
+  {
    "tag": "HN",
-   "title": "NAND-16: a computer built from 277,248 NAND gates",
-   "body": "60ポイント / コメント29件。",
+   "title": "Language models for text classification: From bag-of-words to Jev",
+   "body": "18ポイント / コメント0件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49871018"
+   "url": "https://news.ycombinator.com/item?id=49891203"
   },
   {
    "tag": "WIKI",
-   "title": "MGMホールディングス",
-   "body": "MGMホールディングス は、アメリカ合衆国の純粋持株会社で、エンタテインメント企業であるメトロ・ゴールドウィン・メイヤー・スタジオの親会社であった。2005年に設立され、本社はカリフ…",
+   "title": "隼人塚",
+   "body": "隼人塚（はやとづか）は、鹿児島県霧島市隼人町内山田にある仏教関連遺跡。大正10年（1921年）3月3日、国の史跡に指定されている。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/MGM%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9"
+   "url": "https://ja.wikipedia.org/wiki/%E9%9A%BC%E4%BA%BA%E5%A1%9A"
   },
   {
    "tag": "HN",
-   "title": "U.S. postal inspectors shut down website selling counterfeit postage …",
-   "body": "36ポイント / コメント24件。",
+   "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked s…",
+   "body": "92ポイント / コメント25件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49899090"
+   "url": "https://news.ycombinator.com/item?id=49898778"
+  },
+  {
+   "tag": "HN",
+   "title": "Show HN: Corral – Kill every command your agent starts",
+   "body": "12ポイント / コメント1件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49886422"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "雨。最高21.6℃ / 最低17.6℃。いまは17.6℃。",
+   "body": "雨。最高21.3℃ / 最低17.7℃。いまは18.4℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
-  },
-  {
-   "tag": "HN",
-   "title": "Virus Stole a Human Gene and Won't Let Go of It",
-   "body": "54ポイント / コメント12件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49883635"
-  },
-  {
-   "tag": "WIKI",
-   "title": "千代田化工建設",
-   "body": "千代田化工建設株式会社 は、神奈川県横浜市西区みなとみらいに本社を置く、日本の建設会社、エンジニアリング会社である。東京証券取引所スタンダード市場上場。三菱商事が筆頭株主。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%96%E5%B7%A5%E5%BB%BA%E8%A8%AD"
   }
  ]
 }
