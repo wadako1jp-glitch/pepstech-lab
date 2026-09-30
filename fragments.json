@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-30T22:47:51+09:00",
+ "generated_at": "2026-10-01T04:24:07+09:00",
  "items": [
+  {
+   "tag": "HN",
+   "title": "Show HN: Strata – an expressive semantic layer that can say no to you…",
+   "body": "8ポイント / コメント6件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49909913"
+  },
+  {
+   "tag": "HN",
+   "title": "Bild AI (YC W25) Is Hiring a Founding Product Engineer",
+   "body": "1ポイント / コメント0件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49911531"
+  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "雨。最高21.0℃ / 最低17.7℃。いまは18.4℃。",
+   "body": "曇り。最高29.3℃ / 最低18.1℃。いまは18.6℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "HN",
-   "title": "September 2026: The world today, as seen by one Polish guy",
-   "body": "382ポイント / コメント261件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49905487"
+   "tag": "WIKI",
+   "title": "八王子市立みなみ野君田小学校",
+   "body": "八王子市立みなみ野君田小学校 は、東京都八王子市みなみ野にある公立小学校。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%E7%AB%8B%E3%81%BF%E3%81%AA%E3%81%BF%E9%87%8E%E5%90%9B%E7%94%B0%E5%B0%8F%E5%AD%A6%E6%A0%A1"
   },
   {
    "tag": "WIKI",
-   "title": "カルペリジン",
-   "body": "カルペリジン または、カルバメチジン は、メペリジンに関連するオピオイド鎮痛薬である。コデインと同様の鎮痛・鎮咳作用を持つが、いくつかの関連化合物はより強力である。",
+   "title": "鷲羽山吹上温泉",
+   "body": "鷲羽山吹上温泉（わしゅうざんふきあげおんせん）は、岡山県県南の倉敷市にある温泉。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AB%E3%83%9A%E3%83%AA%E3%82%B8%E3%83%B3"
+   "url": "https://ja.wikipedia.org/wiki/%E9%B7%B2%E7%BE%BD%E5%B1%B1%E5%90%B9%E4%B8%8A%E6%B8%A9%E6%B3%89"
   },
   {
    "tag": "HN",
-   "title": "Testing WebGPU data layouts with Facet",
-   "body": "60ポイント / コメント6件。",
+   "title": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
+   "body": "98ポイント / コメント44件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49883913"
-  },
-  {
-   "tag": "WIKI",
-   "title": "第52回スーパーボウル",
-   "body": "第52回スーパーボウル は、2018年2月4日にミネソタ州ミネアポリスのUSバンク・スタジアムで開催されたアメリカンフットボール（NFL）の試合。2017年シーズンのNFLチャンピオ…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E7%AC%AC52%E5%9B%9E%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%9C%E3%82%A6%E3%83%AB"
-  },
-  {
-   "tag": "HN",
-   "title": "Mathematical Origami",
-   "body": "23ポイント / コメント4件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49889140"
+   "url": "https://news.ycombinator.com/item?id=49908962"
   }
  ]
 }
