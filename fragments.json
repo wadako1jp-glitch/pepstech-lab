@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-01T22:22:52+09:00",
+ "generated_at": "2026-10-02T04:34:09+09:00",
  "items": [
   {
    "tag": "HN",
-   "title": "CHOMPI portable sampler instrument is now open-source (hardware and s…",
-   "body": "92ポイント / コメント23件。",
+   "title": "Clef: Open-source decision models, and new RL fine-tuning platform",
+   "body": "277ポイント / コメント105件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49912048"
+   "url": "https://news.ycombinator.com/item?id=49923692"
   },
   {
    "tag": "HN",
-   "title": "Doing a Machine Learning PhD While Working in Japan",
-   "body": "115ポイント / コメント38件。",
+   "title": "Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 T…",
+   "body": "266ポイント / コメント311件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49905644"
+   "url": "https://news.ycombinator.com/item?id=49920932"
+  },
+  {
+   "tag": "HN",
+   "title": "Bez: Generating a browser engine from specs and tests",
+   "body": "28ポイント / コメント1件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49925036"
   },
   {
    "tag": "WIKI",
-   "title": "リーヒマキ",
-   "body": "リーヒマキ(Riihimäki)はフィンランド南部の都市。カンタ＝ハメ県リーヒマキ郡に属し、ヘルシンキの北、約69kmに位置する。人口は28,531人 (2021年)。",
+   "title": "オフェーナ",
+   "body": "オフェーナ は、イタリア共和国アブルッツォ州ラクイラ県にある、人口約500人の基礎自治体（コムーネ）。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%BC%E3%83%92%E3%83%9E%E3%82%AD"
-  },
-  {
-   "tag": "HN",
-   "title": "Halfspace experimental IDE for solid modeling with distance fields",
-   "body": "154ポイント / コメント9件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49913350"
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%95%E3%82%A7%E3%83%BC%E3%83%8A"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高28.7℃ / 最低18.1℃。いまは22.2℃。",
+   "body": "霧雨。最高22.3℃ / 最低18.8℃。いまは20.6℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "WIKI",
-   "title": "笛木優子",
-   "body": "笛木 優子 は、日本の女優。初期の芸名は笛木 夕子（読み同じ）。韓国でも活動し、ユミン の芸名で知られる。オスカープロモーション所属。",
+   "title": "沖縄県立八重山病院",
+   "body": "沖縄県立八重山病院（おきなわけんりつやえやまびょういん）は、沖縄県石垣市にある県立の医療機関である。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E7%AC%9B%E6%9C%A8%E5%84%AA%E5%AD%90"
+   "url": "https://ja.wikipedia.org/wiki/%E6%B2%96%E7%B8%84%E7%9C%8C%E7%AB%8B%E5%85%AB%E9%87%8D%E5%B1%B1%E7%97%85%E9%99%A2"
   }
  ]
 }
