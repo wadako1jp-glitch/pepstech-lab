@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-02T04:34:09+09:00",
+ "generated_at": "2026-10-02T08:54:59+09:00",
  "items": [
   {
    "tag": "HN",
-   "title": "Clef: Open-source decision models, and new RL fine-tuning platform",
-   "body": "277ポイント / コメント105件。",
+   "title": "Show HN: Open-source model routing for coding agents at Astra-level p…",
+   "body": "73ポイント / コメント21件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49923692"
+   "url": "https://news.ycombinator.com/item?id=49911500"
   },
   {
    "tag": "HN",
-   "title": "Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 T…",
-   "body": "266ポイント / コメント311件。",
+   "title": "Oxygen-deprived underwater zones may not be “dead zones” but clue to …",
+   "body": "72ポイント / コメント3件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49920932"
-  },
-  {
-   "tag": "HN",
-   "title": "Bez: Generating a browser engine from specs and tests",
-   "body": "28ポイント / コメント1件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49925036"
+   "url": "https://news.ycombinator.com/item?id=49925742"
   },
   {
    "tag": "WIKI",
-   "title": "オフェーナ",
-   "body": "オフェーナ は、イタリア共和国アブルッツォ州ラクイラ県にある、人口約500人の基礎自治体（コムーネ）。",
+   "title": "ハバロフスク",
+   "body": "ハバロフスク は、ロシア極東部の都市で、ハバロフスク地方の中心都市である。人口は約62万人でロシア極東部では最大である。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%95%E3%82%A7%E3%83%BC%E3%83%8A"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%90%E3%83%AD%E3%83%95%E3%82%B9%E3%82%AF"
+  },
+  {
+   "tag": "HN",
+   "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/In…",
+   "body": "44ポイント / コメント4件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49926773"
+  },
+  {
+   "tag": "WIKI",
+   "title": "富山市立新庄中学校",
+   "body": "富山市立新庄中学校 は、富山県富山市荒川五丁目（新庄地区）にある公立中学校。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%AF%8C%E5%B1%B1%E5%B8%82%E7%AB%8B%E6%96%B0%E5%BA%84%E4%B8%AD%E5%AD%A6%E6%A0%A1"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高22.3℃ / 最低18.8℃。いまは20.6℃。",
+   "body": "霧雨。最高21.8℃ / 最低18.5℃。いまは21.3℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
-  },
-  {
-   "tag": "WIKI",
-   "title": "沖縄県立八重山病院",
-   "body": "沖縄県立八重山病院（おきなわけんりつやえやまびょういん）は、沖縄県石垣市にある県立の医療機関である。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%B2%96%E7%B8%84%E7%9C%8C%E7%AB%8B%E5%85%AB%E9%87%8D%E5%B1%B1%E7%97%85%E9%99%A2"
   }
  ]
 }
