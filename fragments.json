@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-01T08:53:38+09:00",
+ "generated_at": "2026-10-01T15:00:57+09:00",
  "items": [
+  {
+   "tag": "HN",
+   "title": "SDF Public Access Unix System ... est. 1987",
+   "body": "85ポイント / コメント19件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49909610"
+  },
+  {
+   "tag": "WIKI",
+   "title": "神明神社 (さいたま市中央区)",
+   "body": "神明神社（しんめいじんじゃ）は、埼玉県さいたま市中央区の神社。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E7%A5%9E%E6%98%8E%E7%A5%9E%E7%A4%BE_(%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA)"
+  },
+  {
+   "tag": "HN",
+   "title": "Surprisingly complex waves reveal the brain's inner workings",
+   "body": "159ポイント / コメント51件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49912955"
+  },
+  {
+   "tag": "HN",
+   "title": "Before pixels: Modular industrial dashboards",
+   "body": "87ポイント / コメント14件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49912792"
+  },
+  {
+   "tag": "WIKI",
+   "title": "ベニナ空港",
+   "body": "ベニナ空港 は、リビア・ベンガジにある国際空港である。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%8B%E3%83%8A%E7%A9%BA%E6%B8%AF"
+  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高27.1℃ / 最低18.1℃。いまは20.8℃。",
+   "body": "霧雨。最高28.5℃ / 最低18.1℃。いまは28.5℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
-  },
-  {
-   "tag": "WIKI",
-   "title": "ルナタスピス",
-   "body": "ルナタスピス は、約4億5,000万年前のオルドビス紀後期に生息した化石カブトガニ類の一属。部分的に分節した胴部をもつ。既知最古のカブトガニ類の一つで、北アメリカで見つかった3種が知…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%8A%E3%82%BF%E3%82%B9%E3%83%94%E3%82%B9"
-  },
-  {
-   "tag": "HN",
-   "title": "Halfspace experimental IDE for solid modeling with distance fields",
-   "body": "55ポイント / コメント6件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49913350"
-  },
-  {
-   "tag": "HN",
-   "title": "Show HN: Lathoa, a math app for kids where the AI is wrong on purpose",
-   "body": "19ポイント / コメント8件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49909648"
-  },
-  {
-   "tag": "WIKI",
-   "title": "名古屋臨海鉄道東港線",
-   "body": "東港線（とうこうせん）は、愛知県名古屋市南区の笠寺駅から同区の東港駅までを結ぶ名古屋臨海鉄道の鉄道路線である。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%90%8D%E5%8F%A4%E5%B1%8B%E8%87%A8%E6%B5%B7%E9%89%84%E9%81%93%E6%9D%B1%E6%B8%AF%E7%B7%9A"
-  },
-  {
-   "tag": "HN",
-   "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for …",
-   "body": "118ポイント / コメント54件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49911995"
   }
  ]
 }
