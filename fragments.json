@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-02T14:43:17+09:00",
+ "generated_at": "2026-10-02T21:41:28+09:00",
  "items": [
   {
    "tag": "HN",
-   "title": "Butterflies use optical illusions to dodge predators",
-   "body": "29ポイント / コメント4件。",
+   "title": "Cloudflare K2: serverless event streams",
+   "body": "253ポイント / コメント97件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49928152"
+   "url": "https://news.ycombinator.com/item?id=49921923"
   },
   {
    "tag": "HN",
-   "title": "Using Opus 5.5 to discover a new eyewitness record of the dodo",
-   "body": "110ポイント / コメント23件。",
+   "title": "Several vulnerabilities have been discovered in the Linux kernel",
+   "body": "383ポイント / コメント273件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49926917"
+   "url": "https://news.ycombinator.com/item?id=49928121"
   },
   {
    "tag": "WIKI",
-   "title": "国鉄シキ160形貨車",
-   "body": "国鉄シキ160形貨車（こくてつシキ160がたかしゃ）は、1955年（昭和30年）3月16日に日本車輌製造で1両のみが製造された130t 積み大物車である。富士電機（後に日本AEパワー…",
+   "title": "酢酸アリル",
+   "body": "酢酸アリル (さくさんアリル、Allyl acetate) は、化学式 CH2=CHCH2OCOCH3 で表される有機化合物である。無色の液体で、有用な工業用中間体であるアリルアルコ…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%89%84%E3%82%B7%E3%82%AD160%E5%BD%A2%E8%B2%A8%E8%BB%8A"
-  },
-  {
-   "tag": "WIKI",
-   "title": "若狭神宮寺",
-   "body": "若狭神宮寺（わかさじんぐうじ）は福井県小浜市にある天台宗の寺院。山号は霊応山、本尊は薬師如来坐像。東大寺二月堂への『お水送り』が行われる寺である。2015年（平成27年）4月24日、…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E8%8B%A5%E7%8B%AD%E7%A5%9E%E5%AE%AE%E5%AF%BA"
+   "url": "https://ja.wikipedia.org/wiki/%E9%85%A2%E9%85%B8%E3%82%A2%E3%83%AA%E3%83%AB"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高22.0℃ / 最低19.1℃。いまは22.0℃。",
+   "body": "霧雨。最高21.8℃ / 最低18.2℃。いまは18.4℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "CSS Bed: Classless CSS themes to use as starting points in web develo…",
-   "body": "86ポイント / コメント22件。",
+   "title": "Using Opus 5.5 to discover a new eyewitness record of the dodo",
+   "body": "168ポイント / コメント45件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49927212"
+   "url": "https://news.ycombinator.com/item?id=49926917"
+  },
+  {
+   "tag": "WIKI",
+   "title": "放射輝度",
+   "body": "放射輝度 とは、放射源の表面上の点からある方向へと放出される放射束を表す物理量である。英語名のままラディアンスとも呼ばれる。放射輝度は、放射束の立体角と放射源表面の投影面積による微分…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E6%94%BE%E5%B0%84%E8%BC%9D%E5%BA%A6"
   }
  ]
 }
