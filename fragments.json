@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-02T08:54:59+09:00",
+ "generated_at": "2026-10-02T14:43:17+09:00",
  "items": [
   {
    "tag": "HN",
-   "title": "Show HN: Open-source model routing for coding agents at Astra-level p…",
-   "body": "73ポイント / コメント21件。",
+   "title": "Butterflies use optical illusions to dodge predators",
+   "body": "29ポイント / コメント4件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49911500"
+   "url": "https://news.ycombinator.com/item?id=49928152"
   },
   {
    "tag": "HN",
-   "title": "Oxygen-deprived underwater zones may not be “dead zones” but clue to …",
-   "body": "72ポイント / コメント3件。",
+   "title": "Using Opus 5.5 to discover a new eyewitness record of the dodo",
+   "body": "110ポイント / コメント23件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49925742"
+   "url": "https://news.ycombinator.com/item?id=49926917"
   },
   {
    "tag": "WIKI",
-   "title": "ハバロフスク",
-   "body": "ハバロフスク は、ロシア極東部の都市で、ハバロフスク地方の中心都市である。人口は約62万人でロシア極東部では最大である。",
+   "title": "国鉄シキ160形貨車",
+   "body": "国鉄シキ160形貨車（こくてつシキ160がたかしゃ）は、1955年（昭和30年）3月16日に日本車輌製造で1両のみが製造された130t 積み大物車である。富士電機（後に日本AEパワー…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%90%E3%83%AD%E3%83%95%E3%82%B9%E3%82%AF"
-  },
-  {
-   "tag": "HN",
-   "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/In…",
-   "body": "44ポイント / コメント4件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49926773"
+   "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%89%84%E3%82%B7%E3%82%AD160%E5%BD%A2%E8%B2%A8%E8%BB%8A"
   },
   {
    "tag": "WIKI",
-   "title": "富山市立新庄中学校",
-   "body": "富山市立新庄中学校 は、富山県富山市荒川五丁目（新庄地区）にある公立中学校。",
+   "title": "若狭神宮寺",
+   "body": "若狭神宮寺（わかさじんぐうじ）は福井県小浜市にある天台宗の寺院。山号は霊応山、本尊は薬師如来坐像。東大寺二月堂への『お水送り』が行われる寺である。2015年（平成27年）4月24日、…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%AF%8C%E5%B1%B1%E5%B8%82%E7%AB%8B%E6%96%B0%E5%BA%84%E4%B8%AD%E5%AD%A6%E6%A0%A1"
+   "url": "https://ja.wikipedia.org/wiki/%E8%8B%A5%E7%8B%AD%E7%A5%9E%E5%AE%AE%E5%AF%BA"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高21.8℃ / 最低18.5℃。いまは21.3℃。",
+   "body": "霧雨。最高22.0℃ / 最低19.1℃。いまは22.0℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
+  },
+  {
+   "tag": "HN",
+   "title": "CSS Bed: Classless CSS themes to use as starting points in web develo…",
+   "body": "86ポイント / コメント22件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49927212"
   }
  ]
 }
