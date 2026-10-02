@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-02T21:41:28+09:00",
+ "generated_at": "2026-10-03T03:27:10+09:00",
  "items": [
   {
-   "tag": "HN",
-   "title": "Cloudflare K2: serverless event streams",
-   "body": "253ポイント / コメント97件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49921923"
-  },
-  {
-   "tag": "HN",
-   "title": "Several vulnerabilities have been discovered in the Linux kernel",
-   "body": "383ポイント / コメント273件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49928121"
-  },
-  {
    "tag": "WIKI",
-   "title": "酢酸アリル",
-   "body": "酢酸アリル (さくさんアリル、Allyl acetate) は、化学式 CH2=CHCH2OCOCH3 で表される有機化合物である。無色の液体で、有用な工業用中間体であるアリルアルコ…",
+   "title": "豊沢豊雄",
+   "body": "豊沢 豊雄 は、香川県出身の日本の政治家、発明家。元衆議院議員。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E9%85%A2%E9%85%B8%E3%82%A2%E3%83%AA%E3%83%AB"
+   "url": "https://ja.wikipedia.org/wiki/%E8%B1%8A%E6%B2%A2%E8%B1%8A%E9%9B%84"
+  },
+  {
+   "tag": "HN",
+   "title": "Show HN: Breadcrumb, record everything on your mac + context manager …",
+   "body": "36ポイント / コメント5件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49924943"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高21.8℃ / 最低18.2℃。いまは18.4℃。",
+   "body": "曇り。最高23.1℃ / 最低17.0℃。いまは18.0℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "HN",
-   "title": "Using Opus 5.5 to discover a new eyewitness record of the dodo",
-   "body": "168ポイント / コメント45件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49926917"
+   "tag": "WIKI",
+   "title": "ヒノテガ",
+   "body": "ヒノテガ はニカラグアの都市である。ヒノテガ県の県都である。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%8E%E3%83%86%E3%82%AC"
   },
   {
-   "tag": "WIKI",
-   "title": "放射輝度",
-   "body": "放射輝度 とは、放射源の表面上の点からある方向へと放出される放射束を表す物理量である。英語名のままラディアンスとも呼ばれる。放射輝度は、放射束の立体角と放射源表面の投影面積による微分…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%94%BE%E5%B0%84%E8%BC%9D%E5%BA%A6"
+   "tag": "HN",
+   "title": "ICC judge on what U.S. sanctions mean for her and global courts",
+   "body": "139ポイント / コメント53件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49935867"
+  },
+  {
+   "tag": "HN",
+   "title": "Frog and Toad and the Increasingly Capable Machines",
+   "body": "514ポイント / コメント116件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49927760"
   }
  ]
 }
