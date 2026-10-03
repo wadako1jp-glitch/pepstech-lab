@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-03T07:59:52+09:00",
+ "generated_at": "2026-10-03T11:01:20+09:00",
  "items": [
   {
+   "tag": "WIKI",
+   "title": "林敬三",
+   "body": "林 敬三 は、日本の内務官僚、陸上自衛官。位階は正三位。勲等は勲一等。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E6%9E%97%E6%95%AC%E4%B8%89"
+  },
+  {
    "tag": "HN",
-   "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibili…",
-   "body": "424ポイント / コメント190件。",
+   "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
+   "body": "204ポイント / コメント65件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49927754"
+   "url": "https://news.ycombinator.com/item?id=49928566"
   },
   {
    "tag": "WIKI",
-   "title": "シング (ゲルマンの集会)",
-   "body": "シング とは、古代ゲルマン社会において政策決定を行った会議体である。それは古いロシアのヴェーチェに類似している。 Lawspeakerと呼ばれる機関により主催され、コミュニティーの自…",
+   "title": "深谷駅",
+   "body": "深谷駅（ふかやえき）は、埼玉県深谷市西島町三丁目にある、東日本旅客鉄道（JR東日本）高崎線の駅である。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%B3%E3%82%B0_(%E3%82%B2%E3%83%AB%E3%83%9E%E3%83%B3%E3%81%AE%E9%9B%86%E4%BC%9A)"
+   "url": "https://ja.wikipedia.org/wiki/%E6%B7%B1%E8%B0%B7%E9%A7%85"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "曇り。最高23.2℃ / 最低17.3℃。いまは18.2℃。",
+   "body": "曇り。最高23.7℃ / 最低17.4℃。いまは21.9℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Apple Pass Designer",
-   "body": "253ポイント / コメント177件。",
+   "title": "Blogging with Gleam, Org-Mode and Pandoc",
+   "body": "58ポイント / コメント13件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49937276"
-  },
-  {
-   "tag": "WIKI",
-   "title": "宮田輝",
-   "body": "宮田 輝 は、日本のアナウンサー、政治家。参議院議員（3期）。本名、宮田 輝。妻は声優の河口恵美子。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%AE%AE%E7%94%B0%E8%BC%9D"
+   "url": "https://news.ycombinator.com/item?id=49932340"
   },
   {
    "tag": "HN",
-   "title": "Muse Gadgets",
-   "body": "71ポイント / コメント38件。",
+   "title": "The Legend of von Neumann (1973) [pdf]",
+   "body": "245ポイント / コメント140件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49937504"
+   "url": "https://news.ycombinator.com/item?id=49933235"
   }
  ]
 }
