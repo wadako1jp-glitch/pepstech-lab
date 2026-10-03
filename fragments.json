@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-03T22:25:50+09:00",
+ "generated_at": "2026-10-04T02:58:51+09:00",
  "items": [
-  {
-   "tag": "HN",
-   "title": "GitHub's new dashboard experience now the default",
-   "body": "46ポイント / コメント58件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49942818"
-  },
-  {
-   "tag": "HN",
-   "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
-   "body": "264ポイント / コメント95件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49929391"
-  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "曇り。最高23.5℃ / 最低17.2℃。いまは17.6℃。",
+   "body": "曇り。最高22.4℃ / 最低15.6℃。いまは16.3℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "WIKI",
-   "title": "サン＝トゥアン",
-   "body": "サン＝トゥアン （Saint-Ouen）は、フランス、イル＝ド＝フランス地域圏、セーヌ＝サン＝ドニ県のコミューン。",
+   "title": "トレス・イスラス郡",
+   "body": "トレス・イスラス郡 は、ウルグアイ東方共和国セロ・ラルゴ県の郡である。郡庁所在地はトレス・イスラス町である。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%EF%BC%9D%E3%83%88%E3%82%A5%E3%82%A2%E3%83%B3"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AC%E3%82%B9%E3%83%BB%E3%82%A4%E3%82%B9%E3%83%A9%E3%82%B9%E9%83%A1"
   },
   {
    "tag": "WIKI",
-   "title": "愛知県立小坂井高等学校",
-   "body": "愛知県立小坂井高等学校 は、愛知県豊川市小坂井町欠田にある公立高等学校。普通科単独校である。",
+   "title": "西大寺鉄道",
+   "body": "西大寺鉄道（さいだいじてつどう）は、かつて岡山県岡山市と西大寺市（現在は岡山市に合併され岡山市東区）の間を結んでいた鉄道路線、およびその運営会社である。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%84%9B%E7%9F%A5%E7%9C%8C%E7%AB%8B%E5%B0%8F%E5%9D%82%E4%BA%95%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1"
+   "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E5%A4%A7%E5%AF%BA%E9%89%84%E9%81%93"
   },
   {
    "tag": "HN",
-   "title": "C++ Insights – See your source code with the eyes of a Compiler",
-   "body": "15ポイント / コメント1件。",
+   "title": "Extra Big Ass Intelligence",
+   "body": "442ポイント / コメント103件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49928361"
+   "url": "https://news.ycombinator.com/item?id=49941114"
+  },
+  {
+   "tag": "HN",
+   "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
+   "body": "352ポイント / コメント105件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49928566"
+  },
+  {
+   "tag": "HN",
+   "title": "Muse Gadgets",
+   "body": "231ポイント / コメント104件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49937504"
   }
  ]
 }
