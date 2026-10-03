@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-03T17:10:51+09:00",
+ "generated_at": "2026-10-03T22:25:50+09:00",
  "items": [
   {
    "tag": "HN",
-   "title": "Updates to Full Disk Access in macOS",
-   "body": "182ポイント / コメント126件。",
+   "title": "GitHub's new dashboard experience now the default",
+   "body": "46ポイント / コメント58件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49937631"
-  },
-  {
-   "tag": "WIKI",
-   "title": "川内駅 (岩手県)",
-   "body": "川内駅（かわうちえき）は、岩手県宮古市大字川内にある、東日本旅客鉄道（JR東日本）山田線の駅である。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%B7%9D%E5%86%85%E9%A7%85_(%E5%B2%A9%E6%89%8B%E7%9C%8C)"
-  },
-  {
-   "tag": "WIKI",
-   "title": "世界観光機関",
-   "body": "世界観光機関 は、スペインのマドリードに本部を置く、観光に関する国際機関。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E4%B8%96%E7%95%8C%E8%A6%B3%E5%85%89%E6%A9%9F%E9%96%A2"
+   "url": "https://news.ycombinator.com/item?id=49942818"
   },
   {
    "tag": "HN",
-   "title": "Where Is the Planet",
-   "body": "26ポイント / コメント3件。",
+   "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
+   "body": "264ポイント / コメント95件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49940233"
+   "url": "https://news.ycombinator.com/item?id=49929391"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "曇り。最高23.5℃ / 最低17.4℃。いまは22.0℃。",
+   "body": "曇り。最高23.5℃ / 最低17.2℃。いまは17.6℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
+   "tag": "WIKI",
+   "title": "サン＝トゥアン",
+   "body": "サン＝トゥアン （Saint-Ouen）は、フランス、イル＝ド＝フランス地域圏、セーヌ＝サン＝ドニ県のコミューン。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%EF%BC%9D%E3%83%88%E3%82%A5%E3%82%A2%E3%83%B3"
+  },
+  {
+   "tag": "WIKI",
+   "title": "愛知県立小坂井高等学校",
+   "body": "愛知県立小坂井高等学校 は、愛知県豊川市小坂井町欠田にある公立高等学校。普通科単独校である。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E6%84%9B%E7%9F%A5%E7%9C%8C%E7%AB%8B%E5%B0%8F%E5%9D%82%E4%BA%95%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1"
+  },
+  {
    "tag": "HN",
-   "title": "One month coding with GLM 5.3 Flash",
-   "body": "149ポイント / コメント110件。",
+   "title": "C++ Insights – See your source code with the eyes of a Compiler",
+   "body": "15ポイント / コメント1件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49934620"
+   "url": "https://news.ycombinator.com/item?id=49928361"
   }
  ]
 }
