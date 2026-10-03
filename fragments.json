@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-03T11:01:20+09:00",
+ "generated_at": "2026-10-03T17:10:51+09:00",
  "items": [
   {
+   "tag": "HN",
+   "title": "Updates to Full Disk Access in macOS",
+   "body": "182ポイント / コメント126件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49937631"
+  },
+  {
    "tag": "WIKI",
-   "title": "林敬三",
-   "body": "林 敬三 は、日本の内務官僚、陸上自衛官。位階は正三位。勲等は勲一等。",
+   "title": "川内駅 (岩手県)",
+   "body": "川内駅（かわうちえき）は、岩手県宮古市大字川内にある、東日本旅客鉄道（JR東日本）山田線の駅である。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%9E%97%E6%95%AC%E4%B8%89"
+   "url": "https://ja.wikipedia.org/wiki/%E5%B7%9D%E5%86%85%E9%A7%85_(%E5%B2%A9%E6%89%8B%E7%9C%8C)"
+  },
+  {
+   "tag": "WIKI",
+   "title": "世界観光機関",
+   "body": "世界観光機関 は、スペインのマドリードに本部を置く、観光に関する国際機関。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E4%B8%96%E7%95%8C%E8%A6%B3%E5%85%89%E6%A9%9F%E9%96%A2"
   },
   {
    "tag": "HN",
-   "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
-   "body": "204ポイント / コメント65件。",
+   "title": "Where Is the Planet",
+   "body": "26ポイント / コメント3件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49928566"
-  },
-  {
-   "tag": "WIKI",
-   "title": "深谷駅",
-   "body": "深谷駅（ふかやえき）は、埼玉県深谷市西島町三丁目にある、東日本旅客鉄道（JR東日本）高崎線の駅である。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%B7%B1%E8%B0%B7%E9%A7%85"
+   "url": "https://news.ycombinator.com/item?id=49940233"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "曇り。最高23.7℃ / 最低17.4℃。いまは21.9℃。",
+   "body": "曇り。最高23.5℃ / 最低17.4℃。いまは22.0℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Blogging with Gleam, Org-Mode and Pandoc",
-   "body": "58ポイント / コメント13件。",
+   "title": "One month coding with GLM 5.3 Flash",
+   "body": "149ポイント / コメント110件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49932340"
-  },
-  {
-   "tag": "HN",
-   "title": "The Legend of von Neumann (1973) [pdf]",
-   "body": "245ポイント / コメント140件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49933235"
+   "url": "https://news.ycombinator.com/item?id=49934620"
   }
  ]
 }
