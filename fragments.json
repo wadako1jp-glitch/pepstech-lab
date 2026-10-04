@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-04T09:40:50+09:00",
+ "generated_at": "2026-10-04T15:58:32+09:00",
  "items": [
+  {
+   "tag": "HN",
+   "title": "Show HN: Thoreau BASIC – What if BASIC hadn't gone out of fashion?",
+   "body": "50ポイント / コメント18件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49942103"
+  },
+  {
+   "tag": "WIKI",
+   "title": "標津町",
+   "body": "標津町（しべつちょう）は、北海道東部、根室振興局管内標津郡にある町。日本有数の鮭の産地として知られる。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E6%A8%99%E6%B4%A5%E7%94%BA"
+  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "薄曇り。最高22.3℃ / 最低15.7℃。いまは20.0℃。",
+   "body": "曇り。最高22.5℃ / 最低15.7℃。いまは21.9℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "WIKI",
-   "title": "松本重太郎",
-   "body": "松本 重太郎 は日本の実業家。関西経済界の重鎮。旧姓は松岡、幼名は亀蔵。肥料、銀行、紡績、鉄道など多くの企業の設立、経営に参画し、西の松本、東の渋沢と呼ばれた。近代数寄者としても有名…",
+   "title": "附属池田小事件",
+   "body": "附属池田小事件（ふぞくいけだしょうじけん）は、2001年（平成13年）6月8日、日本の大阪府池田市にある大阪教育大学附属池田小学校で発生した無差別殺傷（殺人・殺人未遂・銃刀法違反・建…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%9C%AC%E9%87%8D%E5%A4%AA%E9%83%8E"
+   "url": "https://ja.wikipedia.org/wiki/%E9%99%84%E5%B1%9E%E6%B1%A0%E7%94%B0%E5%B0%8F%E4%BA%8B%E4%BB%B6"
   },
   {
    "tag": "HN",
-   "title": "Automating my 35mm film scanning pipeline",
-   "body": "10ポイント / コメント4件。",
+   "title": "Three AI agents, two countries, and one uneven world wide web",
+   "body": "25ポイント / コメント1件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49946148"
+   "url": "https://news.ycombinator.com/item?id=49938326"
   },
   {
    "tag": "HN",
-   "title": "Vx – One Language, Every Chip",
-   "body": "58ポイント / コメント29件。",
+   "title": "Docker has always used microVMs (well since 2016)",
+   "body": "35ポイント / コメント24件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49946076"
-  },
-  {
-   "tag": "WIKI",
-   "title": "原信一朗",
-   "body": "原 信一朗 は東京都出身のプロ野球審判員。審判員袖番号は32。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%8E%9F%E4%BF%A1%E4%B8%80%E6%9C%97"
-  },
-  {
-   "tag": "HN",
-   "title": "New York City should carefully measure a new tree",
-   "body": "38ポイント / コメント5件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49940877"
+   "url": "https://news.ycombinator.com/item?id=49945352"
   }
  ]
 }
