@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-04T06:20:43+09:00",
+ "generated_at": "2026-10-04T09:40:50+09:00",
  "items": [
-  {
-   "tag": "HN",
-   "title": "Celebrating the 100th birthday of the kidney donated to him as a teen…",
-   "body": "77ポイント / コメント14件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49923873"
-  },
-  {
-   "tag": "WIKI",
-   "title": "伊香保温泉",
-   "body": "伊香保温泉（いかほおんせん）は、群馬県渋川市伊香保町にある温泉。草津温泉と並んで県を代表する名湯で、上毛かるたでは「伊香保温泉 日本の名湯」と歌われている。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E4%BC%8A%E9%A6%99%E4%BF%9D%E6%B8%A9%E6%B3%89"
-  },
-  {
-   "tag": "HN",
-   "title": "ADHD, autism or complex trauma? [pdf]",
-   "body": "184ポイント / コメント160件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49946403"
-  },
-  {
-   "tag": "HN",
-   "title": "We want you to build the next Git platform on Cloudflare",
-   "body": "46ポイント / コメント32件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49947051"
-  },
-  {
-   "tag": "WIKI",
-   "title": "特殊作戦軍 (ロシア連邦)",
-   "body": "特殊作戦軍 は、ロシア連邦軍参謀本部特殊作戦指揮部 隷下の特殊部隊。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E7%89%B9%E6%AE%8A%E4%BD%9C%E6%88%A6%E8%BB%8D_(%E3%83%AD%E3%82%B7%E3%82%A2%E9%80%A3%E9%82%A6)"
-  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "曇り。最高22.4℃ / 最低15.5℃。いまは15.6℃。",
+   "body": "薄曇り。最高22.3℃ / 最低15.7℃。いまは20.0℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
+  },
+  {
+   "tag": "WIKI",
+   "title": "松本重太郎",
+   "body": "松本 重太郎 は日本の実業家。関西経済界の重鎮。旧姓は松岡、幼名は亀蔵。肥料、銀行、紡績、鉄道など多くの企業の設立、経営に参画し、西の松本、東の渋沢と呼ばれた。近代数寄者としても有名…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%9C%AC%E9%87%8D%E5%A4%AA%E9%83%8E"
+  },
+  {
+   "tag": "HN",
+   "title": "Automating my 35mm film scanning pipeline",
+   "body": "10ポイント / コメント4件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49946148"
+  },
+  {
+   "tag": "HN",
+   "title": "Vx – One Language, Every Chip",
+   "body": "58ポイント / コメント29件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49946076"
+  },
+  {
+   "tag": "WIKI",
+   "title": "原信一朗",
+   "body": "原 信一朗 は東京都出身のプロ野球審判員。審判員袖番号は32。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%8E%9F%E4%BF%A1%E4%B8%80%E6%9C%97"
+  },
+  {
+   "tag": "HN",
+   "title": "New York City should carefully measure a new tree",
+   "body": "38ポイント / コメント5件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49940877"
   }
  ]
 }
