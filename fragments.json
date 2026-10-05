@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-05T16:06:44+09:00",
+ "generated_at": "2026-10-06T01:04:48+09:00",
  "items": [
   {
-   "tag": "WIKI",
-   "title": "カリーニ",
-   "body": "カリーニ は、イタリア共和国シチリア自治州パレルモ県にある、人口約39,000人の基礎自治体（コムーネ）。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AA%E3%83%BC%E3%83%8B"
-  },
-  {
    "tag": "HN",
-   "title": "Bill Draper has died",
-   "body": "115ポイント / コメント36件。",
+   "title": "Infidel goes wild",
+   "body": "165ポイント / コメント33件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49953288"
-  },
-  {
-   "tag": "HN",
-   "title": "A browser-native classic Visual Basic VB6 IDE",
-   "body": "167ポイント / コメント65件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49956681"
-  },
-  {
-   "tag": "WIKI",
-   "title": "田中友幸",
-   "body": "田中 友幸（たなか ともゆき、 は、映画プロデューサー。東宝映画代表取締役会長、日本創造企画代表取締役会長、日本アカデミー賞協会副会長、日本映画テレビプロデューサー協会顧問を歴任。世…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E7%94%B0%E4%B8%AD%E5%8F%8B%E5%B9%B8"
-  },
-  {
-   "tag": "HN",
-   "title": "Results from the ASIC puzzle",
-   "body": "85ポイント / コメント42件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49934078"
+   "url": "https://news.ycombinator.com/item?id=49943637"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "曇り。最高21.4℃ / 最低17.0℃。いまは21.3℃。",
+   "body": "曇り。最高25.9℃ / 最低19.7℃。いまは19.8℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
+  },
+  {
+   "tag": "HN",
+   "title": "Borland Turbo Basic",
+   "body": "17ポイント / コメント2件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49965894"
+  },
+  {
+   "tag": "WIKI",
+   "title": "新雪 (バラ)",
+   "body": "新雪 (しんせつ) は、バラの園芸品種の1つ。1969年に日本で、鈴木省三によって作出された。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E6%96%B0%E9%9B%AA_(%E3%83%90%E3%83%A9)"
+  },
+  {
+   "tag": "WIKI",
+   "title": "12世紀",
+   "body": "12世紀（じゅうにせいき）とは、西暦1101年から西暦1200年までの100年間を指す世紀。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/12%E4%B8%96%E7%B4%80"
+  },
+  {
+   "tag": "HN",
+   "title": "Tell HN: Uceprotect is extorting website owners",
+   "body": "73ポイント / コメント34件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49964045"
   }
  ]
 }
