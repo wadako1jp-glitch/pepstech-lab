@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-05T09:58:21+09:00",
+ "generated_at": "2026-10-05T16:06:44+09:00",
  "items": [
   {
    "tag": "WIKI",
-   "title": "飛鳥未来きずな高等学校",
-   "body": "飛鳥未来きずな高等学校（あすかみらいきずなこうとうがっこう）は、宮城県登米市米山町に本校を構える私立の通信制高等学校。運営法人は学校法人三幸学園。姉妹校に飛鳥未来高等学校、飛鳥未来き…",
+   "title": "カリーニ",
+   "body": "カリーニ は、イタリア共和国シチリア自治州パレルモ県にある、人口約39,000人の基礎自治体（コムーネ）。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E9%A3%9B%E9%B3%A5%E6%9C%AA%E6%9D%A5%E3%81%8D%E3%81%9A%E3%81%AA%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1"
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AA%E3%83%BC%E3%83%8B"
+  },
+  {
+   "tag": "HN",
+   "title": "Bill Draper has died",
+   "body": "115ポイント / コメント36件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49953288"
+  },
+  {
+   "tag": "HN",
+   "title": "A browser-native classic Visual Basic VB6 IDE",
+   "body": "167ポイント / コメント65件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49956681"
   },
   {
    "tag": "WIKI",
-   "title": "ドブ・フローマン",
-   "body": "ドブ・フローマン は、イスラエルの電気工学者、経営者であり、EPROMの発明者である。インテルの元ヴァイスプレジデントで、インテル・イスラエル社創設者・初代ゼネラル・マネージャーであ…",
+   "title": "田中友幸",
+   "body": "田中 友幸（たなか ともゆき、 は、映画プロデューサー。東宝映画代表取締役会長、日本創造企画代表取締役会長、日本アカデミー賞協会副会長、日本映画テレビプロデューサー協会顧問を歴任。世…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%96%E3%83%BB%E3%83%95%E3%83%AD%E3%83%BC%E3%83%9E%E3%83%B3"
+   "url": "https://ja.wikipedia.org/wiki/%E7%94%B0%E4%B8%AD%E5%8F%8B%E5%B9%B8"
+  },
+  {
+   "tag": "HN",
+   "title": "Results from the ASIC puzzle",
+   "body": "85ポイント / コメント42件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49934078"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "曇り。最高21.6℃ / 最低17.0℃。いまは19.1℃。",
+   "body": "曇り。最高21.4℃ / 最低17.0℃。いまは21.3℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
-  },
-  {
-   "tag": "HN",
-   "title": "How to scale intent, quality, and artistry with AI [video]",
-   "body": "47ポイント / コメント13件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49951891"
-  },
-  {
-   "tag": "HN",
-   "title": "Show HN: Build with Python – a beginner course where your code draws",
-   "body": "24ポイント / コメント9件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49956771"
-  },
-  {
-   "tag": "HN",
-   "title": "Demystifying Tufte's data-ink ratio – Tufte's Razor",
-   "body": "6ポイント / コメント1件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49940044"
   }
  ]
 }
