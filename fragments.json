@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-07T02:13:43+09:00",
+ "generated_at": "2026-10-07T06:40:46+09:00",
  "items": [
   {
-   "tag": "WIKI",
-   "title": "訃報 1988年10月",
-   "body": "訃報 1988年10月 では、1988年（昭和63年）10月中に物故した、又は物故が報じられた人物についてまとめる。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E8%A8%83%E5%A0%B1_1988%E5%B9%B410%E6%9C%88"
-  },
-  {
    "tag": "HN",
-   "title": "Find the flattest route between any two points in SF",
-   "body": "269ポイント / コメント94件。",
+   "title": "Show HN: Parseable, an open observability datalake, handles 100M time…",
+   "body": "69ポイント / コメント14件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49971230"
+   "url": "https://news.ycombinator.com/item?id=49978171"
   },
   {
    "tag": "WIKI",
-   "title": "ハッサク",
-   "body": "ハッサク は、広島県因島原産のミカン科で柑橘類のひとつ。ザボン（ブンタン）に近い雑柑といわれ、果実は食べられる。果皮だけでなく、袋（じょうのう膜）も厚いため、通常は袋も剥いて食べる。…",
+   "title": "大田運輸区",
+   "body": "大田運輸区（おおたうんゆく）は、かつて存在した東日本旅客鉄道（JR東日本）首都圏本部の運転士・車掌が所属する組織である。2025年3月14日限りで廃止され、現在は品川統括センター乗務…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%83%E3%82%B5%E3%82%AF"
+   "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E7%94%B0%E9%81%8B%E8%BC%B8%E5%8C%BA"
+  },
+  {
+   "tag": "WIKI",
+   "title": "カステルペトローゾ",
+   "body": "カステルペトローゾ は、イタリア共和国モリーゼ州イゼルニア県にある、人口約1,600人の基礎自治体（コムーネ）。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%B9%E3%83%86%E3%83%AB%E3%83%9A%E3%83%88%E3%83%AD%E3%83%BC%E3%82%BE"
   },
   {
    "tag": "HN",
-   "title": "Competitive Programmer's Handbook (2018) [pdf]",
-   "body": "268ポイント / コメント64件。",
+   "title": "What's Earth's dominant species by mass?",
+   "body": "89ポイント / コメント41件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49944049"
-  },
-  {
-   "tag": "天気",
-   "title": "東京 きょう",
-   "body": "薄曇り。最高24.9℃ / 最低17.6℃。いまは19.4℃。",
-   "src": "open-meteo.com",
-   "url": "https://open-meteo.com/"
+   "url": "https://news.ycombinator.com/item?id=49977531"
   },
   {
    "tag": "HN",
    "title": "Benchmark in Milliseconds",
-   "body": "61ポイント / コメント14件。",
+   "body": "114ポイント / コメント28件。",
    "src": "news.ycombinator.com",
    "url": "https://news.ycombinator.com/item?id=49967427"
+  },
+  {
+   "tag": "天気",
+   "title": "東京 きょう",
+   "body": "曇り。最高25.2℃ / 最低17.6℃。いまは19.0℃。",
+   "src": "open-meteo.com",
+   "url": "https://open-meteo.com/"
   }
  ]
 }
