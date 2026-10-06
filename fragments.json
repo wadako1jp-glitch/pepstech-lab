@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-06T12:01:56+09:00",
+ "generated_at": "2026-10-06T19:23:40+09:00",
  "items": [
   {
    "tag": "WIKI",
-   "title": "阿部裕幸",
-   "body": "阿部 裕幸 は、日本の男性総合格闘家。修斗やDEEP、PRIDEのほか打撃格闘技のK-1に出場した経験もあり【阿部兄】の愛称として有名。現在、総合格闘技クラブ「AACC」主宰、兼 ト…",
+   "title": "北九州市立八児中学校",
+   "body": "北九州市立八児中学校（きたきゅうしゅうしりつやちごちゅうがっこう）は、福岡県北九州市八幡西区町上津役西4丁目16－1にある公立中学校。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E9%98%BF%E9%83%A8%E8%A3%95%E5%B9%B8"
+   "url": "https://ja.wikipedia.org/wiki/%E5%8C%97%E4%B9%9D%E5%B7%9E%E5%B8%82%E7%AB%8B%E5%85%AB%E5%85%90%E4%B8%AD%E5%AD%A6%E6%A0%A1"
   },
   {
    "tag": "HN",
-   "title": "Example.com just launched the biggest redesign in decades",
-   "body": "103ポイント / コメント63件。",
+   "title": "DEDA – Tracking Dots Extraction, Decoding and Anonymisation Toolkit",
+   "body": "65ポイント / コメント7件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49971921"
-  },
-  {
-   "tag": "WIKI",
-   "title": "大仙市立豊岡小学校",
-   "body": "大仙市立豊岡小学校 は、秋田県大仙市豊岡にあった公立小学校。学校区は、旧中仙町東部であった。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E4%BB%99%E5%B8%82%E7%AB%8B%E8%B1%8A%E5%B2%A1%E5%B0%8F%E5%AD%A6%E6%A0%A1"
-  },
-  {
-   "tag": "HN",
-   "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker car…",
-   "body": "310ポイント / コメント202件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49971846"
+   "url": "https://news.ycombinator.com/item?id=49953195"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "曇り。最高26.5℃ / 最低19.3℃。いまは25.6℃。",
+   "body": "曇り。最高25.8℃ / 最低19.3℃。いまは21.9℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
    "title": "Friendship ended with Deno, now Node is my best friend",
-   "body": "81ポイント / コメント22件。",
+   "body": "172ポイント / コメント102件。",
    "src": "news.ycombinator.com",
    "url": "https://news.ycombinator.com/item?id=49971719"
+  },
+  {
+   "tag": "WIKI",
+   "title": "PTT (台湾)",
+   "body": "PTT は、台湾で最大規模のオンラインコミュニティを形成しているインターネット掲示板。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/PTT_(%E5%8F%B0%E6%B9%BE)"
+  },
+  {
+   "tag": "HN",
+   "title": "Competitive Programmer's Handbook (2018) [pdf]",
+   "body": "209ポイント / コメント50件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49944049"
   }
  ]
 }
