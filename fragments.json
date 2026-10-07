@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-07T10:35:10+09:00",
+ "generated_at": "2026-10-07T17:43:50+09:00",
  "items": [
   {
    "tag": "HN",
-   "title": "Claude Code’s suggested message feature: I think the real customer is…",
-   "body": "90ポイント / コメント48件。",
+   "title": "Sharded, encrypted storage between friends over Yggdrasil",
+   "body": "6ポイント / コメント0件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49981905"
+   "url": "https://news.ycombinator.com/item?id=49988550"
+  },
+  {
+   "tag": "WIKI",
+   "title": "カン・ヘヨン",
+   "body": "カン・ヘヨン は韓国・仁川広域市出身（出生地は済州市）の女性トロット歌手。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%B3%E3%83%BB%E3%83%98%E3%83%A8%E3%83%B3"
   },
   {
    "tag": "HN",
-   "title": "Sharing AI progress in mathematics",
-   "body": "400ポイント / コメント328件。",
+   "title": "AnyPS5: Port PS5 binaries to PC without emulation (87% system librari…",
+   "body": "243ポイント / コメント194件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49984923"
+   "url": "https://news.ycombinator.com/item?id=49985664"
+  },
+  {
+   "tag": "WIKI",
+   "title": "オニヒトデ",
+   "body": "オニヒトデ とは、オニヒトデ科に属する動物の一種である。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%8B%E3%83%92%E3%83%88%E3%83%87"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "曇り。最高25.0℃ / 最低17.7℃。いまは20.9℃。",
+   "body": "曇り。最高24.7℃ / 最低17.2℃。いまは21.8℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "WIKI",
-   "title": "津軽為信",
-   "body": "津軽 為信 / 大浦為信（おおうらためのぶ）は、戦国時代から江戸時代初期にかけての武将、大名。陸奥国弘前藩初代藩主。官位は従四位下・右京大夫。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%B4%A5%E8%BB%BD%E7%82%BA%E4%BF%A1"
-  },
-  {
-   "tag": "WIKI",
-   "title": "すや。",
-   "body": "すや。は、日本のコスプレイヤー。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%81%99%E3%82%84%E3%80%82"
-  },
-  {
    "tag": "HN",
-   "title": "Gleam doesn't compile to Erlang source anymore",
-   "body": "298ポイント / コメント125件。",
+   "title": "State of Devs 2026",
+   "body": "151ポイント / コメント77件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49975619"
+   "url": "https://news.ycombinator.com/item?id=49985643"
   }
  ]
 }
