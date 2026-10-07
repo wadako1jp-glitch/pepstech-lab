@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-07T06:40:46+09:00",
+ "generated_at": "2026-10-07T10:35:10+09:00",
  "items": [
   {
    "tag": "HN",
-   "title": "Show HN: Parseable, an open observability datalake, handles 100M time…",
-   "body": "69ポイント / コメント14件。",
+   "title": "Claude Code’s suggested message feature: I think the real customer is…",
+   "body": "90ポイント / コメント48件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49978171"
-  },
-  {
-   "tag": "WIKI",
-   "title": "大田運輸区",
-   "body": "大田運輸区（おおたうんゆく）は、かつて存在した東日本旅客鉄道（JR東日本）首都圏本部の運転士・車掌が所属する組織である。2025年3月14日限りで廃止され、現在は品川統括センター乗務…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E7%94%B0%E9%81%8B%E8%BC%B8%E5%8C%BA"
-  },
-  {
-   "tag": "WIKI",
-   "title": "カステルペトローゾ",
-   "body": "カステルペトローゾ は、イタリア共和国モリーゼ州イゼルニア県にある、人口約1,600人の基礎自治体（コムーネ）。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%B9%E3%83%86%E3%83%AB%E3%83%9A%E3%83%88%E3%83%AD%E3%83%BC%E3%82%BE"
+   "url": "https://news.ycombinator.com/item?id=49981905"
   },
   {
    "tag": "HN",
-   "title": "What's Earth's dominant species by mass?",
-   "body": "89ポイント / コメント41件。",
+   "title": "Sharing AI progress in mathematics",
+   "body": "400ポイント / コメント328件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49977531"
-  },
-  {
-   "tag": "HN",
-   "title": "Benchmark in Milliseconds",
-   "body": "114ポイント / コメント28件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49967427"
+   "url": "https://news.ycombinator.com/item?id=49984923"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "曇り。最高25.2℃ / 最低17.6℃。いまは19.0℃。",
+   "body": "曇り。最高25.0℃ / 最低17.7℃。いまは20.9℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
+  },
+  {
+   "tag": "WIKI",
+   "title": "津軽為信",
+   "body": "津軽 為信 / 大浦為信（おおうらためのぶ）は、戦国時代から江戸時代初期にかけての武将、大名。陸奥国弘前藩初代藩主。官位は従四位下・右京大夫。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E6%B4%A5%E8%BB%BD%E7%82%BA%E4%BF%A1"
+  },
+  {
+   "tag": "WIKI",
+   "title": "すや。",
+   "body": "すや。は、日本のコスプレイヤー。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%81%99%E3%82%84%E3%80%82"
+  },
+  {
+   "tag": "HN",
+   "title": "Gleam doesn't compile to Erlang source anymore",
+   "body": "298ポイント / コメント125件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49975619"
   }
  ]
 }
