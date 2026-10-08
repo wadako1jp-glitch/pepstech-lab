@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-08T10:58:53+09:00",
+ "generated_at": "2026-10-08T18:02:22+09:00",
  "items": [
   {
-   "tag": "HN",
-   "title": "House with 15m underground tunnels for sale for 300k",
-   "body": "161ポイント / コメント160件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49992125"
-  },
-  {
    "tag": "WIKI",
-   "title": "グランド・ジョラス",
-   "body": "グランド・ジョラス は、アルプス山脈モンブラン山塊にある山。フランスとイタリアの国境に位置する。標高4,208m。",
+   "title": "モット・アンド・ベーリー",
+   "body": "モット・アンド・ベーリー は、モット（Motte）と呼ばれる土盛りされた高台の上に木造または石造の主塔（Keep）を配置し、それに伴う城壁に囲まれた中庭、すなわちベーリーを、防御用の…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%E3%83%BB%E3%82%B8%E3%83%A7%E3%83%A9%E3%82%B9"
-  },
-  {
-   "tag": "WIKI",
-   "title": "ラムセス6世",
-   "body": "ラムセス6世 、エジプト第20王朝のファラオ（王）。ネブマートラー=メリアメン・ラムセス6世。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%A0%E3%82%BB%E3%82%B96%E4%B8%96"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%83%E3%83%88%E3%83%BB%E3%82%A2%E3%83%B3%E3%83%89%E3%83%BB%E3%83%99%E3%83%BC%E3%83%AA%E3%83%BC"
   },
   {
    "tag": "HN",
-   "title": "If somebody tries to hot-patch an already-hot-patched function",
-   "body": "42ポイント / コメント14件。",
+   "title": "A 100x faster* alternative to homebrew",
+   "body": "82ポイント / コメント67件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49978315"
-  },
-  {
-   "tag": "HN",
-   "title": "Animated ASCII Art for Web Pages",
-   "body": "292ポイント / コメント57件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49993857"
+   "url": "https://news.ycombinator.com/item?id=50001580"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "晴れ。最高24.0℃ / 最低15.3℃。いまは21.6℃。",
+   "body": "晴れ。最高23.7℃ / 最低15.3℃。いまは20.9℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
+  },
+  {
+   "tag": "WIKI",
+   "title": "カルバジェーダ・デ・アビア",
+   "body": "カルバジェーダ・デ・アビア は、スペイン、ガリシア州、オウレンセ県の自治体。コマルカ・ド・リベイロに属する。ガリシア統計局によれば、2011年の人口は1,504人 である。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AB%E3%83%90%E3%82%B8%E3%82%A7%E3%83%BC%E3%83%80%E3%83%BB%E3%83%87%E3%83%BB%E3%82%A2%E3%83%93%E3%82%A2"
+  },
+  {
+   "tag": "HN",
+   "title": "'Jonathan' is the oldest land animal on Earth",
+   "body": "144ポイント / コメント67件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49998066"
+  },
+  {
+   "tag": "HN",
+   "title": "“Math 2.0” will need to value mathematical progress more holistically",
+   "body": "256ポイント / コメント218件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50002008"
   }
  ]
 }
