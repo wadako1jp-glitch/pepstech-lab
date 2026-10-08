@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-08T07:01:04+09:00",
+ "generated_at": "2026-10-08T10:58:53+09:00",
  "items": [
   {
+   "tag": "HN",
+   "title": "House with 15m underground tunnels for sale for 300k",
+   "body": "161ポイント / コメント160件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49992125"
+  },
+  {
    "tag": "WIKI",
-   "title": "稲村ヶ崎駅",
-   "body": "稲村ヶ崎駅（いなむらがさきえき）は、神奈川県鎌倉市稲村ガ崎二丁目にある、江ノ島電鉄の駅である。駅番号はEN10。",
+   "title": "グランド・ジョラス",
+   "body": "グランド・ジョラス は、アルプス山脈モンブラン山塊にある山。フランスとイタリアの国境に位置する。標高4,208m。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E7%A8%B2%E6%9D%91%E3%83%B6%E5%B4%8E%E9%A7%85"
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%E3%83%BB%E3%82%B8%E3%83%A7%E3%83%A9%E3%82%B9"
+  },
+  {
+   "tag": "WIKI",
+   "title": "ラムセス6世",
+   "body": "ラムセス6世 、エジプト第20王朝のファラオ（王）。ネブマートラー=メリアメン・ラムセス6世。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%A0%E3%82%BB%E3%82%B96%E4%B8%96"
   },
   {
    "tag": "HN",
-   "title": "Claude Haiku 5.5",
-   "body": "516ポイント / コメント243件。",
+   "title": "If somebody tries to hot-patch an already-hot-patched function",
+   "body": "42ポイント / コメント14件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49996437"
+   "url": "https://news.ycombinator.com/item?id=49978315"
+  },
+  {
+   "tag": "HN",
+   "title": "Animated ASCII Art for Web Pages",
+   "body": "292ポイント / コメント57件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49993857"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "晴れ。最高24.0℃ / 最低15.4℃。いまは16.1℃。",
+   "body": "晴れ。最高24.0℃ / 最低15.3℃。いまは21.6℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
-  },
-  {
-   "tag": "HN",
-   "title": "Show HN: gtlds.fyi – All the proposed new gTLDs",
-   "body": "33ポイント / コメント38件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49997971"
-  },
-  {
-   "tag": "HN",
-   "title": "Brownian Motion",
-   "body": "8ポイント / コメント0件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49976818"
-  },
-  {
-   "tag": "WIKI",
-   "title": "朝潮 (朝潮型駆逐艦)",
-   "body": "朝潮 は、大日本帝国海軍に所属した朝潮型駆逐艦の1番艦。1937年（昭和12年）8月に竣工した。日本海軍の艦船名としては白雲型駆逐艦朝潮に続き2隻目。太平洋戦争で南方作戦やバリ島沖海…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%9C%9D%E6%BD%AE_(%E6%9C%9D%E6%BD%AE%E5%9E%8B%E9%A7%86%E9%80%90%E8%89%A6)"
   }
  ]
 }
