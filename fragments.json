@@ -1,45 +1,45 @@
 {
- "generated_at": "2026-10-09T11:13:05+09:00",
+ "generated_at": "2026-10-09T18:10:53+09:00",
  "items": [
   {
-   "tag": "WIKI",
-   "title": "ギターズ・ザ・ミュージアム",
-   "body": "ギターズ・ザ・ミュージアム とは、スウェーデンのウメオにあるギター博物館である。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%82%BF%E3%83%BC%E3%82%BA%E3%83%BB%E3%82%B6%E3%83%BB%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0"
-  },
-  {
    "tag": "HN",
-   "title": "The value of not getting to the point (2015)",
-   "body": "123ポイント / コメント40件。",
+   "title": "OTel-Native by Design – Building Products That Export to Any Observab…",
+   "body": "36ポイント / コメント6件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50010470"
-  },
-  {
-   "tag": "HN",
-   "title": "Theranos.world",
-   "body": "286ポイント / コメント118件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50009295"
-  },
-  {
-   "tag": "HN",
-   "title": "I hired an illustrator to draw my house. Now it's my Home Assistant d…",
-   "body": "400ポイント / コメント67件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49986882"
+   "url": "https://news.ycombinator.com/item?id=50016974"
   },
   {
    "tag": "WIKI",
-   "title": "鹿児島市立吉野東小学校",
-   "body": "鹿児島市立吉野東小学校（かごしましりつよしのひがししょうがっこう）は、鹿児島県鹿児島市吉野町にある公立小学校。",
+   "title": "大分県立国東農工高等学校",
+   "body": "大分県立国東農工高等学校 は、かつて大分県国東市国東町にあった公立の農工高等学校。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E9%B9%BF%E5%85%90%E5%B3%B6%E5%B8%82%E7%AB%8B%E5%90%89%E9%87%8E%E6%9D%B1%E5%B0%8F%E5%AD%A6%E6%A0%A1"
+   "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%88%86%E7%9C%8C%E7%AB%8B%E5%9B%BD%E6%9D%B1%E8%BE%B2%E5%B7%A5%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1"
+  },
+  {
+   "tag": "WIKI",
+   "title": "熊毛インターチェンジ",
+   "body": "熊毛インターチェンジ（くまげインターチェンジ）は、山口県周南市安田にある山陽自動車道のインターチェンジ。光市の最寄りインターチェンジである。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E7%86%8A%E6%AF%9B%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%81%E3%82%A7%E3%83%B3%E3%82%B8"
+  },
+  {
+   "tag": "HN",
+   "title": "Beauty in DVD Menus",
+   "body": "300ポイント / コメント159件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50005527"
+  },
+  {
+   "tag": "HN",
+   "title": "A Terminal Protocol for Program Status (OSC 7501)",
+   "body": "149ポイント / コメント47件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49984159"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "晴れ。最高24.5℃ / 最低15.1℃。いまは22.6℃。",
+   "body": "晴れ。最高24.6℃ / 最低15.1℃。いまは21.8℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   }
