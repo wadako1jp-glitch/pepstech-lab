@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-10T01:16:04+09:00",
+ "generated_at": "2026-10-10T06:00:16+09:00",
  "items": [
-  {
-   "tag": "HN",
-   "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
-   "body": "845ポイント / コメント517件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49995495"
-  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "快晴。最高24.4℃ / 最低15.2℃。いまは16.6℃。",
+   "body": "快晴。最高24.6℃ / 最低14.9℃。いまは14.9℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "I'm in a Meeting",
-   "body": "357ポイント / コメント133件。",
+   "title": "The reciprocal sum of the prime-prefix-free numbers converges [pdf]",
+   "body": "9ポイント / コメント11件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50018088"
+   "url": "https://news.ycombinator.com/item?id=49961538"
+  },
+  {
+   "tag": "WIKI",
+   "title": "有明寺",
+   "body": "有明寺（うみょうじ）は、山梨県南巨摩郡身延町に所在する日蓮正宗の寺院。山号は大杉山（おおすぎさん）。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E6%9C%89%E6%98%8E%E5%AF%BA"
   },
   {
    "tag": "HN",
-   "title": "Let your AI agents paint big arrows, boxes and text on your screen",
-   "body": "246ポイント / コメント101件。",
+   "title": "Typesafe AI raises $870M at $7.5B",
+   "body": "151ポイント / コメント124件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50018817"
+   "url": "https://news.ycombinator.com/item?id=50023450"
+  },
+  {
+   "tag": "HN",
+   "title": "Training Text-to-Image Models Without a VAE",
+   "body": "36ポイント / コメント14件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=49983582"
   },
   {
    "tag": "WIKI",
-   "title": "オーランド・ジョンソン",
-   "body": "オーランド・ジョンソン は、アメリカ合衆国カリフォルニア州モントレー出身のプロバスケットボール選手。ポジションはシューティングガード。",
+   "title": "群馬県道113号粕川停車場線",
+   "body": "群馬県道113号粕川停車場線 は、群馬県前橋市の上毛電気鉄道粕川駅から群馬県道3号前橋大間々桐生線までを結ぶ県道である。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%E3%83%BB%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%BD%E3%83%B3"
-  },
-  {
-   "tag": "WIKI",
-   "title": "ジェット・セットナイトクラブ天井崩落事故",
-   "body": "ジェット・セットナイトクラブ天井崩落事故は2025年4月8日、ドミニカ共和国のサントドミンゴにあるナイトクラブ「ジェットセット」の屋根が崩壊した事故である。この事故は現地時間0時44…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88%E3%83%BB%E3%82%BB%E3%83%83%E3%83%88%E3%83%8A%E3%82%A4%E3%83%88%E3%82%AF%E3%83%A9%E3%83%96%E5%A4%A9%E4%BA%95%E5%B4%A9%E8%90%BD%E4%BA%8B%E6%95%85"
+   "url": "https://ja.wikipedia.org/wiki/%E7%BE%A4%E9%A6%AC%E7%9C%8C%E9%81%93113%E5%8F%B7%E7%B2%95%E5%B7%9D%E5%81%9C%E8%BB%8A%E5%A0%B4%E7%B7%9A"
   }
  ]
 }
