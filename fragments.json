@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-10T09:55:09+09:00",
+ "generated_at": "2026-10-10T16:11:49+09:00",
  "items": [
   {
-   "tag": "WIKI",
-   "title": "サンモール",
-   "body": "サンモール（SUNMALL）は、広島県広島市中区紙屋町にある、主に若者向けのショッピングモール・ファッションビルである。また、サンモールを経営している株式会社サンモールの社名である。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%A2%E3%83%BC%E3%83%AB"
+   "tag": "HN",
+   "title": "Computers Cannot Make Decisions",
+   "body": "4ポイント / コメント0件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50029982"
   },
   {
    "tag": "HN",
-   "title": "Ideas aren't getting harder to find (2022)",
-   "body": "119ポイント / コメント53件。",
+   "title": "How to head into VR without wearing a headset",
+   "body": "15ポイント / コメント2件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50024571"
-  },
-  {
-   "tag": "HN",
-   "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and…",
-   "body": "99ポイント / コメント51件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50019056"
+   "url": "https://news.ycombinator.com/item?id=49981264"
   },
   {
    "tag": "WIKI",
-   "title": "ハーゲン通信大学",
-   "body": "ハーゲン通信大学 は、ハーゲンに本部を置くドイツの公立大学。1974年創立、1974年大学設置。大学の略称はFernUni。",
+   "title": "菊田俊介",
+   "body": "菊田 俊介 は、日本のギタリスト、歌手、作曲家、音楽ライター。栃木県宇都宮市出身。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%BC%E3%82%B2%E3%83%B3%E9%80%9A%E4%BF%A1%E5%A4%A7%E5%AD%A6"
+   "url": "https://ja.wikipedia.org/wiki/%E8%8F%8A%E7%94%B0%E4%BF%8A%E4%BB%8B"
+  },
+  {
+   "tag": "WIKI",
+   "title": "使徒言行録",
+   "body": "『使徒言行録』 は、新約聖書中の一書。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E4%BD%BF%E5%BE%92%E8%A8%80%E8%A1%8C%E9%8C%B2"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "快晴。最高24.7℃ / 最低15.0℃。いまは21.0℃。",
+   "body": "快晴。最高24.8℃ / 最低15.0℃。いまは24.5℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Our $445M Series D",
-   "body": "581ポイント / コメント257件。",
+   "title": "Triple-A Minesweeper",
+   "body": "868ポイント / コメント169件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50020014"
+   "url": "https://news.ycombinator.com/item?id=50022292"
   }
  ]
 }
