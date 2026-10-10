@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-11T03:39:25+09:00",
+ "generated_at": "2026-10-11T07:36:02+09:00",
  "items": [
-  {
-   "tag": "HN",
-   "title": "Apple/macOS silently removed from official Unix registry",
-   "body": "167ポイント / コメント167件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50031653"
-  },
-  {
-   "tag": "HN",
-   "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
-   "body": "344ポイント / コメント172件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50029123"
-  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "晴れ。最高25.8℃ / 最低15.4℃。いまは16.1℃。",
+   "body": "晴れ。最高25.8℃ / 最低15.4℃。いまは17.1℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "WIKI",
-   "title": "アブドゥラ・フクム駅",
-   "body": "アブドゥラ・フクム駅 はマレーシアのクアラルンプールにある、ラピドKLクラナ・ジャヤ線とマレー鉄道KTMコミューターポート・クラン線の駅｡",
+   "title": "311",
+   "body": "311（三百十一、さんびゃくじゅういち）は自然数、また整数において、310の次で312の前の数である。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%96%E3%83%89%E3%82%A5%E3%83%A9%E3%83%BB%E3%83%95%E3%82%AF%E3%83%A0%E9%A7%85"
-  },
-  {
-   "tag": "WIKI",
-   "title": "二村台",
-   "body": "二村台（ふたむらだい）は、愛知県豊明市の地名。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E4%BA%8C%E6%9D%91%E5%8F%B0"
+   "url": "https://ja.wikipedia.org/wiki/311"
   },
   {
    "tag": "HN",
-   "title": "Compiling Rust to readable C with Eurydice",
-   "body": "124ポイント / コメント34件。",
+   "title": "REA Reverse – Engineer Anything",
+   "body": "662ポイント / コメント292件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50027853"
+   "url": "https://news.ycombinator.com/item?id=50028275"
+  },
+  {
+   "tag": "WIKI",
+   "title": "ベニカルロ",
+   "body": "ベニカルロ（Benicarló）は、スペイン・バレンシア州カステリョン県のムニシピ（基礎自治体）。地中海に面した、畑地灌漑に周囲を囲まれた環境にある。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%8B%E3%82%AB%E3%83%AB%E3%83%AD"
+  },
+  {
+   "tag": "HN",
+   "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+   "body": "87ポイント / コメント55件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50035886"
+  },
+  {
+   "tag": "HN",
+   "title": "Chip-hex:cost-benefit, energy efficiency and hexagonal",
+   "body": "4ポイント / コメント2件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50019988"
   }
  ]
 }
