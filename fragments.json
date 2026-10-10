@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-10T22:46:20+09:00",
+ "generated_at": "2026-10-11T03:39:25+09:00",
  "items": [
   {
    "tag": "HN",
    "title": "Apple/macOS silently removed from official Unix registry",
-   "body": "78ポイント / コメント76件。",
+   "body": "167ポイント / コメント167件。",
    "src": "news.ycombinator.com",
    "url": "https://news.ycombinator.com/item?id=50031653"
   },
   {
    "tag": "HN",
-   "title": "The role of cat eye narrowing movements in cat–human communication (2…",
-   "body": "101ポイント / コメント47件。",
+   "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
+   "body": "344ポイント / コメント172件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=49984854"
+   "url": "https://news.ycombinator.com/item?id=50029123"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "快晴。最高24.6℃ / 最低15.0℃。いまは17.6℃。",
+   "body": "晴れ。最高25.8℃ / 最低15.4℃。いまは16.1℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
+   "tag": "WIKI",
+   "title": "アブドゥラ・フクム駅",
+   "body": "アブドゥラ・フクム駅 はマレーシアのクアラルンプールにある、ラピドKLクラナ・ジャヤ線とマレー鉄道KTMコミューターポート・クラン線の駅｡",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%96%E3%83%89%E3%82%A5%E3%83%A9%E3%83%BB%E3%83%95%E3%82%AF%E3%83%A0%E9%A7%85"
+  },
+  {
+   "tag": "WIKI",
+   "title": "二村台",
+   "body": "二村台（ふたむらだい）は、愛知県豊明市の地名。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E4%BA%8C%E6%9D%91%E5%8F%B0"
+  },
+  {
    "tag": "HN",
-   "title": "`123456' password used in Danish CPR data breach",
-   "body": "211ポイント / コメント134件。",
+   "title": "Compiling Rust to readable C with Eurydice",
+   "body": "124ポイント / コメント34件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50031269"
-  },
-  {
-   "tag": "WIKI",
-   "title": "特急「白鳥」十四時間",
-   "body": "『特急「白鳥」十四時間』（とっきゅう「はくちょう」じゅうよじかん）は、西村京太郎の長編推理小説。1984年に角川書店から刊行された。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E7%89%B9%E6%80%A5%E3%80%8C%E7%99%BD%E9%B3%A5%E3%80%8D%E5%8D%81%E5%9B%9B%E6%99%82%E9%96%93"
-  },
-  {
-   "tag": "WIKI",
-   "title": "鄭鎬溶",
-   "body": "鄭 鎬溶 とは、韓国の軍人、政治家。本貫は延日鄭氏。陸軍士官学校卒（第11期生）、陸軍大学卒、ソウル大学校大学院修了、漢陽大学校大学院卒、建国大学校大学院経済学博士。全斗煥大統領率い…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E9%84%AD%E9%8E%AC%E6%BA%B6"
+   "url": "https://news.ycombinator.com/item?id=50027853"
   }
  ]
 }
