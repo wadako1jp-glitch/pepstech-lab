@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-11T07:36:02+09:00",
+ "generated_at": "2026-10-11T10:56:52+09:00",
  "items": [
+  {
+   "tag": "HN",
+   "title": "Recent AI models struggled to match a human algorithmic innovation",
+   "body": "75ポイント / コメント60件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50027257"
+  },
+  {
+   "tag": "HN",
+   "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
+   "body": "417ポイント / コメント265件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50029123"
+  },
+  {
+   "tag": "WIKI",
+   "title": "鈴木順一",
+   "body": "鈴木 順一 は、昭和期の実業家、政治家。参議院議員（1期）。群馬県出身。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E9%88%B4%E6%9C%A8%E9%A0%86%E4%B8%80"
+  },
+  {
+   "tag": "HN",
+   "title": "Five months treating bugs like patients and coding agents like a medi…",
+   "body": "59ポイント / コメント27件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50021899"
+  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "晴れ。最高25.8℃ / 最低15.4℃。いまは17.1℃。",
+   "body": "快晴。最高25.9℃ / 最低15.4℃。いまは23.1℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "WIKI",
-   "title": "311",
-   "body": "311（三百十一、さんびゃくじゅういち）は自然数、また整数において、310の次で312の前の数である。",
+   "title": "日本エレベーター製造",
+   "body": "日本エレベーター製造株式会社 は、エレベーター・エスカレーター・小荷物専用昇降機等の製造販売、据付工事、保守管理を行う日本の会社である。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/311"
-  },
-  {
-   "tag": "HN",
-   "title": "REA Reverse – Engineer Anything",
-   "body": "662ポイント / コメント292件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50028275"
-  },
-  {
-   "tag": "WIKI",
-   "title": "ベニカルロ",
-   "body": "ベニカルロ（Benicarló）は、スペイン・バレンシア州カステリョン県のムニシピ（基礎自治体）。地中海に面した、畑地灌漑に周囲を囲まれた環境にある。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%8B%E3%82%AB%E3%83%AB%E3%83%AD"
-  },
-  {
-   "tag": "HN",
-   "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
-   "body": "87ポイント / コメント55件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50035886"
-  },
-  {
-   "tag": "HN",
-   "title": "Chip-hex:cost-benefit, energy efficiency and hexagonal",
-   "body": "4ポイント / コメント2件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50019988"
+   "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%82%A8%E3%83%AC%E3%83%99%E3%83%BC%E3%82%BF%E3%83%BC%E8%A3%BD%E9%80%A0"
   }
  ]
 }
