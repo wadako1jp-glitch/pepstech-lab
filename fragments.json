@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-11T10:56:52+09:00",
+ "generated_at": "2026-10-11T17:57:12+09:00",
  "items": [
   {
-   "tag": "HN",
-   "title": "Recent AI models struggled to match a human algorithmic innovation",
-   "body": "75ポイント / コメント60件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50027257"
-  },
-  {
-   "tag": "HN",
-   "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
-   "body": "417ポイント / コメント265件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50029123"
-  },
-  {
    "tag": "WIKI",
-   "title": "鈴木順一",
-   "body": "鈴木 順一 は、昭和期の実業家、政治家。参議院議員（1期）。群馬県出身。",
+   "title": "ピオリア郡 (イリノイ州)",
+   "body": "ピオリア郡 は、アメリカ合衆国イリノイ州の郡である。人口は18万1830人（2020年）。郡庁所在地はピオリアであり、同郡で人口最大の都市である。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E9%88%B4%E6%9C%A8%E9%A0%86%E4%B8%80"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%94%E3%82%AA%E3%83%AA%E3%82%A2%E9%83%A1_(%E3%82%A4%E3%83%AA%E3%83%8E%E3%82%A4%E5%B7%9E)"
   },
   {
    "tag": "HN",
-   "title": "Five months treating bugs like patients and coding agents like a medi…",
-   "body": "59ポイント / コメント27件。",
+   "title": "Getting old Macromedia Director Games to run on modern Hardware",
+   "body": "76ポイント / コメント15件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50021899"
+   "url": "https://news.ycombinator.com/item?id=50020901"
+  },
+  {
+   "tag": "HN",
+   "title": "European Alternatives",
+   "body": "8ポイント / コメント3件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50039063"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "快晴。最高25.9℃ / 最低15.4℃。いまは23.1℃。",
+   "body": "快晴。最高26.0℃ / 最低15.4℃。いまは21.8℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "WIKI",
-   "title": "日本エレベーター製造",
-   "body": "日本エレベーター製造株式会社 は、エレベーター・エスカレーター・小荷物専用昇降機等の製造販売、据付工事、保守管理を行う日本の会社である。",
+   "title": "2017年の読売ジャイアンツ",
+   "body": "2017年の読売ジャイアンツでは、2017年シーズンについての読売ジャイアンツの動向をまとめる。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%82%A8%E3%83%AC%E3%83%99%E3%83%BC%E3%82%BF%E3%83%BC%E8%A3%BD%E9%80%A0"
+   "url": "https://ja.wikipedia.org/wiki/2017%E5%B9%B4%E3%81%AE%E8%AA%AD%E5%A3%B2%E3%82%B8%E3%83%A3%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%84"
+  },
+  {
+   "tag": "HN",
+   "title": "GameBoy on E-Paper ESP32 at 30FPS [video]",
+   "body": "77ポイント / コメント20件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50039536"
   }
  ]
 }
