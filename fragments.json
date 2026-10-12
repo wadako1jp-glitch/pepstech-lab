@@ -1,45 +1,45 @@
 {
- "generated_at": "2026-10-12T09:35:29+09:00",
+ "generated_at": "2026-10-12T16:24:37+09:00",
  "items": [
   {
    "tag": "HN",
-   "title": "Terence Tao: Math 2.0 [pdf]",
-   "body": "304ポイント / コメント360件。",
+   "title": "So, You’d Like To Sell Your Print Issues Of The Onion?",
+   "body": "309ポイント / コメント46件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50043026"
-  },
-  {
-   "tag": "HN",
-   "title": "How I reverse engineered a commercial spatial audio effect",
-   "body": "92ポイント / コメント31件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50044272"
+   "url": "https://news.ycombinator.com/item?id=50047055"
   },
   {
    "tag": "WIKI",
-   "title": "戸坂 (広島市)",
-   "body": "戸坂（へさか）は、広島県広島市東区北部に位置する地区。",
+   "title": "東宝芸能",
+   "body": "東宝芸能株式会社（とうほうげいのう）は、映画会社・東宝（阪急阪神東宝グループ）の100%出資による芸能事務所。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%88%B8%E5%9D%82_(%E5%BA%83%E5%B3%B6%E5%B8%82)"
+   "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%AE%9D%E8%8A%B8%E8%83%BD"
   },
   {
    "tag": "HN",
-   "title": "Safe SIMD in Rust, even on the inside",
-   "body": "24ポイント / コメント1件。",
+   "title": "Illustration Beyond Proof",
+   "body": "59ポイント / コメント0件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50033601"
+   "url": "https://news.ycombinator.com/item?id=50049133"
+  },
+  {
+   "tag": "HN",
+   "title": "Type-safe HTML templating in Zig",
+   "body": "68ポイント / コメント31件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50051573"
   },
   {
    "tag": "WIKI",
-   "title": "幸平一家",
-   "body": "幸平一家（こうへいいっか）は、東京都板橋区大山金井町に本部を置く博徒系暴力団で、指定暴力団・住吉会の二次団体。",
+   "title": "コッレ・ディ・トーラ",
+   "body": "コッレ・ディ・トーラ は、イタリア共和国ラツィオ州リエーティ県にある、人口約370人の基礎自治体（コムーネ）。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%B9%B8%E5%B9%B3%E4%B8%80%E5%AE%B6"
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%83%E3%83%AC%E3%83%BB%E3%83%87%E3%82%A3%E3%83%BB%E3%83%88%E3%83%BC%E3%83%A9"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "晴れ。最高25.0℃ / 最低16.1℃。いまは20.5℃。",
+   "body": "晴れ。最高25.0℃ / 最低16.3℃。いまは23.7℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   }
