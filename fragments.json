@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-13T16:45:44+09:00",
+ "generated_at": "2026-10-14T01:02:44+09:00",
  "items": [
+  {
+   "tag": "WIKI",
+   "title": "ロマン・スタネック",
+   "body": "ロマン・スタネックJr. は、チェコのレーシングドライバー。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%9E%E3%83%B3%E3%83%BB%E3%82%B9%E3%82%BF%E3%83%8D%E3%83%83%E3%82%AF"
+  },
+  {
+   "tag": "HN",
+   "title": "Who is vfmaddrnd231pd?",
+   "body": "240ポイント / コメント21件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50063138"
+  },
+  {
+   "tag": "WIKI",
+   "title": "小錦八十吉 (横綱)",
+   "body": "小錦 八十吉 は、上総国武射郡 出身で高砂部屋に所属した大相撲力士。第17代横綱。本名は岩井 八十吉。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E9%8C%A6%E5%85%AB%E5%8D%81%E5%90%89_(%E6%A8%AA%E7%B6%B1)"
+  },
+  {
+   "tag": "HN",
+   "title": "A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silic…",
+   "body": "146ポイント / コメント57件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50070593"
+  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "薄曇り。最高23.1℃ / 最低16.3℃。いまは22.5℃。",
+   "body": "霧雨。最高23.8℃ / 最低18.0℃。いまは18.0℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "The baffling intelligence of a single cell (2024)",
-   "body": "223ポイント / コメント33件。",
+   "title": "CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades",
+   "body": "339ポイント / コメント160件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50041866"
-  },
-  {
-   "tag": "HN",
-   "title": "Denmark set to allow return of 'physical force' in school",
-   "body": "34ポイント / コメント12件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50067570"
-  },
-  {
-   "tag": "WIKI",
-   "title": "アラブ種",
-   "body": "アラブ（種）（Arab、Arabian）とは、ウマの品種の一つ。現存する馬の改良種の中で最初に確立した品種とされる。体高約140cm台-150cm台（ポニー相当の高さしかない個体もい…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A9%E3%83%96%E7%A8%AE"
-  },
-  {
-   "tag": "HN",
-   "title": "GLM-Legal",
-   "body": "532ポイント / コメント307件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50058507"
-  },
-  {
-   "tag": "WIKI",
-   "title": "揚州東駅",
-   "body": "揚州東駅（ようしゅうひがし-えき）は、中華人民共和国江蘇省揚州市広陵区にある連鎮旅客専用線の駅。2027年には北沿江高速鉄道が開業予定である。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%8F%9A%E5%B7%9E%E6%9D%B1%E9%A7%85"
+   "url": "https://news.ycombinator.com/item?id=50069329"
   }
  ]
 }
