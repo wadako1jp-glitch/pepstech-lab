@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-13T02:58:38+09:00",
+ "generated_at": "2026-10-13T09:44:57+09:00",
  "items": [
-  {
-   "tag": "WIKI",
-   "title": "クサスギカズラ属",
-   "body": "クサスギカズラ属（Asparagus）は、キジカクシ科に属する植物の1群。多くは細かく細い葉を多数つけるように見えるが、これは茎の変形したものである。多くの実用的な種があり、それらは…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%82%B5%E3%82%B9%E3%82%AE%E3%82%AB%E3%82%BA%E3%83%A9%E5%B1%9E"
-  },
-  {
-   "tag": "HN",
-   "title": "Bag of Decisions Reranker",
-   "body": "61ポイント / コメント10件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50034950"
-  },
-  {
-   "tag": "HN",
-   "title": "Terence Tao: Math 2.0 [pdf]",
-   "body": "489ポイント / コメント489件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50043026"
-  },
-  {
-   "tag": "WIKI",
-   "title": "イイギリ科",
-   "body": "イイギリ科（イイギリか、Flacourtiaceae）は双子葉植物の科。いずれも木本で、世界の熱帯を中心に89属800種ほどが分布する。新エングラー体系及びクロンキスト体系では認めら…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%A4%E3%82%AE%E3%83%AA%E7%A7%91"
-  },
-  {
-   "tag": "HN",
-   "title": "Muse Wonder",
-   "body": "168ポイント / コメント74件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50059115"
-  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "薄曇り。最高23.6℃ / 最低16.5℃。いまは17.0℃。",
+   "body": "薄曇り。最高23.2℃ / 最低16.3℃。いまは19.6℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
+  },
+  {
+   "tag": "WIKI",
+   "title": "浜地文平",
+   "body": "浜地 文平 は、昭和期の日本の政治家。位階は正三位。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E6%B5%9C%E5%9C%B0%E6%96%87%E5%B9%B3"
+  },
+  {
+   "tag": "HN",
+   "title": "Codex CLI installs a persistent, self-updating background daemon by d…",
+   "body": "436ポイント / コメント229件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50060694"
+  },
+  {
+   "tag": "HN",
+   "title": "Breaking Bad star RJ Mitte dies aged 34",
+   "body": "108ポイント / コメント31件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50063831"
+  },
+  {
+   "tag": "HN",
+   "title": "Thinking will become a hobby",
+   "body": "216ポイント / コメント282件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50059204"
+  },
+  {
+   "tag": "WIKI",
+   "title": "池田 (北九州市)",
+   "body": "池田（いけだ）は福岡県北九州市八幡西区の地名。池田一丁目から三丁目の町がある。住居表示実施済み。郵便番号は807-1125。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E6%B1%A0%E7%94%B0_(%E5%8C%97%E4%B9%9D%E5%B7%9E%E5%B8%82)"
   }
  ]
 }
