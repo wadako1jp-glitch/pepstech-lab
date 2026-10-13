@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-14T01:02:44+09:00",
+ "generated_at": "2026-10-14T06:18:13+09:00",
  "items": [
-  {
-   "tag": "WIKI",
-   "title": "ロマン・スタネック",
-   "body": "ロマン・スタネックJr. は、チェコのレーシングドライバー。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%9E%E3%83%B3%E3%83%BB%E3%82%B9%E3%82%BF%E3%83%8D%E3%83%83%E3%82%AF"
-  },
-  {
-   "tag": "HN",
-   "title": "Who is vfmaddrnd231pd?",
-   "body": "240ポイント / コメント21件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50063138"
-  },
-  {
-   "tag": "WIKI",
-   "title": "小錦八十吉 (横綱)",
-   "body": "小錦 八十吉 は、上総国武射郡 出身で高砂部屋に所属した大相撲力士。第17代横綱。本名は岩井 八十吉。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E9%8C%A6%E5%85%AB%E5%8D%81%E5%90%89_(%E6%A8%AA%E7%B6%B1)"
-  },
-  {
-   "tag": "HN",
-   "title": "A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silic…",
-   "body": "146ポイント / コメント57件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50070593"
-  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高23.8℃ / 最低18.0℃。いまは18.0℃。",
+   "body": "小雨。最高25.3℃ / 最低17.6℃。いまは19.5℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades",
-   "body": "339ポイント / コメント160件。",
+   "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+   "body": "114ポイント / コメント33件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50069329"
+   "url": "https://news.ycombinator.com/item?id=50077020"
+  },
+  {
+   "tag": "WIKI",
+   "title": "旧尾崎家住宅",
+   "body": "旧尾崎家住宅（きゅうおざきけじゅうたく）は、兵庫県加東市上三草にある江戸時代後期の武家屋敷。旧三草藩大目付で30石取りの藩士、尾崎弥一郎の旧宅である。「三草藩武家屋敷旧尾崎家」の名称…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E6%97%A7%E5%B0%BE%E5%B4%8E%E5%AE%B6%E4%BD%8F%E5%AE%85"
+  },
+  {
+   "tag": "HN",
+   "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+   "body": "237ポイント / コメント232件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50054092"
+  },
+  {
+   "tag": "WIKI",
+   "title": "ホランス・ディープ川",
+   "body": "ホランス・ディープ川 は、オランダを流れる川で、ライン川とマース川がライン・マース・スヘルデ三角州に流れ込んで分岐した川の一つである。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%A9%E3%83%B3%E3%82%B9%E3%83%BB%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97%E5%B7%9D"
+  },
+  {
+   "tag": "HN",
+   "title": "MIT class project turns into an FDA-cleared treatment for tremors",
+   "body": "96ポイント / コメント16件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50061659"
   }
  ]
 }
