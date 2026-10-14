@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-15T05:45:25+09:00",
+ "generated_at": "2026-10-15T08:56:55+09:00",
  "items": [
   {
+   "tag": "HN",
+   "title": "Containment and monitoring failures are to blame for AI hacking repor…",
+   "body": "814ポイント / コメント437件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50091788"
+  },
+  {
    "tag": "WIKI",
-   "title": "アーウィン (カリフォルニア州)",
-   "body": "アーウィン は、アメリカ合衆国カリフォルニア州マーセド郡の非法人地域。名称は、創設者であるW.A.アーウィンにちなんでいる。",
+   "title": "セーブル (紋章学)",
+   "body": "セーブル は、紋章学における黒色を表すティンクチャーであり、「原色 (colours) 」と呼ばれる種類のティンクチャーに属する。なお、ティンクチャーとは紋章学における紋様の要素であ…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%BC%E3%82%A6%E3%82%A3%E3%83%B3_(%E3%82%AB%E3%83%AA%E3%83%95%E3%82%A9%E3%83%AB%E3%83%8B%E3%82%A2%E5%B7%9E)"
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%BC%E3%83%96%E3%83%AB_(%E7%B4%8B%E7%AB%A0%E5%AD%A6)"
   },
   {
-   "tag": "HN",
-   "title": "Banks are now trying to offload the AI data center debt they just und…",
-   "body": "155ポイント / コメント130件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50092664"
-  },
-  {
-   "tag": "HN",
-   "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
-   "body": "57ポイント / コメント8件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50092470"
-  },
-  {
-   "tag": "HN",
-   "title": "Nvidia's first GPU: GeForce 256",
-   "body": "57ポイント / コメント35件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50086363"
+   "tag": "WIKI",
+   "title": "宮田東峰",
+   "body": "宮田 東峰 は日本のハーモニカ奏者、作曲家。本名・宮田 孝三郎。群馬県前橋市出身。日本作曲家協会常任理事、日本コロムビア常任顧問、日本音楽著作権組合副委員長、群馬県作詞作曲家協会長な…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%AE%AE%E7%94%B0%E6%9D%B1%E5%B3%B0"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "薄曇り。最高21.7℃ / 最低16.3℃。いまは16.5℃。",
+   "body": "薄曇り。最高21.6℃ / 最低16.3℃。いまは18.5℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "WIKI",
-   "title": "アンドレア・ベロッティ",
-   "body": "アンドレア・ベロッティ は、イタリア・カルチナーテ出身のサッカー選手。イタリア代表。カリアリ・カルチョ所属。ポジションはフォワード。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AC%E3%82%A2%E3%83%BB%E3%83%99%E3%83%AD%E3%83%83%E3%83%86%E3%82%A3"
+   "tag": "HN",
+   "title": "Passkeys are not a trap",
+   "body": "431ポイント / コメント604件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50088935"
+  },
+  {
+   "tag": "HN",
+   "title": "Google is silently linking your phone number across all signed-in acc…",
+   "body": "347ポイント / コメント92件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50090349"
   }
  ]
 }
