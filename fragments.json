@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-14T21:01:12+09:00",
+ "generated_at": "2026-10-15T02:15:07+09:00",
  "items": [
-  {
-   "tag": "HN",
-   "title": "Strafe: A new open-source, E2E Encrypted, and federated alternative t…",
-   "body": "45ポイント / コメント31件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50082021"
-  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "小雨。最高23.2℃ / 最低17.6℃。いまは19.0℃。",
+   "body": "晴れ。最高21.7℃ / 最低16.4℃。いまは17.8℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "WIKI",
-   "title": "ベレー (フランス)",
-   "body": "ベレー （Belley）は、フランス、オーヴェルニュ＝ローヌ＝アルプ地域圏、アン県のコミューン。歴史的なビュジェイ地方 の中心地である。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%AC%E3%83%BC_(%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9)"
-  },
-  {
    "tag": "HN",
-   "title": "AlphaNIST",
-   "body": "80ポイント / コメント26件。",
+   "title": "Running Windows desktop tests from Linux with disposable VMs",
+   "body": "44ポイント / コメント19件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50079464"
-  },
-  {
-   "tag": "HN",
-   "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
-   "body": "466ポイント / コメント121件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50077020"
+   "url": "https://news.ycombinator.com/item?id=50088643"
   },
   {
    "tag": "WIKI",
-   "title": "山口県桜ケ丘高等学校・晃英館中学校",
-   "body": "山口県桜ケ丘高等学校・晃英館中学校 は、山口県周南市公園区にある私立高等学校・中学校。設置者は学校法人山口県桜ケ丘学園。",
+   "title": "ヘルベルト・グレーネマイヤー",
+   "body": "ヘルベルト・グレーネマイヤー は、ドイツのロック歌手。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E5%8F%A3%E7%9C%8C%E6%A1%9C%E3%82%B1%E4%B8%98%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1%E3%83%BB%E6%99%83%E8%8B%B1%E9%A4%A8%E4%B8%AD%E5%AD%A6%E6%A0%A1"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%98%E3%83%AB%E3%83%99%E3%83%AB%E3%83%88%E3%83%BB%E3%82%B0%E3%83%AC%E3%83%BC%E3%83%8D%E3%83%9E%E3%82%A4%E3%83%A4%E3%83%BC"
+  },
+  {
+   "tag": "HN",
+   "title": "The Genealogy of Eliza",
+   "body": "18ポイント / コメント1件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50062575"
+  },
+  {
+   "tag": "WIKI",
+   "title": "岩尾信行",
+   "body": "岩尾 信行 は、日本の検察官、法務官僚。内閣法制局長官。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%B2%A9%E5%B0%BE%E4%BF%A1%E8%A1%8C"
+  },
+  {
+   "tag": "HN",
+   "title": "Strands Decider: Why Not an Encoder?",
+   "body": "10ポイント / コメント0件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50088447"
   }
  ]
 }
