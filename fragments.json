@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-15T18:59:20+09:00",
+ "generated_at": "2026-10-16T00:04:24+09:00",
  "items": [
+  {
+   "tag": "HN",
+   "title": "The First Social Network: In rural Argentina residents send messages …",
+   "body": "90ポイント / コメント35件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50079701"
+  },
+  {
+   "tag": "HN",
+   "title": "Sticky alpine flower confirms Darwin's 150-year-old carnivorous plant…",
+   "body": "73ポイント / コメント31件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50060547"
+  },
+  {
+   "tag": "WIKI",
+   "title": "ラントヴェーア (軍事)",
+   "body": "ラントヴェーア とは時代や地域によって異なる意味を持つ、ドイツ語圏の役種である。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%B3%E3%83%88%E3%83%B4%E3%82%A7%E3%83%BC%E3%82%A2_(%E8%BB%8D%E4%BA%8B)"
+  },
+  {
+   "tag": "WIKI",
+   "title": "渡された場面",
+   "body": "『渡された場面』（わたされたばめん）は、松本清張の長編推理小説。「禁忌の連歌」第1話として『週刊新潮』に連載され 、1976年11月に新潮社から刊行された。並行する二つの場面の、一つ…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E6%B8%A1%E3%81%95%E3%82%8C%E3%81%9F%E5%A0%B4%E9%9D%A2"
+  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "薄曇り。最高21.7℃ / 最低16.2℃。いまは19.3℃。",
+   "body": "曇り。最高25.7℃ / 最低16.0℃。いまは17.0℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "The cost of getting a job today",
-   "body": "8ポイント / コメント0件。",
+   "title": "Show HN: A 3D Configurator for Macropads",
+   "body": "4ポイント / コメント3件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50101149"
-  },
-  {
-   "tag": "WIKI",
-   "title": "シャヒマルダン",
-   "body": "シャヒマルダン はウズベキスタン・フェルガナ州フェルガナ地区の村である。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%83%92%E3%83%9E%E3%83%AB%E3%83%80%E3%83%B3"
-  },
-  {
-   "tag": "WIKI",
-   "title": "小林敏明 (外交官)",
-   "body": "小林 敏明 は、新潟県出身の日本の外交官。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%9E%97%E6%95%8F%E6%98%8E_(%E5%A4%96%E4%BA%A4%E5%AE%98)"
-  },
-  {
-   "tag": "HN",
-   "title": "The Double Headed Stack Allocator",
-   "body": "65ポイント / コメント18件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50098274"
-  },
-  {
-   "tag": "HN",
-   "title": "Better HTTP/1 connection reuse in Go 1.27",
-   "body": "255ポイント / コメント36件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50090369"
+   "url": "https://news.ycombinator.com/item?id=50072456"
   }
  ]
 }
