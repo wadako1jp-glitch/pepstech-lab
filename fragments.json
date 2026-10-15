@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-16T00:04:24+09:00",
+ "generated_at": "2026-10-16T04:11:42+09:00",
  "items": [
-  {
-   "tag": "HN",
-   "title": "The First Social Network: In rural Argentina residents send messages …",
-   "body": "90ポイント / コメント35件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50079701"
-  },
-  {
-   "tag": "HN",
-   "title": "Sticky alpine flower confirms Darwin's 150-year-old carnivorous plant…",
-   "body": "73ポイント / コメント31件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50060547"
-  },
-  {
-   "tag": "WIKI",
-   "title": "ラントヴェーア (軍事)",
-   "body": "ラントヴェーア とは時代や地域によって異なる意味を持つ、ドイツ語圏の役種である。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%B3%E3%83%88%E3%83%B4%E3%82%A7%E3%83%BC%E3%82%A2_(%E8%BB%8D%E4%BA%8B)"
-  },
-  {
-   "tag": "WIKI",
-   "title": "渡された場面",
-   "body": "『渡された場面』（わたされたばめん）は、松本清張の長編推理小説。「禁忌の連歌」第1話として『週刊新潮』に連載され 、1976年11月に新潮社から刊行された。並行する二つの場面の、一つ…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%B8%A1%E3%81%95%E3%82%8C%E3%81%9F%E5%A0%B4%E9%9D%A2"
-  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "曇り。最高25.7℃ / 最低16.0℃。いまは17.0℃。",
+   "body": "曇り。最高25.9℃ / 最低15.9℃。いまは15.9℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
+   "tag": "WIKI",
+   "title": "松江春次",
+   "body": "松江 春次 は、日本の男性実業家。南洋興発の創業者で初代社長。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%B1%9F%E6%98%A5%E6%AC%A1"
+  },
+  {
    "tag": "HN",
-   "title": "Show HN: A 3D Configurator for Macropads",
-   "body": "4ポイント / コメント3件。",
+   "title": "The engineering that allows articulated buses to bend",
+   "body": "5ポイント / コメント0件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50072456"
+   "url": "https://news.ycombinator.com/item?id=50097843"
+  },
+  {
+   "tag": "HN",
+   "title": "An Israeli firm is sending zero-click spyware through online ads",
+   "body": "161ポイント / コメント51件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50106676"
+  },
+  {
+   "tag": "WIKI",
+   "title": "中川政七商店",
+   "body": "株式会社中川政七商店（なかがわまさしちしようてん）は、生活雑貨工芸品の製造小売業。工芸メーカーへのコンサルティング業も行っている（2009年から）。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%B7%9D%E6%94%BF%E4%B8%83%E5%95%86%E5%BA%97"
+  },
+  {
+   "tag": "HN",
+   "title": "Tiny Little Office",
+   "body": "635ポイント / コメント177件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50096142"
   }
  ]
 }
