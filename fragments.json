@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-16T04:11:42+09:00",
+ "generated_at": "2026-10-16T07:22:42+09:00",
  "items": [
+  {
+   "tag": "HN",
+   "title": "Delta’s Biscoff cookies were supposed to be temporary",
+   "body": "145ポイント / コメント130件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50080155"
+  },
+  {
+   "tag": "HN",
+   "title": "Game of Life – But Multiplayer, Hypermedia and Python",
+   "body": "40ポイント / コメント17件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50085171"
+  },
+  {
+   "tag": "HN",
+   "title": "Show HN: Proa – A Rust web framework with fast SSR and multi-target r…",
+   "body": "72ポイント / コメント15件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50105467"
+  },
+  {
+   "tag": "WIKI",
+   "title": "碁石ケ峰県立自然公園",
+   "body": "碁石ケ峰県立自然公園（ごいしがみねけんりつしぜんこうえん）は、石川県の県立自然公園。鹿島郡中能登町と羽咋市にまたがる。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E7%A2%81%E7%9F%B3%E3%82%B1%E5%B3%B0%E7%9C%8C%E7%AB%8B%E8%87%AA%E7%84%B6%E5%85%AC%E5%9C%92"
+  },
+  {
+   "tag": "WIKI",
+   "title": "佐中廉",
+   "body": "佐中 廉 は日本の教育者、政治家。元余子小学校長、境小学校長。元余子村学務委員。元余子村長。幼名松太郎。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E4%BD%90%E4%B8%AD%E5%BB%89"
+  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "曇り。最高25.9℃ / 最低15.9℃。いまは15.9℃。",
+   "body": "曇り。最高25.9℃ / 最低15.9℃。いまは16.5℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
-  },
-  {
-   "tag": "WIKI",
-   "title": "松江春次",
-   "body": "松江 春次 は、日本の男性実業家。南洋興発の創業者で初代社長。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%B1%9F%E6%98%A5%E6%AC%A1"
-  },
-  {
-   "tag": "HN",
-   "title": "The engineering that allows articulated buses to bend",
-   "body": "5ポイント / コメント0件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50097843"
-  },
-  {
-   "tag": "HN",
-   "title": "An Israeli firm is sending zero-click spyware through online ads",
-   "body": "161ポイント / コメント51件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50106676"
-  },
-  {
-   "tag": "WIKI",
-   "title": "中川政七商店",
-   "body": "株式会社中川政七商店（なかがわまさしちしようてん）は、生活雑貨工芸品の製造小売業。工芸メーカーへのコンサルティング業も行っている（2009年から）。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%B7%9D%E6%94%BF%E4%B8%83%E5%95%86%E5%BA%97"
-  },
-  {
-   "tag": "HN",
-   "title": "Tiny Little Office",
-   "body": "635ポイント / コメント177件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50096142"
   }
  ]
 }
