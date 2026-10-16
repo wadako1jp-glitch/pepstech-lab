@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-16T10:24:24+09:00",
+ "generated_at": "2026-10-16T16:14:02+09:00",
  "items": [
-  {
-   "tag": "天気",
-   "title": "東京 きょう",
-   "body": "曇り。最高25.8℃ / 最低15.7℃。いまは22.0℃。",
-   "src": "open-meteo.com",
-   "url": "https://open-meteo.com/"
-  },
   {
    "tag": "HN",
    "title": "Apple routed a graphite pipe through the iPhone Duo's hinge to dissip…",
-   "body": "38ポイント / コメント15件。",
+   "body": "115ポイント / コメント75件。",
    "src": "news.ycombinator.com",
    "url": "https://news.ycombinator.com/item?id=50068203"
   },
   {
-   "tag": "WIKI",
-   "title": "ムハマド・ユヌス",
-   "body": "ムハマド・ユヌス は、バングラデシュの経済学者、実業家、政治家。同国にあるグラミン銀行の創設者、またそこを起源とするマイクロクレジットの創始者として知られる。2006年にはノーベル平…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%A0%E3%83%8F%E3%83%9E%E3%83%89%E3%83%BB%E3%83%A6%E3%83%8C%E3%82%B9"
+   "tag": "HN",
+   "title": "4 Years of Ludicon",
+   "body": "15ポイント / コメント1件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50071319"
   },
   {
-   "tag": "HN",
-   "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
-   "body": "11ポイント / コメント1件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50111708"
-  },
-  {
-   "tag": "HN",
-   "title": "Show HN: Flipflop – Iroh-powered persistent tunnels for filesharing",
-   "body": "108ポイント / コメント61件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50099136"
+   "tag": "天気",
+   "title": "東京 きょう",
+   "body": "曇り。最高25.6℃ / 最低15.7℃。いまは25.0℃。",
+   "src": "open-meteo.com",
+   "url": "https://open-meteo.com/"
   },
   {
    "tag": "WIKI",
-   "title": "ロドリゴ・ムニョス",
-   "body": "ロドリゴ・ムニョス は、ウルグアイ・モンテビデオ出身の元プロサッカー選手。現役時代のポジションはGK。",
+   "title": "野田昇吾",
+   "body": "野田 昇吾 は、福岡県糸島市出身の競艇選手、元プロ野球選手（投手。左投左打）。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%89%E3%83%AA%E3%82%B4%E3%83%BB%E3%83%A0%E3%83%8B%E3%83%A7%E3%82%B9"
+   "url": "https://ja.wikipedia.org/wiki/%E9%87%8E%E7%94%B0%E6%98%87%E5%90%BE"
+  },
+  {
+   "tag": "WIKI",
+   "title": "ボウリング",
+   "body": "ボウリング は、スポーツ競技のひとつ。さまざまな種類のボウリングがあるが、日本において単に「ボウリング」と言った場合、そのほとんどはテンピンボウリング のみを指すため、本項ではテンピ…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%82%A6%E3%83%AA%E3%83%B3%E3%82%B0"
+  },
+  {
+   "tag": "HN",
+   "title": "Last rites for Gentoo's Chromium package",
+   "body": "5ポイント / コメント0件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50114359"
   }
  ]
 }
