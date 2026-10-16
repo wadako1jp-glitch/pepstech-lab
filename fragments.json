@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-16T21:30:01+09:00",
+ "generated_at": "2026-10-17T02:27:21+09:00",
  "items": [
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "曇り。最高25.3℃ / 最低15.7℃。いまは19.5℃。",
+   "body": "晴れ。最高23.3℃ / 最低15.4℃。いまは17.3℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "WIKI",
-   "title": "キャサリン・ハーディ",
-   "body": "キャサリン・ハーディ は、アメリカ合衆国の陸上競技選手。1952年ヘルシンキオリンピックの金メダリストである。",
+   "title": "二子塚古墳 (福山市)",
+   "body": "二子塚古墳（ふたごづかこふん）は、広島県福山市駅家町中島にある古墳。形状は前方後円墳。国の史跡に指定されている。以前から知られていた後円部の大型の横穴式石室が調査され、金銅装双龍環頭…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A3%E3%82%B5%E3%83%AA%E3%83%B3%E3%83%BB%E3%83%8F%E3%83%BC%E3%83%87%E3%82%A3"
-  },
-  {
-   "tag": "HN",
-   "title": "Why I Wrote PGP (1991, revised 1999)",
-   "body": "167ポイント / コメント60件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50084674"
+   "url": "https://ja.wikipedia.org/wiki/%E4%BA%8C%E5%AD%90%E5%A1%9A%E5%8F%A4%E5%A2%B3_(%E7%A6%8F%E5%B1%B1%E5%B8%82)"
   },
   {
    "tag": "WIKI",
-   "title": "ヘヒトハウゼン",
-   "body": "ヘヒトハウゼン は、ドイツ連邦共和国ニーダーザクセン州クックスハーフェン郡に属す町村（以下、本項では便宜上「町」と記述する）である。この町は「クックスラントへの門」とも呼ばれる。この…",
+   "title": "教誓寺",
+   "body": "教誓寺（きょうせいじ）は、大阪府茨木市安元にある真宗大谷派の寺院。山号は、安元山（あんげんざん）。本尊は、阿弥陀如来。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%98%E3%83%92%E3%83%88%E3%83%8F%E3%82%A6%E3%82%BC%E3%83%B3"
+   "url": "https://ja.wikipedia.org/wiki/%E6%95%99%E8%AA%93%E5%AF%BA"
   },
   {
    "tag": "HN",
-   "title": "Meta’s new commercial terms will allow the scraping of news sites: ex…",
-   "body": "353ポイント / コメント121件。",
+   "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+   "body": "139ポイント / コメント72件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50111852"
+   "url": "https://news.ycombinator.com/item?id=50118320"
   },
   {
    "tag": "HN",
-   "title": "Neural networks are clean",
-   "body": "731ポイント / コメント274件。",
+   "title": "RFC8950: Announce IPv4 with an IPv6 next-hop",
+   "body": "50ポイント / コメント21件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50105647"
+   "url": "https://news.ycombinator.com/item?id=50118267"
+  },
+  {
+   "tag": "HN",
+   "title": "Woman who rescued injured crow keeps getting 'thank-you gifts' from b…",
+   "body": "715ポイント / コメント225件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50065859"
   }
  ]
 }
