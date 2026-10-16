@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-17T06:14:09+09:00",
+ "generated_at": "2026-10-17T08:39:18+09:00",
  "items": [
   {
-   "tag": "天気",
-   "title": "東京 きょう",
-   "body": "晴れ。最高23.3℃ / 最低15.8℃。いまは16.9℃。",
-   "src": "open-meteo.com",
-   "url": "https://open-meteo.com/"
-  },
-  {
    "tag": "HN",
-   "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
-   "body": "146ポイント / コメント42件。",
+   "title": "Stolen Renoir paintings found hidden, and damaged, behind cinder bloc…",
+   "body": "98ポイント / コメント64件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50118977"
-  },
-  {
-   "tag": "HN",
-   "title": "Show HN: Wonderhop – A daily game: guess what most people say, or wha…",
-   "body": "37ポイント / コメント48件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50080246"
+   "url": "https://news.ycombinator.com/item?id=50074322"
   },
   {
    "tag": "WIKI",
-   "title": "イシガキフグ",
-   "body": "イシガキフグ は、フグ目ハリセンボン科に属する中型の海水魚である。他のハリセンボンの仲間と同様に体に棘をもち、威嚇時に体を膨らませることもできる。しかし本種の棘は短く不動性であるため…",
+   "title": "ダニエル・ギタ",
+   "body": "ダニエル・ギタ は、ルーマニアのキックボクサー。ブカレスト出身。カマクラジム所属。元IT'S SHOWTIMEヘビー級世界王者。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%B7%E3%82%AC%E3%82%AD%E3%83%95%E3%82%B0"
-  },
-  {
-   "tag": "WIKI",
-   "title": "クアンニン",
-   "body": "クアンニン ないしクアンニン市は、ベトナムの中央直轄市の一つ。東北部に位置し、ハロン湾に面している。北は中華人民共和国と国境を接する。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%82%A2%E3%83%B3%E3%83%8B%E3%83%B3"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%8B%E3%82%A8%E3%83%AB%E3%83%BB%E3%82%AE%E3%82%BF"
   },
   {
    "tag": "HN",
    "title": "Anthropic assigned highest junk credit rating in June",
-   "body": "136ポイント / コメント42件。",
+   "body": "191ポイント / コメント56件。",
    "src": "news.ycombinator.com",
    "url": "https://news.ycombinator.com/item?id=50122112"
+  },
+  {
+   "tag": "天気",
+   "title": "東京 きょう",
+   "body": "薄曇り。最高23.1℃ / 最低16.2℃。いまは18.7℃。",
+   "src": "open-meteo.com",
+   "url": "https://open-meteo.com/"
+  },
+  {
+   "tag": "WIKI",
+   "title": "パシフィック・レーシング",
+   "body": "パシフィック・レーシング は、かつて存在したイギリスのレーシングチーム。1994年から1995年にかけてF1世界選手権に参戦した。オーナーはキース・ウィギンス。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%B7%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E3%83%BB%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%B3%E3%82%B0"
+  },
+  {
+   "tag": "HN",
+   "title": "90% of US working hours are spent on tasks not covered well by AI ben…",
+   "body": "366ポイント / コメント316件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50121179"
   }
  ]
 }
