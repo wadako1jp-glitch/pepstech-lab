@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-17T22:45:23+09:00",
+ "generated_at": "2026-10-18T02:14:28+09:00",
  "items": [
-  {
-   "tag": "WIKI",
-   "title": "浄光寺 (越谷市)",
-   "body": "浄光寺（じょうこうじ）は、埼玉県越谷市にある真言宗豊山派の寺院。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%B5%84%E5%85%89%E5%AF%BA_(%E8%B6%8A%E8%B0%B7%E5%B8%82)"
-  },
-  {
-   "tag": "WIKI",
-   "title": "栃木県道103号間々田停車場線",
-   "body": "栃木県道103号間々田停車場線 は、栃木県小山市に位置する一般県道である。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%A0%83%E6%9C%A8%E7%9C%8C%E9%81%93103%E5%8F%B7%E9%96%93%E3%80%85%E7%94%B0%E5%81%9C%E8%BB%8A%E5%A0%B4%E7%B7%9A"
-  },
   {
    "tag": "HN",
    "title": "Tesla Roadster",
-   "body": "1506ポイント / コメント2712件。",
+   "body": "1574ポイント / コメント2859件。",
    "src": "news.ycombinator.com",
    "url": "https://news.ycombinator.com/item?id=50112657"
   },
   {
+   "tag": "HN",
+   "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the…",
+   "body": "195ポイント / コメント64件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50127979"
+  },
+  {
+   "tag": "HN",
+   "title": "Show HN: Esp32sim – Run ESP32 firmware in the browser",
+   "body": "38ポイント / コメント7件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50131189"
+  },
+  {
+   "tag": "WIKI",
+   "title": "メイショウサムソン",
+   "body": "メイショウサムソン は、日本の競走馬、種牡馬。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%A4%E3%82%B7%E3%83%A7%E3%82%A6%E3%82%B5%E3%83%A0%E3%82%BD%E3%83%B3"
+  },
+  {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "薄曇り。最高23.9℃ / 最低14.8℃。いまは15.5℃。",
+   "body": "薄曇り。最高22.4℃ / 最低12.0℃。いまは13.7℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "HN",
-   "title": "A story of WiFi secrets, UART lockdowns and a damaged flash memory ch…",
-   "body": "63ポイント / コメント4件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50119751"
-  },
-  {
-   "tag": "HN",
-   "title": "Flexport Is Hiring a Biz Ops Leader in Office of CEO",
-   "body": "1ポイント / コメント0件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50126774"
+   "tag": "WIKI",
+   "title": "アイラ・ガーシュウィン",
+   "body": "アイラ・ガーシュウィン は、アメリカ合衆国の作詞家。本名はイズリアル・ガーショヴィッツ。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%BB%E3%82%AC%E3%83%BC%E3%82%B7%E3%83%A5%E3%82%A6%E3%82%A3%E3%83%B3"
   }
  ]
 }
