@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-17T13:32:27+09:00",
+ "generated_at": "2026-10-17T18:25:18+09:00",
  "items": [
   {
    "tag": "HN",
-   "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
-   "body": "285ポイント / コメント134件。",
+   "title": "I built the RealWorld app in Lean 4",
+   "body": "57ポイント / コメント4件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50118320"
+   "url": "https://news.ycombinator.com/item?id=50088748"
   },
   {
    "tag": "WIKI",
-   "title": "ジャン＝ケビン・オーギュスタン",
-   "body": "ジャン＝ケビン・オーギュスタン は、フランスのサッカー選手。ポジションはフォワード。",
+   "title": "エア・コンディショナー",
+   "body": "エア・コンディショナー とは、空調設備の一つで、室内の空気の温度や湿度などを調整する機械である。日本での通称はエアコン。本記事では「エアコン」と表記する。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%B3%EF%BC%9D%E3%82%B1%E3%83%93%E3%83%B3%E3%83%BB%E3%82%AA%E3%83%BC%E3%82%AE%E3%83%A5%E3%82%B9%E3%82%BF%E3%83%B3"
-  },
-  {
-   "tag": "HN",
-   "title": "How the Claude Code team does code review",
-   "body": "276ポイント / コメント255件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50122951"
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%A2%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%BC"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "薄曇り。最高23.3℃ / 最低15.7℃。いまは23.1℃。",
+   "body": "薄曇り。最高23.9℃ / 最低15.4℃。いまは19.5℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Claude reveals ECDSA curve origins",
-   "body": "756ポイント / コメント293件。",
+   "title": "You could have invented transformers from memory",
+   "body": "298ポイント / コメント69件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50122800"
+   "url": "https://news.ycombinator.com/item?id=50122878"
+  },
+  {
+   "tag": "HN",
+   "title": "DeepSeek-v4.1-Flash-1017",
+   "body": "80ポイント / コメント29件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50129045"
   },
   {
    "tag": "WIKI",
-   "title": "ベルンハルト・デルンブルク",
-   "body": "ベルンハルト・デルンブルク はドイツの政治家、銀行家。",
+   "title": "集福寺 (熊谷市)",
+   "body": "集福寺（しゅうふくじ）は、埼玉県熊谷市にある曹洞宗の寺院。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%AB%E3%83%B3%E3%83%8F%E3%83%AB%E3%83%88%E3%83%BB%E3%83%87%E3%83%AB%E3%83%B3%E3%83%96%E3%83%AB%E3%82%AF"
+   "url": "https://ja.wikipedia.org/wiki/%E9%9B%86%E7%A6%8F%E5%AF%BA_(%E7%86%8A%E8%B0%B7%E5%B8%82)"
   }
  ]
 }
