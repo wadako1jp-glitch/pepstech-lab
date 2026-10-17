@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-18T04:27:53+09:00",
+ "generated_at": "2026-10-18T07:22:36+09:00",
  "items": [
+  {
+   "tag": "HN",
+   "title": "Show HN: Parin – A 2D game engine between raylib and Godot, written i…",
+   "body": "33ポイント / コメント4件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50118098"
+  },
+  {
+   "tag": "WIKI",
+   "title": "閑院宮愛仁親王",
+   "body": "閑院宮愛仁親王 は、江戸時代の皇族。世襲親王家の閑院宮第5代当主。父は孝仁親王（東山天皇玄孫）。母は関白鷹司政熙（東山天皇曾孫）の三女の鷹司吉子。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E9%96%91%E9%99%A2%E5%AE%AE%E6%84%9B%E4%BB%81%E8%A6%AA%E7%8E%8B"
+  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "薄曇り。最高22.3℃ / 最低11.9℃。いまは12.6℃。",
+   "body": "薄曇り。最高22.3℃ / 最低11.9℃。いまは12.9℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "HN",
-   "title": "Development statistics for the 7.2 kernel",
-   "body": "91ポイント / コメント51件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50132950"
-  },
-  {
-   "tag": "HN",
-   "title": "The future of programming (1982)",
-   "body": "20ポイント / コメント3件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50130079"
-  },
-  {
-   "tag": "HN",
-   "title": "The Commodore 64 hardware simulator: break chips and pins, see the re…",
-   "body": "53ポイント / コメント9件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50100366"
-  },
-  {
    "tag": "WIKI",
-   "title": "ジェイレン・ハリス",
-   "body": "ジェイレン・ハリス はアメリカ合衆国・テキサス州出身のプロバスケットボール選手。ポジションはシューティングガード。ヨルダン代表。",
+   "title": "愛知県立半田商業高等学校",
+   "body": "愛知県立半田商業高等学校 は、愛知県半田市に所在する公立の商業高等学校。校章は商人や旅人の守護神である「メルクリウス」がモチーフとなっている。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%82%A4%E3%83%AC%E3%83%B3%E3%83%BB%E3%83%8F%E3%83%AA%E3%82%B9"
+   "url": "https://ja.wikipedia.org/wiki/%E6%84%9B%E7%9F%A5%E7%9C%8C%E7%AB%8B%E5%8D%8A%E7%94%B0%E5%95%86%E6%A5%AD%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1"
   },
   {
-   "tag": "WIKI",
-   "title": "栃木県道16号佐野田沼線",
-   "body": "栃木県道16号佐野田沼線 は、栃木県佐野市の市街地と田沼地区を結ぶ県道（主要地方道）である。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%A0%83%E6%9C%A8%E7%9C%8C%E9%81%9316%E5%8F%B7%E4%BD%90%E9%87%8E%E7%94%B0%E6%B2%BC%E7%B7%9A"
+   "tag": "HN",
+   "title": "Solar surpasses nuclear power globally for first time",
+   "body": "426ポイント / コメント262件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50131256"
+  },
+  {
+   "tag": "HN",
+   "title": "Source code of the Estonian online voting system",
+   "body": "116ポイント / コメント103件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50127586"
   }
  ]
 }
