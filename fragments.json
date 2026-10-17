@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-17T18:25:18+09:00",
+ "generated_at": "2026-10-17T22:45:23+09:00",
  "items": [
   {
-   "tag": "HN",
-   "title": "I built the RealWorld app in Lean 4",
-   "body": "57ポイント / コメント4件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50088748"
+   "tag": "WIKI",
+   "title": "浄光寺 (越谷市)",
+   "body": "浄光寺（じょうこうじ）は、埼玉県越谷市にある真言宗豊山派の寺院。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E6%B5%84%E5%85%89%E5%AF%BA_(%E8%B6%8A%E8%B0%B7%E5%B8%82)"
   },
   {
    "tag": "WIKI",
-   "title": "エア・コンディショナー",
-   "body": "エア・コンディショナー とは、空調設備の一つで、室内の空気の温度や湿度などを調整する機械である。日本での通称はエアコン。本記事では「エアコン」と表記する。",
+   "title": "栃木県道103号間々田停車場線",
+   "body": "栃木県道103号間々田停車場線 は、栃木県小山市に位置する一般県道である。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%A2%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%BC"
+   "url": "https://ja.wikipedia.org/wiki/%E6%A0%83%E6%9C%A8%E7%9C%8C%E9%81%93103%E5%8F%B7%E9%96%93%E3%80%85%E7%94%B0%E5%81%9C%E8%BB%8A%E5%A0%B4%E7%B7%9A"
+  },
+  {
+   "tag": "HN",
+   "title": "Tesla Roadster",
+   "body": "1506ポイント / コメント2712件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50112657"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "薄曇り。最高23.9℃ / 最低15.4℃。いまは19.5℃。",
+   "body": "薄曇り。最高23.9℃ / 最低14.8℃。いまは15.5℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "You could have invented transformers from memory",
-   "body": "298ポイント / コメント69件。",
+   "title": "A story of WiFi secrets, UART lockdowns and a damaged flash memory ch…",
+   "body": "63ポイント / コメント4件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50122878"
+   "url": "https://news.ycombinator.com/item?id=50119751"
   },
   {
    "tag": "HN",
-   "title": "DeepSeek-v4.1-Flash-1017",
-   "body": "80ポイント / コメント29件。",
+   "title": "Flexport Is Hiring a Biz Ops Leader in Office of CEO",
+   "body": "1ポイント / コメント0件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50129045"
-  },
-  {
-   "tag": "WIKI",
-   "title": "集福寺 (熊谷市)",
-   "body": "集福寺（しゅうふくじ）は、埼玉県熊谷市にある曹洞宗の寺院。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E9%9B%86%E7%A6%8F%E5%AF%BA_(%E7%86%8A%E8%B0%B7%E5%B8%82)"
+   "url": "https://news.ycombinator.com/item?id=50126774"
   }
  ]
 }
