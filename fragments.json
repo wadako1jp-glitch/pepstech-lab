@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-18T10:06:26+09:00",
+ "generated_at": "2026-10-18T14:57:50+09:00",
  "items": [
-  {
-   "tag": "HN",
-   "title": "Source code of the Estonian online voting system",
-   "body": "159ポイント / コメント133件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50127586"
-  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "晴れ。最高22.7℃ / 最低12.0℃。いまは18.3℃。",
+   "body": "晴れ。最高22.8℃ / 最低12.0℃。いまは22.8℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Show HN: High-quality duck audio synthesizer",
-   "body": "82ポイント / コメント23件。",
+   "title": "Dam removals are bringing fish back across the northeastern United St…",
+   "body": "249ポイント / コメント61件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50131006"
+   "url": "https://news.ycombinator.com/item?id=50126312"
+  },
+  {
+   "tag": "WIKI",
+   "title": "イヴァン・トリチコフスキ",
+   "body": "イヴァン・トリチコフスキ は、ユーゴスラビア（現北マケドニア）・スコピエ出身の元プロサッカー選手。元サッカー北マケドニア代表。現役時代のポジションはFW。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B4%E3%82%A1%E3%83%B3%E3%83%BB%E3%83%88%E3%83%AA%E3%83%81%E3%82%B3%E3%83%95%E3%82%B9%E3%82%AD"
+  },
+  {
+   "tag": "WIKI",
+   "title": "シン・シティ",
+   "body": "『シン・シティ』 は、2005年公開のアメリカ映画。監督は、フランク・ミラーとロバート・ロドリゲスの共同としてクレジットされているほか、特別ゲスト監督としてクエンティン・タランティー…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%B3%E3%83%BB%E3%82%B7%E3%83%86%E3%82%A3"
   },
   {
    "tag": "HN",
-   "title": "Rendering pretty sky in Around The World game",
-   "body": "125ポイント / コメント9件。",
+   "title": "Show HN: Esp32sim – Run ESP32 firmware in the browser",
+   "body": "148ポイント / コメント15件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50119315"
+   "url": "https://news.ycombinator.com/item?id=50131189"
   },
   {
-   "tag": "WIKI",
-   "title": "川代公園",
-   "body": "川代公園（かわしろこうえん）は、兵庫県丹波市山南町上滝にある公立の公園。篠山川（川代渓谷）にかかる全長90メートルの吊り橋やキャンプ場があり、 桜の名所になっている。約500メートル…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%B7%9D%E4%BB%A3%E5%85%AC%E5%9C%92"
-  },
-  {
-   "tag": "WIKI",
-   "title": "大乃国康",
-   "body": "大乃国 康 は、北海道河西郡芽室町出身で放駒部屋（入門時は花籠部屋）に所属した元大相撲力士。第62代横綱（昭和最後の横綱）。本名は青木 康。現在は年寄・芝田山。芝田山部屋の師匠を務め…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E4%B9%83%E5%9B%BD%E5%BA%B7"
+   "tag": "HN",
+   "title": "Superoptimizing an FPU Emulator",
+   "body": "12ポイント / コメント2件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50117935"
   }
  ]
 }
