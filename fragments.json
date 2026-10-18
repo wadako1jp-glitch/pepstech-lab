@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-18T14:57:50+09:00",
+ "generated_at": "2026-10-18T20:12:29+09:00",
  "items": [
+  {
+   "tag": "HN",
+   "title": "Furifont, a Japanese font that shows furigana",
+   "body": "356ポイント / コメント72件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50100994"
+  },
+  {
+   "tag": "WIKI",
+   "title": "ジヴァイ・ゼヒエル",
+   "body": "ジヴァイ・ゼヒエル は、オランダ・ロッテルダム出身のサッカー選手。スパルタ・ロッテルダム所属。ポジションはMF、DF。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%B4%E3%82%A1%E3%82%A4%E3%83%BB%E3%82%BC%E3%83%92%E3%82%A8%E3%83%AB"
+  },
+  {
+   "tag": "HN",
+   "title": "A Mole Infiltrated the Highest Ranks of American Militias (2025)",
+   "body": "95ポイント / コメント20件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50138044"
+  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "晴れ。最高22.8℃ / 最低12.0℃。いまは22.8℃。",
+   "body": "晴れ。最高23.0℃ / 最低12.0℃。いまは19.2℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "HN",
-   "title": "Dam removals are bringing fish back across the northeastern United St…",
-   "body": "249ポイント / コメント61件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50126312"
-  },
-  {
    "tag": "WIKI",
-   "title": "イヴァン・トリチコフスキ",
-   "body": "イヴァン・トリチコフスキ は、ユーゴスラビア（現北マケドニア）・スコピエ出身の元プロサッカー選手。元サッカー北マケドニア代表。現役時代のポジションはFW。",
+   "title": "ノーブルズビル (インディアナ州)",
+   "body": "ノーブルズビル（Noblesville）は、アメリカ合衆国インディアナ州中央部に位置する都市。同州ハミルトン郡の郡庁所在地であると共に、州都インディアナポリスの北北東約35kmに位置…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B4%E3%82%A1%E3%83%B3%E3%83%BB%E3%83%88%E3%83%AA%E3%83%81%E3%82%B3%E3%83%95%E3%82%B9%E3%82%AD"
-  },
-  {
-   "tag": "WIKI",
-   "title": "シン・シティ",
-   "body": "『シン・シティ』 は、2005年公開のアメリカ映画。監督は、フランク・ミラーとロバート・ロドリゲスの共同としてクレジットされているほか、特別ゲスト監督としてクエンティン・タランティー…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%B3%E3%83%BB%E3%82%B7%E3%83%86%E3%82%A3"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%BC%E3%83%96%E3%83%AB%E3%82%BA%E3%83%93%E3%83%AB_(%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%82%A2%E3%83%8A%E5%B7%9E)"
   },
   {
    "tag": "HN",
-   "title": "Show HN: Esp32sim – Run ESP32 firmware in the browser",
-   "body": "148ポイント / コメント15件。",
+   "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before sh…",
+   "body": "143ポイント / コメント42件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50131189"
-  },
-  {
-   "tag": "HN",
-   "title": "Superoptimizing an FPU Emulator",
-   "body": "12ポイント / コメント2件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50117935"
+   "url": "https://news.ycombinator.com/item?id=50137950"
   }
  ]
 }
