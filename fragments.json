@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-18T23:37:45+09:00",
+ "generated_at": "2026-10-19T03:08:30+09:00",
  "items": [
-  {
-   "tag": "WIKI",
-   "title": "熊本市立五福小学校",
-   "body": "熊本市立五福小学校 は、熊本県熊本市中央区細工町にある公立小学校。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E7%86%8A%E6%9C%AC%E5%B8%82%E7%AB%8B%E4%BA%94%E7%A6%8F%E5%B0%8F%E5%AD%A6%E6%A0%A1"
-  },
   {
    "tag": "HN",
    "title": "Regex visualized as 3D marble run",
-   "body": "42ポイント / コメント17件。",
+   "body": "71ポイント / コメント26件。",
    "src": "news.ycombinator.com",
    "url": "https://news.ycombinator.com/item?id=50122671"
   },
   {
    "tag": "HN",
-   "title": "Furifont, a Japanese font that shows furigana",
-   "body": "380ポイント / コメント79件。",
+   "title": "British Airways: Filming Crew W Meta Glasses Could Get Your Tickets C…",
+   "body": "63ポイント / コメント70件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50100994"
+   "url": "https://news.ycombinator.com/item?id=50143218"
   },
   {
    "tag": "HN",
-   "title": "Fun Extending the C Preprocessor",
-   "body": "42ポイント / コメント13件。",
+   "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+   "body": "445ポイント / コメント214件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50106792"
+   "url": "https://news.ycombinator.com/item?id=50138531"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "晴れ。最高23.0℃ / 最低12.0℃。いまは18.3℃。",
+   "body": "雨。最高25.5℃ / 最低16.2℃。いまは16.9℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "WIKI",
-   "title": "スピリンベルゴ",
-   "body": "スピリンベルゴ は、イタリア共和国フリウリ＝ヴェネツィア・ジュリア州ポルデノーネ県にある、人口約12,000人の基礎自治体（コムーネ）。",
+   "title": "下部温泉早川インターチェンジ",
+   "body": "下部温泉早川インターチェンジ（しもべおんせんはやかわインターチェンジ）は、山梨県南巨摩郡身延町にある中部横断自動車道のインターチェンジである。計画段階での仮称は身延インターチェンジで…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%94%E3%83%AA%E3%83%B3%E3%83%99%E3%83%AB%E3%82%B4"
+   "url": "https://ja.wikipedia.org/wiki/%E4%B8%8B%E9%83%A8%E6%B8%A9%E6%B3%89%E6%97%A9%E5%B7%9D%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%81%E3%82%A7%E3%83%B3%E3%82%B8"
+  },
+  {
+   "tag": "WIKI",
+   "title": "ダニ・ロビラ",
+   "body": "ダニ・ロビラ は、スペイン・マラガ出身のコメディアン・俳優。本名はダニエル・ロビラ・デ・リバス(スペイン語: Daniel Rovira de Rivas)。2014年には『Ocho…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%8B%E3%83%BB%E3%83%AD%E3%83%93%E3%83%A9"
   }
  ]
 }
