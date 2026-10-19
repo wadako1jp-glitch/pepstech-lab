@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-19T10:22:54+09:00",
+ "generated_at": "2026-10-19T16:50:35+09:00",
  "items": [
-  {
-   "tag": "WIKI",
-   "title": "マニアーゴ",
-   "body": "マニアーゴ は、イタリア共和国フリウリ＝ヴェネツィア・ジュリア州ポルデノーネ県にある、人口約12,000人の基礎自治体（コムーネ）。刃物の産地として知られており、ナイフや鋏は世界中に…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%8B%E3%82%A2%E3%83%BC%E3%82%B4"
-  },
-  {
-   "tag": "天気",
-   "title": "東京 きょう",
-   "body": "霧雨。最高25.3℃ / 最低15.6℃。いまは24.0℃。",
-   "src": "open-meteo.com",
-   "url": "https://open-meteo.com/"
-  },
-  {
-   "tag": "WIKI",
-   "title": "ノルマンディーの戦い",
-   "body": "ノルマンディーの戦い は、D-デイとして知られる1944年6月6日のノルマンディー上陸作戦から始まった、第二次世界大戦におけるドイツ軍占領中西ヨーロッパへの侵攻に成功した連合軍とそれ…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%AB%E3%83%9E%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%81%AE%E6%88%A6%E3%81%84"
-  },
-  {
-   "tag": "HN",
-   "title": "Show HN: WhatsApp MCP running free on Cloudflare",
-   "body": "36ポイント / コメント23件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50145715"
-  },
   {
    "tag": "HN",
    "title": "I built a programming language that LLMs can't use",
-   "body": "73ポイント / コメント63件。",
+   "body": "168ポイント / コメント115件。",
    "src": "news.ycombinator.com",
    "url": "https://news.ycombinator.com/item?id=50135762"
   },
   {
    "tag": "HN",
-   "title": "Parser Combinators",
-   "body": "221ポイント / コメント79件。",
+   "title": "Java sealed classes and exhaustive pattern matching",
+   "body": "161ポイント / コメント117件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50139067"
+   "url": "https://news.ycombinator.com/item?id=50141579"
+  },
+  {
+   "tag": "天気",
+   "title": "東京 きょう",
+   "body": "霧雨。最高25.9℃ / 最低15.6℃。いまは23.4℃。",
+   "src": "open-meteo.com",
+   "url": "https://open-meteo.com/"
+  },
+  {
+   "tag": "WIKI",
+   "title": "弥彦神社 (札幌市)",
+   "body": "弥彦神社、彌彦神社、彌彥神社、ないし伊夜日子神社（伊夜日子神社）（いやひこじんじゃ）は、北海道札幌市中央区中島公園1番8号にある神社である。旧社格は郷社。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%BC%A5%E5%BD%A6%E7%A5%9E%E7%A4%BE_(%E6%9C%AD%E5%B9%8C%E5%B8%82)"
+  },
+  {
+   "tag": "WIKI",
+   "title": "ええじゃないか",
+   "body": "ええじゃないかは、日本の江戸時代末期の慶応3年（1867年）8月から12月にかけて、近畿、四国、東海地方などで発生した騒動。「天から御札（神符）が降ってくる、これは慶事の前触れだ」と…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%81%88%E3%81%88%E3%81%98%E3%82%83%E3%81%AA%E3%81%84%E3%81%8B"
+  },
+  {
+   "tag": "HN",
+   "title": "Footage of the Flock search that a judge ruled was uncosntitutional",
+   "body": "94ポイント / コメント37件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50147455"
   }
  ]
 }
