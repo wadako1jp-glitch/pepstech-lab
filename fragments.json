@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-19T08:16:35+09:00",
+ "generated_at": "2026-10-19T10:22:54+09:00",
  "items": [
   {
-   "tag": "HN",
-   "title": "Beyond Tetris: The other games of Alexey Pajitnov [video]",
-   "body": "50ポイント / コメント3件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50136017"
-  },
-  {
-   "tag": "HN",
-   "title": "Show HN: Ranet3 – High performance policy routed IPsec mesh SD-WAN",
-   "body": "23ポイント / コメント5件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50141436"
+   "tag": "WIKI",
+   "title": "マニアーゴ",
+   "body": "マニアーゴ は、イタリア共和国フリウリ＝ヴェネツィア・ジュリア州ポルデノーネ県にある、人口約12,000人の基礎自治体（コムーネ）。刃物の産地として知られており、ナイフや鋏は世界中に…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%8B%E3%82%A2%E3%83%BC%E3%82%B4"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高25.4℃ / 最低16.6℃。いまは20.8℃。",
+   "body": "霧雨。最高25.3℃ / 最低15.6℃。いまは24.0℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "WIKI",
-   "title": "神道一心流",
-   "body": "神道一心流（しんとういっしんりゅう）は、櫛淵宣根が開いた剣術流派。戸田流薙刀術を併伝していた。",
+   "title": "ノルマンディーの戦い",
+   "body": "ノルマンディーの戦い は、D-デイとして知られる1944年6月6日のノルマンディー上陸作戦から始まった、第二次世界大戦におけるドイツ軍占領中西ヨーロッパへの侵攻に成功した連合軍とそれ…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E7%A5%9E%E9%81%93%E4%B8%80%E5%BF%83%E6%B5%81"
-  },
-  {
-   "tag": "WIKI",
-   "title": "浄蓮寺 (埼玉県東秩父村)",
-   "body": "浄蓮寺（じょうれんじ）は、埼玉県秩父郡東秩父村にある日蓮宗の寺院。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%B5%84%E8%93%AE%E5%AF%BA_(%E5%9F%BC%E7%8E%89%E7%9C%8C%E6%9D%B1%E7%A7%A9%E7%88%B6%E6%9D%91)"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%AB%E3%83%9E%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%81%AE%E6%88%A6%E3%81%84"
   },
   {
    "tag": "HN",
-   "title": "How the Elizabeth Holmes documentary “You Can See Everything” is dece…",
-   "body": "348ポイント / コメント491件。",
+   "title": "Show HN: WhatsApp MCP running free on Cloudflare",
+   "body": "36ポイント / コメント23件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50137620"
+   "url": "https://news.ycombinator.com/item?id=50145715"
+  },
+  {
+   "tag": "HN",
+   "title": "I built a programming language that LLMs can't use",
+   "body": "73ポイント / コメント63件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50135762"
+  },
+  {
+   "tag": "HN",
+   "title": "Parser Combinators",
+   "body": "221ポイント / コメント79件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50139067"
   }
  ]
 }
