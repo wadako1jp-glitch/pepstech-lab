@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-20T09:23:31+09:00",
+ "generated_at": "2026-10-20T15:04:28+09:00",
  "items": [
-  {
-   "tag": "HN",
-   "title": "Weball: Play Katamari on Websites",
-   "body": "16ポイント / コメント4件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50140584"
-  },
-  {
-   "tag": "HN",
-   "title": "Putting Linux on my RTX Spark laptop because I don't have a Microsoft…",
-   "body": "162ポイント / コメント73件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50158100"
-  },
-  {
-   "tag": "HN",
-   "title": "I built a drone with only one motor [video]",
-   "body": "359ポイント / コメント74件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50150089"
-  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高25.4℃ / 最低17.0℃。いまは24.4℃。",
+   "body": "霧雨。最高25.8℃ / 最低16.4℃。いまは24.6℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "WIKI",
-   "title": "早川橋梁 (小田急箱根鉄道線)",
-   "body": "早川橋梁（はやかわきょうりょう）は、神奈川県足柄下郡箱根町の小田急箱根鉄道線（箱根登山電車）塔ノ沢駅 - 出山信号場間にあり、早川に架かる鉄道橋である。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%97%A9%E5%B7%9D%E6%A9%8B%E6%A2%81_(%E5%B0%8F%E7%94%B0%E6%80%A5%E7%AE%B1%E6%A0%B9%E9%89%84%E9%81%93%E7%B7%9A)"
+   "tag": "HN",
+   "title": "Evidence (YC S21) Is Hiring Software Engineers",
+   "body": "1ポイント / コメント0件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50155172"
   },
   {
    "tag": "WIKI",
-   "title": "リューデスハイム・アム・ライン",
-   "body": "リューデスハイム・アム・ライン は、ドイツ連邦共和国ヘッセン州ダルムシュタット行政管区のラインガウ＝タウヌス郡に属す市である。本市はワイン造りの街で、対岸に位置するビンゲンとともにミ…",
+   "title": "猪名寺廃寺跡",
+   "body": "猪名寺廃寺跡（いなでらはいじあと）は、兵庫県尼崎市猪名寺にある寺院跡。国の史跡に指定されている。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%87%E3%82%B9%E3%83%8F%E3%82%A4%E3%83%A0%E3%83%BB%E3%82%A2%E3%83%A0%E3%83%BB%E3%83%A9%E3%82%A4%E3%83%B3"
+   "url": "https://ja.wikipedia.org/wiki/%E7%8C%AA%E5%90%8D%E5%AF%BA%E5%BB%83%E5%AF%BA%E8%B7%A1"
+  },
+  {
+   "tag": "HN",
+   "title": "Developing Taste",
+   "body": "34ポイント / コメント28件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50160135"
+  },
+  {
+   "tag": "HN",
+   "title": "U.S. Supreme Court to review 1868 federal ban on home distilling of l…",
+   "body": "44ポイント / コメント48件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50161207"
+  },
+  {
+   "tag": "WIKI",
+   "title": "メジェド",
+   "body": "メジェド または、メジードは、古代エジプト神話に関連する語。古代エジプトにおいて「打ち倒す者」という意味であり、第21王朝に描かれたグリーンフィールドパピルスに描かれている",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%B8%E3%82%A7%E3%83%89"
   }
  ]
 }
