@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-20T20:43:38+09:00",
+ "generated_at": "2026-10-21T02:12:52+09:00",
  "items": [
-  {
-   "tag": "WIKI",
-   "title": "出世螺",
-   "body": "出世螺（しゅっせぼら）は、江戸時代の奇談集『絵本百物語』にある日本の妖怪。ホラガイが数千年を経て龍となったものとされる。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%87%BA%E4%B8%96%E8%9E%BA"
-  },
-  {
-   "tag": "HN",
-   "title": "MicroG: Free-libre re-implementation of Google's proprietary Android …",
-   "body": "98ポイント / コメント6件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50162177"
-  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高25.1℃ / 最低16.4℃。いまは20.2℃。",
+   "body": "曇り。最高28.2℃ / 最低18.4℃。いまは18.7℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from …",
-   "body": "159ポイント / コメント38件。",
+   "title": "JAXA is about to perform a Phobos sample return mission",
+   "body": "13ポイント / コメント2件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50158138"
-  },
-  {
-   "tag": "HN",
-   "title": "RuneScape Bench: MMOs for Agents [video]",
-   "body": "204ポイント / コメント70件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50136126"
+   "url": "https://news.ycombinator.com/item?id=50138490"
   },
   {
    "tag": "WIKI",
-   "title": "市原市立三和中学校",
-   "body": "市原市立三和中学校 は、千葉県市原市磯ケ谷にある公立中学校。文部科学省の学校コードはC112210002164、旧学校調査番号は123910で、教育開発出版の所属中学校コードは120…",
+   "title": "フランス領ウバンギ・シャリ",
+   "body": "フランス領ウバンギ・シャリ は、フランスが1903年から1958年まで中央アフリカに領有していた植民地である。半分以上の期間はフランス領赤道アフリカの一部だった。ウバンギ川とシャリ川…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%B8%82%E5%8E%9F%E5%B8%82%E7%AB%8B%E4%B8%89%E5%92%8C%E4%B8%AD%E5%AD%A6%E6%A0%A1"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E9%A0%98%E3%82%A6%E3%83%90%E3%83%B3%E3%82%AE%E3%83%BB%E3%82%B7%E3%83%A3%E3%83%AA"
+  },
+  {
+   "tag": "WIKI",
+   "title": "ロヴィート",
+   "body": "ロヴィート は、イタリア共和国カラブリア州コゼンツァ県にある、人口約3,200人の基礎自治体（コムーネ）。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%B4%E3%82%A3%E3%83%BC%E3%83%88"
+  },
+  {
+   "tag": "HN",
+   "title": "How to Link Real-Time Live Streaming to Video-on-Demand",
+   "body": "5ポイント / コメント1件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50167560"
+  },
+  {
+   "tag": "HN",
+   "title": "2026 is an exciting year for the Rust compiler (and me)",
+   "body": "71ポイント / コメント11件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50166502"
   }
  ]
 }
