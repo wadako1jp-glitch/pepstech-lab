@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-21T02:12:52+09:00",
+ "generated_at": "2026-10-21T05:38:56+09:00",
  "items": [
+  {
+   "tag": "HN",
+   "title": "SimCity, but with Permits",
+   "body": "243ポイント / コメント114件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50170593"
+  },
+  {
+   "tag": "HN",
+   "title": "Triplet of 'ghostly' galaxies hints at what dark matter is and isn't",
+   "body": "83ポイント / コメント51件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50131997"
+  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "曇り。最高28.2℃ / 最低18.4℃。いまは18.7℃。",
+   "body": "霧雨。最高28.3℃ / 最低18.1℃。いまは18.1℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "JAXA is about to perform a Phobos sample return mission",
-   "body": "13ポイント / コメント2件。",
+   "title": "EMudhra Intermediate CA Compromise",
+   "body": "426ポイント / コメント230件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50138490"
+   "url": "https://news.ycombinator.com/item?id=50166579"
   },
   {
    "tag": "WIKI",
-   "title": "フランス領ウバンギ・シャリ",
-   "body": "フランス領ウバンギ・シャリ は、フランスが1903年から1958年まで中央アフリカに領有していた植民地である。半分以上の期間はフランス領赤道アフリカの一部だった。ウバンギ川とシャリ川…",
+   "title": "橋本英二",
+   "body": "橋本 英二 は、日本の実業家。日本製鉄代表取締役会長、日本経済団体連合会副会長。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E9%A0%98%E3%82%A6%E3%83%90%E3%83%B3%E3%82%AE%E3%83%BB%E3%82%B7%E3%83%A3%E3%83%AA"
+   "url": "https://ja.wikipedia.org/wiki/%E6%A9%8B%E6%9C%AC%E8%8B%B1%E4%BA%8C"
   },
   {
    "tag": "WIKI",
-   "title": "ロヴィート",
-   "body": "ロヴィート は、イタリア共和国カラブリア州コゼンツァ県にある、人口約3,200人の基礎自治体（コムーネ）。",
+   "title": "ミラージュランド",
+   "body": "ミラージュランドは、富山県魚津市三ケにある遊園地である。魚津総合公園の中の施設のひとつで、富山県内では唯一の遊園地である。1982年4月20日にオープン。1996年度に初めて夜間営業…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%B4%E3%82%A3%E3%83%BC%E3%83%88"
-  },
-  {
-   "tag": "HN",
-   "title": "How to Link Real-Time Live Streaming to Video-on-Demand",
-   "body": "5ポイント / コメント1件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50167560"
-  },
-  {
-   "tag": "HN",
-   "title": "2026 is an exciting year for the Rust compiler (and me)",
-   "body": "71ポイント / コメント11件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50166502"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%A9%E3%83%BC%E3%82%B8%E3%83%A5%E3%83%A9%E3%83%B3%E3%83%89"
   }
  ]
 }
