@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-20T15:04:28+09:00",
+ "generated_at": "2026-10-20T20:43:38+09:00",
  "items": [
+  {
+   "tag": "WIKI",
+   "title": "出世螺",
+   "body": "出世螺（しゅっせぼら）は、江戸時代の奇談集『絵本百物語』にある日本の妖怪。ホラガイが数千年を経て龍となったものとされる。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%87%BA%E4%B8%96%E8%9E%BA"
+  },
+  {
+   "tag": "HN",
+   "title": "MicroG: Free-libre re-implementation of Google's proprietary Android …",
+   "body": "98ポイント / コメント6件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50162177"
+  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高25.8℃ / 最低16.4℃。いまは24.6℃。",
+   "body": "霧雨。最高25.1℃ / 最低16.4℃。いまは20.2℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Evidence (YC S21) Is Hiring Software Engineers",
-   "body": "1ポイント / コメント0件。",
+   "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from …",
+   "body": "159ポイント / コメント38件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50155172"
-  },
-  {
-   "tag": "WIKI",
-   "title": "猪名寺廃寺跡",
-   "body": "猪名寺廃寺跡（いなでらはいじあと）は、兵庫県尼崎市猪名寺にある寺院跡。国の史跡に指定されている。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E7%8C%AA%E5%90%8D%E5%AF%BA%E5%BB%83%E5%AF%BA%E8%B7%A1"
+   "url": "https://news.ycombinator.com/item?id=50158138"
   },
   {
    "tag": "HN",
-   "title": "Developing Taste",
-   "body": "34ポイント / コメント28件。",
+   "title": "RuneScape Bench: MMOs for Agents [video]",
+   "body": "204ポイント / コメント70件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50160135"
-  },
-  {
-   "tag": "HN",
-   "title": "U.S. Supreme Court to review 1868 federal ban on home distilling of l…",
-   "body": "44ポイント / コメント48件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50161207"
+   "url": "https://news.ycombinator.com/item?id=50136126"
   },
   {
    "tag": "WIKI",
-   "title": "メジェド",
-   "body": "メジェド または、メジードは、古代エジプト神話に関連する語。古代エジプトにおいて「打ち倒す者」という意味であり、第21王朝に描かれたグリーンフィールドパピルスに描かれている",
+   "title": "市原市立三和中学校",
+   "body": "市原市立三和中学校 は、千葉県市原市磯ケ谷にある公立中学校。文部科学省の学校コードはC112210002164、旧学校調査番号は123910で、教育開発出版の所属中学校コードは120…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%B8%E3%82%A7%E3%83%89"
+   "url": "https://ja.wikipedia.org/wiki/%E5%B8%82%E5%8E%9F%E5%B8%82%E7%AB%8B%E4%B8%89%E5%92%8C%E4%B8%AD%E5%AD%A6%E6%A0%A1"
   }
  ]
 }
