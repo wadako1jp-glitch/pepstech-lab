@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-21T05:38:56+09:00",
+ "generated_at": "2026-10-21T08:55:19+09:00",
  "items": [
   {
    "tag": "HN",
-   "title": "SimCity, but with Permits",
-   "body": "243ポイント / コメント114件。",
+   "title": "What shall I teach my son?",
+   "body": "218ポイント / コメント286件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50170593"
+   "url": "https://news.ycombinator.com/item?id=50169707"
+  },
+  {
+   "tag": "WIKI",
+   "title": "涙袋",
+   "body": "涙袋（なみだぶくろ）は、まぶたの下縁、まつげの生え際のやや下にある膨らみのこと。人相学でいう涙堂（るいどう）に当たる。目の周りを囲む眼輪筋の厚みによって皮膚が盛り上がったように見える…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E6%B6%99%E8%A2%8B"
   },
   {
    "tag": "HN",
-   "title": "Triplet of 'ghostly' galaxies hints at what dark matter is and isn't",
-   "body": "83ポイント / コメント51件。",
+   "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
+   "body": "241ポイント / コメント57件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50131997"
+   "url": "https://news.ycombinator.com/item?id=50169053"
+  },
+  {
+   "tag": "HN",
+   "title": "2026 is an exciting year for the Rust compiler (and me)",
+   "body": "149ポイント / コメント69件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50166502"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高28.3℃ / 最低18.1℃。いまは18.1℃。",
+   "body": "霧雨。最高28.3℃ / 最低18.2℃。いまは24.8℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "HN",
-   "title": "EMudhra Intermediate CA Compromise",
-   "body": "426ポイント / コメント230件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50166579"
-  },
-  {
    "tag": "WIKI",
-   "title": "橋本英二",
-   "body": "橋本 英二 は、日本の実業家。日本製鉄代表取締役会長、日本経済団体連合会副会長。",
+   "title": "ゴーフル",
+   "body": "ゴーフル は、専用の型で作る凹凸模様の平たい菓子。英語でワッフル (waffle)、フランス語でゴーフル (gaufre) と呼ばれる。「浮き出し模様を付ける」という意味の “gau…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%A9%8B%E6%9C%AC%E8%8B%B1%E4%BA%8C"
-  },
-  {
-   "tag": "WIKI",
-   "title": "ミラージュランド",
-   "body": "ミラージュランドは、富山県魚津市三ケにある遊園地である。魚津総合公園の中の施設のひとつで、富山県内では唯一の遊園地である。1982年4月20日にオープン。1996年度に初めて夜間営業…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%A9%E3%83%BC%E3%82%B8%E3%83%A5%E3%83%A9%E3%83%B3%E3%83%89"
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%B4%E3%83%BC%E3%83%95%E3%83%AB"
   }
  ]
 }
