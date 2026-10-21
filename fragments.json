@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-22T00:19:56+09:00",
+ "generated_at": "2026-10-22T05:12:26+09:00",
  "items": [
-  {
-   "tag": "HN",
-   "title": "Another day, another GitHub incident",
-   "body": "8ポイント / コメント2件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50182130"
-  },
-  {
-   "tag": "HN",
-   "title": "The Future of CSS",
-   "body": "513ポイント / コメント216件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50175070"
-  },
-  {
-   "tag": "HN",
-   "title": "Dutch National Cyber Security Center is Offline because it uses PHP",
-   "body": "219ポイント / コメント73件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50179828"
-  },
-  {
-   "tag": "WIKI",
-   "title": "斎藤孝治",
-   "body": "斎藤 孝治 は、日本の弁護士、公証人、東京府会議員。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%96%8E%E8%97%A4%E5%AD%9D%E6%B2%BB"
-  },
-  {
-   "tag": "WIKI",
-   "title": "国鉄31系電車",
-   "body": "国鉄31系電車（こくてつ31けいでんしゃ）は、1929年（昭和4年）から1931年（昭和6年）にかけて日本国有鉄道の前身である鉄道省が製造した、車体長17 m級3扉ロングシートの旧形…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%89%8431%E7%B3%BB%E9%9B%BB%E8%BB%8A"
-  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高22.5℃ / 最低15.0℃。いまは22.3℃。",
+   "body": "薄曇り。最高22.0℃ / 最低14.6℃。いまは19.4℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
+  },
+  {
+   "tag": "HN",
+   "title": "Launch HN: Alter (YC S25) – Access control for multi-user agents",
+   "body": "27ポイント / コメント16件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50176908"
+  },
+  {
+   "tag": "WIKI",
+   "title": "吉川綾子",
+   "body": "吉川 綾子 は、日本の陸上競技（短距離走・走幅跳）選手。1951年に女子100m走の日本記録を更新し、1952年ヘルシンキオリンピックに19歳（選手団中最年少）で出場した。結婚後の姓…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%90%89%E5%B7%9D%E7%B6%BE%E5%AD%90"
+  },
+  {
+   "tag": "WIKI",
+   "title": "菅礼治",
+   "body": "菅 礼治 は、秋田商法の先駆者といわれた日本の実業家。出羽国雄勝郡川井村（現在の秋田県湯沢市秋ノ宮）の生まれ。久保田藩の御用木材商であった秋田屋を創業した菅運吉（秋田屋仁左衛門）の子…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E8%8F%85%E7%A4%BC%E6%B2%BB"
+  },
+  {
+   "tag": "HN",
+   "title": "The bridge to agent-scale Git infrastructure",
+   "body": "37ポイント / コメント7件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50183344"
+  },
+  {
+   "tag": "HN",
+   "title": "PHP 8.2.35",
+   "body": "888ポイント / コメント503件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50180873"
   }
  ]
 }
