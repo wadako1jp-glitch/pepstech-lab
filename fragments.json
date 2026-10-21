@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-21T08:55:19+09:00",
+ "generated_at": "2026-10-21T13:54:35+09:00",
  "items": [
+  {
+   "tag": "WIKI",
+   "title": "藪原宿",
+   "body": "藪原宿（やぶはらじゅく）は、中山道35番目の宿場（→中山道六十九次）。木曽街道（木曽路）にある木曽十一宿の一つである。木曽川の流域に位置しており、現在は長野県木曽郡木祖村に属する。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E8%97%AA%E5%8E%9F%E5%AE%BF"
+  },
   {
    "tag": "HN",
    "title": "What shall I teach my son?",
-   "body": "218ポイント / コメント286件。",
+   "body": "325ポイント / コメント394件。",
    "src": "news.ycombinator.com",
    "url": "https://news.ycombinator.com/item?id=50169707"
   },
   {
+   "tag": "HN",
+   "title": "Google Cloud outage affects almost all banking and other operations i…",
+   "body": "357ポイント / コメント180件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50163961"
+  },
+  {
    "tag": "WIKI",
-   "title": "涙袋",
-   "body": "涙袋（なみだぶくろ）は、まぶたの下縁、まつげの生え際のやや下にある膨らみのこと。人相学でいう涙堂（るいどう）に当たる。目の周りを囲む眼輪筋の厚みによって皮膚が盛り上がったように見える…",
+   "title": "キングカメハメハ",
+   "body": "キングカメハメハ は、日本の競走馬・種牡馬。いわゆる持込馬である。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%B6%99%E8%A2%8B"
-  },
-  {
-   "tag": "HN",
-   "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
-   "body": "241ポイント / コメント57件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50169053"
-  },
-  {
-   "tag": "HN",
-   "title": "2026 is an exciting year for the Rust compiler (and me)",
-   "body": "149ポイント / コメント69件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50166502"
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%82%B0%E3%82%AB%E3%83%A1%E3%83%8F%E3%83%A1%E3%83%8F"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高28.3℃ / 最低18.2℃。いまは24.8℃。",
+   "body": "霧雨。最高28.2℃ / 最低17.6℃。いまは28.0℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "WIKI",
-   "title": "ゴーフル",
-   "body": "ゴーフル は、専用の型で作る凹凸模様の平たい菓子。英語でワッフル (waffle)、フランス語でゴーフル (gaufre) と呼ばれる。「浮き出し模様を付ける」という意味の “gau…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%B4%E3%83%BC%E3%83%95%E3%83%AB"
+   "tag": "HN",
+   "title": "ZX Spectrum Next Laptop",
+   "body": "19ポイント / コメント1件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50147799"
   }
  ]
 }
