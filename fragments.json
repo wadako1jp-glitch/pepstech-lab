@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-21T19:13:46+09:00",
+ "generated_at": "2026-10-22T00:19:56+09:00",
  "items": [
   {
-   "tag": "WIKI",
-   "title": "アリオ北砂",
-   "body": "アリオ北砂（アリオきたすな）は、東京都江東区北砂に立地するヨーク・ホールディングス傘下のクリエイトリンクが運営する複合商業施設。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AA%E3%82%AA%E5%8C%97%E7%A0%82"
+   "tag": "HN",
+   "title": "Another day, another GitHub incident",
+   "body": "8ポイント / コメント2件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50182130"
   },
   {
    "tag": "HN",
-   "title": "ZX Spectrum Next Laptop",
-   "body": "82ポイント / コメント14件。",
+   "title": "The Future of CSS",
+   "body": "513ポイント / コメント216件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50147799"
-  },
-  {
-   "tag": "WIKI",
-   "title": "㹨川",
-   "body": "㹨川（いたちがわ）は、神奈川県横浜市栄区を流れる二級河川である。鼬川と表記されることがある。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%B9%A8%E5%B7%9D"
+   "url": "https://news.ycombinator.com/item?id=50175070"
   },
   {
    "tag": "HN",
-   "title": "Pillowfort Is Closing",
-   "body": "47ポイント / コメント24件。",
+   "title": "Dutch National Cyber Security Center is Offline because it uses PHP",
+   "body": "219ポイント / コメント73件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50176301"
+   "url": "https://news.ycombinator.com/item?id=50179828"
+  },
+  {
+   "tag": "WIKI",
+   "title": "斎藤孝治",
+   "body": "斎藤 孝治 は、日本の弁護士、公証人、東京府会議員。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E6%96%8E%E8%97%A4%E5%AD%9D%E6%B2%BB"
+  },
+  {
+   "tag": "WIKI",
+   "title": "国鉄31系電車",
+   "body": "国鉄31系電車（こくてつ31けいでんしゃ）は、1929年（昭和4年）から1931年（昭和6年）にかけて日本国有鉄道の前身である鉄道省が製造した、車体長17 m級3扉ロングシートの旧形…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%89%8431%E7%B3%BB%E9%9B%BB%E8%BB%8A"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "曇り。最高28.7℃ / 最低17.6℃。いまは24.8℃。",
+   "body": "霧雨。最高22.5℃ / 最低15.0℃。いまは22.3℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
-  },
-  {
-   "tag": "HN",
-   "title": "Four Years with Decker",
-   "body": "42ポイント / コメント6件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50165215"
   }
  ]
 }
