@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-22T19:15:03+09:00",
+ "generated_at": "2026-10-23T00:21:22+09:00",
  "items": [
   {
    "tag": "WIKI",
-   "title": "イェムトランド県",
-   "body": "イェムトランド県 とは、スウェーデンの県の一つで略号はZ。スウェーデンの北西部に位置し、西の県境は隣国ノルウェーとの国境である。県庁所在地はエステルスンド(Östersund)。面積…",
+   "title": "カラーテ・ウーリオ",
+   "body": "カラーテ・ウーリオ は、イタリア共和国ロンバルディア州コモ県にある、人口約1,100人の基礎自治体（コムーネ）。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%A7%E3%83%A0%E3%83%88%E3%83%A9%E3%83%B3%E3%83%89%E7%9C%8C"
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%86%E3%83%BB%E3%82%A6%E3%83%BC%E3%83%AA%E3%82%AA"
+  },
+  {
+   "tag": "HN",
+   "title": "eMudhra to Exit Global SSL/TLS Certificate Business",
+   "body": "282ポイント / コメント165件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50195110"
+  },
+  {
+   "tag": "HN",
+   "title": "Tiny possum and glider thought extinct for 6000 years found in remote…",
+   "body": "251ポイント / コメント60件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50162044"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "曇り。最高22.2℃ / 最低14.5℃。いまは17.0℃。",
+   "body": "曇り。最高19.2℃ / 最低11.8℃。いまは14.6℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
-   "body": "10ポイント / コメント0件。",
+   "title": "Amazon identifies Oct 17 PHP2Shell exploitation prior to public discl…",
+   "body": "155ポイント / コメント33件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50193170"
-  },
-  {
-   "tag": "HN",
-   "title": "Chain of Thought for Humans",
-   "body": "94ポイント / コメント50件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50154100"
+   "url": "https://news.ycombinator.com/item?id=50194070"
   },
   {
    "tag": "WIKI",
-   "title": "寿仙院 (台東区)",
-   "body": "壽仙院（じゅせんいん）は、東京都台東区にある日蓮宗の寺院。",
+   "title": "車両",
+   "body": "車両 は、車輪のついた乗り物。乗り物のうち、車輪がついていて陸上を走るもの、陸上を走るためのもの。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%AF%BF%E4%BB%99%E9%99%A2_(%E5%8F%B0%E6%9D%B1%E5%8C%BA)"
-  },
-  {
-   "tag": "HN",
-   "title": "No more icons in every menu by default",
-   "body": "320ポイント / コメント196件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50161346"
+   "url": "https://ja.wikipedia.org/wiki/%E8%BB%8A%E4%B8%A1"
   }
  ]
 }
