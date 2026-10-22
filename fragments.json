@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-22T13:54:14+09:00",
+ "generated_at": "2026-10-22T19:15:03+09:00",
  "items": [
   {
    "tag": "WIKI",
-   "title": "ピエロ・ファッシノ",
-   "body": "ピエロ・フランコ・ロドリフォ・ファッシノ は、イタリアの政治家。下院議員（4期）。",
+   "title": "イェムトランド県",
+   "body": "イェムトランド県 とは、スウェーデンの県の一つで略号はZ。スウェーデンの北西部に位置し、西の県境は隣国ノルウェーとの国境である。県庁所在地はエステルスンド(Östersund)。面積…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%94%E3%82%A8%E3%83%AD%E3%83%BB%E3%83%95%E3%82%A1%E3%83%83%E3%82%B7%E3%83%8E"
-  },
-  {
-   "tag": "WIKI",
-   "title": "ペドロ・デ・バルディビア",
-   "body": "ペドロ・デ・バルディビア は、スペインのコンキスタドールである。彼はチリ征服の主導者であり、その初代総督を務めた。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%89%E3%83%AD%E3%83%BB%E3%83%87%E3%83%BB%E3%83%90%E3%83%AB%E3%83%87%E3%82%A3%E3%83%93%E3%82%A2"
-  },
-  {
-   "tag": "HN",
-   "title": "Clockwork Mechanics, Maintenance, and Metaphors in the Late Middle Ag…",
-   "body": "5ポイント / コメント0件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50160988"
-  },
-  {
-   "tag": "HN",
-   "title": "Show HN: Omnara – Open-source alternative to Claude Managed Agents",
-   "body": "46ポイント / コメント13件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50183892"
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%A7%E3%83%A0%E3%83%88%E3%83%A9%E3%83%B3%E3%83%89%E7%9C%8C"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "曇り。最高22.0℃ / 最低14.8℃。いまは21.3℃。",
+   "body": "曇り。最高22.2℃ / 最低14.5℃。いまは17.0℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Patch the Planet: global response coordination as agents uncover vuln…",
-   "body": "244ポイント / コメント165件。",
+   "title": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
+   "body": "10ポイント / コメント0件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50181175"
+   "url": "https://news.ycombinator.com/item?id=50193170"
+  },
+  {
+   "tag": "HN",
+   "title": "Chain of Thought for Humans",
+   "body": "94ポイント / コメント50件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50154100"
+  },
+  {
+   "tag": "WIKI",
+   "title": "寿仙院 (台東区)",
+   "body": "壽仙院（じゅせんいん）は、東京都台東区にある日蓮宗の寺院。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%AF%BF%E4%BB%99%E9%99%A2_(%E5%8F%B0%E6%9D%B1%E5%8C%BA)"
+  },
+  {
+   "tag": "HN",
+   "title": "No more icons in every menu by default",
+   "body": "320ポイント / コメント196件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50161346"
   }
  ]
 }
