@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-22T08:23:38+09:00",
+ "generated_at": "2026-10-22T13:54:14+09:00",
  "items": [
   {
    "tag": "WIKI",
-   "title": "ハリウッド・ブールバード",
-   "body": "ハリウッド・ブールバード は、ロサンゼルスを東西に走る大通り。この通りはハリウッド、イーストハリウッド、リトル・アルメニア、タイ・タウン、ロス・フェリスの各地区を通っている。通りの西…",
+   "title": "ピエロ・ファッシノ",
+   "body": "ピエロ・フランコ・ロドリフォ・ファッシノ は、イタリアの政治家。下院議員（4期）。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%AA%E3%82%A6%E3%83%83%E3%83%89%E3%83%BB%E3%83%96%E3%83%BC%E3%83%AB%E3%83%90%E3%83%BC%E3%83%89"
-  },
-  {
-   "tag": "HN",
-   "title": "Oregon lawmakers approve money to buy an iconic waterfall listed on R…",
-   "body": "161ポイント / コメント79件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50182526"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%94%E3%82%A8%E3%83%AD%E3%83%BB%E3%83%95%E3%82%A1%E3%83%83%E3%82%B7%E3%83%8E"
   },
   {
    "tag": "WIKI",
-   "title": "フリースケール・セミコンダクタ",
-   "body": "フリースケール・セミコンダクタ は、かつて存在したアメリカの半導体製造企業である。2004年、モトローラ社の半導体部門が分離して設立された。本社はテキサス州オースティンにあり、世界2…",
+   "title": "ペドロ・デ・バルディビア",
+   "body": "ペドロ・デ・バルディビア は、スペインのコンキスタドールである。彼はチリ征服の主導者であり、その初代総督を務めた。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AA%E3%83%BC%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%AB%E3%83%BB%E3%82%BB%E3%83%9F%E3%82%B3%E3%83%B3%E3%83%80%E3%82%AF%E3%82%BF"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%89%E3%83%AD%E3%83%BB%E3%83%87%E3%83%BB%E3%83%90%E3%83%AB%E3%83%87%E3%82%A3%E3%83%93%E3%82%A2"
   },
   {
    "tag": "HN",
-   "title": "The bridge to agent-scale Git infrastructure",
-   "body": "52ポイント / コメント16件。",
+   "title": "Clockwork Mechanics, Maintenance, and Metaphors in the Late Middle Ag…",
+   "body": "5ポイント / コメント0件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50183344"
+   "url": "https://news.ycombinator.com/item?id=50160988"
   },
   {
    "tag": "HN",
-   "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica ca…",
-   "body": "292ポイント / コメント174件。",
+   "title": "Show HN: Omnara – Open-source alternative to Claude Managed Agents",
+   "body": "46ポイント / コメント13件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50184820"
+   "url": "https://news.ycombinator.com/item?id=50183892"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "薄曇り。最高22.0℃ / 最低14.7℃。いまは18.6℃。",
+   "body": "曇り。最高22.0℃ / 最低14.8℃。いまは21.3℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
+  },
+  {
+   "tag": "HN",
+   "title": "Patch the Planet: global response coordination as agents uncover vuln…",
+   "body": "244ポイント / コメント165件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50181175"
   }
  ]
 }
