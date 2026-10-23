@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-24T00:07:48+09:00",
+ "generated_at": "2026-10-24T04:17:39+09:00",
  "items": [
   {
-   "tag": "天気",
-   "title": "東京 きょう",
-   "body": "雨。最高16.1℃ / 最低14.0℃。いまは16.1℃。",
-   "src": "open-meteo.com",
-   "url": "https://open-meteo.com/"
-  },
-  {
-   "tag": "WIKI",
-   "title": "矢崎バレンテFC",
-   "body": "矢崎バレンテFC は、静岡県島田市を本拠地とする社会人サッカーチームである。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E7%9F%A2%E5%B4%8E%E3%83%90%E3%83%AC%E3%83%B3%E3%83%86FC"
+   "tag": "HN",
+   "title": "Show HN: Searching for optimal strategies in a puzzle game with chanc…",
+   "body": "6ポイント / コメント0件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50212292"
   },
   {
    "tag": "HN",
-   "title": "Job Loss and Cortisone Mania",
-   "body": "66ポイント / コメント15件。",
+   "title": "Job loss and cortisone mania",
+   "body": "138ポイント / コメント71件。",
    "src": "news.ycombinator.com",
    "url": "https://news.ycombinator.com/item?id=50206840"
   },
   {
    "tag": "HN",
-   "title": "Remove pgrust: the entry is cheating",
-   "body": "122ポイント / コメント64件。",
+   "title": "Docker is weird",
+   "body": "791ポイント / コメント325件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50205816"
-  },
-  {
-   "tag": "HN",
-   "title": "No Need for Retirement When Utopia Is Around the Corner",
-   "body": "103ポイント / コメント77件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50207050"
+   "url": "https://news.ycombinator.com/item?id=50202681"
   },
   {
    "tag": "WIKI",
-   "title": "スペインの民主化",
-   "body": "スペインの民主化 は、スペインが民主化する1975年から1982年までの期間である。",
+   "title": "障害者の権利に関する条約",
+   "body": "障害者の権利に関する条約 は、あらゆる障害者（身体障害、知的障害および精神障害など）の、尊厳と権利を保障するための条約である。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%9A%E3%82%A4%E3%83%B3%E3%81%AE%E6%B0%91%E4%B8%BB%E5%8C%96"
+   "url": "https://ja.wikipedia.org/wiki/%E9%9A%9C%E5%AE%B3%E8%80%85%E3%81%AE%E6%A8%A9%E5%88%A9%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E6%9D%A1%E7%B4%84"
+  },
+  {
+   "tag": "WIKI",
+   "title": "徳雲院 (台東区)",
+   "body": "徳雲院（とくうんいん）は、東京都台東区にある臨済宗大徳寺派の寺院。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%BE%B3%E9%9B%B2%E9%99%A2_(%E5%8F%B0%E6%9D%B1%E5%8C%BA)"
+  },
+  {
+   "tag": "天気",
+   "title": "東京 きょう",
+   "body": "小雨。最高16.4℃ / 最低14.5℃。いまは15.0℃。",
+   "src": "open-meteo.com",
+   "url": "https://open-meteo.com/"
   }
  ]
 }
