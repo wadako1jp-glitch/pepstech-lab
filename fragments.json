@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-23T13:56:29+09:00",
+ "generated_at": "2026-10-23T19:08:07+09:00",
  "items": [
   {
+   "tag": "HN",
+   "title": "How does Fable 5.1 hide messages in images?",
+   "body": "87ポイント / コメント27件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50201445"
+  },
+  {
+   "tag": "HN",
+   "title": "I reverse engineered a board game",
+   "body": "37ポイント / コメント8件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50180799"
+  },
+  {
    "tag": "WIKI",
-   "title": "ローリー・ベスト",
-   "body": "ローリー・ベスト(Rory FTB David Best 1984年8月15日 -)は、アイルランドのラグビーユニオン選手である。ポジションはフッカー。アイルランド代表の主将を務めて…",
+   "title": "ロボット審判",
+   "body": "ロボット審判 、もしくはABS とは、野球における投球のストライク・ボールの判定を、人間の判断を挟まないで自動化するシステムである。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%99%E3%82%B9%E3%83%88"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%AF%A9%E5%88%A4"
   },
   {
-   "tag": "HN",
-   "title": "eMudhra to exit global SSL/TLS certificate business",
-   "body": "986ポイント / コメント658件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50195110"
-  },
-  {
-   "tag": "HN",
-   "title": "Run full iOS 16.5 firmware on Android Devices",
-   "body": "361ポイント / コメント133件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50196718"
+   "tag": "WIKI",
+   "title": "ペトリッツィ",
+   "body": "ペトリッツィ は、イタリア共和国カラブリア州カタンザーロ県にある、人口約1,100人の基礎自治体（コムーネ）。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%88%E3%83%AA%E3%83%83%E3%83%84%E3%82%A3"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "曇り。最高19.0℃ / 最低12.6℃。いまは18.9℃。",
+   "body": "曇り。最高20.1℃ / 最低12.6℃。いまは18.0℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "WIKI",
-   "title": "フォンテーヌ (イゼール県)",
-   "body": "フォンテーヌ （Fontaine）は、フランス、オーヴェルニュ＝ローヌ＝アルプ地域圏、イゼール県のコミューン。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A9%E3%83%B3%E3%83%86%E3%83%BC%E3%83%8C_(%E3%82%A4%E3%82%BC%E3%83%BC%E3%83%AB%E7%9C%8C)"
-  },
-  {
    "tag": "HN",
-   "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you bou…",
-   "body": "256ポイント / コメント228件。",
+   "title": "Rule 30: one black cell",
+   "body": "16ポイント / コメント5件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50194009"
+   "url": "https://news.ycombinator.com/item?id=50201842"
   }
  ]
 }
