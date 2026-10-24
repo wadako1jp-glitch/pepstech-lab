@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-24T08:11:05+09:00",
+ "generated_at": "2026-10-24T10:38:15+09:00",
  "items": [
   {
    "tag": "HN",
-   "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from…",
-   "body": "1176ポイント / コメント223件。",
+   "title": "Securing our frontier model training environment",
+   "body": "74ポイント / コメント89件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50202285"
-  },
-  {
-   "tag": "HN",
-   "title": "No Source Code? No Problem",
-   "body": "17ポイント / コメント9件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50214994"
+   "url": "https://news.ycombinator.com/item?id=50214416"
   },
   {
    "tag": "WIKI",
-   "title": "ノートルダム清心中学校・高等学校",
-   "body": "ノートルダム清心中学校・高等学校 は、広島県広島市西区に所在し、中高一貫教育を提供する私立女子中学校・高等学校。",
+   "title": "ヴァレオ",
+   "body": "ヴァレオ は、フランス・パリに本拠を置く自動車部品メーカー。CO2 排出量の削減と直観的なドライビングの発展に貢献する革新的な製品とシステムを世界の自動車メーカーに提供している。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%BC%E3%83%88%E3%83%AB%E3%83%80%E3%83%A0%E6%B8%85%E5%BF%83%E4%B8%AD%E5%AD%A6%E6%A0%A1%E3%83%BB%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1"
-  },
-  {
-   "tag": "WIKI",
-   "title": "新光寺 (川口市)",
-   "body": "新光寺（しんこうじ）は、埼玉県川口市にある天台宗の寺院。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%96%B0%E5%85%89%E5%AF%BA_(%E5%B7%9D%E5%8F%A3%E5%B8%82)"
-  },
-  {
-   "tag": "HN",
-   "title": "Canadians are running out of time to oppose Bill C-22",
-   "body": "278ポイント / コメント135件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50202114"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A1%E3%83%AC%E3%82%AA"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "小雨。最高15.8℃ / 最低14.1℃。いまは14.2℃。",
+   "body": "雨。最高15.8℃ / 最低14.2℃。いまは14.7℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
+  },
+  {
+   "tag": "HN",
+   "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+   "body": "716ポイント / コメント456件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50212065"
+  },
+  {
+   "tag": "WIKI",
+   "title": "相生町 (板橋区)",
+   "body": "相生町（あいおいちょう）は、東京都板橋区の町名。丁目の設定がない単独町名である。全域で住居表示が実施されている。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E7%9B%B8%E7%94%9F%E7%94%BA_(%E6%9D%BF%E6%A9%8B%E5%8C%BA)"
+  },
+  {
+   "tag": "HN",
+   "title": "Animations for System Builders",
+   "body": "34ポイント / コメント3件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50212124"
   }
  ]
 }
