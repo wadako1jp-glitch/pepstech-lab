@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-24T16:20:43+09:00",
+ "generated_at": "2026-10-24T21:42:53+09:00",
  "items": [
   {
    "tag": "HN",
-   "title": "Rise of collagen-eating microbes may help explain gaps in the fossil …",
-   "body": "36ポイント / コメント0件。",
+   "title": "C vs. C#: racing VLC's Gaussian blur",
+   "body": "99ポイント / コメント25件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50168075"
+   "url": "https://news.ycombinator.com/item?id=50176544"
   },
   {
    "tag": "HN",
-   "title": "A Bicycle Journey Across Brazil to Find a Vanishing Savanna",
-   "body": "44ポイント / コメント10件。",
+   "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs…",
+   "body": "47ポイント / コメント30件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50177554"
+   "url": "https://news.ycombinator.com/item?id=50219177"
+  },
+  {
+   "tag": "WIKI",
+   "title": "九州歴史資料館",
+   "body": "九州歴史資料館 は、福岡県小郡市に所在する歴史系博物館である。福岡県教育委員会が運営している。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E4%B9%9D%E5%B7%9E%E6%AD%B4%E5%8F%B2%E8%B3%87%E6%96%99%E9%A4%A8"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "雨。最高15.8℃ / 最低14.2℃。いまは15.2℃。",
+   "body": "雨。最高15.8℃ / 最低14.2℃。いまは15.6℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "WIKI",
-   "title": "扶助者聖マリア大聖堂",
-   "body": "扶助者聖マリア大聖堂 は、イタリア・トリノにあるカトリックの大聖堂。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%89%B6%E5%8A%A9%E8%80%85%E8%81%96%E3%83%9E%E3%83%AA%E3%82%A2%E5%A4%A7%E8%81%96%E5%A0%82"
-  },
-  {
    "tag": "HN",
-   "title": "UUIDv7: Timestamps aren’t time-ordered and other oddities",
-   "body": "132ポイント / コメント109件。",
+   "title": "The Best Monopoly Strategy, Tested on 300M Games [video]",
+   "body": "33ポイント / コメント30件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50211746"
+   "url": "https://news.ycombinator.com/item?id=50175732"
   },
   {
    "tag": "WIKI",
-   "title": "トボリスク",
-   "body": "トボリスク は、ロシア連邦・チュメニ州の都市である。人口は約10万人（2021年）。 トボル川とイルティシュ川の合流地点にある。1587年にロシア人が創設し、トボリスクはウラル山脈よ…",
+   "title": "レオ・バートス",
+   "body": "レオ・バートス は、ニュージーランドの元サッカー選手。元ニュージーランド代表。ポジションはミッドフィールダー。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%9C%E3%83%AA%E3%82%B9%E3%82%AF"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%AA%E3%83%BB%E3%83%90%E3%83%BC%E3%83%88%E3%82%B9"
   }
  ]
 }
