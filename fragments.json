@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-25T01:37:50+09:00",
+ "generated_at": "2026-10-25T04:30:54+09:00",
  "items": [
   {
-   "tag": "WIKI",
-   "title": "ルイス・バラガン邸と仕事場",
-   "body": "ルイス・バラガン邸と仕事場 は、20世紀メキシコを代表する建築家の一人であるルイス・バラガンが、後半生を過ごした自宅兼仕事場である。2004年に、ユネスコの世界遺産に登録された。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%82%A4%E3%82%B9%E3%83%BB%E3%83%90%E3%83%A9%E3%82%AC%E3%83%B3%E9%82%B8%E3%81%A8%E4%BB%95%E4%BA%8B%E5%A0%B4"
-  },
-  {
    "tag": "HN",
-   "title": "TornadoVM 7 Enables GPU-Native Workloads from Java Applications",
-   "body": "55ポイント / コメント6件。",
+   "title": "Dream-1",
+   "body": "55ポイント / コメント28件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50192975"
-  },
-  {
-   "tag": "HN",
-   "title": "OBS Studio 33",
-   "body": "346ポイント / コメント114件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50218430"
+   "url": "https://news.ycombinator.com/item?id=50223785"
   },
   {
    "tag": "WIKI",
-   "title": "篠ノ井橋",
-   "body": "篠ノ井橋（しののいばし）は、長野県千曲市 - 長野市の千曲川に架かる国道18号の桁橋。",
+   "title": "菅田神社 (大和郡山市)",
+   "body": "菅田神社（すがたじんじゃ）は、奈良県大和郡山市八条町に鎮座する神社。添下郡の式内社で、旧社格は郷社。全国、鍛冶の神の総社である。古くは、現社地の南約300メートルにあり、大永3(15…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E7%AF%A0%E3%83%8E%E4%BA%95%E6%A9%8B"
+   "url": "https://ja.wikipedia.org/wiki/%E8%8F%85%E7%94%B0%E7%A5%9E%E7%A4%BE_(%E5%A4%A7%E5%92%8C%E9%83%A1%E5%B1%B1%E5%B8%82)"
+  },
+  {
+   "tag": "WIKI",
+   "title": "セレオ八王子",
+   "body": "セレオ八王子（セレオはちおうじ）は、東日本旅客鉄道（JR東日本）グループのJR中央線コミュニティデザイン が、八王子駅北口および南口で運営する駅ビル型商業施設である。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%AC%E3%82%AA%E5%85%AB%E7%8E%8B%E5%AD%90"
+  },
+  {
+   "tag": "HN",
+   "title": "Danish Government silently drops plan to dump MS Office",
+   "body": "43ポイント / コメント10件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50223844"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "小雨。最高25.3℃ / 最低15.4℃。いまは15.8℃。",
+   "body": "雨。最高25.9℃ / 最低16.0℃。いまは16.1℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "The Chalk and the Airplane",
-   "body": "23ポイント / コメント9件。",
+   "title": "Roku developer repositories moved from GitHub to GitLab",
+   "body": "173ポイント / コメント118件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50191250"
+   "url": "https://news.ycombinator.com/item?id=50222622"
   }
  ]
 }
