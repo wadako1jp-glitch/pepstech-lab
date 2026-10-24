@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-24T21:42:53+09:00",
+ "generated_at": "2026-10-25T01:37:50+09:00",
  "items": [
   {
-   "tag": "HN",
-   "title": "C vs. C#: racing VLC's Gaussian blur",
-   "body": "99ポイント / コメント25件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50176544"
+   "tag": "WIKI",
+   "title": "ルイス・バラガン邸と仕事場",
+   "body": "ルイス・バラガン邸と仕事場 は、20世紀メキシコを代表する建築家の一人であるルイス・バラガンが、後半生を過ごした自宅兼仕事場である。2004年に、ユネスコの世界遺産に登録された。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%82%A4%E3%82%B9%E3%83%BB%E3%83%90%E3%83%A9%E3%82%AC%E3%83%B3%E9%82%B8%E3%81%A8%E4%BB%95%E4%BA%8B%E5%A0%B4"
   },
   {
    "tag": "HN",
-   "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs…",
-   "body": "47ポイント / コメント30件。",
+   "title": "TornadoVM 7 Enables GPU-Native Workloads from Java Applications",
+   "body": "55ポイント / コメント6件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50219177"
+   "url": "https://news.ycombinator.com/item?id=50192975"
+  },
+  {
+   "tag": "HN",
+   "title": "OBS Studio 33",
+   "body": "346ポイント / コメント114件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50218430"
   },
   {
    "tag": "WIKI",
-   "title": "九州歴史資料館",
-   "body": "九州歴史資料館 は、福岡県小郡市に所在する歴史系博物館である。福岡県教育委員会が運営している。",
+   "title": "篠ノ井橋",
+   "body": "篠ノ井橋（しののいばし）は、長野県千曲市 - 長野市の千曲川に架かる国道18号の桁橋。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E4%B9%9D%E5%B7%9E%E6%AD%B4%E5%8F%B2%E8%B3%87%E6%96%99%E9%A4%A8"
+   "url": "https://ja.wikipedia.org/wiki/%E7%AF%A0%E3%83%8E%E4%BA%95%E6%A9%8B"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "雨。最高15.8℃ / 最低14.2℃。いまは15.6℃。",
+   "body": "小雨。最高25.3℃ / 最低15.4℃。いまは15.8℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "The Best Monopoly Strategy, Tested on 300M Games [video]",
-   "body": "33ポイント / コメント30件。",
+   "title": "The Chalk and the Airplane",
+   "body": "23ポイント / コメント9件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50175732"
-  },
-  {
-   "tag": "WIKI",
-   "title": "レオ・バートス",
-   "body": "レオ・バートス は、ニュージーランドの元サッカー選手。元ニュージーランド代表。ポジションはミッドフィールダー。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%AA%E3%83%BB%E3%83%90%E3%83%BC%E3%83%88%E3%82%B9"
+   "url": "https://news.ycombinator.com/item?id=50191250"
   }
  ]
 }
