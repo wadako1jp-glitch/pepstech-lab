@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-25T07:31:17+09:00",
+ "generated_at": "2026-10-25T10:13:27+09:00",
  "items": [
   {
+   "tag": "HN",
+   "title": "Bbtree: Fastest Ordered Map",
+   "body": "46ポイント / コメント4件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50223777"
+  },
+  {
+   "tag": "HN",
+   "title": "Small Programs and Languages",
+   "body": "33ポイント / コメント1件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50225674"
+  },
+  {
    "tag": "WIKI",
-   "title": "チェイス・ウィットリー",
-   "body": "チェイス・コールマン・ウィットリー は、アメリカ合衆国アラバマ州クリバーン郡ランバーン出身の元プロ野球選手（投手）。",
+   "title": "スーノ",
+   "body": "スーノ は、イタリア共和国ピエモンテ州ノヴァーラ県にある、人口約2,700人の基礎自治体（コムーネ）。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%A7%E3%82%A4%E3%82%B9%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%83%E3%83%88%E3%83%AA%E3%83%BC"
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%BC%E3%83%8E"
+  },
+  {
+   "tag": "WIKI",
+   "title": "長浜市の地名一覧",
+   "body": "長浜市の地名一覧（ながはましのちめいいちらん）は、滋賀県長浜市にある地名の一覧である。赤背景で示したものは、市役所・市役所支所がある地名である。旧市・町別に、長浜市の郵便番号一覧の順…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E9%95%B7%E6%B5%9C%E5%B8%82%E3%81%AE%E5%9C%B0%E5%90%8D%E4%B8%80%E8%A6%A7"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "雨。最高25.9℃ / 最低16.0℃。いまは18.7℃。",
+   "body": "強い雨。最高26.0℃ / 最低16.1℃。いまは24.9℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "WIKI",
-   "title": "多摩川住宅",
-   "body": "多摩川住宅（たまがわじゅうたく）は、東京都調布市染地と東京都狛江市西和泉にまたがる住宅団地である。1966年4月1日に設立された東京都住宅供給公社が手掛けた初の大規模団地として、19…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%A4%9A%E6%91%A9%E5%B7%9D%E4%BD%8F%E5%AE%85"
-  },
-  {
    "tag": "HN",
-   "title": "Roku developer repositories moved from GitHub to GitLab",
-   "body": "225ポイント / コメント149件。",
+   "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs…",
+   "body": "274ポイント / コメント137件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50222622"
-  },
-  {
-   "tag": "HN",
-   "title": "Physicists trap a single antimatter particle for a month",
-   "body": "262ポイント / コメント77件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50186450"
-  },
-  {
-   "tag": "HN",
-   "title": "I don't understand quantum physics (2018)",
-   "body": "252ポイント / コメント186件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50219666"
+   "url": "https://news.ycombinator.com/item?id=50219177"
   }
  ]
 }
