@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-26T04:40:31+09:00",
+ "generated_at": "2026-10-26T07:35:52+09:00",
  "items": [
-  {
-   "tag": "WIKI",
-   "title": "ポカテッロ (アイダホ州)",
-   "body": "ポカテッロ は、アメリカ合衆国アイダホ州南東部のバノック郡で最大かつ州内では6番目に大きな都市で、バノック郡とパワー郡に跨る（またがる）ポカテッロ都市圏の主要都市である。市内にホール…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%82%AB%E3%83%86%E3%83%83%E3%83%AD_(%E3%82%A2%E3%82%A4%E3%83%80%E3%83%9B%E5%B7%9E)"
-  },
-  {
-   "tag": "HN",
-   "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from…",
-   "body": "1653ポイント / コメント253件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50202285"
-  },
-  {
-   "tag": "HN",
-   "title": "Sabre Wulf Remastered",
-   "body": "48ポイント / コメント6件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50233775"
-  },
-  {
-   "tag": "HN",
-   "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
-   "body": "201ポイント / コメント93件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50233929"
-  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "雨。最高19.2℃ / 最低14.7℃。いまは17.6℃。",
+   "body": "雨。最高19.2℃ / 最低14.7℃。いまは17.9℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "WIKI",
-   "title": "広河内岳",
-   "body": "広河内岳（ひろごうちだけ）は、山梨県と静岡県とにまたがる赤石山脈にある山。標高は2,895m。甲斐百山。",
+   "title": "円光寺 (貝塚市)",
+   "body": "円光寺（えんこうじ）は、大阪府貝塚市にある浄土真宗本願寺派の寺院。山号は宝林山。本尊は阿弥陀如来。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%BA%83%E6%B2%B3%E5%86%85%E5%B2%B3"
+   "url": "https://ja.wikipedia.org/wiki/%E5%86%86%E5%85%89%E5%AF%BA_(%E8%B2%9D%E5%A1%9A%E5%B8%82)"
+  },
+  {
+   "tag": "HN",
+   "title": "Root shell on Samsung TV",
+   "body": "729ポイント / コメント556件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50218633"
+  },
+  {
+   "tag": "HN",
+   "title": "UTS #39: Unicode Security Mechanisms",
+   "body": "27ポイント / コメント5件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50233438"
+  },
+  {
+   "tag": "WIKI",
+   "title": "ラムゼイ・クラーク",
+   "body": "ウィリアム・ラムゼイ・クラーク は、アメリカ合衆国の法律家、政治家。リンドン・ジョンソン大統領のもとで第66代司法長官を務めた。退任後は政治運動家、陰謀論者、独裁者などの弁護を務める…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%A0%E3%82%BC%E3%82%A4%E3%83%BB%E3%82%AF%E3%83%A9%E3%83%BC%E3%82%AF"
+  },
+  {
+   "tag": "HN",
+   "title": "Dolly Parton's Imagination Library",
+   "body": "270ポイント / コメント48件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50234474"
   }
  ]
 }
