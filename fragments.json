@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-26T10:14:27+09:00",
+ "generated_at": "2026-10-26T15:22:32+09:00",
  "items": [
   {
+   "tag": "WIKI",
+   "title": "ニホンノウサギ",
+   "body": "ニホンノウサギ は、ウサギ目ウサギ科ノウサギ属に分類されるウサギ。旧和名ノウサギ。日本固有種。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%9B%E3%83%B3%E3%83%8E%E3%82%A6%E3%82%B5%E3%82%AE"
+  },
+  {
    "tag": "HN",
-   "title": "Retired decorator's Pokémon cards sell for £1.5M",
-   "body": "11ポイント / コメント3件。",
+   "title": "Amazon’s “digital pacifier” for toddlers",
+   "body": "144ポイント / コメント213件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50199199"
+   "url": "https://news.ycombinator.com/item?id=50185534"
+  },
+  {
+   "tag": "HN",
+   "title": "We should be more ambitious with the software we build",
+   "body": "776ポイント / コメント701件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50225695"
   },
   {
    "tag": "WIKI",
-   "title": "平和 (福岡市)",
-   "body": "平和 は、福岡県福岡市中央区及び南区に跨る地区の地名。現行の行政地名は 中央区平和三丁目及び五丁目並びに南区平和一丁目、二丁目及び四丁目（住居表示実施済）。面積は、中央区が34.38…",
+   "title": "吹田市立第五中学校",
+   "body": "吹田市立第五中学校 は、大阪府吹田市幸町にある公立中学校。吹田市立第三中学校の分校として1961年に設置され、翌1962年に独立校となった。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%B9%B3%E5%92%8C_(%E7%A6%8F%E5%B2%A1%E5%B8%82)"
-  },
-  {
-   "tag": "HN",
-   "title": "Eunice is almost here",
-   "body": "58ポイント / コメント51件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50235316"
-  },
-  {
-   "tag": "HN",
-   "title": "Serbia's Vucic concedes election defeat in historic win for student m…",
-   "body": "223ポイント / コメント120件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50236081"
+   "url": "https://ja.wikipedia.org/wiki/%E5%90%B9%E7%94%B0%E5%B8%82%E7%AB%8B%E7%AC%AC%E4%BA%94%E4%B8%AD%E5%AD%A6%E6%A0%A1"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "雨。最高19.3℃ / 最低15.1℃。いまは18.8℃。",
+   "body": "雨。最高19.0℃ / 最低15.4℃。いまは16.9℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "WIKI",
-   "title": "イーストバトンルージュ郡 (ルイジアナ州)",
-   "body": "イーストバトンルージュ郡 は、アメリカ合衆国ルイジアナ州の中央部に位置する郡である。人口は45万6781人（2020年）で、州内で最も人口の多い郡である。郡庁所在地は州都バトンルージ…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%BC%E3%82%B9%E3%83%88%E3%83%90%E3%83%88%E3%83%B3%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A5%E9%83%A1_(%E3%83%AB%E3%82%A4%E3%82%B8%E3%82%A2%E3%83%8A%E5%B7%9E)"
+   "tag": "HN",
+   "title": "Retired decorator's Pokémon cards sell for £1.5M",
+   "body": "33ポイント / コメント22件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50199199"
   }
  ]
 }
