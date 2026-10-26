@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-26T15:22:32+09:00",
+ "generated_at": "2026-10-26T23:19:18+09:00",
  "items": [
   {
-   "tag": "WIKI",
-   "title": "ニホンノウサギ",
-   "body": "ニホンノウサギ は、ウサギ目ウサギ科ノウサギ属に分類されるウサギ。旧和名ノウサギ。日本固有種。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%9B%E3%83%B3%E3%83%8E%E3%82%A6%E3%82%B5%E3%82%AE"
-  },
-  {
    "tag": "HN",
-   "title": "Amazon’s “digital pacifier” for toddlers",
-   "body": "144ポイント / コメント213件。",
+   "title": "Dolly Parton's Imagination Library",
+   "body": "598ポイント / コメント101件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50185534"
-  },
-  {
-   "tag": "HN",
-   "title": "We should be more ambitious with the software we build",
-   "body": "776ポイント / コメント701件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50225695"
-  },
-  {
-   "tag": "WIKI",
-   "title": "吹田市立第五中学校",
-   "body": "吹田市立第五中学校 は、大阪府吹田市幸町にある公立中学校。吹田市立第三中学校の分校として1961年に設置され、翌1962年に独立校となった。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%90%B9%E7%94%B0%E5%B8%82%E7%AB%8B%E7%AC%AC%E4%BA%94%E4%B8%AD%E5%AD%A6%E6%A0%A1"
+   "url": "https://news.ycombinator.com/item?id=50234474"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "雨。最高19.0℃ / 最低15.4℃。いまは16.9℃。",
+   "body": "雨。最高19.0℃ / 最低15.8℃。いまは15.9℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
+   "tag": "WIKI",
+   "title": "トウロ",
+   "body": "トウロ（Touro）は、スペイン、ガリシア州、ア・コルーニャ県の自治体、コマルカ・デ・アルスーアに属する。ガリシア統計局によると、2011年の人口は4,082人 である。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%82%A6%E3%83%AD"
+  },
+  {
    "tag": "HN",
-   "title": "Retired decorator's Pokémon cards sell for £1.5M",
-   "body": "33ポイント / コメント22件。",
+   "title": "Show HN: A Truly Modular Keyboard",
+   "body": "218ポイント / コメント70件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50199199"
+   "url": "https://news.ycombinator.com/item?id=50228115"
+  },
+  {
+   "tag": "HN",
+   "title": "Iron Age salt-mining complex found beneath Hallstatt in Austria",
+   "body": "99ポイント / コメント43件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50200957"
+  },
+  {
+   "tag": "WIKI",
+   "title": "加古川市立志方小学校",
+   "body": "加古川市立志方小学校 は、兵庫県加古川市志方町にある市立小学校である。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%8A%A0%E5%8F%A4%E5%B7%9D%E5%B8%82%E7%AB%8B%E5%BF%97%E6%96%B9%E5%B0%8F%E5%AD%A6%E6%A0%A1"
   }
  ]
 }
