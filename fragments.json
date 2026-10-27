@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-27T22:15:40+09:00",
+ "generated_at": "2026-10-28T03:45:05+09:00",
  "items": [
   {
    "tag": "HN",
-   "title": "Python's experimental JIT to be removed",
-   "body": "95ポイント / コメント36件。",
+   "title": "We let our cloud agents query prod (with OIDC, not secrets)",
+   "body": "13ポイント / コメント6件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50257419"
+   "url": "https://news.ycombinator.com/item?id=50261584"
+  },
+  {
+   "tag": "WIKI",
+   "title": "道州制特別区域における広域行政の推進に関する法律",
+   "body": "道州制特別区域における広域行政の推進に関する法律（どうしゅうせいとくべつくいきにおけるこういきぎょうせいのすいしんにかんするほうりつ、平成18年12月20日法律第116号）は、道州制…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E9%81%93%E5%B7%9E%E5%88%B6%E7%89%B9%E5%88%A5%E5%8C%BA%E5%9F%9F%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E5%BA%83%E5%9F%9F%E8%A1%8C%E6%94%BF%E3%81%AE%E6%8E%A8%E9%80%B2%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E6%B3%95%E5%BE%8B"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高20.1℃ / 最低15.7℃。いまは17.7℃。",
+   "body": "晴れ。最高18.5℃ / 最低11.3℃。いまは14.9℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "WIKI",
-   "title": "浜田多実雄",
-   "body": "浜田 多実雄 は、日本中央競馬会（JRA）・栗東トレーニングセンターの調教師。大阪府出身。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%B5%9C%E7%94%B0%E5%A4%9A%E5%AE%9F%E9%9B%84"
+   "tag": "HN",
+   "title": "Ghostty 1.4.0",
+   "body": "226ポイント / コメント79件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50261998"
   },
   {
    "tag": "HN",
-   "title": "Roblox downloaded 145GB models from us (including adult content) with…",
-   "body": "228ポイント / コメント150件。",
+   "title": "The Mythical Man-Month in the Age of AI",
+   "body": "372ポイント / コメント258件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50256985"
+   "url": "https://news.ycombinator.com/item?id=50255298"
   },
   {
    "tag": "WIKI",
-   "title": "西明寺駅",
-   "body": "西明寺駅（さいみょうじえき）は秋田県仙北市西木町門屋六本杉にある、秋田内陸縦貫鉄道秋田内陸線の駅である。",
+   "title": "カルレス・アレニャ",
+   "body": "カルレス・アレニャ・カスティージョ は、スペイン・マタロー出身のサッカー選手。ラ・リーガ・デポルティーボ・アラベス所属。元スペイン代表。ポジションはミッドフィールダー (MF)。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%98%8E%E5%AF%BA%E9%A7%85"
-  },
-  {
-   "tag": "HN",
-   "title": "AI promised less work. I've never worked more",
-   "body": "96ポイント / コメント67件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50257325"
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AB%E3%83%AC%E3%82%B9%E3%83%BB%E3%82%A2%E3%83%AC%E3%83%8B%E3%83%A3"
   }
  ]
 }
