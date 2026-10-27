@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-27T09:28:58+09:00",
+ "generated_at": "2026-10-27T15:19:55+09:00",
  "items": [
   {
-   "tag": "WIKI",
-   "title": "麻浦大橋",
-   "body": "麻浦大橋 は、韓国ソウル市の麻浦区龍江洞と永登浦区汝矣島洞の間に位置する、漢江に架かる橋としては漢南大橋につづき4番目に架けられた橋である。1970年に完成し、竣工当初は「ソウル大橋…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E9%BA%BB%E6%B5%A6%E5%A4%A7%E6%A9%8B"
-  },
-  {
    "tag": "HN",
-   "title": "Type Server Protocol",
-   "body": "179ポイント / コメント134件。",
+   "title": "Sebastian Raschka's from-scratch video course on building reasoning m…",
+   "body": "646ポイント / コメント91件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50248371"
-  },
-  {
-   "tag": "HN",
-   "title": "CorridorKey 2.0",
-   "body": "179ポイント / コメント54件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50251127"
-  },
-  {
-   "tag": "HN",
-   "title": "Oldest GUI application that still runs on Windows 11",
-   "body": "256ポイント / コメント164件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50248055"
+   "url": "https://news.ycombinator.com/item?id=50245138"
   },
   {
    "tag": "WIKI",
-   "title": "2009年中国杯",
-   "body": "2009年中国杯(中国語: 2009年中国杯花样滑冰大奖赛、英語: Cup of China 2009 または SAMSUNG Anycall Cup of China 2009)は…",
+   "title": "日出若宮八幡神社",
+   "body": "日出若宮八幡神社（ひじわかみやはちまんじんじゃ）は、大分県速見郡日出町2831-1にある神社。旧社格は県社。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/2009%E5%B9%B4%E4%B8%AD%E5%9B%BD%E6%9D%AF"
+   "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E5%87%BA%E8%8B%A5%E5%AE%AE%E5%85%AB%E5%B9%A1%E7%A5%9E%E7%A4%BE"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高22.0℃ / 最低15.7℃。いまは16.7℃。",
+   "body": "霧雨。最高20.2℃ / 最低15.7℃。いまは20.2℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
+  },
+  {
+   "tag": "WIKI",
+   "title": "鹿島市",
+   "body": "鹿島市（かしまし）は、佐賀県の南部にある市。旧藤津郡。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E9%B9%BF%E5%B3%B6%E5%B8%82"
+  },
+  {
+   "tag": "HN",
+   "title": "LISPy things you can do in 64K bytes of core (2019)",
+   "body": "46ポイント / コメント8件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50231041"
+  },
+  {
+   "tag": "HN",
+   "title": "Historical Telecommunications",
+   "body": "11ポイント / コメント1件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50232322"
   }
  ]
 }
