@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-27T05:31:36+09:00",
+ "generated_at": "2026-10-27T09:28:58+09:00",
  "items": [
   {
-   "tag": "HN",
-   "title": "Anthropic S-1",
-   "body": "1293ポイント / コメント1260件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50242939"
-  },
-  {
-   "tag": "天気",
-   "title": "東京 きょう",
-   "body": "霧雨。最高20.9℃ / 最低15.7℃。いまは15.9℃。",
-   "src": "open-meteo.com",
-   "url": "https://open-meteo.com/"
-  },
-  {
    "tag": "WIKI",
-   "title": "武漢軌道交通6号線",
-   "body": "武漢軌道交通6号線 は、中華人民共和国湖北省武漢市東西湖区の新城十一路駅から蔡甸区の東風公司駅を結ぶ武漢地下鉄の路線。2016年12月28日に開通した。",
+   "title": "麻浦大橋",
+   "body": "麻浦大橋 は、韓国ソウル市の麻浦区龍江洞と永登浦区汝矣島洞の間に位置する、漢江に架かる橋としては漢南大橋につづき4番目に架けられた橋である。1970年に完成し、竣工当初は「ソウル大橋…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%AD%A6%E6%BC%A2%E8%BB%8C%E9%81%93%E4%BA%A4%E9%80%9A6%E5%8F%B7%E7%B7%9A"
+   "url": "https://ja.wikipedia.org/wiki/%E9%BA%BB%E6%B5%A6%E5%A4%A7%E6%A9%8B"
   },
   {
    "tag": "HN",
    "title": "Type Server Protocol",
-   "body": "119ポイント / コメント77件。",
+   "body": "179ポイント / コメント134件。",
    "src": "news.ycombinator.com",
    "url": "https://news.ycombinator.com/item?id=50248371"
   },
   {
-   "tag": "WIKI",
-   "title": "山本郡 (熊本県)",
-   "body": "山本郡（やまもとぐん）は、熊本県（肥後国）にあった郡。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E6%9C%AC%E9%83%A1_(%E7%86%8A%E6%9C%AC%E7%9C%8C)"
+   "tag": "HN",
+   "title": "CorridorKey 2.0",
+   "body": "179ポイント / コメント54件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50251127"
   },
   {
    "tag": "HN",
-   "title": "In Leaked Audio, Flock CEO Tells Cops Backlash to the Company Isn't R…",
-   "body": "121ポイント / コメント65件。",
+   "title": "Oldest GUI application that still runs on Windows 11",
+   "body": "256ポイント / コメント164件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50248005"
+   "url": "https://news.ycombinator.com/item?id=50248055"
+  },
+  {
+   "tag": "WIKI",
+   "title": "2009年中国杯",
+   "body": "2009年中国杯(中国語: 2009年中国杯花样滑冰大奖赛、英語: Cup of China 2009 または SAMSUNG Anycall Cup of China 2009)は…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/2009%E5%B9%B4%E4%B8%AD%E5%9B%BD%E6%9D%AF"
+  },
+  {
+   "tag": "天気",
+   "title": "東京 きょう",
+   "body": "霧雨。最高22.0℃ / 最低15.7℃。いまは16.7℃。",
+   "src": "open-meteo.com",
+   "url": "https://open-meteo.com/"
   }
  ]
 }
