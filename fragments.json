@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-28T07:58:16+09:00",
+ "generated_at": "2026-10-28T11:19:26+09:00",
  "items": [
   {
-   "tag": "HN",
-   "title": "Rosettes and Other Hidden Traces of Hamburg's Tram",
-   "body": "28ポイント / コメント1件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50240041"
-  },
-  {
    "tag": "WIKI",
-   "title": "東京都における2019年コロナウイルス感染症の流行",
-   "body": "東京都における2019年コロナウイルス感染症の流行（とうきょうとにおける2019ねんコロナウイルスかんせんしょうのりゅうこう）では、日本における新型コロナウイルス感染症（COVID-…",
+   "title": "青梅トンネル",
+   "body": "青梅トンネル は、東京都羽村市と青梅市にまたがる首都圏中央連絡自動車道（圏央道）にあるトンネルである。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E9%83%BD%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B2019%E5%B9%B4%E3%82%B3%E3%83%AD%E3%83%8A%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E6%84%9F%E6%9F%93%E7%97%87%E3%81%AE%E6%B5%81%E8%A1%8C"
-  },
-  {
-   "tag": "HN",
-   "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
-   "body": "192ポイント / コメント93件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50261589"
-  },
-  {
-   "tag": "WIKI",
-   "title": "シーザー・バルデス",
-   "body": "シーザー・ミゲル・バルデス は、ドミニカ共和国サントドミンゴ出身のプロ野球選手（投手）。右投右打。メキシカンリーグのチワワ・ゴールデンズ所属。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%BB%E3%83%90%E3%83%AB%E3%83%87%E3%82%B9"
-  },
-  {
-   "tag": "HN",
-   "title": "Tailscale SSH: Investigation and remediation update",
-   "body": "140ポイント / コメント84件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50264857"
+   "url": "https://ja.wikipedia.org/wiki/%E9%9D%92%E6%A2%85%E3%83%88%E3%83%B3%E3%83%8D%E3%83%AB"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "晴れ。最高18.5℃ / 最低11.3℃。いまは15.0℃。",
+   "body": "晴れ。最高17.8℃ / 最低11.2℃。いまは17.4℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
+  },
+  {
+   "tag": "HN",
+   "title": "Expanding our partnership with GSA to bring Claude to all levels of g…",
+   "body": "22ポイント / コメント13件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50266701"
+  },
+  {
+   "tag": "HN",
+   "title": "Reviewers rarely talk about reliability. Owners bring it up twice as …",
+   "body": "62ポイント / コメント64件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50266780"
+  },
+  {
+   "tag": "HN",
+   "title": "SS United States to be sunk as largest artificial reef",
+   "body": "88ポイント / コメント59件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50239214"
+  },
+  {
+   "tag": "WIKI",
+   "title": "岩舟ジャンクション",
+   "body": "岩舟ジャンクション（いわふねジャンクション）は、栃木県栃木市岩舟町小野寺にある東北自動車道と北関東自動車道（群馬-栃木区間）を接続するジャンクションである。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%B2%A9%E8%88%9F%E3%82%B8%E3%83%A3%E3%83%B3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3"
   }
  ]
 }
