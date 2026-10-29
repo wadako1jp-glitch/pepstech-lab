@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-29T06:40:57+09:00",
+ "generated_at": "2026-10-29T10:49:57+09:00",
  "items": [
   {
    "tag": "HN",
    "title": "The Grid, a factory-scale robot in Massachusetts that builds PCBs on …",
-   "body": "363ポイント / コメント180件。",
+   "body": "418ポイント / コメント202件。",
    "src": "news.ycombinator.com",
    "url": "https://news.ycombinator.com/item?id=50243060"
   },
   {
+   "tag": "HN",
+   "title": "Apple's git still trusts the compromised eMudhra certificates",
+   "body": "1042ポイント / コメント378件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50271640"
+  },
+  {
    "tag": "WIKI",
-   "title": "フィオルディモンテ",
-   "body": "フィオルディモンテ は、イタリア共和国マルケ州マチェラータ県に存在した、人口約200人の基礎自治体（コムーネ）。",
+   "title": "福田町駅",
+   "body": "福田町駅（ふくだまちえき）は、宮城県仙台市宮城野区福田町1丁目にある、東日本旅客鉄道（JR東日本）仙石線の駅。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A3%E3%82%AA%E3%83%AB%E3%83%87%E3%82%A3%E3%83%A2%E3%83%B3%E3%83%86"
+   "url": "https://ja.wikipedia.org/wiki/%E7%A6%8F%E7%94%B0%E7%94%BA%E9%A7%85"
+  },
+  {
+   "tag": "WIKI",
+   "title": "特別支援学校",
+   "body": "特別支援学校 とは、障害者等が「幼稚園、小学校、中学校、高等学校に準じた教育を受けること」と「学習上または生活上の困難を克服し、自立が図られること」を目的とした日本の学校である。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E7%89%B9%E5%88%A5%E6%94%AF%E6%8F%B4%E5%AD%A6%E6%A0%A1"
+  },
+  {
+   "tag": "HN",
+   "title": "Nango (YC W23) Is Hiring Across Eng, FDE, Marketing, DevRel",
+   "body": "1ポイント / コメント0件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50280824"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "薄曇り。最高17.8℃ / 最低9.8℃。いまは9.8℃。",
+   "body": "曇り。最高17.6℃ / 最低9.9℃。いまは14.5℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
-  },
-  {
-   "tag": "HN",
-   "title": "US agency approves Amazon Leo’s $11.5B acquisition of Globalstar",
-   "body": "214ポイント / コメント98件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50272145"
-  },
-  {
-   "tag": "WIKI",
-   "title": "柳生街道",
-   "body": "柳生街道（やぎゅうかいどう）は、奈良県奈良市を走る街道。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%9F%B3%E7%94%9F%E8%A1%97%E9%81%93"
-  },
-  {
-   "tag": "HN",
-   "title": "Gemini 4 Carbon",
-   "body": "658ポイント / コメント536件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50276792"
   }
  ]
 }
