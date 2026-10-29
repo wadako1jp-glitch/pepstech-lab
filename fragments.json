@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-29T17:33:45+09:00",
+ "generated_at": "2026-10-30T01:11:12+09:00",
  "items": [
   {
    "tag": "HN",
-   "title": "Nixpkgs for the Front End Impaired",
-   "body": "56ポイント / コメント11件。",
+   "title": "Hackers expose the identities of more than 40k DHS employees",
+   "body": "177ポイント / コメント36件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50244929"
+   "url": "https://news.ycombinator.com/item?id=50287898"
+  },
+  {
+   "tag": "HN",
+   "title": "Zero click, silent, remote Android DoS",
+   "body": "250ポイント / コメント129件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50285452"
   },
   {
    "tag": "WIKI",
-   "title": "佐良山駅",
-   "body": "佐良山駅（さらやまえき）は、岡山県津山市高尾にある、西日本旅客鉄道（JR西日本）津山線の駅である。",
+   "title": "カージオイド",
+   "body": "カージオイド は、極座標の方程式",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E4%BD%90%E8%89%AF%E5%B1%B1%E9%A7%85"
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%BC%E3%82%B8%E3%82%AA%E3%82%A4%E3%83%89"
+  },
+  {
+   "tag": "HN",
+   "title": "CNC Stone Carving",
+   "body": "513ポイント / コメント141件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50274409"
   },
   {
    "tag": "WIKI",
-   "title": "クブタンバハン",
-   "body": "クブタンバハン村(Desa Kubutambahan)は、インドネシア共和国バリ州ブレレン県クブタンバハン郡の村。バリ島北部、シガラジャの東に位置し、島の北海岸に沿う道路からキンタマ…",
+   "title": "木戸孝允",
+   "body": "木戸 孝允 は、日本の幕末の長州藩士、勤王志士、明治時代初期の政治家。幕末期には桂 小五郎 の名で活躍し、明治維新の元勲として、大久保利通、西郷隆盛とともに維新の三傑の一人に数えられ…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%96%E3%82%BF%E3%83%B3%E3%83%90%E3%83%8F%E3%83%B3"
+   "url": "https://ja.wikipedia.org/wiki/%E6%9C%A8%E6%88%B8%E5%AD%9D%E5%85%81"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高18.1℃ / 最低9.9℃。いまは15.3℃。",
+   "body": "強い霧雨。最高21.7℃ / 最低11.8℃。いまは12.6℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
-  },
-  {
-   "tag": "HN",
-   "title": "Why birds can fly over Mount Everest (2020)",
-   "body": "145ポイント / コメント27件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50220975"
-  },
-  {
-   "tag": "HN",
-   "title": "Claude Code regularly sends each background agent’s transcript to its…",
-   "body": "321ポイント / コメント100件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50284255"
   }
  ]
 }
