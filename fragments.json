@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-30T01:11:12+09:00",
+ "generated_at": "2026-10-30T06:10:35+09:00",
  "items": [
   {
-   "tag": "HN",
-   "title": "Hackers expose the identities of more than 40k DHS employees",
-   "body": "177ポイント / コメント36件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50287898"
+   "tag": "WIKI",
+   "title": "アエロバクチン",
+   "body": "アエロバクチン(Aerobactin)は、大腸菌などで見られる細菌性の鉄キレート剤（シデロフォア）である。毒性因子であり、これによって大腸菌は泌尿器のような鉄の少ない環境でも鉄を得ら…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A8%E3%83%AD%E3%83%90%E3%82%AF%E3%83%81%E3%83%B3"
   },
   {
    "tag": "HN",
-   "title": "Zero click, silent, remote Android DoS",
-   "body": "250ポイント / コメント129件。",
+   "title": "The tragedy of losing your Wikipedia page",
+   "body": "44ポイント / コメント64件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50285452"
+   "url": "https://news.ycombinator.com/item?id=50247342"
   },
   {
    "tag": "WIKI",
-   "title": "カージオイド",
-   "body": "カージオイド は、極座標の方程式",
+   "title": "A・A・ミルン",
+   "body": "アラン・アレクサンダー・ミルン は、イギリスの児童文学作家、ファンタジー作家、推理作家、詩人、劇作家。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%BC%E3%82%B8%E3%82%AA%E3%82%A4%E3%83%89"
-  },
-  {
-   "tag": "HN",
-   "title": "CNC Stone Carving",
-   "body": "513ポイント / コメント141件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50274409"
-  },
-  {
-   "tag": "WIKI",
-   "title": "木戸孝允",
-   "body": "木戸 孝允 は、日本の幕末の長州藩士、勤王志士、明治時代初期の政治家。幕末期には桂 小五郎 の名で活躍し、明治維新の元勲として、大久保利通、西郷隆盛とともに維新の三傑の一人に数えられ…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%9C%A8%E6%88%B8%E5%AD%9D%E5%85%81"
+   "url": "https://ja.wikipedia.org/wiki/A%E3%83%BBA%E3%83%BB%E3%83%9F%E3%83%AB%E3%83%B3"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "強い霧雨。最高21.7℃ / 最低11.8℃。いまは12.6℃。",
+   "body": "曇り。最高22.2℃ / 最低11.9℃。いまは11.9℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
+  },
+  {
+   "tag": "HN",
+   "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
+   "body": "38ポイント / コメント12件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50291116"
+  },
+  {
+   "tag": "HN",
+   "title": "Patrick Stewart has died",
+   "body": "1272ポイント / コメント242件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50294702"
   }
  ]
 }
