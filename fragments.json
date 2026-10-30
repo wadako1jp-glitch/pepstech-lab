@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-31T04:27:48+09:00",
+ "generated_at": "2026-10-31T08:51:05+09:00",
  "items": [
-  {
-   "tag": "HN",
-   "title": "Florilegium: Procedural Flowers in LaTeX",
-   "body": "102ポイント / コメント19件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50305637"
-  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高23.0℃ / 最低12.0℃。いまは12.5℃。",
+   "body": "霧雨。最高23.2℃ / 最低12.0℃。いまは16.2℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "WIKI",
-   "title": "ハリツルマサキ",
-   "body": "ハリツルマサキ はニシキギ科ハリツルマサキ属の半つる性常緑低木。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%AA%E3%83%84%E3%83%AB%E3%83%9E%E3%82%B5%E3%82%AD"
+   "tag": "HN",
+   "title": "Building an AI-native engineering org",
+   "body": "92ポイント / コメント128件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50296730"
   },
   {
    "tag": "HN",
-   "title": "Anthropic may not secure investment-grade rating after IPO, Blackston…",
-   "body": "108ポイント / コメント36件。",
+   "title": "A Pickpocket's Guide to New York",
+   "body": "45ポイント / コメント6件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50307219"
+   "url": "https://news.ycombinator.com/item?id=50308986"
   },
   {
    "tag": "WIKI",
-   "title": "源水橋",
-   "body": "源水橋（げんすいはし）は、東京都豊島区高田3丁目の神田川に架かる橋である。",
+   "title": "ロマン・ローゼン",
+   "body": "ロマン・ロマノヴィッチ・ローゼン男爵 は、帝政ロシアの外交官。日露戦争時の駐日ロシア公使、駐米大使。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%BA%90%E6%B0%B4%E6%A9%8B"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%9E%E3%83%B3%E3%83%BB%E3%83%AD%E3%83%BC%E3%82%BC%E3%83%B3"
   },
   {
    "tag": "HN",
-   "title": "Breaking the open web won't stop the bad bots",
-   "body": "71ポイント / コメント25件。",
+   "title": "My favourite PowerMac is a Nintendo Wii",
+   "body": "214ポイント / コメント55件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50263837"
+   "url": "https://news.ycombinator.com/item?id=50307190"
+  },
+  {
+   "tag": "WIKI",
+   "title": "ゲットウ",
+   "body": "ゲットウ は、ショウガ科ハナミョウガ属（アルピニア属） の常緑性多年草。沖縄の地方名で、サンニン、サニンなどともよばれる。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%B2%E3%83%83%E3%83%88%E3%82%A6"
   }
  ]
 }
