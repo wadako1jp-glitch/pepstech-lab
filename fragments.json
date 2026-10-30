@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-30T23:14:17+09:00",
+ "generated_at": "2026-10-31T04:27:48+09:00",
  "items": [
   {
-   "tag": "WIKI",
-   "title": "境界層制御",
-   "body": "航空工学における 境界層制御 は、飛行に伴って発生する流れのうち、境界層を制御する複数の手法を意味する。層流境界層維持が目的時には、層流制御 とも呼ばれる。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%A2%83%E7%95%8C%E5%B1%A4%E5%88%B6%E5%BE%A1"
-  },
-  {
    "tag": "HN",
-   "title": "We ran AI agent swarms in Minecraft and Mindustry",
-   "body": "341ポイント / コメント136件。",
+   "title": "Florilegium: Procedural Flowers in LaTeX",
+   "body": "102ポイント / コメント19件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50296486"
+   "url": "https://news.ycombinator.com/item?id=50305637"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "曇り。最高20.2℃ / 最低12.1℃。いまは14.3℃。",
+   "body": "霧雨。最高23.0℃ / 最低12.0℃。いまは12.5℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "WIKI",
-   "title": "サリバン郡 (インディアナ州)",
-   "body": "サリバン郡 は、アメリカ合衆国インディアナ州の西部に位置する郡である。2010年国勢調査での人口は21,475人であり、2000年の21,751人から1.3％減少した。郡庁所在地はサ…",
+   "title": "ハリツルマサキ",
+   "body": "ハリツルマサキ はニシキギ科ハリツルマサキ属の半つる性常緑低木。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%AA%E3%83%90%E3%83%B3%E9%83%A1_(%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%82%A2%E3%83%8A%E5%B7%9E)"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%AA%E3%83%84%E3%83%AB%E3%83%9E%E3%82%B5%E3%82%AD"
   },
   {
    "tag": "HN",
-   "title": "Just Noting That Your Candy Corn Is Made of Bug Secretions",
-   "body": "9ポイント / コメント16件。",
+   "title": "Anthropic may not secure investment-grade rating after IPO, Blackston…",
+   "body": "108ポイント / コメント36件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50303571"
+   "url": "https://news.ycombinator.com/item?id=50307219"
+  },
+  {
+   "tag": "WIKI",
+   "title": "源水橋",
+   "body": "源水橋（げんすいはし）は、東京都豊島区高田3丁目の神田川に架かる橋である。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E6%BA%90%E6%B0%B4%E6%A9%8B"
   },
   {
    "tag": "HN",
-   "title": "How Do You Take a Picture of a Black Hole?",
-   "body": "47ポイント / コメント37件。",
+   "title": "Breaking the open web won't stop the bad bots",
+   "body": "71ポイント / コメント25件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50301717"
+   "url": "https://news.ycombinator.com/item?id=50263837"
   }
  ]
 }
