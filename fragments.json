@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-10-31T08:51:05+09:00",
+ "generated_at": "2026-10-31T14:49:38+09:00",
  "items": [
+  {
+   "tag": "WIKI",
+   "title": "妙義町",
+   "body": "妙義町（みょうぎまち）は、群馬県の西部に位置していた、妙義山で知られる町である。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%A6%99%E7%BE%A9%E7%94%BA"
+  },
+  {
+   "tag": "HN",
+   "title": "Flock camera searches fell 95% after a dispatcher's misconduct was ca…",
+   "body": "61ポイント / コメント6件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50312739"
+  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高23.2℃ / 最低12.0℃。いまは16.2℃。",
+   "body": "霧雨。最高22.8℃ / 最低12.2℃。いまは22.6℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "HN",
-   "title": "Building an AI-native engineering org",
-   "body": "92ポイント / コメント128件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50296730"
-  },
-  {
-   "tag": "HN",
-   "title": "A Pickpocket's Guide to New York",
-   "body": "45ポイント / コメント6件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50308986"
-  },
-  {
    "tag": "WIKI",
-   "title": "ロマン・ローゼン",
-   "body": "ロマン・ロマノヴィッチ・ローゼン男爵 は、帝政ロシアの外交官。日露戦争時の駐日ロシア公使、駐米大使。",
+   "title": "苫小牧民報",
+   "body": "苫小牧民報（とまこまいみんぽう）は、株式会社苫小牧民報社が発行する、北海道苫小牧市やその周辺を対象地域とする夕刊専売の新聞（地方紙）。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%9E%E3%83%B3%E3%83%BB%E3%83%AD%E3%83%BC%E3%82%BC%E3%83%B3"
+   "url": "https://ja.wikipedia.org/wiki/%E8%8B%AB%E5%B0%8F%E7%89%A7%E6%B0%91%E5%A0%B1"
   },
   {
    "tag": "HN",
    "title": "My favourite PowerMac is a Nintendo Wii",
-   "body": "214ポイント / コメント55件。",
+   "body": "271ポイント / コメント77件。",
    "src": "news.ycombinator.com",
    "url": "https://news.ycombinator.com/item?id=50307190"
   },
   {
-   "tag": "WIKI",
-   "title": "ゲットウ",
-   "body": "ゲットウ は、ショウガ科ハナミョウガ属（アルピニア属） の常緑性多年草。沖縄の地方名で、サンニン、サニンなどともよばれる。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%B2%E3%83%83%E3%83%88%E3%82%A6"
+   "tag": "HN",
+   "title": "AI isn't replacing SREs, it's deskilling them",
+   "body": "549ポイント / コメント409件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50305693"
   }
  ]
 }
