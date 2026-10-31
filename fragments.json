@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-11-01T02:47:07+09:00",
+ "generated_at": "2026-11-01T06:39:12+09:00",
  "items": [
   {
-   "tag": "HN",
-   "title": "Digital minimalism",
-   "body": "219ポイント / コメント162件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50313661"
-  },
-  {
    "tag": "WIKI",
-   "title": "GI (軍隊)",
-   "body": "G.I.は、「アメリカ兵」を意味する俗語である。G.I.ジョー で男性の下士官兵を指し、女性兵士の場合はG.I.ジェーン という表現が使われる。そのほか、戦争花嫁を指すG.I.ブライ…",
+   "title": "信木駅",
+   "body": "信木駅（のぶきえき）は、広島県安芸高田市高宮町佐々部中信木にあった、西日本旅客鉄道（JR西日本）三江線の駅（廃駅）である。三江線の廃止に伴い、2018年（平成30年）4月1日に廃駅と…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/GI_(%E8%BB%8D%E9%9A%8A)"
-  },
-  {
-   "tag": "HN",
-   "title": "Jepsen: ParticleDB 1.1.4",
-   "body": "33ポイント / コメント12件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50316100"
-  },
-  {
-   "tag": "WIKI",
-   "title": "イモムシヒモホコリ",
-   "body": "イモムシヒモホコリ は、ケホコリ目ケホコリ科に分類される変形菌の1種である。本種はヒモホコリ属に分類されていた が、2022年に本種をタイプ種として新属 Gulielmina が提唱…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%A2%E3%83%A0%E3%82%B7%E3%83%92%E3%83%A2%E3%83%9B%E3%82%B3%E3%83%AA"
+   "url": "https://ja.wikipedia.org/wiki/%E4%BF%A1%E6%9C%A8%E9%A7%85"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "薄曇り。最高18.9℃ / 最低11.4℃。いまは12.7℃。",
+   "body": "曇り。最高19.5℃ / 最低11.6℃。いまは11.7℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
+   "tag": "WIKI",
+   "title": "ABK朝美活",
+   "body": "ABK朝美活（エービーケーあさびかつ）は、愛知県安城市で行われているゴミ拾い活動である。地域の住民、会社員、学生などさまざまな人が自主的に集まり、三河安城駅周辺を掃除する。毎月第一火…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/ABK%E6%9C%9D%E7%BE%8E%E6%B4%BB"
+  },
+  {
    "tag": "HN",
-   "title": "Molly (Signal fork) has not been updated since 3 months and is vulner…",
-   "body": "212ポイント / コメント137件。",
+   "title": "Show HN: A USB-C LTE modem that gives my computer a phone line",
+   "body": "31ポイント / コメント23件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50314666"
+   "url": "https://news.ycombinator.com/item?id=50317331"
+  },
+  {
+   "tag": "HN",
+   "title": "Show HN: NES Contra (1987) port (ASM –> C and then C –> WebAssembly)",
+   "body": "21ポイント / コメント12件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50319169"
+  },
+  {
+   "tag": "HN",
+   "title": "5 years of OqtaDrive: Microdrive emulation to Sinclair Network over t…",
+   "body": "9ポイント / コメント1件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50301178"
   }
  ]
 }
