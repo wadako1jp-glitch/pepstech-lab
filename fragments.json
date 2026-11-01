@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-11-02T04:44:44+09:00",
+ "generated_at": "2026-11-02T08:38:38+09:00",
  "items": [
   {
-   "tag": "天気",
-   "title": "東京 きょう",
-   "body": "雨。最高20.9℃ / 最低11.6℃。いまは11.8℃。",
-   "src": "open-meteo.com",
-   "url": "https://open-meteo.com/"
-  },
-  {
-   "tag": "WIKI",
-   "title": "都島郵便局",
-   "body": "都島郵便局（みやこじまゆうびんきょく）は、大阪府大阪市都島区にある郵便局。民営化前の分類では集配普通郵便局であった。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E9%83%BD%E5%B3%B6%E9%83%B5%E4%BE%BF%E5%B1%80"
-  },
-  {
    "tag": "HN",
-   "title": "Novellas with Groff",
-   "body": "77ポイント / コメント30件。",
+   "title": "Proving and improving the Platonic Representation Hypothesis with JEP…",
+   "body": "100ポイント / コメント55件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50325694"
+   "url": "https://news.ycombinator.com/item?id=50325454"
   },
   {
    "tag": "WIKI",
-   "title": "漫画ブリッコ",
-   "body": "『漫画ブリッコ』（まんがブリッコ）は、かつて白夜書房が発行していたロリコン漫画雑誌。『レモンピープル』と並ぶロリコン漫画誌の草分けであり、コアマガジン発行の漫画雑誌の源流にもあたる。…",
+   "title": "仙波東照宮",
+   "body": "仙波東照宮（せんばとうしょうぐう）は、埼玉県川越市小仙波町にある神社（東照宮）。日光・久能山と並ぶ日本三大東照宮の1つ。旧社格は無格社。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%BC%AB%E7%94%BB%E3%83%96%E3%83%AA%E3%83%83%E3%82%B3"
+   "url": "https://ja.wikipedia.org/wiki/%E4%BB%99%E6%B3%A2%E6%9D%B1%E7%85%A7%E5%AE%AE"
   },
   {
    "tag": "HN",
    "title": "Bidirectional charging during grid outages",
-   "body": "55ポイント / コメント69件。",
+   "body": "79ポイント / コメント116件。",
    "src": "news.ycombinator.com",
    "url": "https://news.ycombinator.com/item?id=50319749"
   },
   {
+   "tag": "WIKI",
+   "title": "新潟市立下山中学校",
+   "body": "新潟市立下山中学校 は、新潟県新潟市東区にある公立中学校。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E6%96%B0%E6%BD%9F%E5%B8%82%E7%AB%8B%E4%B8%8B%E5%B1%B1%E4%B8%AD%E5%AD%A6%E6%A0%A1"
+  },
+  {
    "tag": "HN",
-   "title": "Seoul Viosys begins production of rare-earth-free white light emitter",
-   "body": "92ポイント / コメント15件。",
+   "title": "Radiation Map of the World",
+   "body": "120ポイント / コメント36件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50327058"
+   "url": "https://news.ycombinator.com/item?id=50280131"
+  },
+  {
+   "tag": "天気",
+   "title": "東京 きょう",
+   "body": "雨。最高20.9℃ / 最低11.6℃。いまは13.7℃。",
+   "src": "open-meteo.com",
+   "url": "https://open-meteo.com/"
   }
  ]
 }
