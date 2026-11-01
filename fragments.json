@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-11-01T16:37:26+09:00",
+ "generated_at": "2026-11-02T00:14:07+09:00",
  "items": [
+  {
+   "tag": "HN",
+   "title": "Domain hacks with unusual Unicode characters (2018)",
+   "body": "32ポイント / コメント26件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50324371"
+  },
+  {
+   "tag": "WIKI",
+   "title": "牛石遺跡",
+   "body": "牛石遺跡（うしいしいせき）は、山梨県都留市厚原字牛石にある複合遺跡。縄文時代中期末葉の曽利式土器期の住居跡を伴う配石遺構。出土品は1981年（昭和56年）4月8日に都留市指定有形文化…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E7%89%9B%E7%9F%B3%E9%81%BA%E8%B7%A1"
+  },
+  {
+   "tag": "HN",
+   "title": "A brief history of just-in-time: forty years of JIT work, from 1960–2…",
+   "body": "54ポイント / コメント1件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50289711"
+  },
+  {
+   "tag": "WIKI",
+   "title": "竜潭駅 (広州市)",
+   "body": "竜潭駅（りょうたんえき）は中華人民共和国広東省広州市海珠区に位置する広州地下鉄11号線及び18号線の駅。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E7%AB%9C%E6%BD%AD%E9%A7%85_(%E5%BA%83%E5%B7%9E%E5%B8%82)"
+  },
+  {
+   "tag": "HN",
+   "title": "Show HN: I rebuilt my old canvas 3D library as a small WebGL 2 librar…",
+   "body": "15ポイント / コメント0件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50314508"
+  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "薄曇り。最高20.2℃ / 最低11.7℃。いまは18.8℃。",
+   "body": "雨。最高22.5℃ / 最低12.0℃。いまは14.5℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
-  },
-  {
-   "tag": "HN",
-   "title": "Jepsen: ParticleDB 1.1.4",
-   "body": "247ポイント / コメント137件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50316100"
-  },
-  {
-   "tag": "WIKI",
-   "title": "ヴィーリナ・タラーシウカ",
-   "body": "ヴィーリナ・タラーシウカ は、ウクライナのキーウ州ビーラ・ツェールクヴァ地区にある村。1921年に創建された。村名はタラースというウクライナ人の名前に由来する。面積は約0.9km²（…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A3%E3%83%BC%E3%83%AA%E3%83%8A%E3%83%BB%E3%82%BF%E3%83%A9%E3%83%BC%E3%82%B7%E3%82%A6%E3%82%AB"
-  },
-  {
-   "tag": "HN",
-   "title": "Do the math: How we took over ChatGPT accounts",
-   "body": "322ポイント / コメント158件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50314699"
-  },
-  {
-   "tag": "WIKI",
-   "title": "スーパー マリオパーティ ジャンボリー",
-   "body": "『スーパー マリオパーティ ジャンボリー』 は、任天堂より2024年10月17日に発売されたNintendo Switch用パーティーゲームソフト。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC_%E3%83%9E%E3%83%AA%E3%82%AA%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3_%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%9C%E3%83%AA%E3%83%BC"
-  },
-  {
-   "tag": "HN",
-   "title": "It's the memory latency, stupid",
-   "body": "181ポイント / コメント53件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50318720"
   }
  ]
 }
