@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-11-02T00:14:07+09:00",
+ "generated_at": "2026-11-02T04:44:44+09:00",
  "items": [
-  {
-   "tag": "HN",
-   "title": "Domain hacks with unusual Unicode characters (2018)",
-   "body": "32ポイント / コメント26件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50324371"
-  },
-  {
-   "tag": "WIKI",
-   "title": "牛石遺跡",
-   "body": "牛石遺跡（うしいしいせき）は、山梨県都留市厚原字牛石にある複合遺跡。縄文時代中期末葉の曽利式土器期の住居跡を伴う配石遺構。出土品は1981年（昭和56年）4月8日に都留市指定有形文化…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E7%89%9B%E7%9F%B3%E9%81%BA%E8%B7%A1"
-  },
-  {
-   "tag": "HN",
-   "title": "A brief history of just-in-time: forty years of JIT work, from 1960–2…",
-   "body": "54ポイント / コメント1件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50289711"
-  },
-  {
-   "tag": "WIKI",
-   "title": "竜潭駅 (広州市)",
-   "body": "竜潭駅（りょうたんえき）は中華人民共和国広東省広州市海珠区に位置する広州地下鉄11号線及び18号線の駅。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E7%AB%9C%E6%BD%AD%E9%A7%85_(%E5%BA%83%E5%B7%9E%E5%B8%82)"
-  },
-  {
-   "tag": "HN",
-   "title": "Show HN: I rebuilt my old canvas 3D library as a small WebGL 2 librar…",
-   "body": "15ポイント / コメント0件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50314508"
-  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "雨。最高22.5℃ / 最低12.0℃。いまは14.5℃。",
+   "body": "雨。最高20.9℃ / 最低11.6℃。いまは11.8℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
+  },
+  {
+   "tag": "WIKI",
+   "title": "都島郵便局",
+   "body": "都島郵便局（みやこじまゆうびんきょく）は、大阪府大阪市都島区にある郵便局。民営化前の分類では集配普通郵便局であった。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E9%83%BD%E5%B3%B6%E9%83%B5%E4%BE%BF%E5%B1%80"
+  },
+  {
+   "tag": "HN",
+   "title": "Novellas with Groff",
+   "body": "77ポイント / コメント30件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50325694"
+  },
+  {
+   "tag": "WIKI",
+   "title": "漫画ブリッコ",
+   "body": "『漫画ブリッコ』（まんがブリッコ）は、かつて白夜書房が発行していたロリコン漫画雑誌。『レモンピープル』と並ぶロリコン漫画誌の草分けであり、コアマガジン発行の漫画雑誌の源流にもあたる。…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E6%BC%AB%E7%94%BB%E3%83%96%E3%83%AA%E3%83%83%E3%82%B3"
+  },
+  {
+   "tag": "HN",
+   "title": "Bidirectional charging during grid outages",
+   "body": "55ポイント / コメント69件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50319749"
+  },
+  {
+   "tag": "HN",
+   "title": "Seoul Viosys begins production of rare-earth-free white light emitter",
+   "body": "92ポイント / コメント15件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50327058"
   }
  ]
 }
