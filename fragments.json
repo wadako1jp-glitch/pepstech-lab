@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-11-03T01:06:42+09:00",
+ "generated_at": "2026-11-03T08:35:00+09:00",
  "items": [
-  {
-   "tag": "HN",
-   "title": "Never Complain, Never Explain",
-   "body": "108ポイント / コメント38件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50335659"
-  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "薄曇り。最高18.9℃ / 最低10.5℃。いまは11.1℃。",
+   "body": "薄曇り。最高18.8℃ / 最低10.7℃。いまは13.0℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Show HN: Point your camera at a landscape to learn about its geology",
-   "body": "244ポイント / コメント50件。",
+   "title": "Can’t fish Ethernet? Use “invisible” fiber instead",
+   "body": "39ポイント / コメント42件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50290533"
-  },
-  {
-   "tag": "WIKI",
-   "title": "灌漑",
-   "body": "灌漑 とは、農地へ水を人工的に供給すること。農作物の増産、景観の維持、乾燥地帯や乾期の土壌で緑化する為に実行される。他にも農業生産において、作物を霜害から守る、穀物の畑で雑草を抑制す…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E7%81%8C%E6%BC%91"
-  },
-  {
-   "tag": "WIKI",
-   "title": "ウィル・ロジャース",
-   "body": "ウィリアム・ペン・アデア・ロジャース は、チェロキー族の血を受けたアメリカ合衆国のカウボーイ、コメディアン、ユーモア作家、社会評論家、ボードビル芸人および俳優である。子供はアメリカ合…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A3%E3%83%AB%E3%83%BB%E3%83%AD%E3%82%B8%E3%83%A3%E3%83%BC%E3%82%B9"
+   "url": "https://news.ycombinator.com/item?id=50344222"
   },
   {
    "tag": "HN",
-   "title": "F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix",
-   "body": "182ポイント / コメント23件。",
+   "title": "Stop Hogging RAM You Monster",
+   "body": "16ポイント / コメント3件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50332163"
+   "url": "https://news.ycombinator.com/item?id=50344536"
+  },
+  {
+   "tag": "WIKI",
+   "title": "小山田桜台",
+   "body": "小山田桜台（おやまださくらだい）は、東京都町田市の町名。現行行政地名は小山田桜台一丁目及び二丁目。郵便番号は194-0204。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%B1%B1%E7%94%B0%E6%A1%9C%E5%8F%B0"
+  },
+  {
+   "tag": "HN",
+   "title": "Anthropic's growth just flattened",
+   "body": "76ポイント / コメント56件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50344958"
+  },
+  {
+   "tag": "WIKI",
+   "title": "札幌市東区体育館",
+   "body": "札幌市東区体育館（さっぽろしひがしくたいいくかん）は、北海道札幌市東区北27条東14丁目に所在する、札幌市の地区体育館。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E6%9C%AD%E5%B9%8C%E5%B8%82%E6%9D%B1%E5%8C%BA%E4%BD%93%E8%82%B2%E9%A4%A8"
   }
  ]
 }
