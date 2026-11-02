@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-11-02T15:13:09+09:00",
+ "generated_at": "2026-11-03T01:06:42+09:00",
  "items": [
   {
    "tag": "HN",
-   "title": "AI fan wikis riddled with errors are muddying the waters of games cul…",
-   "body": "59ポイント / コメント40件。",
+   "title": "Never Complain, Never Explain",
+   "body": "108ポイント / コメント38件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50332086"
-  },
-  {
-   "tag": "HN",
-   "title": "Postgres 19 is late because so many more bugs are being found now",
-   "body": "240ポイント / コメント160件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50312408"
-  },
-  {
-   "tag": "WIKI",
-   "title": "加耶大学校",
-   "body": "加耶大学校 は、慶尚南道金海市に本部を置く大韓民国の私立大学である。1993年に設置された。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%8A%A0%E8%80%B6%E5%A4%A7%E5%AD%A6%E6%A0%A1"
-  },
-  {
-   "tag": "HN",
-   "title": "Show HN: I rebuilt my old canvas 3D library as a small WebGL 2 librar…",
-   "body": "84ポイント / コメント14件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50314508"
-  },
-  {
-   "tag": "WIKI",
-   "title": "木村徹也",
-   "body": "木村 徹也 は、日本の外交官。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%9C%A8%E6%9D%91%E5%BE%B9%E4%B9%9F"
+   "url": "https://news.ycombinator.com/item?id=50335659"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "雨。最高17.7℃ / 最低11.8℃。いまは15.2℃。",
+   "body": "薄曇り。最高18.9℃ / 最低10.5℃。いまは11.1℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
+  },
+  {
+   "tag": "HN",
+   "title": "Show HN: Point your camera at a landscape to learn about its geology",
+   "body": "244ポイント / コメント50件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50290533"
+  },
+  {
+   "tag": "WIKI",
+   "title": "灌漑",
+   "body": "灌漑 とは、農地へ水を人工的に供給すること。農作物の増産、景観の維持、乾燥地帯や乾期の土壌で緑化する為に実行される。他にも農業生産において、作物を霜害から守る、穀物の畑で雑草を抑制す…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E7%81%8C%E6%BC%91"
+  },
+  {
+   "tag": "WIKI",
+   "title": "ウィル・ロジャース",
+   "body": "ウィリアム・ペン・アデア・ロジャース は、チェロキー族の血を受けたアメリカ合衆国のカウボーイ、コメディアン、ユーモア作家、社会評論家、ボードビル芸人および俳優である。子供はアメリカ合…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A3%E3%83%AB%E3%83%BB%E3%83%AD%E3%82%B8%E3%83%A3%E3%83%BC%E3%82%B9"
+  },
+  {
+   "tag": "HN",
+   "title": "F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix",
+   "body": "182ポイント / コメント23件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50332163"
   }
  ]
 }
