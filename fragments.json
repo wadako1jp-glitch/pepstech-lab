@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-11-03T15:53:25+09:00",
+ "generated_at": "2026-11-04T00:13:39+09:00",
  "items": [
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "曇り。最高19.4℃ / 最低11.5℃。いまは18.8℃。",
+   "body": "霧雨。最高16.2℃ / 最低11.7℃。いまは13.9℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
+   "tag": "HN",
+   "title": "433MHz TUI scanner: using a FT232H connected to a CC1101",
+   "body": "24ポイント / コメント7件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50336557"
+  },
+  {
+   "tag": "HN",
+   "title": "Charles Tandy, the mastermind behind Radio Shack",
+   "body": "47ポイント / コメント21件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50351319"
+  },
+  {
+   "tag": "HN",
+   "title": "Show HN: Hacker Times, a New York Times-inspired version of Hacker Ne…",
+   "body": "390ポイント / コメント125件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50346981"
+  },
+  {
    "tag": "WIKI",
-   "title": "岡慎之助",
-   "body": "岡 慎之助 は、日本の体操競技選手。",
+   "title": "蛇口港駅",
+   "body": "蛇口港駅 は中華人民共和国深圳市南山区に位置する深圳地下鉄2号線の駅。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%B2%A1%E6%85%8E%E4%B9%8B%E5%8A%A9"
-  },
-  {
-   "tag": "HN",
-   "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your a…",
-   "body": "138ポイント / コメント93件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50339913"
-  },
-  {
-   "tag": "HN",
-   "title": "Intel stock collapse worsens as $3.5T chip rout spreads",
-   "body": "182ポイント / コメント133件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50346153"
+   "url": "https://ja.wikipedia.org/wiki/%E8%9B%87%E5%8F%A3%E6%B8%AF%E9%A7%85"
   },
   {
    "tag": "WIKI",
-   "title": "ニューブランズウィック駅",
-   "body": "ニューブランズウィック駅 は、アメリカ合衆国ニュージャージー州ミドルセックス郡ニューブランズウィックにある、全米鉄道旅客公社（アムトラック）及びニュージャージー・トランジットの鉄道駅…",
+   "title": "ラギンディガン国際空港",
+   "body": "ラギンディガン国際空港 とは、ルンビア空港に取って代わる、フィリピンの北ミンダナオ、カガヤン・デ・オロとイリガンの間に建設された国際空港。2013年6月15日に開港した。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E3%82%A6%E3%82%A3%E3%83%83%E3%82%AF%E9%A7%85"
-  },
-  {
-   "tag": "HN",
-   "title": "WTF Ubuntu?",
-   "body": "1429ポイント / コメント607件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50337608"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%AE%E3%83%B3%E3%83%87%E3%82%A3%E3%82%AC%E3%83%B3%E5%9B%BD%E9%9A%9B%E7%A9%BA%E6%B8%AF"
   }
  ]
 }
