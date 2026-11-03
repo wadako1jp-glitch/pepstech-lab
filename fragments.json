@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-11-03T08:35:00+09:00",
+ "generated_at": "2026-11-03T15:53:25+09:00",
  "items": [
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "薄曇り。最高18.8℃ / 最低10.7℃。いまは13.0℃。",
+   "body": "曇り。最高19.4℃ / 最低11.5℃。いまは18.8℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "HN",
-   "title": "Can’t fish Ethernet? Use “invisible” fiber instead",
-   "body": "39ポイント / コメント42件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50344222"
+   "tag": "WIKI",
+   "title": "岡慎之助",
+   "body": "岡 慎之助 は、日本の体操競技選手。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%B2%A1%E6%85%8E%E4%B9%8B%E5%8A%A9"
   },
   {
    "tag": "HN",
-   "title": "Stop Hogging RAM You Monster",
-   "body": "16ポイント / コメント3件。",
+   "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your a…",
+   "body": "138ポイント / コメント93件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50344536"
+   "url": "https://news.ycombinator.com/item?id=50339913"
+  },
+  {
+   "tag": "HN",
+   "title": "Intel stock collapse worsens as $3.5T chip rout spreads",
+   "body": "182ポイント / コメント133件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50346153"
   },
   {
    "tag": "WIKI",
-   "title": "小山田桜台",
-   "body": "小山田桜台（おやまださくらだい）は、東京都町田市の町名。現行行政地名は小山田桜台一丁目及び二丁目。郵便番号は194-0204。",
+   "title": "ニューブランズウィック駅",
+   "body": "ニューブランズウィック駅 は、アメリカ合衆国ニュージャージー州ミドルセックス郡ニューブランズウィックにある、全米鉄道旅客公社（アムトラック）及びニュージャージー・トランジットの鉄道駅…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%B1%B1%E7%94%B0%E6%A1%9C%E5%8F%B0"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E3%82%A6%E3%82%A3%E3%83%83%E3%82%AF%E9%A7%85"
   },
   {
    "tag": "HN",
-   "title": "Anthropic's growth just flattened",
-   "body": "76ポイント / コメント56件。",
+   "title": "WTF Ubuntu?",
+   "body": "1429ポイント / コメント607件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50344958"
-  },
-  {
-   "tag": "WIKI",
-   "title": "札幌市東区体育館",
-   "body": "札幌市東区体育館（さっぽろしひがしくたいいくかん）は、北海道札幌市東区北27条東14丁目に所在する、札幌市の地区体育館。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%9C%AD%E5%B9%8C%E5%B8%82%E6%9D%B1%E5%8C%BA%E4%BD%93%E8%82%B2%E9%A4%A8"
+   "url": "https://news.ycombinator.com/item?id=50337608"
   }
  ]
 }
