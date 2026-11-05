@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-11-05T15:53:11+09:00",
+ "generated_at": "2026-11-06T00:30:42+09:00",
  "items": [
   {
+   "tag": "WIKI",
+   "title": "鈴木直義 (情報学者)",
+   "body": "鈴木 直義 は、日本の教育者、情報学者（情報教育・遠隔教育・教育工学・地域組織情報化・情報通信ネットワーク技術・代数学・可換環論）。学位は理学博士。静岡県立大学名誉教授、特定非営利活…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E9%88%B4%E6%9C%A8%E7%9B%B4%E7%BE%A9_(%E6%83%85%E5%A0%B1%E5%AD%A6%E8%80%85)"
+  },
+  {
+   "tag": "WIKI",
+   "title": "重箱読み",
+   "body": "重箱読み（じゅうばこよみ）は、日本語における熟語の変則的な読み方の一つ。語の上の字を音として、下の字を訓として読む「重箱」（ジュウばこ）のような熟語の読みの総称である。原則として規範…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E9%87%8D%E7%AE%B1%E8%AA%AD%E3%81%BF"
+  },
+  {
    "tag": "HN",
-   "title": "Altera Announces Agilex 2X, a Complete FPGA and SoC Portfolio",
-   "body": "7ポイント / コメント1件。",
+   "title": "Partial Operator Precedence",
+   "body": "81ポイント / コメント46件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50375653"
+   "url": "https://news.ycombinator.com/item?id=50340195"
   },
   {
-   "tag": "WIKI",
-   "title": "志摩横山駅",
-   "body": "志摩横山駅（しまよこやまえき）は、三重県志摩市阿児町鵜方にある、近畿日本鉄道（近鉄）志摩線の駅である。駅番号はM90。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%BF%97%E6%91%A9%E6%A8%AA%E5%B1%B1%E9%A7%85"
-  },
-  {
-   "tag": "WIKI",
-   "title": "為書き",
-   "body": "為書き、ないし、為書（ためがき）は、本来は、書画などの作品に、何のために、あるいは誰のために制作したかといった事情を説明する目的で書き込む語句、ないし、そのような語句を書き込む行為を…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E7%82%BA%E6%9B%B8%E3%81%8D"
+   "tag": "HN",
+   "title": "Image of Our Satellite-Choked Night Skies",
+   "body": "33ポイント / コメント23件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50379773"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "強い雨。最高16.0℃ / 最低10.9℃。いまは15.6℃。",
+   "body": "霧雨。最高23.4℃ / 最低13.5℃。いまは13.7℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Lemmings CSS Animation",
-   "body": "54ポイント / コメント6件。",
+   "title": "Being a kid making games in the early 2000s",
+   "body": "82ポイント / コメント33件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50375354"
-  },
-  {
-   "tag": "HN",
-   "title": "11 Nanoseconds per Word: Over-Optimizing Anagrams",
-   "body": "16ポイント / コメント2件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50363353"
+   "url": "https://news.ycombinator.com/item?id=50375691"
   }
  ]
 }
