@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-11-05T08:42:50+09:00",
+ "generated_at": "2026-11-05T15:53:11+09:00",
  "items": [
   {
    "tag": "HN",
-   "title": "Successful People (2013)",
-   "body": "8ポイント / コメント6件。",
+   "title": "Altera Announces Agilex 2X, a Complete FPGA and SoC Portfolio",
+   "body": "7ポイント / コメント1件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50372660"
-  },
-  {
-   "tag": "HN",
-   "title": "Have I befriended a murderer?",
-   "body": "99ポイント / コメント54件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50369754"
+   "url": "https://news.ycombinator.com/item?id=50375653"
   },
   {
    "tag": "WIKI",
-   "title": "片山東熊",
-   "body": "片山 東熊 は、明治期に活躍した建築家。工手学校（現工学院大学）造家学科教務主理。位階および勲等は正三位勲一等。号は晩晴。",
+   "title": "志摩横山駅",
+   "body": "志摩横山駅（しまよこやまえき）は、三重県志摩市阿児町鵜方にある、近畿日本鉄道（近鉄）志摩線の駅である。駅番号はM90。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E7%89%87%E5%B1%B1%E6%9D%B1%E7%86%8A"
+   "url": "https://ja.wikipedia.org/wiki/%E5%BF%97%E6%91%A9%E6%A8%AA%E5%B1%B1%E9%A7%85"
+  },
+  {
+   "tag": "WIKI",
+   "title": "為書き",
+   "body": "為書き、ないし、為書（ためがき）は、本来は、書画などの作品に、何のために、あるいは誰のために制作したかといった事情を説明する目的で書き込む語句、ないし、そのような語句を書き込む行為を…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E7%82%BA%E6%9B%B8%E3%81%8D"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "雨。最高16.4℃ / 最低10.9℃。いまは13.3℃。",
+   "body": "強い雨。最高16.0℃ / 最低10.9℃。いまは15.6℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Show HN: The DNA of DOOM – How code structure survives across 44 ports",
-   "body": "9ポイント / コメント10件。",
+   "title": "Lemmings CSS Animation",
+   "body": "54ポイント / コメント6件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50339183"
+   "url": "https://news.ycombinator.com/item?id=50375354"
   },
   {
-   "tag": "WIKI",
-   "title": "ポンサーリー県",
-   "body": "ポンサーリー県（ポンサーリーけん）はラオス北部の県。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E3%83%AA%E3%83%BC%E7%9C%8C"
+   "tag": "HN",
+   "title": "11 Nanoseconds per Word: Over-Optimizing Anagrams",
+   "body": "16ポイント / コメント2件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50363353"
   }
  ]
 }
