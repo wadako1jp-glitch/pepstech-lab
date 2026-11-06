@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-11-07T03:00:22+09:00",
+ "generated_at": "2026-11-07T08:12:39+09:00",
  "items": [
   {
    "tag": "WIKI",
-   "title": "サトノダイヤモンド",
-   "body": "サトノダイヤモンド は、日本の競走馬・種牡馬。主な勝ち鞍は2016年の菊花賞、有馬記念。",
+   "title": "中央東町",
+   "body": "中央東町（ちゅうおうひがしまち）は、山形県酒田市に存在する町名である。郵便番号は998-0033。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%88%E3%83%8E%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89"
-  },
-  {
-   "tag": "HN",
-   "title": "Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",
-   "body": "14ポイント / コメント3件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50393235"
-  },
-  {
-   "tag": "HN",
-   "title": "AI for scientific discovery: How researchers use Claude",
-   "body": "64ポイント / コメント28件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50389990"
+   "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%A4%AE%E6%9D%B1%E7%94%BA"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "薄曇り。最高19.3℃ / 最低10.0℃。いまは14.5℃。",
+   "body": "薄曇り。最高19.4℃ / 最低10.1℃。いまは13.9℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "WIKI",
-   "title": "ヨエニス・セスペデス",
-   "body": "ヨエニス・セスペデス・ミラネス は、キューバのグランマ州カンペチュエラ出身の元プロ野球選手（外野手）。右投右打。愛称はスペイン語でザ・パワーを意味するラ・ポテンシア。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%A8%E3%82%A8%E3%83%8B%E3%82%B9%E3%83%BB%E3%82%BB%E3%82%B9%E3%83%9A%E3%83%87%E3%82%B9"
+   "tag": "HN",
+   "title": "Size-It-Up (Game)",
+   "body": "57ポイント / コメント22件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50395869"
   },
   {
    "tag": "HN",
-   "title": "Living beyond the limits of survival: wood ants trapped in a gigantic…",
-   "body": "130ポイント / コメント42件。",
+   "title": "Memorilla: Latent Semantic Memory for LLMs",
+   "body": "70ポイント / コメント5件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50390525"
+   "url": "https://news.ycombinator.com/item?id=50395919"
+  },
+  {
+   "tag": "WIKI",
+   "title": "杉政人",
+   "body": "杉 政人 は、大日本帝国の海軍軍人。最終階級は海軍中将。岡山県高梁市出身。渋谷隆太郎、上田宗重らと同様に機関科出身者として最初の海軍大将候補であった。退官後は、日本製鋼所の社長を務め…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E6%9D%89%E6%94%BF%E4%BA%BA"
+  },
+  {
+   "tag": "HN",
+   "title": "AI is dramatically accelerating AI research",
+   "body": "126ポイント / コメント82件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50397994"
   }
  ]
 }
