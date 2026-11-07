@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-11-07T08:12:39+09:00",
+ "generated_at": "2026-11-07T11:51:41+09:00",
  "items": [
-  {
-   "tag": "WIKI",
-   "title": "中央東町",
-   "body": "中央東町（ちゅうおうひがしまち）は、山形県酒田市に存在する町名である。郵便番号は998-0033。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%A4%AE%E6%9D%B1%E7%94%BA"
-  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "薄曇り。最高19.4℃ / 最低10.1℃。いまは13.9℃。",
+   "body": "薄曇り。最高19.0℃ / 最低10.1℃。いまは18.3℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Size-It-Up (Game)",
-   "body": "57ポイント / コメント22件。",
+   "title": "Gemini Omni 1.2 Flash",
+   "body": "302ポイント / コメント220件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50395869"
+   "url": "https://news.ycombinator.com/item?id=50392118"
   },
   {
    "tag": "HN",
-   "title": "Memorilla: Latent Semantic Memory for LLMs",
-   "body": "70ポイント / コメント5件。",
+   "title": "UpCodes (YC S17) is hiring SDR's to sell AI compliance software",
+   "body": "1ポイント / コメント0件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50395919"
+   "url": "https://news.ycombinator.com/item?id=50395043"
   },
   {
    "tag": "WIKI",
-   "title": "杉政人",
-   "body": "杉 政人 は、大日本帝国の海軍軍人。最終階級は海軍中将。岡山県高梁市出身。渋谷隆太郎、上田宗重らと同様に機関科出身者として最初の海軍大将候補であった。退官後は、日本製鋼所の社長を務め…",
+   "title": "須佐駅",
+   "body": "須佐駅（すさえき）は、山口県萩市大字須佐字水海にある、西日本旅客鉄道（JR西日本）山陰本線の駅である。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%9D%89%E6%94%BF%E4%BA%BA"
+   "url": "https://ja.wikipedia.org/wiki/%E9%A0%88%E4%BD%90%E9%A7%85"
+  },
+  {
+   "tag": "WIKI",
+   "title": "西山実沙",
+   "body": "西山 実沙 は、日本の女子体操競技選手。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E5%B1%B1%E5%AE%9F%E6%B2%99"
   },
   {
    "tag": "HN",
-   "title": "AI is dramatically accelerating AI research",
-   "body": "126ポイント / コメント82件。",
+   "title": "88x31 GIF Stickers for 2026",
+   "body": "38ポイント / コメント3件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50397994"
+   "url": "https://news.ycombinator.com/item?id=50398625"
   }
  ]
 }
