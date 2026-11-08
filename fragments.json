@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-11-08T05:55:23+09:00",
+ "generated_at": "2026-11-08T09:40:41+09:00",
  "items": [
   {
-   "tag": "HN",
-   "title": "Show HN: Green tests are not proof – verifier for C/C++ and firmware …",
-   "body": "6ポイント / コメント0件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50380134"
-  },
-  {
    "tag": "WIKI",
-   "title": "酒井忠順 (小浜藩主)",
-   "body": "酒井 忠順 は、若狭小浜藩の第11代藩主。小浜藩酒井家12代。",
+   "title": "ウォロディミル・ゼレンスキーの日本国会演説",
+   "body": "ウォロディミル・ゼレンスキーの日本国会演説（ウォロディミル・ゼレンスキーのにほんこっかいえんぜつ）は、2022年ロシアのウクライナ侵攻を受け、同年3月23日にウクライナ大統領ウォロデ…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E9%85%92%E4%BA%95%E5%BF%A0%E9%A0%86_(%E5%B0%8F%E6%B5%9C%E8%97%A9%E4%B8%BB)"
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A9%E3%83%AD%E3%83%87%E3%82%A3%E3%83%9F%E3%83%AB%E3%83%BB%E3%82%BC%E3%83%AC%E3%83%B3%E3%82%B9%E3%82%AD%E3%83%BC%E3%81%AE%E6%97%A5%E6%9C%AC%E5%9B%BD%E4%BC%9A%E6%BC%94%E8%AA%AC"
   },
   {
    "tag": "HN",
-   "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge con…",
-   "body": "124ポイント / コメント30件。",
+   "title": "Shadow of the Sun (2021)",
+   "body": "18ポイント / コメント4件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50406292"
+   "url": "https://news.ycombinator.com/item?id=50408104"
+  },
+  {
+   "tag": "HN",
+   "title": "What I run on my $10 USD OpenStick homelab",
+   "body": "307ポイント / コメント76件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50406670"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "薄曇り。最高16.8℃ / 最低9.0℃。いまは9.0℃。",
+   "body": "薄曇り。最高16.8℃ / 最低9.0℃。いまは13.0℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "HN",
-   "title": "The Components of Agent Memory",
-   "body": "137ポイント / コメント70件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50402212"
+   "tag": "WIKI",
+   "title": "西明寺駅",
+   "body": "西明寺駅（さいみょうじえき）は秋田県仙北市西木町門屋六本杉にある、秋田内陸縦貫鉄道秋田内陸線の駅である。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%98%8E%E5%AF%BA%E9%A7%85"
   },
   {
-   "tag": "WIKI",
-   "title": "スポンジケーキ",
-   "body": "スポンジケーキは、卵（鶏卵）、砂糖、小麦粉（薄力粉）を主材料とするスポンジ生地の焼成時の膨化作用を利用した食品の総称。さらに広義には各種の油脂を加えたもの（バタースポンジケーキ）を含…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B8%E3%82%B1%E3%83%BC%E3%82%AD"
+   "tag": "HN",
+   "title": "Making any integer with four 2s (2025)",
+   "body": "41ポイント / コメント8件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50408713"
   }
  ]
 }
