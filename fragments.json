@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-11-09T00:16:22+09:00",
+ "generated_at": "2026-11-09T04:46:10+09:00",
  "items": [
   {
-   "tag": "HN",
-   "title": "Every Mac comes with an (undocumented) family member classifier",
-   "body": "778ポイント / コメント420件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50403097"
+   "tag": "WIKI",
+   "title": "ゆめタウン大川",
+   "body": "ゆめタウン大川（ゆめタウンおおかわ）とは、福岡県大川市にある株式会社イズミが運営するショッピングセンター。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%86%E3%82%81%E3%82%BF%E3%82%A6%E3%83%B3%E5%A4%A7%E5%B7%9D"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "小雨。最高10.7℃ / 最低7.8℃。いまは10.4℃。",
+   "body": "小雨。最高10.7℃ / 最低7.8℃。いまは10.0℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Petered (what happens after the Peter Principle)",
-   "body": "94ポイント / コメント62件。",
+   "title": "The Reconstruction of Torn Documents",
+   "body": "62ポイント / コメント39件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50412152"
-  },
-  {
-   "tag": "WIKI",
-   "title": "甲府市立善誘館小学校",
-   "body": "甲府市立善誘館小学校 は、山梨県甲府市朝気一丁目にある公立小学校。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E7%94%B2%E5%BA%9C%E5%B8%82%E7%AB%8B%E5%96%84%E8%AA%98%E9%A4%A8%E5%B0%8F%E5%AD%A6%E6%A0%A1"
+   "url": "https://news.ycombinator.com/item?id=50389923"
   },
   {
    "tag": "HN",
-   "title": "Finding Xanadu: Inside a JRPG classic translation 15 years in the mak…",
-   "body": "49ポイント / コメント5件。",
+   "title": "JIT bitmap text rendering for microcontrollers",
+   "body": "80ポイント / コメント14件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50378974"
+   "url": "https://news.ycombinator.com/item?id=50412072"
   },
   {
    "tag": "WIKI",
-   "title": "ファリン",
-   "body": "ファリン (Farim) は、ギニアビサウ共和国の北部の町。カシェウ川の上流に面している。オイオ州ファリン区に位置し、ファリン区の首府。",
+   "title": "スコーピオン (潜水艦)",
+   "body": "スコーピオン は、アメリカ海軍の潜水艦。ガトー級潜水艦の一隻。艦名はサソリに因む。その名を持つ艦としては米西戦争時に購入した民間蒸気ヨット「サブリン号(Soveriegn)」を改称し…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%83%AA%E3%83%B3"
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%94%E3%82%AA%E3%83%B3_(%E6%BD%9C%E6%B0%B4%E8%89%A6)"
+  },
+  {
+   "tag": "HN",
+   "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+   "body": "192ポイント / コメント119件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50415628"
   }
  ]
 }
