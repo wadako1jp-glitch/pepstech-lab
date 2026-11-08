@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-11-09T04:46:10+09:00",
+ "generated_at": "2026-11-09T08:45:38+09:00",
  "items": [
   {
    "tag": "WIKI",
-   "title": "ゆめタウン大川",
-   "body": "ゆめタウン大川（ゆめタウンおおかわ）とは、福岡県大川市にある株式会社イズミが運営するショッピングセンター。",
+   "title": "東和町米川",
+   "body": "東和町米川（とうわちょうよねかわ）は、宮城県登米市東和地域にある大字。旧登米郡狼河原村・鱒淵村、登米郡米川村、登米郡米川村大字狼河原・大字鱒淵、登米郡日高村米川、登米郡東和町米川に相…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%86%E3%82%81%E3%82%BF%E3%82%A6%E3%83%B3%E5%A4%A7%E5%B7%9D"
+   "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%92%8C%E7%94%BA%E7%B1%B3%E5%B7%9D"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "小雨。最高10.7℃ / 最低7.8℃。いまは10.0℃。",
+   "body": "小雨。最高10.7℃ / 最低7.8℃。いまは7.8℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "The Reconstruction of Torn Documents",
-   "body": "62ポイント / コメント39件。",
+   "title": "Declarative Dragging",
+   "body": "265ポイント / コメント31件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50389923"
-  },
-  {
-   "tag": "HN",
-   "title": "JIT bitmap text rendering for microcontrollers",
-   "body": "80ポイント / コメント14件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50412072"
+   "url": "https://news.ycombinator.com/item?id=50368481"
   },
   {
    "tag": "WIKI",
-   "title": "スコーピオン (潜水艦)",
-   "body": "スコーピオン は、アメリカ海軍の潜水艦。ガトー級潜水艦の一隻。艦名はサソリに因む。その名を持つ艦としては米西戦争時に購入した民間蒸気ヨット「サブリン号(Soveriegn)」を改称し…",
+   "title": "横浜リハビリテーション専門学校",
+   "body": "横浜リハビリテーション専門学校（よこはまリハビリテーションせんもんがっこう）は、神奈川県横浜市戸塚区にある理学療法士、作業療法士の専門学校。設置・運営者は学校法人岩崎学園。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%94%E3%82%AA%E3%83%B3_(%E6%BD%9C%E6%B0%B4%E8%89%A6)"
+   "url": "https://ja.wikipedia.org/wiki/%E6%A8%AA%E6%B5%9C%E3%83%AA%E3%83%8F%E3%83%93%E3%83%AA%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E5%B0%82%E9%96%80%E5%AD%A6%E6%A0%A1"
   },
   {
    "tag": "HN",
-   "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
-   "body": "192ポイント / コメント119件。",
+   "title": "A Little Snitch for Windows",
+   "body": "85ポイント / コメント38件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50415628"
+   "url": "https://news.ycombinator.com/item?id=50415135"
+  },
+  {
+   "tag": "HN",
+   "title": "How I Fight AI Brain Fry",
+   "body": "125ポイント / コメント111件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50416363"
   }
  ]
 }
