@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-11-09T08:45:38+09:00",
+ "generated_at": "2026-11-09T15:41:15+09:00",
  "items": [
   {
+   "tag": "HN",
+   "title": "I'm not convinced the AI bubble exists",
+   "body": "155ポイント / コメント209件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50418975"
+  },
+  {
    "tag": "WIKI",
-   "title": "東和町米川",
-   "body": "東和町米川（とうわちょうよねかわ）は、宮城県登米市東和地域にある大字。旧登米郡狼河原村・鱒淵村、登米郡米川村、登米郡米川村大字狼河原・大字鱒淵、登米郡日高村米川、登米郡東和町米川に相…",
+   "title": "無線局運用規則",
+   "body": "無線局運用規則（むせんきょくうんようきそく、昭和25年11月30日電波監理委員会規則第17号）は、電波法に基づき無線局の運用方法について定めることを目的とする総務省令である。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%92%8C%E7%94%BA%E7%B1%B3%E5%B7%9D"
+   "url": "https://ja.wikipedia.org/wiki/%E7%84%A1%E7%B7%9A%E5%B1%80%E9%81%8B%E7%94%A8%E8%A6%8F%E5%89%87"
+  },
+  {
+   "tag": "HN",
+   "title": "When a language's creator and its owners strongly disagree [pdf]",
+   "body": "106ポイント / コメント95件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50418818"
+  },
+  {
+   "tag": "HN",
+   "title": "Playing with the STM32MP2",
+   "body": "54ポイント / コメント32件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50416014"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "小雨。最高10.7℃ / 最低7.8℃。いまは7.8℃。",
+   "body": "雨。最高10.5℃ / 最低8.0℃。いまは9.1℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "HN",
-   "title": "Declarative Dragging",
-   "body": "265ポイント / コメント31件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50368481"
-  },
-  {
    "tag": "WIKI",
-   "title": "横浜リハビリテーション専門学校",
-   "body": "横浜リハビリテーション専門学校（よこはまリハビリテーションせんもんがっこう）は、神奈川県横浜市戸塚区にある理学療法士、作業療法士の専門学校。設置・運営者は学校法人岩崎学園。",
+   "title": "広島県立上下高等学校",
+   "body": "広島県立上下高等学校（ひろしまけんりつじょうげこうとうがっこう）は、広島県府中市上下町にある県立の高等学校。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%A8%AA%E6%B5%9C%E3%83%AA%E3%83%8F%E3%83%93%E3%83%AA%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E5%B0%82%E9%96%80%E5%AD%A6%E6%A0%A1"
-  },
-  {
-   "tag": "HN",
-   "title": "A Little Snitch for Windows",
-   "body": "85ポイント / コメント38件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50415135"
-  },
-  {
-   "tag": "HN",
-   "title": "How I Fight AI Brain Fry",
-   "body": "125ポイント / コメント111件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50416363"
+   "url": "https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E7%9C%8C%E7%AB%8B%E4%B8%8A%E4%B8%8B%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1"
   }
  ]
 }
