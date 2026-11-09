@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-11-09T15:41:15+09:00",
+ "generated_at": "2026-11-10T02:34:52+09:00",
  "items": [
   {
+   "tag": "WIKI",
+   "title": "法蓮寺 (富士市)",
+   "body": "法蓮寺（ほうれんじ）は、静岡県富士市南松野にある日蓮宗の寺院で山号は円応山である。旧本山は身延山久遠寺、脱師法縁。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E6%B3%95%E8%93%AE%E5%AF%BA_(%E5%AF%8C%E5%A3%AB%E5%B8%82)"
+  },
+  {
    "tag": "HN",
-   "title": "I'm not convinced the AI bubble exists",
-   "body": "155ポイント / コメント209件。",
+   "title": "Pigshell: Unix the Web",
+   "body": "10ポイント / コメント4件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50418975"
+   "url": "https://news.ycombinator.com/item?id=50426831"
+  },
+  {
+   "tag": "HN",
+   "title": "How Australia played the first music on a computer",
+   "body": "23ポイント / コメント10件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50388335"
   },
   {
    "tag": "WIKI",
-   "title": "無線局運用規則",
-   "body": "無線局運用規則（むせんきょくうんようきそく、昭和25年11月30日電波監理委員会規則第17号）は、電波法に基づき無線局の運用方法について定めることを目的とする総務省令である。",
+   "title": "山本隆太郎",
+   "body": "山本 隆太郎 は、明治から昭和前期の農業経営者、実業家、政治家。衆議院議員。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E7%84%A1%E7%B7%9A%E5%B1%80%E9%81%8B%E7%94%A8%E8%A6%8F%E5%89%87"
+   "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E6%9C%AC%E9%9A%86%E5%A4%AA%E9%83%8E"
   },
   {
    "tag": "HN",
-   "title": "When a language's creator and its owners strongly disagree [pdf]",
-   "body": "106ポイント / コメント95件。",
+   "title": "I Saw Your HN Comment",
+   "body": "276ポイント / コメント204件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50418818"
-  },
-  {
-   "tag": "HN",
-   "title": "Playing with the STM32MP2",
-   "body": "54ポイント / コメント32件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50416014"
+   "url": "https://news.ycombinator.com/item?id=50426582"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "雨。最高10.5℃ / 最低8.0℃。いまは9.1℃。",
+   "body": "小雨。最高12.4℃ / 最低8.1℃。いまは9.0℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
-  },
-  {
-   "tag": "WIKI",
-   "title": "広島県立上下高等学校",
-   "body": "広島県立上下高等学校（ひろしまけんりつじょうげこうとうがっこう）は、広島県府中市上下町にある県立の高等学校。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E7%9C%8C%E7%AB%8B%E4%B8%8A%E4%B8%8B%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1"
   }
  ]
 }
