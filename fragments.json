@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-11-11T02:53:34+09:00",
+ "generated_at": "2026-11-11T08:26:07+09:00",
  "items": [
   {
    "tag": "WIKI",
-   "title": "エイベックス・スタイルス",
-   "body": "エイベックス・スタイルス株式会社 は、日本の音楽プロダクション、エージェント会社。",
+   "title": "パンスペルミア説",
+   "body": "パンスペルミア説 は、生命起源論の一つ。地球の生命の起源は地球外から来たとする説である。提唱された生命の「素」には、たとえば微生物の芽胞、DNAの鎖状のパーツやその一部、あるいはアミ…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%A4%E3%83%99%E3%83%83%E3%82%AF%E3%82%B9%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%82%B9"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%B3%E3%82%B9%E3%83%9A%E3%83%AB%E3%83%9F%E3%82%A2%E8%AA%AC"
   },
   {
    "tag": "HN",
-   "title": "NetBSD 11 desktop on a Raspberry Pi 4",
-   "body": "88ポイント / コメント44件。",
+   "title": "rVPN – stealth VPN with end-to-end encryption",
+   "body": "35ポイント / コメント33件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50412554"
-  },
-  {
-   "tag": "HN",
-   "title": "Show HN: Ghanaian street games you can play in the browser",
-   "body": "88ポイント / コメント18件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50414117"
-  },
-  {
-   "tag": "WIKI",
-   "title": "井の頭公園駅",
-   "body": "井の頭公園駅（いのかしらこうえんえき）は、東京都三鷹市井の頭三丁目にある、京王電鉄井の頭線の駅である。井の頭北管区所属。駅番号はIN16。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E4%BA%95%E3%81%AE%E9%A0%AD%E5%85%AC%E5%9C%92%E9%A7%85"
-  },
-  {
-   "tag": "HN",
-   "title": "Gemini 4 Carbon is now available",
-   "body": "208ポイント / コメント102件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50442303"
+   "url": "https://news.ycombinator.com/item?id=50446714"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "晴れ。最高14.2℃ / 最低6.7℃。いまは7.8℃。",
+   "body": "晴れ。最高14.3℃ / 最低6.8℃。いまは9.0℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
+  },
+  {
+   "tag": "HN",
+   "title": "Sherman Anti-Trust Act (1890)",
+   "body": "53ポイント / コメント28件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50446219"
+  },
+  {
+   "tag": "WIKI",
+   "title": "ラルス・フォークト",
+   "body": "ラルス・フォークト は、ドイツのクラシック・ピアニスト、指揮者、指導者。ヨハネス・ブラームスの解釈でニューヨーク・タイムズ紙に注目されベルリン・フィルハーモニー管弦楽団をはじめとする…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%AB%E3%82%B9%E3%83%BB%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AF%E3%83%88"
+  },
+  {
+   "tag": "HN",
+   "title": "Six Math Essentials by Terence Tao",
+   "body": "83ポイント / コメント12件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50446246"
   }
  ]
 }
