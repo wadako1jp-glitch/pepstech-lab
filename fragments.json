@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-11-10T18:55:24+09:00",
+ "generated_at": "2026-11-11T02:53:34+09:00",
  "items": [
   {
    "tag": "WIKI",
-   "title": "セサル・ヘラベルト",
-   "body": "セサル・ヘラベルト・ピーニャ は、スペイン・カスティーリャ・イ・レオン州パレンシア出身のサッカー選手。トゥールーズFC所属。ポジションはMF。",
+   "title": "エイベックス・スタイルス",
+   "body": "エイベックス・スタイルス株式会社 は、日本の音楽プロダクション、エージェント会社。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%82%B5%E3%83%AB%E3%83%BB%E3%83%98%E3%83%A9%E3%83%99%E3%83%AB%E3%83%88"
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%A4%E3%83%99%E3%83%83%E3%82%AF%E3%82%B9%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%82%B9"
+  },
+  {
+   "tag": "HN",
+   "title": "NetBSD 11 desktop on a Raspberry Pi 4",
+   "body": "88ポイント / コメント44件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50412554"
+  },
+  {
+   "tag": "HN",
+   "title": "Show HN: Ghanaian street games you can play in the browser",
+   "body": "88ポイント / コメント18件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50414117"
   },
   {
    "tag": "WIKI",
-   "title": "カリウム",
-   "body": "カリウム は原子番号19番の元素である。ポタシウム 、加里（カリ）ともいう。元素記号はK。原子量は39.10。アルカリ金属、典型元素のひとつ。生物にとって必須元素である。",
+   "title": "井の頭公園駅",
+   "body": "井の頭公園駅（いのかしらこうえんえき）は、東京都三鷹市井の頭三丁目にある、京王電鉄井の頭線の駅である。井の頭北管区所属。駅番号はIN16。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AA%E3%82%A6%E3%83%A0"
+   "url": "https://ja.wikipedia.org/wiki/%E4%BA%95%E3%81%AE%E9%A0%AD%E5%85%AC%E5%9C%92%E9%A7%85"
   },
   {
    "tag": "HN",
-   "title": "On Being an Engineer in 2026",
-   "body": "107ポイント / コメント152件。",
+   "title": "Gemini 4 Carbon is now available",
+   "body": "208ポイント / コメント102件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50426681"
-  },
-  {
-   "tag": "HN",
-   "title": "Foldable Flight: The Best Paper Airplanes",
-   "body": "1020ポイント / コメント151件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50424581"
+   "url": "https://news.ycombinator.com/item?id=50442303"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "小雨。最高12.0℃ / 最低8.3℃。いまは10.8℃。",
+   "body": "晴れ。最高14.2℃ / 最低6.7℃。いまは7.8℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
-  },
-  {
-   "tag": "HN",
-   "title": "Show HN: Every satellite that passed over any place this week, and it…",
-   "body": "351ポイント / コメント60件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50428907"
   }
  ]
 }
