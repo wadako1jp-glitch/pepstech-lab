@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-11-10T02:34:52+09:00",
+ "generated_at": "2026-11-10T10:35:44+09:00",
  "items": [
   {
-   "tag": "WIKI",
-   "title": "法蓮寺 (富士市)",
-   "body": "法蓮寺（ほうれんじ）は、静岡県富士市南松野にある日蓮宗の寺院で山号は円応山である。旧本山は身延山久遠寺、脱師法縁。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%B3%95%E8%93%AE%E5%AF%BA_(%E5%AF%8C%E5%A3%AB%E5%B8%82)"
-  },
-  {
    "tag": "HN",
-   "title": "Pigshell: Unix the Web",
-   "body": "10ポイント / コメント4件。",
+   "title": "Claude Fable 5.2 and Mythos 5.2",
+   "body": "944ポイント / コメント568件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50426831"
-  },
-  {
-   "tag": "HN",
-   "title": "How Australia played the first music on a computer",
-   "body": "23ポイント / コメント10件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50388335"
-  },
-  {
-   "tag": "WIKI",
-   "title": "山本隆太郎",
-   "body": "山本 隆太郎 は、明治から昭和前期の農業経営者、実業家、政治家。衆議院議員。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E6%9C%AC%E9%9A%86%E5%A4%AA%E9%83%8E"
-  },
-  {
-   "tag": "HN",
-   "title": "I Saw Your HN Comment",
-   "body": "276ポイント / コメント204件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50426582"
+   "url": "https://news.ycombinator.com/item?id=50429906"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "小雨。最高12.4℃ / 最低8.1℃。いまは9.0℃。",
+   "body": "小雨。最高11.6℃ / 最低8.2℃。いまは10.3℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
+  },
+  {
+   "tag": "WIKI",
+   "title": "狛江淡水クラゲ発生地",
+   "body": "狛江淡水クラゲ発生地（こまえたんすいクラゲはっせいち ）は、東京都狛江市元和泉にかつて存在した、国の天然記念物に指定されていたマミズクラゲの発生地である。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E7%8B%9B%E6%B1%9F%E6%B7%A1%E6%B0%B4%E3%82%AF%E3%83%A9%E3%82%B2%E7%99%BA%E7%94%9F%E5%9C%B0"
+  },
+  {
+   "tag": "WIKI",
+   "title": "鈴木省三 (園芸家)",
+   "body": "鈴木 省三 は日本のバラの育種家。京成バラ園芸所長。「ミスターローズ」と呼ばれた。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E9%88%B4%E6%9C%A8%E7%9C%81%E4%B8%89_(%E5%9C%92%E8%8A%B8%E5%AE%B6)"
+  },
+  {
+   "tag": "HN",
+   "title": "E-means: Outperforming k-means in one-tenth the epochs",
+   "body": "270ポイント / コメント17件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50429734"
+  },
+  {
+   "tag": "HN",
+   "title": "What is malloc doing, anyway?",
+   "body": "221ポイント / コメント61件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50424157"
   }
  ]
 }
