@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-11-12T00:16:44+09:00",
+ "generated_at": "2026-11-12T07:03:06+09:00",
  "items": [
   {
    "tag": "HN",
-   "title": "We need more goat sacrifices",
-   "body": "43ポイント / コメント23件。",
+   "title": "The Computer Graphics Book of Knowledge",
+   "body": "56ポイント / コメント18件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50452652"
+   "url": "https://news.ycombinator.com/item?id=50454823"
   },
   {
    "tag": "HN",
-   "title": "Scion is back and is going to sell a kei truck in America",
-   "body": "522ポイント / コメント350件。",
+   "title": "The Utah Teapot",
+   "body": "17ポイント / コメント7件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50445401"
+   "url": "https://news.ycombinator.com/item?id=50457618"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "晴れ。最高17.3℃ / 最低8.3℃。いまは10.1℃。",
+   "body": "晴れ。最高17.1℃ / 最低7.8℃。いまは7.9℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "WIKI",
-   "title": "ヘンプヒル恵",
-   "body": "ヘンプヒル 恵 は、日本の陸上競技選手。七種競技を中心に短距離走などにも出場する。",
+   "title": "鳴尾 (名古屋市)",
+   "body": "鳴尾（なるお）は、愛知県名古屋市南区の地名。現行行政地名は鳴尾一丁目及び鳴尾二丁目と鳴尾町。住居表示は未実施。鳴尾町には14の小字が設置されている。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%98%E3%83%B3%E3%83%97%E3%83%92%E3%83%AB%E6%81%B5"
-  },
-  {
-   "tag": "HN",
-   "title": "A great old-timey game-programming hack (2013)",
-   "body": "223ポイント / コメント46件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50448921"
+   "url": "https://ja.wikipedia.org/wiki/%E9%B3%B4%E5%B0%BE_(%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82)"
   },
   {
    "tag": "WIKI",
-   "title": "石薬師寺",
-   "body": "石薬師寺（いしやくしじ）は、三重県鈴鹿市石薬師町にある、東寺真言宗の仏教寺院。山号は高富山（たかとみざん）。院号は瑠璃光院（るりこういん）。本尊は薬師如来。",
+   "title": "アンジラン駅",
+   "body": "アンジラン駅（アンジランえき）は、大韓民国大邱広域市南区にある大邱交通公社1号線の駅である。駅番号は 125。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E7%9F%B3%E8%96%AC%E5%B8%AB%E5%AF%BA"
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%82%B8%E3%83%A9%E3%83%B3%E9%A7%85"
+  },
+  {
+   "tag": "HN",
+   "title": "We need more goat sacrifices",
+   "body": "169ポイント / コメント99件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50452652"
   }
  ]
 }
