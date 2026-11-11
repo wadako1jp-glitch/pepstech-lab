@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-11-11T08:26:07+09:00",
+ "generated_at": "2026-11-11T15:30:58+09:00",
  "items": [
   {
+   "tag": "HN",
+   "title": "$30M Raised to Redo the CPU",
+   "body": "72ポイント / コメント63件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50447036"
+  },
+  {
    "tag": "WIKI",
-   "title": "パンスペルミア説",
-   "body": "パンスペルミア説 は、生命起源論の一つ。地球の生命の起源は地球外から来たとする説である。提唱された生命の「素」には、たとえば微生物の芽胞、DNAの鎖状のパーツやその一部、あるいはアミ…",
+   "title": "スタンレーパーク",
+   "body": "スタンレーパーク は、カナダ、ブリティッシュコロンビア州、バンクーバー市の都市公園である。面積は405haで、北アメリカの都市公園の大きさではトップ10に入っている。バンクーバー中心…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%B3%E3%82%B9%E3%83%9A%E3%83%AB%E3%83%9F%E3%82%A2%E8%AA%AC"
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%AC%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AF"
   },
   {
    "tag": "HN",
-   "title": "rVPN – stealth VPN with end-to-end encryption",
-   "body": "35ポイント / コメント33件。",
+   "title": "A great old-timey game-programming hack (2013)",
+   "body": "95ポイント / コメント14件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50446714"
+   "url": "https://news.ycombinator.com/item?id=50448921"
+  },
+  {
+   "tag": "HN",
+   "title": "The Assyrian Dictionary of the Oriental Institute of the University o…",
+   "body": "10ポイント / コメント1件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50426754"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "晴れ。最高14.3℃ / 最低6.8℃。いまは9.0℃。",
+   "body": "晴れ。最高14.8℃ / 最低6.8℃。いまは14.7℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "HN",
-   "title": "Sherman Anti-Trust Act (1890)",
-   "body": "53ポイント / コメント28件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50446219"
-  },
-  {
    "tag": "WIKI",
-   "title": "ラルス・フォークト",
-   "body": "ラルス・フォークト は、ドイツのクラシック・ピアニスト、指揮者、指導者。ヨハネス・ブラームスの解釈でニューヨーク・タイムズ紙に注目されベルリン・フィルハーモニー管弦楽団をはじめとする…",
+   "title": "硬度 (水)",
+   "body": "硬度 は、水に微量含まれるカルシウム（Ca）やマグネシウム（Mg）の質量を適当な方法で表現したもの。質量濃度 で表されるが、注目する物質や計算式の違いにより、厳密な定義は複数存在する。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%AB%E3%82%B9%E3%83%BB%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AF%E3%83%88"
-  },
-  {
-   "tag": "HN",
-   "title": "Six Math Essentials by Terence Tao",
-   "body": "83ポイント / コメント12件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50446246"
+   "url": "https://ja.wikipedia.org/wiki/%E7%A1%AC%E5%BA%A6_(%E6%B0%B4)"
   }
  ]
 }
