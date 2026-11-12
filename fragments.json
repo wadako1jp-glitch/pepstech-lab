@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-11-12T07:03:06+09:00",
+ "generated_at": "2026-11-12T12:03:40+09:00",
  "items": [
   {
-   "tag": "HN",
-   "title": "The Computer Graphics Book of Knowledge",
-   "body": "56ポイント / コメント18件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50454823"
+   "tag": "WIKI",
+   "title": "アイルトン・ルーカス・ダンタス・ジ・メデイロス",
+   "body": "アイルトン・ルーカス ことアイルトン・ルーカス・ダンタス・ジ・メデイロス は、ブラジルのサッカー選手。ポジションはDF。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%83%AB%E3%83%88%E3%83%B3%E3%83%BB%E3%83%AB%E3%83%BC%E3%82%AB%E3%82%B9%E3%83%BB%E3%83%80%E3%83%B3%E3%82%BF%E3%82%B9%E3%83%BB%E3%82%B8%E3%83%BB%E3%83%A1%E3%83%87%E3%82%A4%E3%83%AD%E3%82%B9"
+  },
+  {
+   "tag": "WIKI",
+   "title": "オールド・オーチャード・ビーチ駅",
+   "body": "オールド・オーチャード・ビーチ駅 はアメリカ合衆国メイン州オールドオーチャードビーチ ファースト・ストリート11にある駅。 全米各地を結ぶ旅客鉄道のアムトラックが乗り入れている。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%AB%E3%83%89%E3%83%BB%E3%82%AA%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC%E3%83%89%E3%83%BB%E3%83%93%E3%83%BC%E3%83%81%E9%A7%85"
   },
   {
    "tag": "HN",
-   "title": "The Utah Teapot",
-   "body": "17ポイント / コメント7件。",
+   "title": "My AI agents found an unmapped Maya site?",
+   "body": "937ポイント / コメント339件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50457618"
+   "url": "https://news.ycombinator.com/item?id=50452455"
+  },
+  {
+   "tag": "HN",
+   "title": "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
+   "body": "50ポイント / コメント40件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50455811"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "晴れ。最高17.1℃ / 最低7.8℃。いまは7.9℃。",
+   "body": "晴れ。最高17.5℃ / 最低7.8℃。いまは16.0℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "WIKI",
-   "title": "鳴尾 (名古屋市)",
-   "body": "鳴尾（なるお）は、愛知県名古屋市南区の地名。現行行政地名は鳴尾一丁目及び鳴尾二丁目と鳴尾町。住居表示は未実施。鳴尾町には14の小字が設置されている。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E9%B3%B4%E5%B0%BE_(%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82)"
-  },
-  {
-   "tag": "WIKI",
-   "title": "アンジラン駅",
-   "body": "アンジラン駅（アンジランえき）は、大韓民国大邱広域市南区にある大邱交通公社1号線の駅である。駅番号は 125。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%82%B8%E3%83%A9%E3%83%B3%E9%A7%85"
-  },
-  {
    "tag": "HN",
-   "title": "We need more goat sacrifices",
-   "body": "169ポイント / コメント99件。",
+   "title": "United Airlines bans AI agents from booking flights on behalf of trav…",
+   "body": "422ポイント / コメント409件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50452652"
+   "url": "https://news.ycombinator.com/item?id=50458900"
   }
  ]
 }
