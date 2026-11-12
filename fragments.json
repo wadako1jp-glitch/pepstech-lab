@@ -1,47 +1,40 @@
 {
- "generated_at": "2026-11-12T20:21:20+09:00",
+ "generated_at": "2026-11-13T04:58:39+09:00",
  "items": [
   {
-   "tag": "WIKI",
-   "title": "宇波西神社",
-   "body": "宇波西神社（うわせじんじゃ）は、福井県三方上中郡若狭町気山字寺谷129-5にある神社。式内社（名神大社）。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%AE%87%E6%B3%A2%E8%A5%BF%E7%A5%9E%E7%A4%BE"
+   "tag": "HN",
+   "title": "Researchers discover rare star system that emits radio signals every …",
+   "body": "102ポイント / コメント54件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50465453"
   },
   {
    "tag": "HN",
-   "title": "Nvidia is preparing to oust Jensen Huang",
-   "body": "1064ポイント / コメント1423件。",
+   "title": "Jensen Huang resigns",
+   "body": "2115ポイント / コメント2132件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50459703"
-  },
-  {
-   "tag": "天気",
-   "title": "東京 きょう",
-   "body": "晴れ。最高17.8℃ / 最低7.8℃。いまは13.0℃。",
-   "src": "open-meteo.com",
-   "url": "https://open-meteo.com/"
-  },
-  {
-   "tag": "HN",
-   "title": "AWS emulator",
-   "body": "866ポイント / コメント236件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50456631"
+   "url": "https://news.ycombinator.com/item?id=50467087"
   },
   {
    "tag": "WIKI",
-   "title": "牧山弘恵",
-   "body": "牧山 弘惠 は、日本の政治家、外国弁護士（アメリカ合衆国ニューヨーク州）。立憲民主党所属の参議院議員（4期）。",
+   "title": "SEIKIN",
+   "body": "SEIKIN は、日本の男性YouTuber、シンガーソングライター。新潟県中頸城郡妙高高原町 出身。UUUM所属。アーティスト活動の際のレーベルはUUUM RECORDS。実弟は同…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E7%89%A7%E5%B1%B1%E5%BC%98%E6%81%B5"
+   "url": "https://ja.wikipedia.org/wiki/SEIKIN"
+  },
+  {
+   "tag": "WIKI",
+   "title": "羽後長戸呂駅",
+   "body": "羽後長戸呂駅（うごながとろえき）は秋田県仙北市西木町桧木内字長戸呂にある秋田内陸縦貫鉄道秋田内陸線の駅。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E7%BE%BD%E5%BE%8C%E9%95%B7%E6%88%B8%E5%91%82%E9%A7%85"
   },
   {
    "tag": "HN",
-   "title": "The Utah Teapot",
-   "body": "151ポイント / コメント34件。",
+   "title": "Rust 1.100.0",
+   "body": "263ポイント / コメント55件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50457618"
+   "url": "https://news.ycombinator.com/item?id=50471793"
   }
  ]
 }
