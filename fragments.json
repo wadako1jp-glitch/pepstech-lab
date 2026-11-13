@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-11-13T17:03:08+09:00",
+ "generated_at": "2026-11-14T01:29:10+09:00",
  "items": [
   {
-   "tag": "HN",
-   "title": "Relax: JIT compiler for Rust to reduce build times",
-   "body": "149ポイント / コメント68件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50458849"
-  },
-  {
    "tag": "WIKI",
-   "title": "八木沢駅",
-   "body": "八木沢駅（やぎさわえき）は、長野県上田市八木沢にある上田電鉄別所線の駅である。駅番号はBE14。",
+   "title": "つるとんたん",
+   "body": "つるとんたんは、大阪府や東京都などで展開するうどんを中心としたチェーン店。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%85%AB%E6%9C%A8%E6%B2%A2%E9%A7%85"
-  },
-  {
-   "tag": "WIKI",
-   "title": "愛国婦人会",
-   "body": "愛国婦人会 とは、戦前に国防及び戦死者の遺族・傷病兵を救うために結成された団体。近代日本初の全国的規模の婦人団体である。定款で救護に関する方法等は主務官庁の認可を受けて定めるとされ、…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%84%9B%E5%9B%BD%E5%A9%A6%E4%BA%BA%E4%BC%9A"
+   "url": "https://ja.wikipedia.org/wiki/%E3%81%A4%E3%82%8B%E3%81%A8%E3%82%93%E3%81%9F%E3%82%93"
   },
   {
    "tag": "HN",
-   "title": "Jensen Huang resigns",
-   "body": "3422ポイント / コメント3071件。",
+   "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+   "body": "312ポイント / コメント91件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50467087"
+   "url": "https://news.ycombinator.com/item?id=50475713"
   },
   {
    "tag": "HN",
-   "title": "Nvidia employees petition to bring back Jensen Huang",
-   "body": "501ポイント / コメント355件。",
+   "title": "Switcher (2004)",
+   "body": "126ポイント / コメント39件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50477231"
+   "url": "https://news.ycombinator.com/item?id=50477714"
+  },
+  {
+   "tag": "HN",
+   "title": "Brave Search API now accepts agentic payments via the x402 protocol",
+   "body": "212ポイント / コメント116件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50477649"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "晴れ。最高19.5℃ / 最低8.2℃。いまは16.3℃。",
+   "body": "曇り。最高18.2℃ / 最低10.9℃。いまは11.5℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
+  },
+  {
+   "tag": "WIKI",
+   "title": "オムリ・カスピ",
+   "body": "オムリ・カスピ は、イスラエルの元バスケットボール選手。中央地区ヤブネ出身。ポジションはスモールフォワード。206cm、102kg。NBA史上初のイスラエル出身の選手だった。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%A0%E3%83%AA%E3%83%BB%E3%82%AB%E3%82%B9%E3%83%94"
   }
  ]
 }
