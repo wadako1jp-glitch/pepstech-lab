@@ -1,47 +1,40 @@
 {
- "generated_at": "2026-11-15T03:09:25+09:00",
+ "generated_at": "2026-11-15T07:29:24+09:00",
  "items": [
   {
+   "tag": "WIKI",
+   "title": "プラスーン・ジョーシー",
+   "body": "プラスーン・ジョーシー は、インドの詩人、作詞家、脚本家、コミュニケーション・スペシャリスト、マーケター。マッキャンエリクソンの子会社マッキャン・ワールドグループ・インディアのCEO…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%A9%E3%82%B9%E3%83%BC%E3%83%B3%E3%83%BB%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%B7%E3%83%BC"
+  },
+  {
    "tag": "HN",
-   "title": "Show HN: Agweb – a browser for agents that stays out of your way",
-   "body": "52ポイント / コメント17件。",
+   "title": "Let's Write a PostScript Interpreter",
+   "body": "95ポイント / コメント16件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50497147"
+   "url": "https://news.ycombinator.com/item?id=50478632"
+  },
+  {
+   "tag": "HN",
+   "title": "'Grey Rocking': The Life-Improving Power of Being Really, Really Bori…",
+   "body": "49ポイント / コメント27件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50471874"
+  },
+  {
+   "tag": "HN",
+   "title": "Seagate's new hybrid drive raises some old questions",
+   "body": "53ポイント / コメント26件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50453901"
   },
   {
    "tag": "WIKI",
-   "title": "江ノ島電鉄700形電車",
-   "body": "江ノ島電鉄700形電車（えのしまでんてつ700がたでんしゃ）は、2026年に登場した江ノ島電鉄の電車。",
+   "title": "コール・スワイダー",
+   "body": "コール・アレクサンダー・スワイダー は、アメリカ合衆国・ロードアイランド州ポーツマス出身のプロバスケットボール選手。ポジションはパワーフォワードまたはスモールフォワード。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%B1%9F%E3%83%8E%E5%B3%B6%E9%9B%BB%E9%89%84700%E5%BD%A2%E9%9B%BB%E8%BB%8A"
-  },
-  {
-   "tag": "HN",
-   "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy it…",
-   "body": "954ポイント / コメント577件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50493251"
-  },
-  {
-   "tag": "WIKI",
-   "title": "天野康景",
-   "body": "天野 康景 は、戦国時代から江戸時代初期にかけての武将・大名。徳川氏の家臣。駿河国興国寺藩主。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%A4%A9%E9%87%8E%E5%BA%B7%E6%99%AF"
-  },
-  {
-   "tag": "天気",
-   "title": "東京 きょう",
-   "body": "強い雨。最高13.3℃ / 最低10.9℃。いまは11.6℃。",
-   "src": "open-meteo.com",
-   "url": "https://open-meteo.com/"
-  },
-  {
-   "tag": "HN",
-   "title": "Testing a Trash Can Faraday Cage",
-   "body": "42ポイント / コメント23件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50467278"
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%AB%E3%83%BB%E3%82%B9%E3%83%AF%E3%82%A4%E3%83%80%E3%83%BC"
   }
  ]
 }
