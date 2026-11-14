@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-11-14T12:20:25+09:00",
+ "generated_at": "2026-11-14T20:32:12+09:00",
  "items": [
   {
    "tag": "HN",
-   "title": "What Happened to 3Com?",
-   "body": "66ポイント / コメント33件。",
+   "title": "Show HN: I have trained 15 blood glucose forecasting models on my own…",
+   "body": "39ポイント / コメント14件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50491830"
+   "url": "https://news.ycombinator.com/item?id=50444761"
+  },
+  {
+   "tag": "WIKI",
+   "title": "南海平野線",
+   "body": "平野線（ひらのせん）は、大阪府大阪市西成区の今池駅から同市平野区の平野駅までを結んでいた南海電気鉄道の軌道路線。飛田 - 阿倍野付近を除くほとんどの区間が専用軌道で、複数車両の連結運…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%8D%97%E6%B5%B7%E5%B9%B3%E9%87%8E%E7%B7%9A"
+  },
+  {
+   "tag": "WIKI",
+   "title": "語用論",
+   "body": "語用論 とは、言語表現とそれを用いる使用者や文脈との関係を研究する言語学の一分野である。話者のことばの運用 (言語使用) を学問する研究分野であり、その性質等を理論的に解明するアプロ…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E8%AA%9E%E7%94%A8%E8%AB%96"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "曇り。最高18.3℃ / 最低8.8℃。いまは17.6℃。",
+   "body": "曇り。最高17.9℃ / 最低8.8℃。いまは14.1℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "All US airports are currently ground stopped",
-   "body": "174ポイント / コメント33件。",
+   "title": "Terminal borders that don't cost a cell",
+   "body": "276ポイント / コメント120件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50489652"
+   "url": "https://news.ycombinator.com/item?id=50491423"
   },
   {
    "tag": "HN",
-   "title": "After 600 experiments, here's what I discovered about JEPA world mode…",
-   "body": "220ポイント / コメント36件。",
+   "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
+   "body": "155ポイント / コメント48件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50487185"
-  },
-  {
-   "tag": "WIKI",
-   "title": "アハメド・ハシャニ",
-   "body": "アハメド・ハシャニ はチュニジアの政治家。2023年8月2日から2024年8月7日までチュニジアの首相を務めた。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%8F%E3%83%A1%E3%83%89%E3%83%BB%E3%83%8F%E3%82%B7%E3%83%A3%E3%83%8B"
-  },
-  {
-   "tag": "WIKI",
-   "title": "自由改革連合",
-   "body": "自由改革連合（じゆうかいかくれんごう）は、1994年（平成6年）7月から12月まで存在した日本の政党連合。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E6%94%B9%E9%9D%A9%E9%80%A3%E5%90%88"
+   "url": "https://news.ycombinator.com/item?id=50491980"
   }
  ]
 }
