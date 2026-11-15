@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-11-15T20:00:12+09:00",
+ "generated_at": "2026-11-16T02:45:36+09:00",
  "items": [
+  {
+   "tag": "WIKI",
+   "title": "盗塁",
+   "body": "盗塁（とうるい）は、野球における攻撃側の走者の進塁方法の一つである。走者が、安打、刺殺、失策、封殺、野手選択、捕逸、暴投、ボークによらないで、1個の塁を進んだときに盗塁が記録される。…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E7%9B%97%E5%A1%81"
+  },
   {
    "tag": "HN",
    "title": "Lovable apps expose passport details and more than 200K private messa…",
-   "body": "843ポイント / コメント319件。",
+   "body": "946ポイント / コメント361件。",
    "src": "news.ycombinator.com",
    "url": "https://news.ycombinator.com/item?id=50499017"
   },
   {
-   "tag": "HN",
-   "title": "500 Lines or Less A 3D Modeller",
-   "body": "59ポイント / コメント10件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50483431"
-  },
-  {
-   "tag": "WIKI",
-   "title": "リーゼル・プリツカー・シモンズ",
-   "body": "リーゼル・プリツカー・シモンズ は、アメリカ合衆国の慈善家、女優である。富豪のプリツカー家の一員である。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%BC%E3%82%BC%E3%83%AB%E3%83%BB%E3%83%97%E3%83%AA%E3%83%84%E3%82%AB%E3%83%BC%E3%83%BB%E3%82%B7%E3%83%A2%E3%83%B3%E3%82%BA"
-  },
-  {
-   "tag": "WIKI",
-   "title": "薬水洞",
-   "body": "薬水洞 は、大韓民国ソウル特別市中区にある行政洞。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E8%96%AC%E6%B0%B4%E6%B4%9E"
-  },
-  {
-   "tag": "HN",
-   "title": "Why get an expensive Pi when I have an old phone?",
-   "body": "564ポイント / コメント305件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50440709"
-  },
-  {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "雨。最高13.5℃ / 最低10.7℃。いまは11.3℃。",
+   "body": "薄曇り。最高18.1℃ / 最低10.8℃。いまは11.6℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
+  },
+  {
+   "tag": "HN",
+   "title": "The Hypertext Transfer Protocol Status Code 483 (I'm Not a Freezer)",
+   "body": "63ポイント / コメント27件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50507206"
+  },
+  {
+   "tag": "WIKI",
+   "title": "菅野久光",
+   "body": "菅野 久光 は、日本の政治家。位階は従三位、勲等は勲一等。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E8%8F%85%E9%87%8E%E4%B9%85%E5%85%89"
+  },
+  {
+   "tag": "HN",
+   "title": "Show HN: Carton Clock – A working pendulum clock made from empty drin…",
+   "body": "45ポイント / コメント2件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50482279"
   }
  ]
 }
