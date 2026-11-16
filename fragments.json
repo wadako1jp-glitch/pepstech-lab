@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-11-16T07:52:19+09:00",
+ "generated_at": "2026-11-16T11:46:29+09:00",
  "items": [
+  {
+   "tag": "HN",
+   "title": "Universal XSS in uBlock Origin from website-driven element picker",
+   "body": "27ポイント / コメント2件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50513160"
+  },
+  {
+   "tag": "HN",
+   "title": "Coles hit by a cybersecurity incident",
+   "body": "44ポイント / コメント20件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50512824"
+  },
+  {
+   "tag": "HN",
+   "title": "Show HN: The Last Complication, a Zachtronics-style watchmaking puzzl…",
+   "body": "51ポイント / コメント6件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50511718"
+  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "曇り。最高18.4℃ / 最低11.1℃。いまは14.8℃。",
+   "body": "曇り。最高18.5℃ / 最低11.1℃。いまは18.1℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "HN",
-   "title": "SpaceX catches the Starship to end Flight 15",
-   "body": "1617ポイント / コメント1190件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50500963"
+   "tag": "WIKI",
+   "title": "李庭協",
+   "body": "李 庭協 は、大韓民国釜山広域市出身のプロサッカー選手。タイ・リーグ1・PTプラチュワップFC所属。ポジションはフォワード。元韓国代表。2014年に李 廷記（イ・ジョンギ、이정기）か…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E6%9D%8E%E5%BA%AD%E5%8D%94"
   },
   {
    "tag": "WIKI",
-   "title": "笹山遺跡",
-   "body": "笹山遺跡（ささやまいせき）は、新潟県十日町市中条乙にある、縄文時代と中世の遺構が重層する複合遺跡。十日町市指定史跡に指定され、出土品は国宝・十日町市指定有形文化財に指定されている。縄…",
+   "title": "塩原町",
+   "body": "塩原町（しおばらまち）は、栃木県北部に位置し、那須郡に属していた町である。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E7%AC%B9%E5%B1%B1%E9%81%BA%E8%B7%A1"
-  },
-  {
-   "tag": "HN",
-   "title": "Handwriting, as a Font",
-   "body": "45ポイント / コメント8件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50509972"
-  },
-  {
-   "tag": "HN",
-   "title": "Clice v1.0 Released: Welcome to Modern C++",
-   "body": "68ポイント / コメント43件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50508715"
-  },
-  {
-   "tag": "WIKI",
-   "title": "孫太夫山古墳",
-   "body": "孫太夫山古墳（まごだゆうやまこふん）は、大阪府堺市堺区夕雲町2丁の大仙公園内にある前方後円墳。百舌鳥古墳群を構成する古墳の1つで、大仙陵古墳（仁徳天皇陵古墳）の陪塚とされ、世界文化遺…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%AD%AB%E5%A4%AA%E5%A4%AB%E5%B1%B1%E5%8F%A4%E5%A2%B3"
+   "url": "https://ja.wikipedia.org/wiki/%E5%A1%A9%E5%8E%9F%E7%94%BA"
   }
  ]
 }
