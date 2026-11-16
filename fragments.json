@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-11-16T20:29:33+09:00",
+ "generated_at": "2026-11-17T07:09:45+09:00",
  "items": [
-  {
-   "tag": "HN",
-   "title": "Handwriting, as a Font",
-   "body": "317ポイント / コメント59件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50509972"
-  },
-  {
-   "tag": "HN",
-   "title": "WebGL Flight Simulator with seed generated terrain",
-   "body": "163ポイント / コメント34件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50510296"
-  },
-  {
-   "tag": "WIKI",
-   "title": "3,5-ジヒドロキシケイ皮酸",
-   "body": "3,5-ジヒドロキシケイ皮酸 は、ヒドロキシケイ皮酸の一種。コーヒー酸の異性体として知られる。ヒトの尿中に含まれている代謝物質である。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/3%2C5-%E3%82%B8%E3%83%92%E3%83%89%E3%83%AD%E3%82%AD%E3%82%B7%E3%82%B1%E3%82%A4%E7%9A%AE%E9%85%B8"
-  },
-  {
-   "tag": "WIKI",
-   "title": "志甫勤一郎",
-   "body": "志甫 勤一郎 は、大日本帝国陸軍軍人。最終階級は陸軍少将。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%BF%97%E7%94%AB%E5%8B%A4%E4%B8%80%E9%83%8E"
-  },
-  {
-   "tag": "HN",
-   "title": "It's always DNS, so why are we running our own?",
-   "body": "3ポイント / コメント1件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50515616"
-  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "薄曇り。最高18.5℃ / 最低11.1℃。いまは13.5℃。",
+   "body": "強い雨。最高12.2℃ / 最低8.6℃。いまは10.5℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
+  },
+  {
+   "tag": "WIKI",
+   "title": "ブルーノ・エンヒキ・ピント",
+   "body": "ブルーノ・エンヒキ ことブルーノ・エンヒキ・ピント は、ブラジルのサッカー選手。元ブラジル代表。ポジションはFW。CRフラメンゴ所属。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AB%E3%83%BC%E3%83%8E%E3%83%BB%E3%82%A8%E3%83%B3%E3%83%92%E3%82%AD%E3%83%BB%E3%83%94%E3%83%B3%E3%83%88"
+  },
+  {
+   "tag": "HN",
+   "title": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Li…",
+   "body": "279ポイント / コメント111件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50516473"
+  },
+  {
+   "tag": "HN",
+   "title": "Nvidia was in trouble before the Jensen Huang mess",
+   "body": "216ポイント / コメント206件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50518567"
+  },
+  {
+   "tag": "HN",
+   "title": "The origins of the placenta",
+   "body": "15ポイント / コメント3件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50485327"
+  },
+  {
+   "tag": "WIKI",
+   "title": "アブドゥコディル・フサノフ",
+   "body": "アブドゥコディル・ヒクマトヴィッチ・フサノフ は、ウズベキスタン・タシュケント出身のサッカー選手。ウズベキスタン代表。プレミアリーグ・マンチェスター・シティFC所属。ポジションはディ…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%96%E3%83%89%E3%82%A5%E3%82%B3%E3%83%87%E3%82%A3%E3%83%AB%E3%83%BB%E3%83%95%E3%82%B5%E3%83%8E%E3%83%95"
   }
  ]
 }
