@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-11-16T11:46:29+09:00",
+ "generated_at": "2026-11-16T20:29:33+09:00",
  "items": [
   {
    "tag": "HN",
-   "title": "Universal XSS in uBlock Origin from website-driven element picker",
-   "body": "27ポイント / コメント2件。",
+   "title": "Handwriting, as a Font",
+   "body": "317ポイント / コメント59件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50513160"
+   "url": "https://news.ycombinator.com/item?id=50509972"
   },
   {
    "tag": "HN",
-   "title": "Coles hit by a cybersecurity incident",
-   "body": "44ポイント / コメント20件。",
+   "title": "WebGL Flight Simulator with seed generated terrain",
+   "body": "163ポイント / コメント34件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50512824"
+   "url": "https://news.ycombinator.com/item?id=50510296"
+  },
+  {
+   "tag": "WIKI",
+   "title": "3,5-ジヒドロキシケイ皮酸",
+   "body": "3,5-ジヒドロキシケイ皮酸 は、ヒドロキシケイ皮酸の一種。コーヒー酸の異性体として知られる。ヒトの尿中に含まれている代謝物質である。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/3%2C5-%E3%82%B8%E3%83%92%E3%83%89%E3%83%AD%E3%82%AD%E3%82%B7%E3%82%B1%E3%82%A4%E7%9A%AE%E9%85%B8"
+  },
+  {
+   "tag": "WIKI",
+   "title": "志甫勤一郎",
+   "body": "志甫 勤一郎 は、大日本帝国陸軍軍人。最終階級は陸軍少将。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%BF%97%E7%94%AB%E5%8B%A4%E4%B8%80%E9%83%8E"
   },
   {
    "tag": "HN",
-   "title": "Show HN: The Last Complication, a Zachtronics-style watchmaking puzzl…",
-   "body": "51ポイント / コメント6件。",
+   "title": "It's always DNS, so why are we running our own?",
+   "body": "3ポイント / コメント1件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50511718"
+   "url": "https://news.ycombinator.com/item?id=50515616"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "曇り。最高18.5℃ / 最低11.1℃。いまは18.1℃。",
+   "body": "薄曇り。最高18.5℃ / 最低11.1℃。いまは13.5℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
-  },
-  {
-   "tag": "WIKI",
-   "title": "李庭協",
-   "body": "李 庭協 は、大韓民国釜山広域市出身のプロサッカー選手。タイ・リーグ1・PTプラチュワップFC所属。ポジションはフォワード。元韓国代表。2014年に李 廷記（イ・ジョンギ、이정기）か…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%9D%8E%E5%BA%AD%E5%8D%94"
-  },
-  {
-   "tag": "WIKI",
-   "title": "塩原町",
-   "body": "塩原町（しおばらまち）は、栃木県北部に位置し、那須郡に属していた町である。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%A1%A9%E5%8E%9F%E7%94%BA"
   }
  ]
 }
