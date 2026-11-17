@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-11-17T23:29:22+09:00",
+ "generated_at": "2026-11-18T07:54:56+09:00",
  "items": [
+  {
+   "tag": "WIKI",
+   "title": "ヒンドゥー・ナショナリズム",
+   "body": "ヒンドゥー・ナショナリズム とは、主にインドにおいて有力なヒンドゥー教に基づく政治思想で、インドの歴史における精神的、文化的伝統に基礎を置くナショナリズム的な考え方である。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%B3%E3%83%89%E3%82%A5%E3%83%BC%E3%83%BB%E3%83%8A%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AA%E3%82%BA%E3%83%A0"
+  },
+  {
+   "tag": "HN",
+   "title": "Latent Lattice Language Models",
+   "body": "3ポイント / コメント0件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50539039"
+  },
+  {
+   "tag": "HN",
+   "title": "What is the best harness for each model?",
+   "body": "310ポイント / コメント109件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50532191"
+  },
+  {
+   "tag": "HN",
+   "title": "YC wrote software to run our internship expo – and an 8-bit SIM to sh…",
+   "body": "1ポイント / コメント0件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50534429"
+  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "雨。最高12.1℃ / 最低8.8℃。いまは8.9℃。",
+   "body": "強い雨。最高20.0℃ / 最低9.0℃。いまは10.9℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "HN",
-   "title": "Rows vs. Columns: How different are they, really?",
-   "body": "60ポイント / コメント20件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50470523"
-  },
-  {
-   "tag": "HN",
-   "title": "First Photos of the Poles of a Rod-Shaped Bacterium",
-   "body": "4ポイント / コメント0件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50518328"
-  },
-  {
-   "tag": "HN",
-   "title": "Turbo Pascal Compiler Written in Turbo Pascal",
-   "body": "47ポイント / コメント15件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50509456"
-  },
-  {
    "tag": "WIKI",
-   "title": "凌風丸 (佐賀藩)",
-   "body": "凌風丸（りょうふうまる）は、幕末に佐賀藩が建造した蒸気船。日本で建造された最初の実用蒸気船である。",
+   "title": "狸谷山不動院",
+   "body": "狸谷山不動院（たぬきだにさんふどういん）は、京都市左京区一乗寺にある真言宗修験道の大本山の寺院。山号は狸谷山。本尊は不動明王。狸谷不動院ともいう。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%87%8C%E9%A2%A8%E4%B8%B8_(%E4%BD%90%E8%B3%80%E8%97%A9)"
-  },
-  {
-   "tag": "WIKI",
-   "title": "桑田安三郎",
-   "body": "桑田 安三郎 は、日本陸軍の軍人。最終階級は陸軍中将。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%A1%91%E7%94%B0%E5%AE%89%E4%B8%89%E9%83%8E"
+   "url": "https://ja.wikipedia.org/wiki/%E7%8B%B8%E8%B0%B7%E5%B1%B1%E4%B8%8D%E5%8B%95%E9%99%A2"
   }
  ]
 }
