@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-11-17T13:31:09+09:00",
+ "generated_at": "2026-11-17T23:29:22+09:00",
  "items": [
-  {
-   "tag": "WIKI",
-   "title": "今里 (花街)",
-   "body": "今里（いまざと）または今里新地（いまざとしんち）は、かつて大阪市生野区新今里に存在した花街。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E4%BB%8A%E9%87%8C_(%E8%8A%B1%E8%A1%97)"
-  },
-  {
-   "tag": "HN",
-   "title": "Atomic Nuked Veteran",
-   "body": "32ポイント / コメント5件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50514680"
-  },
-  {
-   "tag": "WIKI",
-   "title": "益富地学会館",
-   "body": "公益財団法人益富地学会館（こうえきざいだんほうじんますとみちがくかいかん）は、京都市上京区にある公益財団法人。石に関する博物館を運営している。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E7%9B%8A%E5%AF%8C%E5%9C%B0%E5%AD%A6%E4%BC%9A%E9%A4%A8"
-  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "強い雨。最高12.1℃ / 最低8.8℃。いまは10.4℃。",
+   "body": "雨。最高12.1℃ / 最低8.8℃。いまは8.9℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Mem Is Shutting Down",
-   "body": "29ポイント / コメント31件。",
+   "title": "Rows vs. Columns: How different are they, really?",
+   "body": "60ポイント / コメント20件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50526537"
+   "url": "https://news.ycombinator.com/item?id=50470523"
   },
   {
    "tag": "HN",
-   "title": "BugMeNot has closed",
-   "body": "398ポイント / コメント197件。",
+   "title": "First Photos of the Poles of a Rod-Shaped Bacterium",
+   "body": "4ポイント / コメント0件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50523601"
+   "url": "https://news.ycombinator.com/item?id=50518328"
+  },
+  {
+   "tag": "HN",
+   "title": "Turbo Pascal Compiler Written in Turbo Pascal",
+   "body": "47ポイント / コメント15件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50509456"
+  },
+  {
+   "tag": "WIKI",
+   "title": "凌風丸 (佐賀藩)",
+   "body": "凌風丸（りょうふうまる）は、幕末に佐賀藩が建造した蒸気船。日本で建造された最初の実用蒸気船である。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%87%8C%E9%A2%A8%E4%B8%B8_(%E4%BD%90%E8%B3%80%E8%97%A9)"
+  },
+  {
+   "tag": "WIKI",
+   "title": "桑田安三郎",
+   "body": "桑田 安三郎 は、日本陸軍の軍人。最終階級は陸軍中将。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E6%A1%91%E7%94%B0%E5%AE%89%E4%B8%89%E9%83%8E"
   }
  ]
 }
