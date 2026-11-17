@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-11-17T07:09:45+09:00",
+ "generated_at": "2026-11-17T13:31:09+09:00",
  "items": [
+  {
+   "tag": "WIKI",
+   "title": "今里 (花街)",
+   "body": "今里（いまざと）または今里新地（いまざとしんち）は、かつて大阪市生野区新今里に存在した花街。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E4%BB%8A%E9%87%8C_(%E8%8A%B1%E8%A1%97)"
+  },
+  {
+   "tag": "HN",
+   "title": "Atomic Nuked Veteran",
+   "body": "32ポイント / コメント5件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50514680"
+  },
+  {
+   "tag": "WIKI",
+   "title": "益富地学会館",
+   "body": "公益財団法人益富地学会館（こうえきざいだんほうじんますとみちがくかいかん）は、京都市上京区にある公益財団法人。石に関する博物館を運営している。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E7%9B%8A%E5%AF%8C%E5%9C%B0%E5%AD%A6%E4%BC%9A%E9%A4%A8"
+  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "強い雨。最高12.2℃ / 最低8.6℃。いまは10.5℃。",
+   "body": "強い雨。最高12.1℃ / 最低8.8℃。いまは10.4℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "WIKI",
-   "title": "ブルーノ・エンヒキ・ピント",
-   "body": "ブルーノ・エンヒキ ことブルーノ・エンヒキ・ピント は、ブラジルのサッカー選手。元ブラジル代表。ポジションはFW。CRフラメンゴ所属。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AB%E3%83%BC%E3%83%8E%E3%83%BB%E3%82%A8%E3%83%B3%E3%83%92%E3%82%AD%E3%83%BB%E3%83%94%E3%83%B3%E3%83%88"
+   "tag": "HN",
+   "title": "Mem Is Shutting Down",
+   "body": "29ポイント / コメント31件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50526537"
   },
   {
    "tag": "HN",
-   "title": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Li…",
-   "body": "279ポイント / コメント111件。",
+   "title": "BugMeNot has closed",
+   "body": "398ポイント / コメント197件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50516473"
-  },
-  {
-   "tag": "HN",
-   "title": "Nvidia was in trouble before the Jensen Huang mess",
-   "body": "216ポイント / コメント206件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50518567"
-  },
-  {
-   "tag": "HN",
-   "title": "The origins of the placenta",
-   "body": "15ポイント / コメント3件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50485327"
-  },
-  {
-   "tag": "WIKI",
-   "title": "アブドゥコディル・フサノフ",
-   "body": "アブドゥコディル・ヒクマトヴィッチ・フサノフ は、ウズベキスタン・タシュケント出身のサッカー選手。ウズベキスタン代表。プレミアリーグ・マンチェスター・シティFC所属。ポジションはディ…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%96%E3%83%89%E3%82%A5%E3%82%B3%E3%83%87%E3%82%A3%E3%83%AB%E3%83%BB%E3%83%95%E3%82%B5%E3%83%8E%E3%83%95"
+   "url": "https://news.ycombinator.com/item?id=50523601"
   }
  ]
 }
