@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-11-18T13:26:49+09:00",
+ "generated_at": "2026-11-18T23:05:11+09:00",
  "items": [
   {
    "tag": "HN",
-   "title": "ID.me terms required for IRS sign-in",
-   "body": "199ポイント / コメント73件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50540437"
-  },
-  {
-   "tag": "WIKI",
-   "title": "フニオール・ディアス",
-   "body": "フニオール・エンリケ・ディアス・キャンベル は、コスタリカ・エレディア出身の元プロサッカー選手。元サッカーコスタリカ代表。現役時代のポジションはDF。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%8B%E3%82%AA%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%87%E3%82%A3%E3%82%A2%E3%82%B9"
-  },
-  {
-   "tag": "HN",
    "title": "Quad9's withdrawal from France: A canary in the coal mine",
-   "body": "364ポイント / コメント116件。",
+   "body": "769ポイント / コメント340件。",
    "src": "news.ycombinator.com",
    "url": "https://news.ycombinator.com/item?id=50538994"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "強い雨。最高19.3℃ / 最低9.0℃。いまは19.3℃。",
+   "body": "強い雨。最高19.7℃ / 最低9.0℃。いまは14.6℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "WIKI",
-   "title": "ラ・ビブリオテーク・デ・メルヴェイユ",
-   "body": "ラ・ビブリオテーク・デ・メルヴェイユ は、フランスの百科全書的な月刊誌。1864年に設立され、1956年まで刊行された。",
+   "title": "マテュー・ヴァルブエナ",
+   "body": "マテュー・ヴァルブエナ は、フランス・ジロンド県出身のサッカー選手。アポロン・リマソール所属。元フランス代表。ポジションはミッドフィールダー。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%BB%E3%83%93%E3%83%96%E3%83%AA%E3%82%AA%E3%83%86%E3%83%BC%E3%82%AF%E3%83%BB%E3%83%87%E3%83%BB%E3%83%A1%E3%83%AB%E3%83%B4%E3%82%A7%E3%82%A4%E3%83%A6"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%86%E3%83%A5%E3%83%BC%E3%83%BB%E3%83%B4%E3%82%A1%E3%83%AB%E3%83%96%E3%82%A8%E3%83%8A"
   },
   {
    "tag": "HN",
-   "title": "Not Everything Needs an LLM",
-   "body": "116ポイント / コメント46件。",
+   "title": "MAI Code 2 and Code 2 Flash",
+   "body": "384ポイント / コメント156件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50535740"
+   "url": "https://news.ycombinator.com/item?id=50535885"
+  },
+  {
+   "tag": "WIKI",
+   "title": "駐在所",
+   "body": "駐在所 は、警察、消防または海上保安庁の施設で、郊外や過疎地域・山間部・離島などに置かれ、それぞれ警察官、消防吏員、海上保安官が常駐する。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E9%A7%90%E5%9C%A8%E6%89%80"
+  },
+  {
+   "tag": "HN",
+   "title": "IPv6 delegation, an unusually subtle failure mode",
+   "body": "27ポイント / コメント11件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50509141"
   }
  ]
 }
