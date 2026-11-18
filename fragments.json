@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-11-18T07:54:56+09:00",
+ "generated_at": "2026-11-18T13:26:49+09:00",
  "items": [
   {
+   "tag": "HN",
+   "title": "ID.me terms required for IRS sign-in",
+   "body": "199ポイント / コメント73件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50540437"
+  },
+  {
    "tag": "WIKI",
-   "title": "ヒンドゥー・ナショナリズム",
-   "body": "ヒンドゥー・ナショナリズム とは、主にインドにおいて有力なヒンドゥー教に基づく政治思想で、インドの歴史における精神的、文化的伝統に基礎を置くナショナリズム的な考え方である。",
+   "title": "フニオール・ディアス",
+   "body": "フニオール・エンリケ・ディアス・キャンベル は、コスタリカ・エレディア出身の元プロサッカー選手。元サッカーコスタリカ代表。現役時代のポジションはDF。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%B3%E3%83%89%E3%82%A5%E3%83%BC%E3%83%BB%E3%83%8A%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AA%E3%82%BA%E3%83%A0"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%8B%E3%82%AA%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%87%E3%82%A3%E3%82%A2%E3%82%B9"
   },
   {
    "tag": "HN",
-   "title": "Latent Lattice Language Models",
-   "body": "3ポイント / コメント0件。",
+   "title": "Quad9's withdrawal from France: A canary in the coal mine",
+   "body": "364ポイント / コメント116件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50539039"
-  },
-  {
-   "tag": "HN",
-   "title": "What is the best harness for each model?",
-   "body": "310ポイント / コメント109件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50532191"
-  },
-  {
-   "tag": "HN",
-   "title": "YC wrote software to run our internship expo – and an 8-bit SIM to sh…",
-   "body": "1ポイント / コメント0件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50534429"
+   "url": "https://news.ycombinator.com/item?id=50538994"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "強い雨。最高20.0℃ / 最低9.0℃。いまは10.9℃。",
+   "body": "強い雨。最高19.3℃ / 最低9.0℃。いまは19.3℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "WIKI",
-   "title": "狸谷山不動院",
-   "body": "狸谷山不動院（たぬきだにさんふどういん）は、京都市左京区一乗寺にある真言宗修験道の大本山の寺院。山号は狸谷山。本尊は不動明王。狸谷不動院ともいう。",
+   "title": "ラ・ビブリオテーク・デ・メルヴェイユ",
+   "body": "ラ・ビブリオテーク・デ・メルヴェイユ は、フランスの百科全書的な月刊誌。1864年に設立され、1956年まで刊行された。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E7%8B%B8%E8%B0%B7%E5%B1%B1%E4%B8%8D%E5%8B%95%E9%99%A2"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%BB%E3%83%93%E3%83%96%E3%83%AA%E3%82%AA%E3%83%86%E3%83%BC%E3%82%AF%E3%83%BB%E3%83%87%E3%83%BB%E3%83%A1%E3%83%AB%E3%83%B4%E3%82%A7%E3%82%A4%E3%83%A6"
+  },
+  {
+   "tag": "HN",
+   "title": "Not Everything Needs an LLM",
+   "body": "116ポイント / コメント46件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50535740"
   }
  ]
 }
