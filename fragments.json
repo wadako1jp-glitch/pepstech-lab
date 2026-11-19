@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-11-19T06:59:45+09:00",
+ "generated_at": "2026-11-19T12:33:07+09:00",
  "items": [
   {
-   "tag": "WIKI",
-   "title": "竈門神社",
-   "body": "竈門神社（かまどじんじゃ）は、福岡県太宰府市にある神社。式内社（名神大社）。旧社格は官幣小社で、現在は神社本庁の別表神社。別称を「宝満宮」「竈門宮」とも。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E7%AB%88%E9%96%80%E7%A5%9E%E7%A4%BE"
+   "tag": "HN",
+   "title": "My computer misbehaved so I went down a rabbit hole (2019)",
+   "body": "5ポイント / コメント0件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50529101"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "薄曇り。最高18.3℃ / 最低8.9℃。いまは11.5℃。",
+   "body": "薄曇り。最高18.8℃ / 最低9.2℃。いまは18.8℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
+   "tag": "WIKI",
+   "title": "ランドネット (企業)",
+   "body": "株式会社ランドネット は、東京都豊島区の不動産会社。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%B3%E3%83%89%E3%83%8D%E3%83%83%E3%83%88_(%E4%BC%81%E6%A5%AD)"
+  },
+  {
    "tag": "HN",
-   "title": "Show HN: ExitPath – Open-source ways out of Slack, Notion and Microso…",
-   "body": "114ポイント / コメント27件。",
+   "title": "Anthropic prices initial public offering",
+   "body": "117ポイント / コメント82件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50547980"
+   "url": "https://news.ycombinator.com/item?id=50553843"
   },
   {
    "tag": "HN",
    "title": "Inside Deutsche Bank",
-   "body": "453ポイント / コメント155件。",
+   "body": "577ポイント / コメント193件。",
    "src": "news.ycombinator.com",
    "url": "https://news.ycombinator.com/item?id=50547620"
   },
   {
-   "tag": "HN",
-   "title": "The First Revolver: How We Got from Blackbeard's Six Pistols to the S…",
-   "body": "41ポイント / コメント15件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50505310"
-  },
-  {
    "tag": "WIKI",
-   "title": "前田卯之助",
-   "body": "前田 卯之助 は、日本の実業家、政治家。立憲民政党所属の衆議院議員。",
+   "title": "ナイジェル・レオ＝コーカー",
+   "body": "ナイジェル・ショラ・アンドレ・レオ＝コーカー は、イングランド・サザーク出身のサッカー選手。現在は無所属。ポジションはMF（守備的ミッドフィールダー）。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%89%8D%E7%94%B0%E5%8D%AF%E4%B9%8B%E5%8A%A9"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%A4%E3%82%B8%E3%82%A7%E3%83%AB%E3%83%BB%E3%83%AC%E3%82%AA%EF%BC%9D%E3%82%B3%E3%83%BC%E3%82%AB%E3%83%BC"
   }
  ]
 }
