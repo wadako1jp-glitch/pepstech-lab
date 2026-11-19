@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-11-19T22:17:25+09:00",
+ "generated_at": "2026-11-20T07:10:39+09:00",
  "items": [
   {
    "tag": "HN",
-   "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
-   "body": "221ポイント / コメント86件。",
+   "title": "Adding Fortran Support to LLDB (GSoC 2026)",
+   "body": "17ポイント / コメント5件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50556287"
+   "url": "https://news.ycombinator.com/item?id=50521083"
   },
   {
    "tag": "WIKI",
-   "title": "河原崎しづ江",
-   "body": "河原崎 しづ江 は、日本の女優。旧姓は山岸。初期の芸名は山岸 静江 など。しづ江をしず江と表記することもある。",
+   "title": "グラーツ市電550形電車",
+   "body": "グラーツ市電550形電車（グラーツしでん550がたでんしゃ）は、かつてオーストリア・グラーツの路面電車であるグラーツ市電に在籍していた電車。ドイツのヴッパータール市電から譲渡された車…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%B2%B3%E5%8E%9F%E5%B4%8E%E3%81%97%E3%81%A5%E6%B1%9F"
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%A9%E3%83%BC%E3%83%84%E5%B8%82%E9%9B%BB550%E5%BD%A2%E9%9B%BB%E8%BB%8A"
+  },
+  {
+   "tag": "WIKI",
+   "title": "Cinnamon",
+   "body": "Cinnamon（シナモン）は、GNOME 3をベースとしたデスクトップ環境であり、2011年に初版がリリースされた。Cinnamonのプロジェクトは元々GNOME Shellをフォ…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/Cinnamon"
+  },
+  {
+   "tag": "HN",
+   "title": "Chrome AI features wasting much bandwidth",
+   "body": "112ポイント / コメント39件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50562636"
+  },
+  {
+   "tag": "HN",
+   "title": "How the European Commission rolled out Matrix to more than 40k staff",
+   "body": "622ポイント / コメント301件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50558533"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "薄曇り。最高19.5℃ / 最低9.5℃。いまは10.6℃。",
+   "body": "快晴。最高13.9℃ / 最低6.7℃。いまは7.8℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
-  },
-  {
-   "tag": "HN",
-   "title": "Unauthenticated remote code execution in Nginx",
-   "body": "1431ポイント / コメント609件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50547374"
-  },
-  {
-   "tag": "WIKI",
-   "title": "法学者",
-   "body": "法学者（ほうがくしゃ）は、学問分野で法学として分類される領域で研究をおこなう学者・研究者。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%B3%95%E5%AD%A6%E8%80%85"
-  },
-  {
-   "tag": "HN",
-   "title": "The AI Superintelligence Debate Has Serious Flaws",
-   "body": "41ポイント / コメント19件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50559140"
   }
  ]
 }
