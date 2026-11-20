@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-11-20T07:10:39+09:00",
+ "generated_at": "2026-11-20T12:22:27+09:00",
  "items": [
   {
+   "tag": "WIKI",
+   "title": "西光寺 (福岡市)",
+   "body": "西光寺（さいこうじ）は、福岡県福岡市早良区にある浄土真宗本願寺派の寺院。山号は狐峯山。梵鐘は国宝に指定されている。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E5%85%89%E5%AF%BA_(%E7%A6%8F%E5%B2%A1%E5%B8%82)"
+  },
+  {
    "tag": "HN",
-   "title": "Adding Fortran Support to LLDB (GSoC 2026)",
-   "body": "17ポイント / コメント5件。",
+   "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson deb…",
+   "body": "86ポイント / コメント152件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50521083"
+   "url": "https://news.ycombinator.com/item?id=50564366"
   },
   {
    "tag": "WIKI",
-   "title": "グラーツ市電550形電車",
-   "body": "グラーツ市電550形電車（グラーツしでん550がたでんしゃ）は、かつてオーストリア・グラーツの路面電車であるグラーツ市電に在籍していた電車。ドイツのヴッパータール市電から譲渡された車…",
+   "title": "ジャワ海",
+   "body": "ジャワ海 は、インドネシア・スマトラ南東部、ジャワ島、小スンダ列島西部、ボルネオ南部（カリマンタン）等に囲まれる東西に細長い海。深度は一般的に浅く、大部分は50m以下。カリマタ海峡を…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%A9%E3%83%BC%E3%83%84%E5%B8%82%E9%9B%BB550%E5%BD%A2%E9%9B%BB%E8%BB%8A"
-  },
-  {
-   "tag": "WIKI",
-   "title": "Cinnamon",
-   "body": "Cinnamon（シナモン）は、GNOME 3をベースとしたデスクトップ環境であり、2011年に初版がリリースされた。Cinnamonのプロジェクトは元々GNOME Shellをフォ…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/Cinnamon"
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%AF%E6%B5%B7"
   },
   {
    "tag": "HN",
-   "title": "Chrome AI features wasting much bandwidth",
-   "body": "112ポイント / コメント39件。",
+   "title": "Nintendo takes Picofly firmware down from GitHub [video]",
+   "body": "264ポイント / コメント105件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50562636"
-  },
-  {
-   "tag": "HN",
-   "title": "How the European Commission rolled out Matrix to more than 40k staff",
-   "body": "622ポイント / コメント301件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50558533"
+   "url": "https://news.ycombinator.com/item?id=50547048"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "快晴。最高13.9℃ / 最低6.7℃。いまは7.8℃。",
+   "body": "快晴。最高14.0℃ / 最低6.7℃。いまは14.1℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
+  },
+  {
+   "tag": "HN",
+   "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS …",
+   "body": "39ポイント / コメント8件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50569226"
   }
  ]
 }
