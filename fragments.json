@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-11-20T21:58:33+09:00",
+ "generated_at": "2026-11-21T06:09:55+09:00",
  "items": [
   {
-   "tag": "WIKI",
-   "title": "トーマス・ラヴェリ",
-   "body": "トーマス・ラヴェリ は、スウェーデン出身の元サッカー選手。ポジションはGK。オーストリア系とイタリア系移民を祖先に持つ。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%BC%E3%83%9E%E3%82%B9%E3%83%BB%E3%83%A9%E3%83%B4%E3%82%A7%E3%83%AA"
-  },
-  {
-   "tag": "WIKI",
-   "title": "青森労災病院",
-   "body": "独立行政法人労働者健康安全機構青森労災病院（どくりつぎょうせいほうじんろうどうしゃけんこうあんぜんきこうあおもりろうさいびょういん）は、青森県八戸市白銀町にある独立行政法人労働者健康…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E9%9D%92%E6%A3%AE%E5%8A%B4%E7%81%BD%E7%97%85%E9%99%A2"
+   "tag": "HN",
+   "title": "Why there are still no non-WebKit browsers on iOS",
+   "body": "288ポイント / コメント158件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50575644"
   },
   {
    "tag": "HN",
-   "title": "PostgreSQL 19",
-   "body": "255ポイント / コメント14件。",
+   "title": "If you can't explain something in simple terms, you don't understand …",
+   "body": "556ポイント / コメント273件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50569890"
+   "url": "https://news.ycombinator.com/item?id=50572355"
+  },
+  {
+   "tag": "HN",
+   "title": "PostgreSQL 19: A hands-on tour with runnable browser examples",
+   "body": "32ポイント / コメント1件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50578117"
+  },
+  {
+   "tag": "WIKI",
+   "title": "近衛尚通",
+   "body": "近衛 尚通 は、戦国時代の公卿。太政大臣・近衛政家の子。官位は従一位・関白、太政大臣、准三宮。近衛家15代当主。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E8%BF%91%E8%A1%9B%E5%B0%9A%E9%80%9A"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "快晴。最高14.7℃ / 最低6.9℃。いまは8.2℃。",
+   "body": "快晴。最高13.8℃ / 最低5.8℃。いまは5.9℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "HN",
-   "title": "UK fridges secured from hackers",
-   "body": "66ポイント / コメント46件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50572430"
-  },
-  {
-   "tag": "HN",
-   "title": "Pete Warden on local AI, open models, voice interfaces, the future of…",
-   "body": "260ポイント / コメント227件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50561508"
+   "tag": "WIKI",
+   "title": "イソギンチャク",
+   "body": "イソギンチャク は、刺胞動物門花虫綱六放サンゴ亜綱イソギンチャク目（イソギンチャクもく）に属する動物の総称である。柔らかい無脊椎動物で、口の回りに毒のある触手を持つ。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%BD%E3%82%AE%E3%83%B3%E3%83%81%E3%83%A3%E3%82%AF"
   }
  ]
 }
