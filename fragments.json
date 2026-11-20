@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-11-20T12:22:27+09:00",
+ "generated_at": "2026-11-20T21:58:33+09:00",
  "items": [
   {
    "tag": "WIKI",
-   "title": "西光寺 (福岡市)",
-   "body": "西光寺（さいこうじ）は、福岡県福岡市早良区にある浄土真宗本願寺派の寺院。山号は狐峯山。梵鐘は国宝に指定されている。",
+   "title": "トーマス・ラヴェリ",
+   "body": "トーマス・ラヴェリ は、スウェーデン出身の元サッカー選手。ポジションはGK。オーストリア系とイタリア系移民を祖先に持つ。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E5%85%89%E5%AF%BA_(%E7%A6%8F%E5%B2%A1%E5%B8%82)"
-  },
-  {
-   "tag": "HN",
-   "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson deb…",
-   "body": "86ポイント / コメント152件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50564366"
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%BC%E3%83%9E%E3%82%B9%E3%83%BB%E3%83%A9%E3%83%B4%E3%82%A7%E3%83%AA"
   },
   {
    "tag": "WIKI",
-   "title": "ジャワ海",
-   "body": "ジャワ海 は、インドネシア・スマトラ南東部、ジャワ島、小スンダ列島西部、ボルネオ南部（カリマンタン）等に囲まれる東西に細長い海。深度は一般的に浅く、大部分は50m以下。カリマタ海峡を…",
+   "title": "青森労災病院",
+   "body": "独立行政法人労働者健康安全機構青森労災病院（どくりつぎょうせいほうじんろうどうしゃけんこうあんぜんきこうあおもりろうさいびょういん）は、青森県八戸市白銀町にある独立行政法人労働者健康…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%AF%E6%B5%B7"
+   "url": "https://ja.wikipedia.org/wiki/%E9%9D%92%E6%A3%AE%E5%8A%B4%E7%81%BD%E7%97%85%E9%99%A2"
   },
   {
    "tag": "HN",
-   "title": "Nintendo takes Picofly firmware down from GitHub [video]",
-   "body": "264ポイント / コメント105件。",
+   "title": "PostgreSQL 19",
+   "body": "255ポイント / コメント14件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50547048"
+   "url": "https://news.ycombinator.com/item?id=50569890"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "快晴。最高14.0℃ / 最低6.7℃。いまは14.1℃。",
+   "body": "快晴。最高14.7℃ / 最低6.9℃。いまは8.2℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS …",
-   "body": "39ポイント / コメント8件。",
+   "title": "UK fridges secured from hackers",
+   "body": "66ポイント / コメント46件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50569226"
+   "url": "https://news.ycombinator.com/item?id=50572430"
+  },
+  {
+   "tag": "HN",
+   "title": "Pete Warden on local AI, open models, voice interfaces, the future of…",
+   "body": "260ポイント / コメント227件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50561508"
   }
  ]
 }
