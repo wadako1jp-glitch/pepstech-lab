@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-11-21T06:09:55+09:00",
+ "generated_at": "2026-11-21T11:21:04+09:00",
  "items": [
   {
-   "tag": "HN",
-   "title": "Why there are still no non-WebKit browsers on iOS",
-   "body": "288ポイント / コメント158件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50575644"
-  },
-  {
-   "tag": "HN",
-   "title": "If you can't explain something in simple terms, you don't understand …",
-   "body": "556ポイント / コメント273件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50572355"
-  },
-  {
-   "tag": "HN",
-   "title": "PostgreSQL 19: A hands-on tour with runnable browser examples",
-   "body": "32ポイント / コメント1件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50578117"
-  },
-  {
    "tag": "WIKI",
-   "title": "近衛尚通",
-   "body": "近衛 尚通 は、戦国時代の公卿。太政大臣・近衛政家の子。官位は従一位・関白、太政大臣、准三宮。近衛家15代当主。",
+   "title": "道の駅宿場町ひらふく",
+   "body": "道の駅宿場町ひらふく は、兵庫県佐用郡佐用町にある国道373号の道の駅である。名称は因幡街道の宿場町平福宿から。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E8%BF%91%E8%A1%9B%E5%B0%9A%E9%80%9A"
+   "url": "https://ja.wikipedia.org/wiki/%E9%81%93%E3%81%AE%E9%A7%85%E5%AE%BF%E5%A0%B4%E7%94%BA%E3%81%B2%E3%82%89%E3%81%B5%E3%81%8F"
+  },
+  {
+   "tag": "HN",
+   "title": "Valkey kills the skiplist, cuts sorted set overhead by up to 43%",
+   "body": "43ポイント / コメント22件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50534387"
+  },
+  {
+   "tag": "HN",
+   "title": "Serious cyberattack thought backed by wealthy operators",
+   "body": "10ポイント / コメント1件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50583856"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "快晴。最高13.8℃ / 最低5.8℃。いまは5.9℃。",
+   "body": "快晴。最高13.4℃ / 最低5.5℃。いまは11.8℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "WIKI",
-   "title": "イソギンチャク",
-   "body": "イソギンチャク は、刺胞動物門花虫綱六放サンゴ亜綱イソギンチャク目（イソギンチャクもく）に属する動物の総称である。柔らかい無脊椎動物で、口の回りに毒のある触手を持つ。",
+   "title": "斯波義敏",
+   "body": "斯波 義敏 は、室町時代後期の武将、守護大名。越前・尾張・遠江守護。斯波氏（武衛家）10代当主。父は斯波（大野）持種、義父は斯波義健。子に義寛、斯波義孝室、寛元、義雄。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%BD%E3%82%AE%E3%83%B3%E3%83%81%E3%83%A3%E3%82%AF"
+   "url": "https://ja.wikipedia.org/wiki/%E6%96%AF%E6%B3%A2%E7%BE%A9%E6%95%8F"
+  },
+  {
+   "tag": "HN",
+   "title": "Inkling 2 Mini",
+   "body": "703ポイント / コメント116件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50581260"
   }
  ]
 }
