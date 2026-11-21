@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-11-21T20:11:07+09:00",
+ "generated_at": "2026-11-22T02:59:59+09:00",
  "items": [
   {
-   "tag": "WIKI",
-   "title": "福岡県立山門高等学校",
-   "body": "福岡県立山門高等学校 は、福岡県みやま市瀬高町大字上庄にある公立高等学校。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E7%A6%8F%E5%B2%A1%E7%9C%8C%E7%AB%8B%E5%B1%B1%E9%96%80%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1"
+   "tag": "HN",
+   "title": "Valkey kills the skiplist, cuts sorted set overhead by up to 43%",
+   "body": "185ポイント / コメント64件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50534387"
   },
   {
-   "tag": "HN",
-   "title": "Engineer's Guide to Career Growth – Advice from My Time at Stripe and…",
-   "body": "9ポイント / コメント1件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50557025"
+   "tag": "WIKI",
+   "title": "秦泉寺廃寺跡",
+   "body": "秦泉寺廃寺跡（じんぜんじはいじあと）は、高知県高知市中秦泉寺にある古代寺院跡。史跡指定はされていない。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E7%A7%A6%E6%B3%89%E5%AF%BA%E5%BB%83%E5%AF%BA%E8%B7%A1"
+  },
+  {
+   "tag": "WIKI",
+   "title": "知寄町三丁目停留場",
+   "body": "知寄町三丁目停留場（ちよりちょうさんちょうめていりゅうじょう）は、高知県高知市にあるとさでん交通後免線の路面電車停留場。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E7%9F%A5%E5%AF%84%E7%94%BA%E4%B8%89%E4%B8%81%E7%9B%AE%E5%81%9C%E7%95%99%E5%A0%B4"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "快晴。最高14.1℃ / 最低5.5℃。いまは9.5℃。",
+   "body": "晴れ。最高12.8℃ / 最低4.7℃。いまは6.1℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "WIKI",
-   "title": "万場調整池",
-   "body": "万場調整池（ばんばちょうせいち）は、愛知県豊橋市西赤沢町にある豊川用水の調整池。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E4%B8%87%E5%A0%B4%E8%AA%BF%E6%95%B4%E6%B1%A0"
+   "tag": "HN",
+   "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. Wh…",
+   "body": "448ポイント / コメント481件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50583761"
   },
   {
    "tag": "HN",
-   "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
-   "body": "2665ポイント / コメント1843件。",
+   "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypoth…",
+   "body": "512ポイント / コメント218件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50574968"
-  },
-  {
-   "tag": "HN",
-   "title": "Show HN: Tinnitus frequency finder and audio notch tool",
-   "body": "181ポイント / コメント116件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50541568"
+   "url": "https://news.ycombinator.com/item?id=50578358"
   }
  ]
 }
