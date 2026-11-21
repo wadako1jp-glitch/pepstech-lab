@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-11-21T11:21:04+09:00",
+ "generated_at": "2026-11-21T20:11:07+09:00",
  "items": [
   {
    "tag": "WIKI",
-   "title": "道の駅宿場町ひらふく",
-   "body": "道の駅宿場町ひらふく は、兵庫県佐用郡佐用町にある国道373号の道の駅である。名称は因幡街道の宿場町平福宿から。",
+   "title": "福岡県立山門高等学校",
+   "body": "福岡県立山門高等学校 は、福岡県みやま市瀬高町大字上庄にある公立高等学校。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E9%81%93%E3%81%AE%E9%A7%85%E5%AE%BF%E5%A0%B4%E7%94%BA%E3%81%B2%E3%82%89%E3%81%B5%E3%81%8F"
+   "url": "https://ja.wikipedia.org/wiki/%E7%A6%8F%E5%B2%A1%E7%9C%8C%E7%AB%8B%E5%B1%B1%E9%96%80%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1"
   },
   {
    "tag": "HN",
-   "title": "Valkey kills the skiplist, cuts sorted set overhead by up to 43%",
-   "body": "43ポイント / コメント22件。",
+   "title": "Engineer's Guide to Career Growth – Advice from My Time at Stripe and…",
+   "body": "9ポイント / コメント1件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50534387"
-  },
-  {
-   "tag": "HN",
-   "title": "Serious cyberattack thought backed by wealthy operators",
-   "body": "10ポイント / コメント1件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50583856"
+   "url": "https://news.ycombinator.com/item?id=50557025"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "快晴。最高13.4℃ / 最低5.5℃。いまは11.8℃。",
+   "body": "快晴。最高14.1℃ / 最低5.5℃。いまは9.5℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "WIKI",
-   "title": "斯波義敏",
-   "body": "斯波 義敏 は、室町時代後期の武将、守護大名。越前・尾張・遠江守護。斯波氏（武衛家）10代当主。父は斯波（大野）持種、義父は斯波義健。子に義寛、斯波義孝室、寛元、義雄。",
+   "title": "万場調整池",
+   "body": "万場調整池（ばんばちょうせいち）は、愛知県豊橋市西赤沢町にある豊川用水の調整池。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%96%AF%E6%B3%A2%E7%BE%A9%E6%95%8F"
+   "url": "https://ja.wikipedia.org/wiki/%E4%B8%87%E5%A0%B4%E8%AA%BF%E6%95%B4%E6%B1%A0"
   },
   {
    "tag": "HN",
-   "title": "Inkling 2 Mini",
-   "body": "703ポイント / コメント116件。",
+   "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+   "body": "2665ポイント / コメント1843件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50581260"
+   "url": "https://news.ycombinator.com/item?id=50574968"
+  },
+  {
+   "tag": "HN",
+   "title": "Show HN: Tinnitus frequency finder and audio notch tool",
+   "body": "181ポイント / コメント116件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50541568"
   }
  ]
 }
