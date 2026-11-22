@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-11-22T15:55:45+09:00",
+ "generated_at": "2026-11-23T00:22:57+09:00",
  "items": [
-  {
-   "tag": "HN",
-   "title": "Shaping the Loops, Closing the Loops",
-   "body": "20ポイント / コメント8件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50553223"
-  },
-  {
-   "tag": "WIKI",
-   "title": "フェルナンド2世 (ポルトガル王)",
-   "body": "フェルナンド2世 は、ポルトガル女王マリア2世の王配で共同国王。イギリス女王ヴィクトリアおよびその王配アルバートの双方の従兄である。また、ベルギー国王レオポルド1世は叔父、ブルガリア…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%8A%E3%83%B3%E3%83%892%E4%B8%96_(%E3%83%9D%E3%83%AB%E3%83%88%E3%82%AC%E3%83%AB%E7%8E%8B)"
-  },
-  {
-   "tag": "HN",
-   "title": "Lean verification of the Riemann Hypothesis",
-   "body": "946ポイント / コメント809件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50589618"
-  },
-  {
-   "tag": "WIKI",
-   "title": "豊田松平インターチェンジ",
-   "body": "豊田松平インターチェンジ（とよたまつだいらインターチェンジ）は、愛知県豊田市松平志賀町にある東海環状自動車道のインターチェンジ。豊田東JCT経由で伊勢湾岸自動車道にも接続しており、同…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E8%B1%8A%E7%94%B0%E6%9D%BE%E5%B9%B3%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%81%E3%82%A7%E3%83%B3%E3%82%B8"
-  },
-  {
-   "tag": "HN",
-   "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. Wh…",
-   "body": "672ポイント / コメント765件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50583761"
-  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "晴れ。最高13.0℃ / 最低4.6℃。いまは12.6℃。",
+   "body": "晴れ。最高12.9℃ / 最低4.2℃。いまは6.5℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
+  },
+  {
+   "tag": "WIKI",
+   "title": "日本テレビタワー",
+   "body": "日本テレビタワー（にほんテレビタワー）は、東京都港区東新橋（通称・汐留）にある超高層ビル。日本テレビ放送網株式会社の本社および生放送の報道・情報番組と一部のバラエティ番組が制作されて…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%83%86%E3%83%AC%E3%83%93%E3%82%BF%E3%83%AF%E3%83%BC"
+  },
+  {
+   "tag": "WIKI",
+   "title": "ボスキ・サンタンナ",
+   "body": "ボスキ・サンタンナ は、イタリア共和国ヴェネト州ヴェローナ県にある、人口約1,300人の基礎自治体（コムーネ）。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%82%B9%E3%82%AD%E3%83%BB%E3%82%B5%E3%83%B3%E3%82%BF%E3%83%B3%E3%83%8A"
+  },
+  {
+   "tag": "HN",
+   "title": "Self-hosted library branch over public web OPDS",
+   "body": "58ポイント / コメント16件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50566495"
+  },
+  {
+   "tag": "HN",
+   "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in de…",
+   "body": "1184ポイント / コメント254件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50582069"
+  },
+  {
+   "tag": "HN",
+   "title": "Is 'fork' missing operation in sandboxes?",
+   "body": "17ポイント / コメント14件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50559820"
   }
  ]
 }
