@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-11-23T06:49:55+09:00",
+ "generated_at": "2026-11-23T11:49:40+09:00",
  "items": [
+  {
+   "tag": "HN",
+   "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+   "body": "1201ポイント / コメント682件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50596133"
+  },
+  {
+   "tag": "HN",
+   "title": "Cathedral floor emerges in Sudan, revealing one of the biggest mediev…",
+   "body": "125ポイント / コメント10件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50547698"
+  },
+  {
+   "tag": "WIKI",
+   "title": "ハミルトン・フィッシュ3世",
+   "body": "ハミルトン・ストイフェサント・フィッシュ は、アメリカ合衆国の軍人、政治家。ハミルトン・フィッシュ3世、ハミルトン・フィッシュ・ジュニアとしても知られる。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%9F%E3%83%AB%E3%83%88%E3%83%B3%E3%83%BB%E3%83%95%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A53%E4%B8%96"
+  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "快晴。最高13.3℃ / 最低4.3℃。いまは4.3℃。",
+   "body": "快晴。最高13.3℃ / 最低4.2℃。いまは11.8℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "HN",
-   "title": "AWS got hit by an outage too. You didn't hear about it",
-   "body": "13ポイント / コメント1件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50603730"
-  },
-  {
    "tag": "WIKI",
-   "title": "鈴鹿大学",
-   "body": "鈴鹿大学 は、三重県鈴鹿市郡山町663番地222に本部を置く日本の私立大学。1994年創立、1994年大学設置。",
+   "title": "エリザベス2世による国外訪問の一覧",
+   "body": "エリザベス2世による国外訪問の一覧（エリザベス2せいによるこくがいほうもんのいちらん）は、エリザベス2世によるイギリス国外への公式訪問 (英連邦加盟国への訪問は含まない) の一覧であ…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E9%88%B4%E9%B9%BF%E5%A4%A7%E5%AD%A6"
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AA%E3%82%B6%E3%83%99%E3%82%B92%E4%B8%96%E3%81%AB%E3%82%88%E3%82%8B%E5%9B%BD%E5%A4%96%E8%A8%AA%E5%95%8F%E3%81%AE%E4%B8%80%E8%A6%A7"
   },
   {
    "tag": "HN",
-   "title": "What Happened to Silicon Valley?",
-   "body": "210ポイント / コメント77件。",
+   "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+   "body": "271ポイント / コメント119件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50602947"
-  },
-  {
-   "tag": "WIKI",
-   "title": "吉田町 (新潟県)",
-   "body": "吉田町（よしだまち）は、新潟県西蒲原郡に存在した町。2006年3月20日、（旧）燕市、分水町と合併し燕市となり消滅した。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%90%89%E7%94%B0%E7%94%BA_(%E6%96%B0%E6%BD%9F%E7%9C%8C)"
-  },
-  {
-   "tag": "HN",
-   "title": "Show HN: Deflate X-Ray, See inside a compressed file",
-   "body": "13ポイント / コメント3件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50572389"
+   "url": "https://news.ycombinator.com/item?id=50603845"
   }
  ]
 }
