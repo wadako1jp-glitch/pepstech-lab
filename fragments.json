@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-11-24T19:59:14+09:00",
+ "generated_at": "2026-11-25T06:16:15+09:00",
  "items": [
   {
+   "tag": "WIKI",
+   "title": "マウンテンニアラ",
+   "body": "マウンテンニアラ は、ウシ科ブッシュバック属に分類される偶蹄類。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%A6%E3%83%B3%E3%83%86%E3%83%B3%E3%83%8B%E3%82%A2%E3%83%A9"
+  },
+  {
    "tag": "HN",
-   "title": "2035 Came Early",
-   "body": "277ポイント / コメント75件。",
+   "title": "How a Mechanical Watch Keeps Time (Interactive 3D)",
+   "body": "186ポイント / コメント50件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50624497"
+   "url": "https://news.ycombinator.com/item?id=50599458"
+  },
+  {
+   "tag": "WIKI",
+   "title": "渋谷城",
+   "body": "渋谷城（しぶやじょう）は、東京都渋谷区にあった日本の城（平山城）。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E6%B8%8B%E8%B0%B7%E5%9F%8E"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "雨。最高17.3℃ / 最低6.7℃。いまは12.9℃。",
+   "body": "薄曇り。最高13.2℃ / 最低6.5℃。いまは7.6℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "GPUI is getting its own repository",
-   "body": "273ポイント / コメント103件。",
+   "title": "The Spray Bottle",
+   "body": "254ポイント / コメント73件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50619103"
-  },
-  {
-   "tag": "WIKI",
-   "title": "文井駅",
-   "body": "文井駅（ムンジョンえき）は大韓民国ソウル特別市松坡区文井洞にある、ソウル交通公社8号線の駅である。駅番号は818。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%96%87%E4%BA%95%E9%A7%85"
-  },
-  {
-   "tag": "WIKI",
-   "title": "境町 (群馬県)",
-   "body": "境町（さかいまち）は、群馬県南東部、佐波郡にあった人口 約3万2千の町である。埼玉県との県境に位置する。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E5%A2%83%E7%94%BA_(%E7%BE%A4%E9%A6%AC%E7%9C%8C)"
+   "url": "https://news.ycombinator.com/item?id=50598555"
   },
   {
    "tag": "HN",
-   "title": "Modernizing iperf/iperf3 and introducing fireperf",
-   "body": "111ポイント / コメント8件。",
+   "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+   "body": "1ポイント / コメント0件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50604710"
+   "url": "https://news.ycombinator.com/item?id=50631041"
   }
  ]
 }
