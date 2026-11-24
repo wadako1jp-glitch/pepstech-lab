@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-11-24T09:56:16+09:00",
+ "generated_at": "2026-11-24T19:59:14+09:00",
  "items": [
   {
    "tag": "HN",
-   "title": "Apple removed my open-source app from EU App Stores after 9 years",
-   "body": "497ポイント / コメント107件。",
+   "title": "2035 Came Early",
+   "body": "277ポイント / コメント75件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50616933"
-  },
-  {
-   "tag": "HN",
-   "title": "GPUI is getting its own repository",
-   "body": "107ポイント / コメント25件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50619103"
-  },
-  {
-   "tag": "HN",
-   "title": "VP ≠ VNP over Every Field",
-   "body": "205ポイント / コメント173件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50620102"
-  },
-  {
-   "tag": "WIKI",
-   "title": "波田須駅",
-   "body": "波田須駅（はだすえき）は、三重県熊野市波田須町にある、東海旅客鉄道（JR東海）紀勢本線の駅である。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%B3%A2%E7%94%B0%E9%A0%88%E9%A7%85"
+   "url": "https://news.ycombinator.com/item?id=50624497"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "雨。最高17.7℃ / 最低6.7℃。いまは14.3℃。",
+   "body": "雨。最高17.3℃ / 最低6.7℃。いまは12.9℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
+   "tag": "HN",
+   "title": "GPUI is getting its own repository",
+   "body": "273ポイント / コメント103件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50619103"
+  },
+  {
    "tag": "WIKI",
-   "title": "群山大学校",
-   "body": "群山大学校 は、全羅北道群山市大学路558に本部を置く大韓民国の国立大学である。1979年に設置された。大学の略称はKSNU。",
+   "title": "文井駅",
+   "body": "文井駅（ムンジョンえき）は大韓民国ソウル特別市松坡区文井洞にある、ソウル交通公社8号線の駅である。駅番号は818。",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E7%BE%A4%E5%B1%B1%E5%A4%A7%E5%AD%A6%E6%A0%A1"
+   "url": "https://ja.wikipedia.org/wiki/%E6%96%87%E4%BA%95%E9%A7%85"
+  },
+  {
+   "tag": "WIKI",
+   "title": "境町 (群馬県)",
+   "body": "境町（さかいまち）は、群馬県南東部、佐波郡にあった人口 約3万2千の町である。埼玉県との県境に位置する。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E5%A2%83%E7%94%BA_(%E7%BE%A4%E9%A6%AC%E7%9C%8C)"
+  },
+  {
+   "tag": "HN",
+   "title": "Modernizing iperf/iperf3 and introducing fireperf",
+   "body": "111ポイント / コメント8件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50604710"
   }
  ]
 }
