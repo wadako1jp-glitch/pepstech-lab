@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-11-26T09:25:52+09:00",
+ "generated_at": "2026-11-26T18:34:54+09:00",
  "items": [
+  {
+   "tag": "HN",
+   "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
+   "body": "94ポイント / コメント14件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50651719"
+  },
+  {
+   "tag": "HN",
+   "title": "What VP ≠ VNP Means (In 3 Minutes)",
+   "body": "128ポイント / コメント38件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50626466"
+  },
+  {
+   "tag": "WIKI",
+   "title": "1824年アメリカ合衆国大統領選挙",
+   "body": "1824年アメリカ合衆国大統領選挙 は、1824年10月26日から12月2日にかけて行われたアメリカ合衆国大統領選挙（第10回）。最終的にアメリカ合衆国下院に持ち込まれ、1825年2…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/1824%E5%B9%B4%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD%E5%A4%A7%E7%B5%B1%E9%A0%98%E9%81%B8%E6%8C%99"
+  },
+  {
+   "tag": "HN",
+   "title": "The history of civilization is the history of wheat",
+   "body": "28ポイント / コメント7件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50634381"
+  },
+  {
+   "tag": "WIKI",
+   "title": "月見るい",
+   "body": "月見 るい は、日本のグラビアアイドル、タレント。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E6%9C%88%E8%A6%8B%E3%82%8B%E3%81%84"
+  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "曇り。最高14.6℃ / 最低4.3℃。いまは8.2℃。",
+   "body": "薄曇り。最高13.9℃ / 最低4.3℃。いまは11.4℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
-  },
-  {
-   "tag": "HN",
-   "title": "Much shorter version of GRH Lean verification from Anthropic",
-   "body": "216ポイント / コメント95件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50648050"
-  },
-  {
-   "tag": "HN",
-   "title": "The polynomial Hirsch conjecture is false [pdf]",
-   "body": "115ポイント / コメント29件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50644980"
-  },
-  {
-   "tag": "HN",
-   "title": "Defang Security Incident",
-   "body": "47ポイント / コメント17件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50648035"
-  },
-  {
-   "tag": "WIKI",
-   "title": "ハードロック・ホテル・アンド・カジノ (ラスベガス)",
-   "body": "ハードロック・ホテル&カジノ は、アメリカ合衆国ネバダ州パラダイスにあったリゾートホテルである。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%BC%E3%83%89%E3%83%AD%E3%83%83%E3%82%AF%E3%83%BB%E3%83%9B%E3%83%86%E3%83%AB%E3%83%BB%E3%82%A2%E3%83%B3%E3%83%89%E3%83%BB%E3%82%AB%E3%82%B8%E3%83%8E_(%E3%83%A9%E3%82%B9%E3%83%99%E3%82%AC%E3%82%B9)"
-  },
-  {
-   "tag": "WIKI",
-   "title": "瀬戸内町立俵中学校",
-   "body": "瀬戸内町立俵中学校 は、かつて鹿児島県大島郡瀬戸内町俵にあった町立中学校。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E7%80%AC%E6%88%B8%E5%86%85%E7%94%BA%E7%AB%8B%E4%BF%B5%E4%B8%AD%E5%AD%A6%E6%A0%A1"
   }
  ]
 }
