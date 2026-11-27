@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-11-27T11:52:56+09:00",
+ "generated_at": "2026-11-27T21:30:29+09:00",
  "items": [
   {
-   "tag": "WIKI",
-   "title": "マドラス原子力発電所",
-   "body": "マドラス原子力発電所 はインドのチェンナイの南80kmの位置にあるカルパッカムに存在する原子力発電所。原子力発電、燃料再処理、廃棄物処理などに加え高速増殖炉向けのプルトニウム燃料の製…",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%89%E3%83%A9%E3%82%B9%E5%8E%9F%E5%AD%90%E5%8A%9B%E7%99%BA%E9%9B%BB%E6%89%80"
+   "tag": "HN",
+   "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't S…",
+   "body": "349ポイント / コメント307件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50653477"
   },
   {
    "tag": "HN",
-   "title": "Hard Drive pricing has gotten bad",
-   "body": "38ポイント / コメント6件。",
+   "title": "An introduction to uncertainty in machine learning",
+   "body": "95ポイント / コメント5件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50661646"
-  },
-  {
-   "tag": "WIKI",
-   "title": "東京都第15区",
-   "body": "東京都第15区（とうきょうとだい15く）は、日本の衆議院議員総選挙における選挙区。1994年（平成6年）の公職選挙法改正で設置。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%AC%AC15%E5%8C%BA"
+   "url": "https://news.ycombinator.com/item?id=50658498"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "霧雨。最高16.1℃ / 最低6.3℃。いまは15.0℃。",
+   "body": "曇り。最高16.3℃ / 最低6.3℃。いまは11.5℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "HN",
-   "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now …",
-   "body": "1995ポイント / コメント1819件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50646108"
+   "tag": "WIKI",
+   "title": "久留米市立久留米商業高等学校",
+   "body": "久留米市立久留米商業高等学校（くるめしりつくるめしょうぎょうこうとうがっこう）は、福岡県久留米市南一丁目にある公立高等学校。略称は「久商」（きゅうしょう）。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E4%B9%85%E7%95%99%E7%B1%B3%E5%B8%82%E7%AB%8B%E4%B9%85%E7%95%99%E7%B1%B3%E5%95%86%E6%A5%AD%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1"
+  },
+  {
+   "tag": "WIKI",
+   "title": "深川市民球場",
+   "body": "深川市民球場（ふかがわしみんきゅうじょう）は、北海道深川市の深川市総合運動公園にある野球場。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E6%B7%B1%E5%B7%9D%E5%B8%82%E6%B0%91%E7%90%83%E5%A0%B4"
   },
   {
    "tag": "HN",
-   "title": "OpenAI may be in cost control mode",
-   "body": "284ポイント / コメント285件。",
+   "title": "Largest 2D Chart library in the world using BUI: BlenderUI",
+   "body": "118ポイント / コメント34件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50652527"
+   "url": "https://news.ycombinator.com/item?id=50658193"
   }
  ]
 }
