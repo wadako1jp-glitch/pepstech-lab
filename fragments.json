@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-11-27T21:30:29+09:00",
+ "generated_at": "2026-11-28T07:00:12+09:00",
  "items": [
   {
    "tag": "HN",
-   "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't S…",
-   "body": "349ポイント / コメント307件。",
+   "title": "Making a 3D fantasy map like a 16th-Century atlas",
+   "body": "81ポイント / コメント9件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50653477"
-  },
-  {
-   "tag": "HN",
-   "title": "An introduction to uncertainty in machine learning",
-   "body": "95ポイント / コメント5件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50658498"
+   "url": "https://news.ycombinator.com/item?id=50667062"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "曇り。最高16.3℃ / 最低6.3℃。いまは11.5℃。",
+   "body": "雨。最高19.8℃ / 最低8.3℃。いまは8.5℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
-   "tag": "WIKI",
-   "title": "久留米市立久留米商業高等学校",
-   "body": "久留米市立久留米商業高等学校（くるめしりつくるめしょうぎょうこうとうがっこう）は、福岡県久留米市南一丁目にある公立高等学校。略称は「久商」（きゅうしょう）。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E4%B9%85%E7%95%99%E7%B1%B3%E5%B8%82%E7%AB%8B%E4%B9%85%E7%95%99%E7%B1%B3%E5%95%86%E6%A5%AD%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1"
-  },
-  {
-   "tag": "WIKI",
-   "title": "深川市民球場",
-   "body": "深川市民球場（ふかがわしみんきゅうじょう）は、北海道深川市の深川市総合運動公園にある野球場。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E6%B7%B1%E5%B7%9D%E5%B8%82%E6%B0%91%E7%90%83%E5%A0%B4"
+   "tag": "HN",
+   "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+   "body": "529ポイント / コメント637件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50657530"
   },
   {
    "tag": "HN",
-   "title": "Largest 2D Chart library in the world using BUI: BlenderUI",
-   "body": "118ポイント / コメント34件。",
+   "title": "AI made self-hosting fun again",
+   "body": "1061ポイント / コメント497件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50658193"
+   "url": "https://news.ycombinator.com/item?id=50660180"
+  },
+  {
+   "tag": "WIKI",
+   "title": "第十三号型掃海艇",
+   "body": "第十三号型掃海艇（だいじゅうさんごうがたそうかいてい）は日本海軍の掃海艇。同型艇4隻。海軍省が定めた艦艇類別等級別表では、第十三号から第十八号までの6隻を「第十三号型」としている。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E7%AC%AC%E5%8D%81%E4%B8%89%E5%8F%B7%E5%9E%8B%E6%8E%83%E6%B5%B7%E8%89%87"
+  },
+  {
+   "tag": "WIKI",
+   "title": "純粋持続",
+   "body": "純粋持続 は、アンリ・ベルクソンの哲学における基本概念の一つである。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E7%B4%94%E7%B2%8B%E6%8C%81%E7%B6%9A"
   }
  ]
 }
