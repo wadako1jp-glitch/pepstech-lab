@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-11-28T12:55:51+09:00",
+ "generated_at": "2026-11-28T22:05:00+09:00",
  "items": [
-  {
-   "tag": "WIKI",
-   "title": "オレグ・ロマンツェフ",
-   "body": "オレグ・ロマンツェフ は、ロシア出身のサッカー選手、サッカー指導者。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%AC%E3%82%B0%E3%83%BB%E3%83%AD%E3%83%9E%E3%83%B3%E3%83%84%E3%82%A7%E3%83%95"
-  },
-  {
-   "tag": "HN",
-   "title": "Atari Homebrew Awards Cancelled",
-   "body": "109ポイント / コメント86件。",
-   "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50673688"
-  },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "雨。最高18.6℃ / 最低7.6℃。いまは14.2℃。",
+   "body": "雨。最高18.0℃ / 最低7.4℃。いまは15.0℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "Michael Nielsen took down his book on neural nets",
-   "body": "431ポイント / コメント269件。",
+   "title": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Vict…",
+   "body": "14ポイント / コメント5件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50670757"
+   "url": "https://news.ycombinator.com/item?id=50676752"
   },
   {
    "tag": "WIKI",
-   "title": "アペニン山脈",
-   "body": "アペニン山脈（アペニンさんみゃく）とは、イタリア半島を縦貫する脊梁山脈である。片仮名転記では、イタリア語風にアッペンニーニ と表記されたり、英語風にアペナイン と表記される場合も有る…",
+   "title": "A・J・ブラウン",
+   "body": "アーサー・ジュアン・ブラウン は、アメリカ合衆国ミシシッピ州スタークビル出身のプロアメリカンフットボール選手。NFLのニューイングランド・ペイトリオッツに所属している。ポジションはワ…",
    "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9A%E3%83%8B%E3%83%B3%E5%B1%B1%E8%84%88"
+   "url": "https://ja.wikipedia.org/wiki/A%E3%83%BBJ%E3%83%BB%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3"
+  },
+  {
+   "tag": "WIKI",
+   "title": "泣きたい私は猫をかぶる",
+   "body": "『泣きたい私は猫をかぶる』（なきたいわたしはねこをかぶる）は、スタジオコロリド制作による日本の長編アニメーション映画。2020年6月18日16時よりNetflixにて全世界独占配信さ…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E6%B3%A3%E3%81%8D%E3%81%9F%E3%81%84%E7%A7%81%E3%81%AF%E7%8C%AB%E3%82%92%E3%81%8B%E3%81%B6%E3%82%8B"
   },
   {
    "tag": "HN",
-   "title": "Build your own amp modeler: $78 DIY pedal kit from TONE3000",
-   "body": "56ポイント / コメント16件。",
+   "title": "Citroën Hydraulic System",
+   "body": "219ポイント / コメント71件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50631823"
+   "url": "https://news.ycombinator.com/item?id=50662313"
+  },
+  {
+   "tag": "HN",
+   "title": "Swapping Jolt's sorted collections to a B+tree",
+   "body": "6ポイント / コメント1件。",
+   "src": "news.ycombinator.com",
+   "url": "https://news.ycombinator.com/item?id=50628391"
   }
  ]
 }
