@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-11-28T07:00:12+09:00",
+ "generated_at": "2026-11-28T12:55:51+09:00",
  "items": [
   {
+   "tag": "WIKI",
+   "title": "オレグ・ロマンツェフ",
+   "body": "オレグ・ロマンツェフ は、ロシア出身のサッカー選手、サッカー指導者。",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%AC%E3%82%B0%E3%83%BB%E3%83%AD%E3%83%9E%E3%83%B3%E3%83%84%E3%82%A7%E3%83%95"
+  },
+  {
    "tag": "HN",
-   "title": "Making a 3D fantasy map like a 16th-Century atlas",
-   "body": "81ポイント / コメント9件。",
+   "title": "Atari Homebrew Awards Cancelled",
+   "body": "109ポイント / コメント86件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50667062"
+   "url": "https://news.ycombinator.com/item?id=50673688"
   },
   {
    "tag": "天気",
    "title": "東京 きょう",
-   "body": "雨。最高19.8℃ / 最低8.3℃。いまは8.5℃。",
+   "body": "雨。最高18.6℃ / 最低7.6℃。いまは14.2℃。",
    "src": "open-meteo.com",
    "url": "https://open-meteo.com/"
   },
   {
    "tag": "HN",
-   "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
-   "body": "529ポイント / コメント637件。",
+   "title": "Michael Nielsen took down his book on neural nets",
+   "body": "431ポイント / コメント269件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50657530"
+   "url": "https://news.ycombinator.com/item?id=50670757"
+  },
+  {
+   "tag": "WIKI",
+   "title": "アペニン山脈",
+   "body": "アペニン山脈（アペニンさんみゃく）とは、イタリア半島を縦貫する脊梁山脈である。片仮名転記では、イタリア語風にアッペンニーニ と表記されたり、英語風にアペナイン と表記される場合も有る…",
+   "src": "ja.wikipedia.org",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9A%E3%83%8B%E3%83%B3%E5%B1%B1%E8%84%88"
   },
   {
    "tag": "HN",
-   "title": "AI made self-hosting fun again",
-   "body": "1061ポイント / コメント497件。",
+   "title": "Build your own amp modeler: $78 DIY pedal kit from TONE3000",
+   "body": "56ポイント / コメント16件。",
    "src": "news.ycombinator.com",
-   "url": "https://news.ycombinator.com/item?id=50660180"
-  },
-  {
-   "tag": "WIKI",
-   "title": "第十三号型掃海艇",
-   "body": "第十三号型掃海艇（だいじゅうさんごうがたそうかいてい）は日本海軍の掃海艇。同型艇4隻。海軍省が定めた艦艇類別等級別表では、第十三号から第十八号までの6隻を「第十三号型」としている。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E7%AC%AC%E5%8D%81%E4%B8%89%E5%8F%B7%E5%9E%8B%E6%8E%83%E6%B5%B7%E8%89%87"
-  },
-  {
-   "tag": "WIKI",
-   "title": "純粋持続",
-   "body": "純粋持続 は、アンリ・ベルクソンの哲学における基本概念の一つである。",
-   "src": "ja.wikipedia.org",
-   "url": "https://ja.wikipedia.org/wiki/%E7%B4%94%E7%B2%8B%E6%8C%81%E7%B6%9A"
+   "url": "https://news.ycombinator.com/item?id=50631823"
   }
  ]
 }
